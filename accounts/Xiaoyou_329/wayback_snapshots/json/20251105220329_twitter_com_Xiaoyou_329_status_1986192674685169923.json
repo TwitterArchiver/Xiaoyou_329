@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1986191946696843591",
+    "created_at": "2025-11-05T22:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T23:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986192674685169923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1396728178849107970",
+          "start": 0,
+          "username": "heedongggg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986192674685169923",
+    "in_reply_to_user_id": "1396728178849107970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986191946696843591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heedongggg 活动啥时候开始"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1986191946696843591",
+        "created_at": "2025-11-05T22:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T23:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986192674685169923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1396728178849107970",
+              "start": 0,
+              "username": "heedongggg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986192674685169923",
+        "in_reply_to_user_id": "1396728178849107970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986191946696843591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heedongggg 活动啥时候开始"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396728178849107970",
+        "conversation_id": "1986191946696843591",
+        "created_at": "2025-11-05T22:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T23:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986191946696843591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986191946696843591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将私信语音条 大家帮我听听我是什么音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1985354277674479915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4958,
+          "following_count": 146,
+          "like_count": 3832,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 3326
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-24T07:22:08.000Z",
+        "description": "男🚢测评第一人",
+        "id": "1396728178849107970",
+        "name": "东河",
+        "pinned_tweet_id": "1939594453045440945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946137231799832576/5pG6UFtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91393,
+          "following_count": 273,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 3403
+        },
+        "username": "heedongggg",
+        "verified": true
+      }
+    ]
+  }
+}

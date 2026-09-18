@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961431085365010433"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961427796989022582",
+    "created_at": "2025-08-29T14:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T15:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961431093694943523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1925181621919174657",
+          "start": 0,
+          "username": "nls15872888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rKfpHnzoSx",
+          "end": 60,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1961431093694943523/photo/1",
+          "media_key": "3_1961431085365010433",
+          "start": 37,
+          "url": "https://t.co/rKfpHnzoSx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961431093694943523",
+    "in_reply_to_user_id": "1925181621919174657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961427796989022582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nls15872888 这才是我七夕该看的！牛老师七夕快乐！我喜欢你！ https://t.co/rKfpHnzoSx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_1961431085365010433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhnLhaXIAErv_t.jpg",
+        "width": 1097
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1961427785274331139",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhkLbnbkAMMLPO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961431085365010433"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961427796989022582",
+        "created_at": "2025-08-29T14:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T15:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961431093694943523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1925181621919174657",
+              "start": 0,
+              "username": "nls15872888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKfpHnzoSx",
+              "end": 60,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1961431093694943523/photo/1",
+              "media_key": "3_1961431085365010433",
+              "start": 37,
+              "url": "https://t.co/rKfpHnzoSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961431093694943523",
+        "in_reply_to_user_id": "1925181621919174657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961427796989022582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nls15872888 这才是我七夕该看的！牛老师七夕快乐！我喜欢你！ https://t.co/rKfpHnzoSx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961427785274331139"
+          ]
+        },
+        "author_id": "1925181621919174657",
+        "conversation_id": "1961427796989022582",
+        "created_at": "2025-08-29T13:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T14:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961427796989022582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BIUmbm55vv",
+              "end": 30,
+              "expanded_url": "https://x.com/nls15872888/status/1961427796989022582/photo/1",
+              "media_key": "3_1961427785274331139",
+              "start": 7,
+              "url": "https://t.co/BIUmbm55vv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961427796989022582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看need https://t.co/BIUmbm55vv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 92,
+          "like_count": 798,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 775
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T13:27:38.000Z",
+        "description": "我既不姓牛也不属牛。淡推了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/satoru10611",
+                "end": 23,
+                "expanded_url": "https://ngl.link/satoru10611",
+                "start": 0,
+                "url": "https://t.co/azlIbvfAoO"
+              }
+            ]
+          }
+        },
+        "id": "1925181621919174657",
+        "location": "대한민국 부산광역시",
+        "name": "牛老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941853483403026432/M4P0xqEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13646,
+          "following_count": 698,
+          "like_count": 22101,
+          "listed_count": 25,
+          "media_count": 61,
+          "tweet_count": 5227
+        },
+        "url": "https://t.co/azlIbvfAoO",
+        "username": "nls15872888",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1966941925128499465",
+    "created_at": "2025-09-13T19:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T20:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966942459738681736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1457484727024189446",
+          "start": 0,
+          "username": "Qiusng829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966942459738681736",
+    "in_reply_to_user_id": "1457484727024189446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966941925128499465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiusng829 我一直在笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1966941925128499465",
+        "created_at": "2025-09-13T19:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T20:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966942459738681736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1457484727024189446",
+              "start": 0,
+              "username": "Qiusng829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966942459738681736",
+        "in_reply_to_user_id": "1457484727024189446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966941925128499465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiusng829 我一直在笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457484727024189446",
+        "conversation_id": "1966941925128499465",
+        "created_at": "2025-09-13T19:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T20:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966941925128499465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/givemeqian888/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/givemeqian888/status/1966930365135958068",
+              "start": 13,
+              "url": "https://t.co/fjWKubcbHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966941925128499465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966930365135958068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "balabala首次下海 https://t.co/fjWKubcbHt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 105,
+          "like_count": 1409,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1701
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T23:07:00.000Z",
+        "description": "记录自己活过的证据 欢迎私信",
+        "id": "1457484727024189446",
+        "location": "距离你200米",
+        "name": "是秋生欸（开学淡推版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880103556184776704/cac9eiOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 100,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 570,
+          "tweet_count": 3580
+        },
+        "username": "Qiusng829",
+        "verified": false
+      }
+    ]
+  }
+}

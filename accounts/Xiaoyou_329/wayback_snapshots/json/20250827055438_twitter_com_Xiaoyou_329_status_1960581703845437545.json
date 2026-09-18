@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960581179725504860",
+    "created_at": "2025-08-27T05:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T06:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960581703845437545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946927130501120000",
+          "start": 0,
+          "username": "Xiaowu__111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960581703845437545",
+    "in_reply_to_user_id": "1946927130501120000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960581179725504860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaowu__111 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960581179725504860",
+        "created_at": "2025-08-27T05:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960581703845437545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946927130501120000",
+              "start": 0,
+              "username": "Xiaowu__111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960581703845437545",
+        "in_reply_to_user_id": "1946927130501120000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960581179725504860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaowu__111 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946927130501120000",
+        "conversation_id": "1960581179725504860",
+        "created_at": "2025-08-27T05:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960581179725504860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "小五’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1MYxN…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1MYxNlbkvBoGw",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1960581181088673792/uokQus1F?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1960581181088673792/uokQus1F?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 我怎么就睡不醒",
+              "unwound_url": "https://twitter.com/i/spaces/1MYxNlbkvBoGw/peek",
+              "url": "https://t.co/4o4I2iDmBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960581179725504860",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4o4I2iDmBE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 84,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 651
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T13:36:32.000Z",
+        "description": "选择性接陪🥣 一个普通人 新人男喘 暂时无🚪不加V",
+        "id": "1946927130501120000",
+        "name": "小五",
+        "pinned_tweet_id": "1958088303447843073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948800124420775936/KiLLLXii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4106,
+          "following_count": 36,
+          "like_count": 308,
+          "listed_count": 5,
+          "media_count": 47,
+          "tweet_count": 241
+        },
+        "username": "Xiaowu__111",
+        "verified": false
+      }
+    ]
+  }
+}

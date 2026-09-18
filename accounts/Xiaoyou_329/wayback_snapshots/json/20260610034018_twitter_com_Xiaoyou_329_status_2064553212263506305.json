@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2064423159823290666",
+    "created_at": "2026-06-10T03:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064553212263506305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782044411289092096",
+          "start": 0,
+          "username": "SBo293546671690"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064553212263506305",
+    "in_reply_to_user_id": "1782044411289092096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064544656718004481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SBo293546671690 这波是小由运气有点不好啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2064423159823290666",
+        "created_at": "2026-06-10T03:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064553212263506305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782044411289092096",
+              "start": 0,
+              "username": "SBo293546671690"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064553212263506305",
+        "in_reply_to_user_id": "1782044411289092096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064544656718004481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SBo293546671690 这波是小由运气有点不好啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782044411289092096",
+        "conversation_id": "2064423159823290666",
+        "created_at": "2026-06-10T03:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064544656718004481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064544656718004481",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064423159823290666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 不是呀兄弟，这波对面运气有点好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15426,
+          "following_count": 177,
+          "like_count": 7611,
+          "listed_count": 20,
+          "media_count": 795,
+          "tweet_count": 6668
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T13:51:34.000Z",
+        "description": "",
+        "id": "1782044411289092096",
+        "name": "京毛尸王侏儒坦克人江蛤蟆拉萨虎维尼熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782046437662134272/Iy7tghtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 54,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 45
+        },
+        "username": "SBo293546671690",
+        "verified": false
+      }
+    ]
+  }
+}

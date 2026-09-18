@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1983512993519284697",
+    "created_at": "2025-10-29T13:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983521264607396127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576574810628378626",
+          "start": 0,
+          "username": "rxm18376654161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983521264607396127",
+    "in_reply_to_user_id": "1576574810628378626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983515800867631213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rxm18376654161 就是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1983512993519284697",
+        "created_at": "2025-10-29T13:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983521264607396127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576574810628378626",
+              "start": 0,
+              "username": "rxm18376654161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983521264607396127",
+        "in_reply_to_user_id": "1576574810628378626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983515800867631213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rxm18376654161 就是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576574810628378626",
+        "conversation_id": "1983512993519284697",
+        "created_at": "2025-10-29T12:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983515800867631213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983515800867631213",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983512993519284697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 真的很羡慕能够哭出来的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4670,
+          "following_count": 140,
+          "like_count": 3491,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 3155
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T14:08:34.000Z",
+        "description": "直的，🈚️🚪，当然你要给我钱我也可以给你看我最近的照片，爱画点小画和健身",
+        "id": "1576574810628378626",
+        "location": "人间",
+        "name": "鸭鸭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983500281381060608/kk0-sSlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 175,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 59
+        },
+        "username": "rxm18376654161",
+        "verified": false
+      }
+    ]
+  }
+}

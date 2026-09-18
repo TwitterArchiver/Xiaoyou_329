@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2062490915625914664",
+    "created_at": "2026-06-04T15:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062557956777071063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796952906517590016",
+          "start": 0,
+          "username": "sxl3417208228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062557956777071063",
+    "in_reply_to_user_id": "1796952906517590016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062556162659131843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxl3417208228 我操。和我打电话就没有不问我能不能卡泡的。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2062490915625914664",
+        "created_at": "2026-06-04T15:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062557956777071063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796952906517590016",
+              "start": 0,
+              "username": "sxl3417208228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062557956777071063",
+        "in_reply_to_user_id": "1796952906517590016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062556162659131843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxl3417208228 我操。和我打电话就没有不问我能不能卡泡的。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796952906517590016",
+        "conversation_id": "2062490915625914664",
+        "created_at": "2026-06-04T15:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062556162659131843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062556162659131843",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062523644660863401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 男的听了不硬是阳痿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15432,
+          "following_count": 176,
+          "like_count": 7587,
+          "listed_count": 20,
+          "media_count": 877,
+          "tweet_count": 6773
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T17:12:39.000Z",
+        "description": "。",
+        "id": "1796952906517590016",
+        "name": "res.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058357106638520320/KisBqvWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 417,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 387
+        },
+        "username": "sxl3417208228",
+        "verified": false
+      }
+    ]
+  }
+}

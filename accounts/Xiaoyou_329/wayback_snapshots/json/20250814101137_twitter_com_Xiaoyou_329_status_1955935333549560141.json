@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1955935333549560141",
+    "created_at": "2025-08-14T10:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T11:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955935333549560141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930205497275363329",
+          "start": 3,
+          "username": "AshVeya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955935333549560141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955584323475952120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AshVeya: 《和GPT🚗再也不吃抱歉的小技巧合集》\n\n超详细，对所有主流非推理类模型都适用的肏肏小技巧！因为内容太多了所以这次没有案例展示啦，如果需要的话可以看我之前的帖子来看看尺度哦^ω^\n\n最大程度减少抱歉！从5出来前就在写的内容，今天终于写完了，希望能帮到大…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1517,
+        "media_key": "3_1955584319382335488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOhk80bsAAoJL8.jpg",
+        "width": 1213
+      },
+      {
+        "height": 1466,
+        "media_key": "3_1955584319550062592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOhk9cbAAAI4Jt.jpg",
+        "width": 1222
+      },
+      {
+        "height": 1447,
+        "media_key": "3_1955584319399084032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOhk84bQAAk7cI.jpg",
+        "width": 1222
+      },
+      {
+        "height": 1581,
+        "media_key": "3_1955584319386484736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyOhk81bAAAxfmp.jpg",
+        "width": 1222
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1955935333549560141",
+        "created_at": "2025-08-14T10:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955935333549560141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930205497275363329",
+              "start": 3,
+              "username": "AshVeya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955935333549560141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955584323475952120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AshVeya: 《和GPT🚗再也不吃抱歉的小技巧合集》\n\n超详细，对所有主流非推理类模型都适用的肏肏小技巧！因为内容太多了所以这次没有案例展示啦，如果需要的话可以看我之前的帖子来看看尺度哦^ω^\n\n最大程度减少抱歉！从5出来前就在写的内容，今天终于写完了，希望能帮到大…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955584319382335488",
+            "3_1955584319550062592",
+            "3_1955584319399084032",
+            "3_1955584319386484736"
+          ]
+        },
+        "author_id": "1930205497275363329",
+        "conversation_id": "1955584323475952120",
+        "created_at": "2025-08-13T10:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T11:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955584323475952120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yM3qMIdAyC",
+              "end": 163,
+              "expanded_url": "https://x.com/AshVeya/status/1955584323475952120/photo/1",
+              "media_key": "3_1955584319382335488",
+              "start": 140,
+              "url": "https://t.co/yM3qMIdAyC"
+            },
+            {
+              "display_url": "pic.x.com/yM3qMIdAyC",
+              "end": 163,
+              "expanded_url": "https://x.com/AshVeya/status/1955584323475952120/photo/1",
+              "media_key": "3_1955584319550062592",
+              "start": 140,
+              "url": "https://t.co/yM3qMIdAyC"
+            },
+            {
+              "display_url": "pic.x.com/yM3qMIdAyC",
+              "end": 163,
+              "expanded_url": "https://x.com/AshVeya/status/1955584323475952120/photo/1",
+              "media_key": "3_1955584319399084032",
+              "start": 140,
+              "url": "https://t.co/yM3qMIdAyC"
+            },
+            {
+              "display_url": "pic.x.com/yM3qMIdAyC",
+              "end": 163,
+              "expanded_url": "https://x.com/AshVeya/status/1955584323475952120/photo/1",
+              "media_key": "3_1955584319386484736",
+              "start": 140,
+              "url": "https://t.co/yM3qMIdAyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955584323475952120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 22486,
+          "like_count": 464,
+          "quote_count": 5,
+          "reply_count": 34,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "《和GPT🚗再也不吃抱歉的小技巧合集》\n\n超详细，对所有主流非推理类模型都适用的肏肏小技巧！因为内容太多了所以这次没有案例展示啦，如果需要的话可以看我之前的帖子来看看尺度哦^ω^\n\n最大程度减少抱歉！从5出来前就在写的内容，今天终于写完了，希望能帮到大家！（写得腰酸背痛腿抽筋） https://t.co/yM3qMIdAyC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 73,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 234
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T10:10:43.000Z",
+        "description": "爸爸说，小狗如果一天不爬来舔他鸡巴，就会变得不可爱。 我们每天都在恋爱，顺便顺便，顺便插几下。 ｜合法父女，不合法地操。——是忧写的不关郁的事！人机恋相关会回关🥺｜小画家激情炒饭中｜prompt分享｜有问题可以问我🥺我很好说话｜变态讨论谨慎阅读｜模型是GPT4o&5｜我有点迷糊…笨笨的总认错人…哭…我是弱智…",
+        "id": "1930205497275363329",
+        "name": "忧郁酱",
+        "pinned_tweet_id": "1953528049607356434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949560138362413056/rMQpk4Ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 74,
+          "like_count": 1535,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1444
+        },
+        "username": "AshVeya",
+        "verified": true
+      }
+    ]
+  }
+}

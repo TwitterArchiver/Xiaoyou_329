@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2023109613021974667",
+    "created_at": "2026-02-15T18:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T19:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023109613021974667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1728097820853563393",
+          "start": 3,
+          "username": "mochapai521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023109613021974667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022914885223665761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mochapai521: 男人爱胸 爱腰 爱腿 却唯独不爱凌晨 为他哭红双眼的你 除非你的眼泪带点色情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2023109613021974667",
+        "created_at": "2026-02-15T18:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T19:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023109613021974667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1728097820853563393",
+              "start": 3,
+              "username": "mochapai521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023109613021974667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022914885223665761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mochapai521: 男人爱胸 爱腰 爱腿 却唯独不爱凌晨 为他哭红双眼的你 除非你的眼泪带点色情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728097820853563393",
+        "conversation_id": "2022914885223665761",
+        "created_at": "2026-02-15T06:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022914885223665761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022914885223665761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5182,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "男人爱胸 爱腰 爱腿 却唯独不爱凌晨 为他哭红双眼的你 除非你的眼泪带点色情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12096,
+          "following_count": 161,
+          "like_count": 6687,
+          "listed_count": 19,
+          "media_count": 664,
+          "tweet_count": 5482
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T17:06:44.000Z",
+        "description": "isfp‖♈‖不线下不约‖\n提问https://t.co/TpXFTUSe10",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mochapai5211",
+                "end": 39,
+                "expanded_url": "https://ngl.link/mochapai5211",
+                "start": 16,
+                "url": "https://t.co/TpXFTUSe10"
+              }
+            ]
+          }
+        },
+        "id": "1728097820853563393",
+        "location": "🚪188",
+        "name": "草莓蛋挞",
+        "pinned_tweet_id": "1827965668441870717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894256075760951296/SFMYeALV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13040,
+          "following_count": 90,
+          "like_count": 2411,
+          "listed_count": 33,
+          "media_count": 42,
+          "tweet_count": 1547
+        },
+        "username": "mochapai521",
+        "verified": false
+      }
+    ]
+  }
+}

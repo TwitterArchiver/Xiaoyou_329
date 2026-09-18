@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1993613334285816101",
+    "created_at": "2025-11-26T10:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993633489661341862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1713033531121860608",
+          "start": 0,
+          "username": "bikyjts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993633489661341862",
+    "in_reply_to_user_id": "1713033531121860608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993624050644684907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bikyjts 喜欢你！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1993613334285816101",
+        "created_at": "2025-11-26T10:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993633489661341862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1713033531121860608",
+              "start": 0,
+              "username": "bikyjts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993633489661341862",
+        "in_reply_to_user_id": "1713033531121860608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993624050644684907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bikyjts 喜欢你！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713033531121860608",
+        "conversation_id": "1993613334285816101",
+        "created_at": "2025-11-26T10:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993624050644684907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993624050644684907",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993613334285816101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 为什么没有人喜欢我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7184,
+          "following_count": 154,
+          "like_count": 5127,
+          "listed_count": 4,
+          "media_count": 525,
+          "tweet_count": 4199
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T03:26:44.000Z",
+        "description": "(´⦁̥̥̥̥̥̥̥̥ω⦁̥̥̥̥̥̥̥̥｀)👈🏻我一直在哭",
+        "id": "1713033531121860608",
+        "name": "我不受欢迎怎么想都是这个世界的错",
+        "pinned_tweet_id": "1832119210778226802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915692419414450179/LD-UetOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3829,
+          "following_count": 5,
+          "like_count": 12376,
+          "listed_count": 23,
+          "media_count": 61,
+          "tweet_count": 489
+        },
+        "username": "bikyjts",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1958905793316888895",
+    "created_at": "2025-08-22T15:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T16:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958909005319086210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612854174714302466",
+          "start": 0,
+          "username": "gu87734192"
+        },
+        {
+          "end": 22,
+          "id": "1784887323211280384",
+          "start": 12,
+          "username": "ljng15760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958909005319086210",
+    "in_reply_to_user_id": "1612854174714302466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958905793316888895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu87734192 @ljng15760 小念的声音全网无代餐…太爽了…许愿下次是超长本好不好……不要在凑时长了我一直在哭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 601300,
+        "height": 1134,
+        "media_key": "13_1958905601712693250",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958905601712693250/img/GImA40I-fXWzjWf2.jpg",
+        "public_metrics": {
+          "view_count": 52
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958905601712693250/vid/avc1/320x504/tK1zqdv4g8JP8IVM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958905601712693250/vid/avc1/480x756/0l2LIIRJpvVWot2_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958905601712693250/vid/avc1/720x1134/VZiVZkkanBXH-B0y.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958905601712693250/pl/1e-iXiAYnfPOeMGf.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1958905793316888895",
+        "created_at": "2025-08-22T15:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T16:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958909005319086210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612854174714302466",
+              "start": 0,
+              "username": "gu87734192"
+            },
+            {
+              "end": 22,
+              "id": "1784887323211280384",
+              "start": 12,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958909005319086210",
+        "in_reply_to_user_id": "1612854174714302466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958905793316888895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu87734192 @ljng15760 小念的声音全网无代餐…太爽了…许愿下次是超长本好不好……不要在凑时长了我一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1958905601712693250"
+          ]
+        },
+        "author_id": "1612854174714302466",
+        "conversation_id": "1958905793316888895",
+        "created_at": "2025-08-22T14:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958905793316888895"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "男喘"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "男m"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "小狗"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "女性向"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "姐弟恋"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "姐狗"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1784887323211280384",
+              "start": 5,
+              "username": "ljng15760"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BREho8ZZu3",
+              "end": 100,
+              "expanded_url": "https://x.com/gu87734192/status/1958905793316888895/video/1",
+              "media_key": "13_1958905601712693250",
+              "start": 77,
+              "url": "https://t.co/BREho8ZZu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958905793316888895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 176,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "台本老师 @ljng15760 \n服务型的小狗，姐姐喜欢吗？\n（后面留白是为了凑10分钟发长视频哈）\n＃男喘 ＃男m ＃小狗 ＃女性向 ＃姐弟恋 ＃姐狗 https://t.co/BREho8ZZu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 72,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 524
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:49:50.000Z",
+        "description": "接定制 加v有🚪66\n接陪🥣\n抖音 21943386284\n匿名箱:  https://t.co/feCyxvpgDl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gu8773419221",
+                "end": 59,
+                "expanded_url": "https://ngl.link/gu8773419221",
+                "start": 36,
+                "url": "https://t.co/feCyxvpgDl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gu87734192.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://gu87734192.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/HjWcbeecYw"
+              }
+            ]
+          }
+        },
+        "id": "1612854174714302466",
+        "location": "河南",
+        "name": "念",
+        "pinned_tweet_id": "1878996127103803653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766545216583196672/aC28okYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21339,
+          "following_count": 46,
+          "like_count": 1091,
+          "listed_count": 35,
+          "media_count": 175,
+          "tweet_count": 1495
+        },
+        "url": "https://t.co/HjWcbeecYw",
+        "username": "gu87734192",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "所有台本及短打都需要私信找我要授权，拿到授权再录/发布请圈@我一下 /自用🪜 https://t.co/9PJ5FnV3Eg不接置顶～定制台本60千字、商用3倍、台本加急OR不公开千字多20⭐️（暂时不接新的了）/搬运、抄袭替我挡灾（部分短打不上菜）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.达蒙.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://a.xn--hv1a41u.com/#/register?code=NsOxJjaN",
+                "start": 39,
+                "url": "https://t.co/9PJ5FnV3Eg"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "爱是陪伴",
+        "name": "星星⭐️🫧",
+        "pinned_tweet_id": "1896054832747921456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956030588256968707/1wjKy8Hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63982,
+          "following_count": 273,
+          "like_count": 10062,
+          "listed_count": 65,
+          "media_count": 576,
+          "tweet_count": 7990
+        },
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

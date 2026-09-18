@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2027032688306028829",
+    "created_at": "2026-02-26T17:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T18:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027067271626031459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582289665524396032",
+          "start": 0,
+          "username": "Luk85129You"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027067271626031459",
+    "in_reply_to_user_id": "1582289665524396032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027052193707348042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luk85129You 😭？我的心好痛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2027032688306028829",
+        "created_at": "2026-02-26T17:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027067271626031459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582289665524396032",
+              "start": 0,
+              "username": "Luk85129You"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027067271626031459",
+        "in_reply_to_user_id": "1582289665524396032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027052193707348042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luk85129You 😭？我的心好痛。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582289665524396032",
+        "conversation_id": "2027032688306028829",
+        "created_at": "2026-02-26T16:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027052193707348042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027052193707348042",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027032688306028829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12623,
+          "following_count": 161,
+          "like_count": 6793,
+          "listed_count": 19,
+          "media_count": 695,
+          "tweet_count": 5608
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-18T08:37:22.000Z",
+        "description": "04｜mlys🇲🇾｜S｜您伟大的电子男友｜24小时高强度冲浪｜成分复杂",
+        "id": "1582289665524396032",
+        "name": "7s",
+        "pinned_tweet_id": "2026491366214349220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026506266865184771/szKfXahB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 32,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 235
+        },
+        "username": "Luk85129You",
+        "verified": false
+      }
+    ]
+  }
+}

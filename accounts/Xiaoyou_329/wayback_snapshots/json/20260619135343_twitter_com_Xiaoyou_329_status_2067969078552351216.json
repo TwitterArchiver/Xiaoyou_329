@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2067969078552351216",
+    "created_at": "2026-06-19T13:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067969078552351216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682778677912965121",
+          "start": 3,
+          "username": "iluvTvT_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067969078552351216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067617619486872049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iluvTvT_7: 带着和我聊天的时候学到的口癖去和别人聊天的都死绝了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2067969078552351216",
+        "created_at": "2026-06-19T13:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067969078552351216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682778677912965121",
+              "start": 3,
+              "username": "iluvTvT_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067969078552351216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067617619486872049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iluvTvT_7: 带着和我聊天的时候学到的口癖去和别人聊天的都死绝了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682778677912965121",
+        "conversation_id": "2067617619486872049",
+        "created_at": "2026-06-18T14:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067617619486872049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067617619486872049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6395,
+          "like_count": 106,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "带着和我聊天的时候学到的口癖去和别人聊天的都死绝了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15505,
+          "following_count": 176,
+          "like_count": 7675,
+          "listed_count": 20,
+          "media_count": 839,
+          "tweet_count": 6839
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "心情是懒得理你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/chicken527ovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/chicken527ovo",
+                "start": 0,
+                "url": "https://t.co/7gMcs1ojHs"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "匿名箱在",
+        "name": "世萌一",
+        "pinned_tweet_id": "2067847001103012228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054719011666239489/pxGq84m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 98,
+          "like_count": 33913,
+          "listed_count": 2,
+          "media_count": 965,
+          "tweet_count": 15666
+        },
+        "url": "https://t.co/7gMcs1ojHs",
+        "username": "iluvTvT_7",
+        "verified": false
+      }
+    ]
+  }
+}

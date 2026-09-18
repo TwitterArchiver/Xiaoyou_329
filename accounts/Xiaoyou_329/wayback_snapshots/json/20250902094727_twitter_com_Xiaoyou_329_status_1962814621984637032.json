@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962814609770831872"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962814621984637032",
+    "created_at": "2025-09-02T09:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T10:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962814621984637032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4GiQ4QN2ub",
+          "end": 31,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1962814621984637032/photo/1",
+          "media_key": "3_1962814609770831872",
+          "start": 8,
+          "url": "https://t.co/4GiQ4QN2ub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962814621984637032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好好笑我不行了 https://t.co/4GiQ4QN2ub"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962814609770831872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1RfPdWYAA2orm.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962814609770831872"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962814621984637032",
+        "created_at": "2025-09-02T09:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T10:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962814621984637032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4GiQ4QN2ub",
+              "end": 31,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1962814621984637032/photo/1",
+              "media_key": "3_1962814609770831872",
+              "start": 8,
+              "url": "https://t.co/4GiQ4QN2ub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962814621984637032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好笑我不行了 https://t.co/4GiQ4QN2ub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…｜梦想是去一次海边",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 99,
+          "like_count": 919,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1069
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

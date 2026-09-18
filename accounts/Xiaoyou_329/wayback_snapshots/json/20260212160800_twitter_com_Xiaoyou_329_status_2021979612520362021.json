@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2021967023031660937",
+    "created_at": "2026-02-12T16:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021979612520362021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900919554613932035",
+          "start": 0,
+          "username": "coldfish1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021979612520362021",
+    "in_reply_to_user_id": "1900919554613932035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021967023031660937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldfish1121 没错 喜欢一个人怎么能做到不粘着对方 怎么能做到有理性？我不相信真的有这种人 有也是少部分 我觉得大部分那种人一定都是不够爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2021967023031660937",
+        "created_at": "2026-02-12T16:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021979612520362021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900919554613932035",
+              "start": 0,
+              "username": "coldfish1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021979612520362021",
+        "in_reply_to_user_id": "1900919554613932035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021967023031660937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldfish1121 没错 喜欢一个人怎么能做到不粘着对方 怎么能做到有理性？我不相信真的有这种人 有也是少部分 我觉得大部分那种人一定都是不够爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900919554613932035",
+        "conversation_id": "2021967023031660937",
+        "created_at": "2026-02-12T15:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021967023031660937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021967023031660937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多人都说感情里不能太主动，要知进退，学会欲擒故纵。可我没那么多手段也从来没学会过，我只觉得如果爱一个人，就要黏着他好好爱他。\n我满脑子只想跟一个人一直在一起。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2018262383047700927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12089,
+          "following_count": 161,
+          "like_count": 6537,
+          "listed_count": 19,
+          "media_count": 649,
+          "tweet_count": 5362
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T14:38:52.000Z",
+        "description": "INFJ/天蝎",
+        "id": "1900919554613932035",
+        "name": "炙烤和牛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998656355826380801/63uBEYs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 28,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 191
+        },
+        "username": "coldfish1121",
+        "verified": false
+      }
+    ]
+  }
+}

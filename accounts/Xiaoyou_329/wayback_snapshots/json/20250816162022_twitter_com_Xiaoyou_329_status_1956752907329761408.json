@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1956734448382152733",
+    "created_at": "2025-08-16T16:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T17:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956752907329761408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1839552202446106624",
+          "start": 0,
+          "username": "xing20106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956752907329761408",
+    "in_reply_to_user_id": "1839552202446106624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956739159621554510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xing20106 屏幕前的家人们你们觉得我叫的对吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956739151471988738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gye75BmWUAI3x4s.jpg",
+        "width": 1747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1956734448382152733",
+        "created_at": "2025-08-16T16:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T17:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956752907329761408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839552202446106624",
+              "start": 0,
+              "username": "xing20106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956752907329761408",
+        "in_reply_to_user_id": "1839552202446106624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956739159621554510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xing20106 屏幕前的家人们你们觉得我叫的对吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956739151471988738"
+          ]
+        },
+        "author_id": "1839552202446106624",
+        "conversation_id": "1956734448382152733",
+        "created_at": "2025-08-16T15:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956739159621554510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUyzxWQ4j0",
+              "end": 28,
+              "expanded_url": "https://x.com/xing20106/status/1956739159621554510/photo/1",
+              "media_key": "3_1956739151471988738",
+              "start": 5,
+              "url": "https://t.co/RUyzxWQ4j0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956739159621554510",
+        "in_reply_to_user_id": "1839552202446106624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956736151387046338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就她叫的 https://t.co/RUyzxWQ4j0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)不约炮…会回私信…骚扰就算了除非你身材我真的很喜欢 喜欢发一些身材照…",
+        "id": "1906360034725961728",
+        "name": "一只小由饼",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 64,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 281
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T06:26:45.000Z",
+        "description": "饭盒：https://t.co/6Ui5Rxi46B 匿名信：https://t.co/sUm7wG148S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xingxing634.fanbox.cc",
+                "end": 26,
+                "expanded_url": "https://xingxing634.fanbox.cc/",
+                "start": 3,
+                "url": "https://t.co/6Ui5Rxi46B"
+              },
+              {
+                "display_url": "ngl.link/xing06102",
+                "end": 54,
+                "expanded_url": "https://ngl.link/xing06102",
+                "start": 31,
+                "url": "https://t.co/sUm7wG148S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xing20106?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/xing20106?s=21",
+                "start": 0,
+                "url": "https://t.co/i2wTASQw2n"
+              }
+            ]
+          }
+        },
+        "id": "1839552202446106624",
+        "name": "散落的星✨",
+        "pinned_tweet_id": "1953819591928430900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919418177429135360/k5WRpxPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10122,
+          "following_count": 20,
+          "like_count": 729,
+          "listed_count": 19,
+          "media_count": 110,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/i2wTASQw2n",
+        "username": "xing20106",
+        "verified": true
+      }
+    ]
+  }
+}

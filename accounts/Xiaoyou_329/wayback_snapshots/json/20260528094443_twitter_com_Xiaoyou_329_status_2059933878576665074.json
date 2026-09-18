@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2059925466686083271",
+    "created_at": "2026-05-28T09:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059933878576665074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1437350597452201987",
+          "start": 0,
+          "username": "Bi_anhua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059933878576665074",
+    "in_reply_to_user_id": "1437350597452201987",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059930241876037831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bi_anhua 不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2059925466686083271",
+        "created_at": "2026-05-28T09:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059933878576665074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1437350597452201987",
+              "start": 0,
+              "username": "Bi_anhua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059933878576665074",
+        "in_reply_to_user_id": "1437350597452201987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059930241876037831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bi_anhua 不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437350597452201987",
+        "conversation_id": "2059925466686083271",
+        "created_at": "2026-05-28T09:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059930241876037831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059930241876037831",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059925466686083271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 哪里的小吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15216,
+          "following_count": 175,
+          "like_count": 7556,
+          "listed_count": 21,
+          "media_count": 865,
+          "tweet_count": 6692
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-13T09:41:16.000Z",
+        "description": "",
+        "id": "1437350597452201987",
+        "location": "阴暗潮湿的巷子",
+        "name": "Rosalva",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053443160098123776/gPeWCwEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 240,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "username": "Bi_anhua",
+        "verified": false
+      }
+    ]
+  }
+}

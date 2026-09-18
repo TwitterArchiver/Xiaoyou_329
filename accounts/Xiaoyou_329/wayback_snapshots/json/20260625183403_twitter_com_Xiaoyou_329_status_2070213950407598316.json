@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2024557145899856133",
+    "created_at": "2026-06-25T18:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T19:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070213950407598316"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070213950407598316",
+    "in_reply_to_user_id": "1906360034725961728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024557145899856133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不是黄推，不是什么网红也不是什么什么…我只是一个爱乱说话的普通人，希望不要有人扒我的墙内账号了…谢谢你们。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2024557145899856133",
+        "created_at": "2026-06-25T18:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070213950407598316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070213950407598316",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024557145899856133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不是黄推，不是什么网红也不是什么什么…我只是一个爱乱说话的普通人，希望不要有人扒我的墙内账号了…谢谢你们。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2024557145899856133",
+        "created_at": "2026-02-19T18:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T19:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024557145899856133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024557145899856133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 284510,
+          "like_count": 253,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推特其实我现在就当朋友圈发来着，记录我的一切，包括我的日常、我喜欢的东西、我想展示的我自己…等等一系列\n我很感恩有支持我、喜欢我的大家\n我只做我想做的事情，看不惯也请不要批判我和恶语相向，讨厌我直接屏蔽我就好，我不希望因为我的生活影响到各位的心情\n我们都只是陌生人 祝各位天天开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15687,
+          "following_count": 177,
+          "like_count": 7678,
+          "listed_count": 20,
+          "media_count": 865,
+          "tweet_count": 6967
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

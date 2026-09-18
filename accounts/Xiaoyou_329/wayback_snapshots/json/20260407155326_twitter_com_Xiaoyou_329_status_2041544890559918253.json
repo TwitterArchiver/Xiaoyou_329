@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2041530436686676221",
+    "created_at": "2026-04-07T15:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041544890559918253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824078057629466624",
+          "start": 0,
+          "username": "Code_6823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041544890559918253",
+    "in_reply_to_user_id": "1824078057629466624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041530436686676221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Code_6823 我靠老公你终于更新了…我等你等的好辛苦…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1201291,
+        "height": 1280,
+        "media_key": "13_2041529780286451712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041529780286451712/img/RkZ-tk8ltLeRVL2B.jpg",
+        "public_metrics": {
+          "view_count": 430
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041529780286451712/vid/avc1/320x690/eSPA48t7VHX8jUut.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041529780286451712/vid/avc1/480x1036/-YK7VIj9-pDX9Z65.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041529780286451712/vid/avc1/592x1280/PvadBn7F8Urq7fD_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041529780286451712/pl/ZHIxFhUxU-TpHs9w.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2041530436686676221",
+        "created_at": "2026-04-07T15:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041544890559918253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824078057629466624",
+              "start": 0,
+              "username": "Code_6823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041544890559918253",
+        "in_reply_to_user_id": "1824078057629466624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041530436686676221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Code_6823 我靠老公你终于更新了…我等你等的好辛苦…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041529780286451712"
+          ]
+        },
+        "author_id": "1824078057629466624",
+        "conversation_id": "2041530436686676221",
+        "created_at": "2026-04-07T14:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041530436686676221"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "粗口"
+            },
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "羞辱性称呼"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "男喘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SfFZtXdpLe",
+              "end": 104,
+              "expanded_url": "https://x.com/Code_6823/status/2041530436686676221/video/1",
+              "media_key": "13_2041529780286451712",
+              "start": 81,
+              "url": "https://t.co/SfFZtXdpLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041530436686676221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1209,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《编号6823》\n\n太久没录有些生疏，感觉自称6823有点怪怪的，有没有什么比较方便的自称🤔\n\n内含粗口等粗暴性行为，可自行避雷\n\n#粗口 #羞辱性称呼 #男喘 https://t.co/SfFZtXdpLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13644,
+          "following_count": 161,
+          "like_count": 7469,
+          "listed_count": 20,
+          "media_count": 797,
+          "tweet_count": 6339
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T13:38:03.000Z",
+        "description": "新人男🚢 6823报道，🚪108（工作忙，暂时只能聊天，没有其他服务）",
+        "id": "1824078057629466624",
+        "location": "接了点广告挣钱（搓搓手",
+        "name": "6823（男喘",
+        "pinned_tweet_id": "1852291844081623299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824078335917346817/kkCLTGmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12939,
+          "following_count": 42,
+          "like_count": 143,
+          "listed_count": 35,
+          "media_count": 78,
+          "tweet_count": 336
+        },
+        "username": "Code_6823",
+        "verified": false
+      }
+    ]
+  }
+}

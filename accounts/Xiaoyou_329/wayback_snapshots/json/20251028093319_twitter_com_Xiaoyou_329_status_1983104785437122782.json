@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1983104479101890637",
+    "created_at": "2025-10-28T09:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T10:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983104785437122782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612854174714302466",
+          "start": 0,
+          "username": "gu87734192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983104785437122782",
+    "in_reply_to_user_id": "1612854174714302466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983104479101890637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu87734192 喵喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25199,
+        "height": 720,
+        "media_key": "7_1983104432926797826",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1983104432926797826/pu/img/Q-JeFg_Uig7rLzQ4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983104432926797826/pu/vid/avc1/480x270/nmytAuhpH7Oxj5LZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983104432926797826/pu/vid/avc1/640x360/DO5OV9crl-KC4YDD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983104432926797826/pu/vid/avc1/1280x720/ajQ97c04XAIUxuk6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1983104432926797826/pu/pl/S8iS1_xJ6Q4HLpB2.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1983104479101890637",
+        "created_at": "2025-10-28T09:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983104785437122782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612854174714302466",
+              "start": 0,
+              "username": "gu87734192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983104785437122782",
+        "in_reply_to_user_id": "1612854174714302466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983104479101890637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu87734192 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1983104432926797826"
+          ]
+        },
+        "author_id": "1612854174714302466",
+        "conversation_id": "1983104479101890637",
+        "created_at": "2025-10-28T09:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983104479101890637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8BFwhR6uu",
+              "end": 33,
+              "expanded_url": "https://x.com/gu87734192/status/1983104479101890637/video/1",
+              "media_key": "7_1983104432926797826",
+              "start": 10,
+              "url": "https://t.co/A8BFwhR6uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983104479101890637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个小奥利奥太骚了 https://t.co/A8BFwhR6uu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4667,
+          "following_count": 140,
+          "like_count": 3430,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 3145
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:49:50.000Z",
+        "description": "接定制 加v有🚪66 有对象的勿入，后面有了的我也会清掉，介意勿入\n接陪🥣\n抖音 21943386284\n匿名箱:  https://t.co/iAIIvBOxcM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gu8773419274541",
+                "end": 82,
+                "expanded_url": "https://ngl.link/gu8773419274541",
+                "start": 59,
+                "url": "https://t.co/iAIIvBOxcM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gu87734192.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://gu87734192.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/HjWcbedF8Y"
+              }
+            ]
+          }
+        },
+        "id": "1612854174714302466",
+        "location": "浙江",
+        "name": "念",
+        "pinned_tweet_id": "1878996127103803653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766545216583196672/aC28okYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21926,
+          "following_count": 42,
+          "like_count": 1225,
+          "listed_count": 40,
+          "media_count": 194,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/HjWcbedF8Y",
+        "username": "gu87734192",
+        "verified": false
+      }
+    ]
+  }
+}

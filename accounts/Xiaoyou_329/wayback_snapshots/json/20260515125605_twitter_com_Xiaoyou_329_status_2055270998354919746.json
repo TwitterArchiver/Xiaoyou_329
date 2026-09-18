@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055270979581140992"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055270998354919746",
+    "created_at": "2026-05-15T12:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055270998354919746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NXZlKAqDVZ",
+          "end": 61,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2055270998354919746/photo/1",
+          "media_key": "3_2055270979581140992",
+          "start": 38,
+          "url": "https://t.co/NXZlKAqDVZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055270998354919746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "…色香味弃全。好难吃。糊了。饭还黏在一起。为什么我的蛋炒饭不是粒粒分明的。 https://t.co/NXZlKAqDVZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055270979581140992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXKEQ8aYAA71n1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055270979581140992"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055270998354919746",
+        "created_at": "2026-05-15T12:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055270998354919746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXZlKAqDVZ",
+              "end": 61,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2055270998354919746/photo/1",
+              "media_key": "3_2055270979581140992",
+              "start": 38,
+              "url": "https://t.co/NXZlKAqDVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055270998354919746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…色香味弃全。好难吃。糊了。饭还黏在一起。为什么我的蛋炒饭不是粒粒分明的。 https://t.co/NXZlKAqDVZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14689,
+          "following_count": 173,
+          "like_count": 7470,
+          "listed_count": 20,
+          "media_count": 846,
+          "tweet_count": 6579
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2030556648406704315",
+    "created_at": "2026-03-08T08:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T09:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030556648406704315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yurainl1/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/yurainl1/status/2030506766463914259",
+          "start": 27,
+          "url": "https://t.co/ff7LL9VVS4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030556648406704315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030506766463914259",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可怜可怜推特妹吧。每天推特超活跃的背后原因是没人聊。 https://t.co/ff7LL9VVS4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2030556648406704315",
+        "created_at": "2026-03-08T08:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030556648406704315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yurainl1/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/yurainl1/status/2030506766463914259",
+              "start": 27,
+              "url": "https://t.co/ff7LL9VVS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030556648406704315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030506766463914259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可怜可怜推特妹吧。每天推特超活跃的背后原因是没人聊。 https://t.co/ff7LL9VVS4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560927630752247808",
+        "conversation_id": "2030506766463914259",
+        "created_at": "2026-03-08T04:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T05:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030506766463914259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030506766463914259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8363,
+          "like_count": 225,
+          "quote_count": 10,
+          "reply_count": 31,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "可怜可怜推特妹吧。每天推特超活跃的背后原因是没人聊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13050,
+          "following_count": 162,
+          "like_count": 6939,
+          "listed_count": 19,
+          "media_count": 724,
+          "tweet_count": 5827
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T09:55:12.000Z",
+        "description": "等湿透的心听雨声｜欢迎跟我fo｜不关注勿扰^ω^",
+        "id": "1560927630752247808",
+        "location": "0.1km",
+        "name": "乱篇",
+        "pinned_tweet_id": "2016664945384182076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026937275020619776/DGccCN2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2573,
+          "following_count": 65,
+          "like_count": 3994,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 166
+        },
+        "username": "Yurainl1",
+        "verified": false
+      }
+    ]
+  }
+}

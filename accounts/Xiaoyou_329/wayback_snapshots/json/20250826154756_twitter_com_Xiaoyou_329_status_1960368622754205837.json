@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960358595138371738",
+    "created_at": "2025-08-26T15:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T16:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960368622754205837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1958074539474305024",
+          "start": 0,
+          "username": "miyagiizumi777"
+        },
+        {
+          "end": 26,
+          "id": "1784887323211280384",
+          "start": 16,
+          "username": "ljng15760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960368622754205837",
+    "in_reply_to_user_id": "1958074539474305024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960358595138371738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyagiizumi777 @ljng15760 宝宝你声音真太萌了…(｡･ω･｡)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 548175,
+        "height": 720,
+        "media_key": "13_1960358402330406913",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960358402330406913/img/34EbWcaS3bdjPQvc.jpg",
+        "public_metrics": {
+          "view_count": 184
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960358402330406913/vid/avc1/320x422/zCzU2eA7TAjS1d5_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960358402330406913/vid/avc1/480x634/VBqDWG2HwqX9Ldcq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960358402330406913/vid/avc1/544x720/gg3EUwZvnJlPB9W7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960358402330406913/pl/H5W-cfRWm6RSbTkM.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960358595138371738",
+        "created_at": "2025-08-26T15:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960368622754205837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1958074539474305024",
+              "start": 0,
+              "username": "miyagiizumi777"
+            },
+            {
+              "end": 26,
+              "id": "1784887323211280384",
+              "start": 16,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960368622754205837",
+        "in_reply_to_user_id": "1958074539474305024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960358595138371738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyagiizumi777 @ljng15760 宝宝你声音真太萌了…(｡･ω･｡)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960358402330406913"
+          ]
+        },
+        "author_id": "1958074539474305024",
+        "conversation_id": "1960358595138371738",
+        "created_at": "2025-08-26T15:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960358595138371738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "男喘"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "女性向"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "1i"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "小狗"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 69,
+              "id": "1784887323211280384",
+              "start": 59,
+              "username": "ljng15760"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mLd5ndNsLv",
+              "end": 127,
+              "expanded_url": "https://x.com/miyagiizumi777/status/1960358595138371738/video/1",
+              "media_key": "13_1960358402330406913",
+              "start": 104,
+              "url": "https://t.co/mLd5ndNsLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960358595138371738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1184,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“尿了好多水啊宝宝，呵呵，真是骚宝宝~\n“见面后比在网上更喜欢你了，让我好好亲亲宝宝，想天天跟宝宝在一起”\n台本老师：@ljng15760 \n原定制人现以退推已私下取得统一\n#男喘 #女性向 #1i #小狗 https://t.co/mLd5ndNsLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 74,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 628
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T07:52:13.000Z",
+        "description": "🚹 東京 🇨🇳｜🔞音声 直男 INFJ｜多说喜欢我 ｜滥性滥情 承認欲求| 不要对我有太多占有欲 ｜DM⭕️",
+        "id": "1958074539474305024",
+        "location": "日本 東京",
+        "name": "宮城いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958074969944125444/jl2EcA12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 23,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "miyagiizumi777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "所有台本及短打都需要私信找我要授权，拿到授权再录/发布请圈@我一下 /自用🪜 https://t.co/9PJ5FnVBtO不接置顶～定制台本60千字、商用3倍、台本加急OR不公开千字多20⭐️（暂时不接新的了）/请勿搬运、抄袭、缝合",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.达蒙.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://a.xn--hv1a41u.com/#/register?code=NsOxJjaN",
+                "start": 39,
+                "url": "https://t.co/9PJ5FnVBtO"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "月亮🌙上",
+        "name": "星星⭐️🫧",
+        "pinned_tweet_id": "1896054832747921456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956030588256968707/1wjKy8Hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65673,
+          "following_count": 275,
+          "like_count": 10206,
+          "listed_count": 65,
+          "media_count": 590,
+          "tweet_count": 8117
+        },
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

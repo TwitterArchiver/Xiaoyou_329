@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1965276287943184780",
+    "created_at": "2025-09-09T13:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T14:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965409754723074283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841320492734783488",
+          "start": 0,
+          "username": "himi87472455881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965409754723074283",
+    "in_reply_to_user_id": "1841320492734783488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965373038737891606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@himi87472455881 我还好…后面用温热水洗了一下…然后就没什么大事了…谢谢你告诉我的建议！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1965276287943184780",
+        "created_at": "2025-09-09T13:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965409754723074283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841320492734783488",
+              "start": 0,
+              "username": "himi87472455881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965409754723074283",
+        "in_reply_to_user_id": "1841320492734783488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965373038737891606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himi87472455881 我还好…后面用温热水洗了一下…然后就没什么大事了…谢谢你告诉我的建议！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841320492734783488",
+        "conversation_id": "1965276287943184780",
+        "created_at": "2025-09-09T11:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965373038737891606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965373038737891606",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965276287943184780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我靠我靠老师，我看到突然这条我也很着急……你你你，还好吗？辣椒素不溶于水，溶于脂，你用温和的卸妆油摩擦摩擦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 106,
+          "like_count": 1228,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1525
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T03:33:22.000Z",
+        "description": "搞黄色没意思，TM评论区才是快乐老家，日常被笑到打鸣",
+        "id": "1841320492734783488",
+        "name": "老抽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952687986560380928/ghuhhX_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 162,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "username": "himi87472455881",
+        "verified": false
+      }
+    ]
+  }
+}

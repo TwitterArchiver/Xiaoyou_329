@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1981492477531189659",
+    "created_at": "2025-10-24T03:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T04:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981569227917271076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975179470869819392",
+          "start": 0,
+          "username": "YenGia6452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981569227917271076",
+    "in_reply_to_user_id": "1975179470869819392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981535474696278396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YenGia6452 因为昨天没写完。TvT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1981492477531189659",
+        "created_at": "2025-10-24T03:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T04:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981569227917271076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975179470869819392",
+              "start": 0,
+              "username": "YenGia6452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981569227917271076",
+        "in_reply_to_user_id": "1975179470869819392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981535474696278396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YenGia6452 因为昨天没写完。TvT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975179470869819392",
+        "conversation_id": "1981492477531189659",
+        "created_at": "2025-10-24T01:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T02:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981535474696278396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981535474696278396",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981492477531189659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 不是刚起床就不作业？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 137,
+          "like_count": 3196,
+          "listed_count": 4,
+          "media_count": 402,
+          "tweet_count": 3046
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T12:41:22.000Z",
+        "description": "",
+        "id": "1975179470869819392",
+        "location": "中华人民共和国",
+        "name": "Gia Yen Bui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976212593753849856/Lo9N8UsT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 274,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1512
+        },
+        "username": "YenGia6452",
+        "verified": false
+      }
+    ]
+  }
+}

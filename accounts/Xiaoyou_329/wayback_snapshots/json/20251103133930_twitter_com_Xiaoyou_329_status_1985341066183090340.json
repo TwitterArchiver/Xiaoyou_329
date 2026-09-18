@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1985340748053741830",
+    "created_at": "2025-11-03T13:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985341066183090340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816042391604015104",
+          "start": 0,
+          "username": "tao1865453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985341066183090340",
+    "in_reply_to_user_id": "1816042391604015104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985340748053741830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tao1865453 我也要玩…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6500,
+        "height": 716,
+        "media_key": "13_1985340653463834625",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985340653463834625/img/T11i9DSwOH4onUwz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985340653463834625/vid/avc1/482x270/N7TQDCY2r5uHlmzp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985340653463834625/vid/avc1/642x360/C0icA8o6HtzZyLRH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985340653463834625/vid/avc1/1280x716/mIucDIcVZU_mC_eK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985340653463834625/pl/QCaHFw_Ne7C7n1tg.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1985340748053741830",
+        "created_at": "2025-11-03T13:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985341066183090340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816042391604015104",
+              "start": 0,
+              "username": "tao1865453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985341066183090340",
+        "in_reply_to_user_id": "1816042391604015104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985340748053741830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tao1865453 我也要玩…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985340653463834625"
+          ]
+        },
+        "author_id": "1816042391604015104",
+        "conversation_id": "1985340748053741830",
+        "created_at": "2025-11-03T13:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985340748053741830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UexIkhb6h",
+              "end": 34,
+              "expanded_url": "https://x.com/tao1865453/status/1985340748053741830/video/1",
+              "media_key": "13_1985340653463834625",
+              "start": 11,
+              "url": "https://t.co/2UexIkhb6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985340748053741830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是不一样的玩具🚬 https://t.co/2UexIkhb6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1981690322745970734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4696,
+          "following_count": 146,
+          "like_count": 3769,
+          "listed_count": 5,
+          "media_count": 417,
+          "tweet_count": 3261
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T09:27:10.000Z",
+        "description": "不约不线下 贴脸拉黑｜防失联小号@wanju158",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "wanju158"
+              }
+            ]
+          }
+        },
+        "id": "1816042391604015104",
+        "location": "🚪188/520/1314",
+        "name": "玩具",
+        "pinned_tweet_id": "1939255096509919421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979557623042097152/kqNYAf0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6296,
+          "following_count": 125,
+          "like_count": 5014,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 1680
+        },
+        "username": "tao1865453",
+        "verified": false
+      }
+    ]
+  }
+}

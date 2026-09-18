@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2064438783039422953",
+    "created_at": "2026-06-10T05:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064575574706897075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2045813266606120960",
+          "start": 0,
+          "username": "2783165563Asuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064575574706897075",
+    "in_reply_to_user_id": "2045813266606120960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064573077447700945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2783165563Asuc 我感觉买二手还不如买全新吧。而且大疆全新也不贵呀。p3➕随心换就2300+"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2064438783039422953",
+        "created_at": "2026-06-10T05:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064575574706897075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2045813266606120960",
+              "start": 0,
+              "username": "2783165563Asuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064575574706897075",
+        "in_reply_to_user_id": "2045813266606120960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064573077447700945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2783165563Asuc 我感觉买二手还不如买全新吧。而且大疆全新也不贵呀。p3➕随心换就2300+"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045813266606120960",
+        "conversation_id": "2064438783039422953",
+        "created_at": "2026-06-10T04:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064573077447700945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064573077447700945",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064564518244741495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 买台二手的Dj，够用了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15428,
+          "following_count": 177,
+          "like_count": 7618,
+          "listed_count": 20,
+          "media_count": 795,
+          "tweet_count": 6685
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T10:34:43.000Z",
+        "description": "走走又停停",
+        "id": "2045813266606120960",
+        "name": "Feng夏白雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045813491777622016/5fdfZn1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 38,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "2783165563Asuc",
+        "verified": false
+      }
+    ]
+  }
+}

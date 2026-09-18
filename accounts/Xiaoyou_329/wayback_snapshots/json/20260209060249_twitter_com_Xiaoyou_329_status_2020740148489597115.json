@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2020553392867979684",
+    "created_at": "2026-02-09T06:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T07:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020740148489597115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999129830785433600",
+          "start": 0,
+          "username": "CCami_82"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020740148489597115",
+    "in_reply_to_user_id": "1999129830785433600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020553392867979684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCami_82 雾草 怎么如此美萌！ (◍´o̴̶̷̤ ಲ o̴̶̷̤`◍)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8066,
+        "height": 1280,
+        "media_key": "13_2020553329781383168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020553329781383168/img/PCkXKMJSSRfW2zz2.jpg",
+        "public_metrics": {
+          "view_count": 364
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020553329781383168/vid/avc1/320x568/lQFcQq_g8B5KYvN6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020553329781383168/vid/avc1/480x852/rOWKRVjqCkeC_Xt8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020553329781383168/vid/avc1/720x1280/VnwT7HQ2v1EiHsSR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020553329781383168/pl/Fc-3wc-0b-xF8fxu.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2020553392867979684",
+        "created_at": "2026-02-09T06:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T07:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020740148489597115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999129830785433600",
+              "start": 0,
+              "username": "CCami_82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020740148489597115",
+        "in_reply_to_user_id": "1999129830785433600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020553392867979684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCami_82 雾草 怎么如此美萌！ (◍´o̴̶̷̤ ಲ o̴̶̷̤`◍)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020553329781383168"
+          ]
+        },
+        "author_id": "1999129830785433600",
+        "conversation_id": "2020553392867979684",
+        "created_at": "2026-02-08T17:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T18:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020553392867979684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9haIAiuTj",
+              "end": 37,
+              "expanded_url": "https://x.com/CCami_82/status/2020553392867979684/video/1",
+              "media_key": "13_2020553329781383168",
+              "start": 14,
+              "url": "https://t.co/q9haIAiuTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020553392867979684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1057,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们觉得我的舌头适合分舌吗 https://t.co/q9haIAiuTj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12046,
+          "following_count": 157,
+          "like_count": 6391,
+          "listed_count": 20,
+          "media_count": 639,
+          "tweet_count": 5268
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T14:51:24.000Z",
+        "description": "原账号@Cami040802炸了…………我复活了 04打工妹  莫名其妙的碎碎念🥺  https://t.co/SXPi0Jhrfj匿名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Cami040802"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cami0280521",
+                "end": 66,
+                "expanded_url": "https://ngl.link/cami0280521",
+                "start": 43,
+                "url": "https://t.co/SXPi0Jhrfj"
+              }
+            ]
+          }
+        },
+        "id": "1999129830785433600",
+        "location": "你心里",
+        "name": "Cami02（手瓦版）",
+        "pinned_tweet_id": "2020457418275119417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016975444625833984/zoqWNC4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 39,
+          "like_count": 541,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 468
+        },
+        "username": "CCami_82",
+        "verified": false
+      }
+    ]
+  }
+}

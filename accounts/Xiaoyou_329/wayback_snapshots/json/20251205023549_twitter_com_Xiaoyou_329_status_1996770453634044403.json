@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1996769548431925444",
+    "created_at": "2025-12-05T02:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T03:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996770453634044403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "757578278320300032",
+          "start": 0,
+          "username": "trpaomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996770453634044403",
+    "in_reply_to_user_id": "757578278320300032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996769548431925444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trpaomo 咋这么萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23218,
+        "height": 1280,
+        "media_key": "13_1996769457629548544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996769457629548544/img/SkBFZwGM8gI0CyaQ.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996769457629548544/vid/avc1/320x568/-hLcikhaan02nNCM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996769457629548544/vid/avc1/480x852/WWYI3_nJlItMmDdW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996769457629548544/vid/avc1/720x1280/MHfz0zb236TPe5KI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996769457629548544/pl/awIJm_zR-BbBL88f.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996769548431925444",
+        "created_at": "2025-12-05T02:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996770453634044403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "757578278320300032",
+              "start": 0,
+              "username": "trpaomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996770453634044403",
+        "in_reply_to_user_id": "757578278320300032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996769548431925444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trpaomo 咋这么萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996769457629548544"
+          ]
+        },
+        "author_id": "757578278320300032",
+        "conversation_id": "1996769548431925444",
+        "created_at": "2025-12-05T02:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996769548431925444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CndwubxG5O",
+              "end": 36,
+              "expanded_url": "https://x.com/trpaomo/status/1996769548431925444/video/1",
+              "media_key": "13_1996769457629548544",
+              "start": 13,
+              "url": "https://t.co/CndwubxG5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996769548431925444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让你再看个破手机不理我😾 https://t.co/CndwubxG5O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7991,
+          "following_count": 157,
+          "like_count": 5443,
+          "listed_count": 8,
+          "media_count": 530,
+          "tweet_count": 4380
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T14:08:31.000Z",
+        "description": "isfp 的🦁  比朋友圈还朋友圈💜不约不私不聊 女宝宝们和互关除外",
+        "id": "757578278320300032",
+        "name": "好无聊",
+        "pinned_tweet_id": "1963536930794344752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952723610927603713/97UlKbMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3758,
+          "following_count": 216,
+          "like_count": 15975,
+          "listed_count": 8,
+          "media_count": 721,
+          "tweet_count": 5236
+        },
+        "username": "trpaomo",
+        "verified": false
+      }
+    ]
+  }
+}

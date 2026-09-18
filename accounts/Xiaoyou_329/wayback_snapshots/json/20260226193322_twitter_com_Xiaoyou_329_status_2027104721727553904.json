@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2027032688306028829",
+    "created_at": "2026-02-26T19:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T20:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027104721727553904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1585668397655654408",
+          "start": 0,
+          "username": "mZVAfpuYizI6AGf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027104721727553904",
+    "in_reply_to_user_id": "1585668397655654408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027079264664006754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mZVAfpuYizI6AGf 😭🫶🫶🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2027032688306028829",
+        "created_at": "2026-02-26T19:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027104721727553904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1585668397655654408",
+              "start": 0,
+              "username": "mZVAfpuYizI6AGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027104721727553904",
+        "in_reply_to_user_id": "1585668397655654408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027079264664006754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mZVAfpuYizI6AGf 😭🫶🫶🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585668397655654408",
+        "conversation_id": "2027032688306028829",
+        "created_at": "2026-02-26T17:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027079264664006754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027079264664006754",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027032688306028829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 D🥹🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12714,
+          "following_count": 161,
+          "like_count": 6795,
+          "listed_count": 19,
+          "media_count": 695,
+          "tweet_count": 5609
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-27T16:24:04.000Z",
+        "description": "爱芮丝转发的机器",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SultIris",
+                "end": 23,
+                "expanded_url": "https://t.me/SultIris",
+                "start": 0,
+                "url": "https://t.co/QS4L98VHyv"
+              }
+            ]
+          }
+        },
+        "id": "1585668397655654408",
+        "name": "恰飯🖤",
+        "pinned_tweet_id": "1909636760591835603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585668981582462980/8OzJ4Bbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 67,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/QS4L98VHyv",
+        "username": "mZVAfpuYizI6AGf",
+        "verified": false
+      }
+    ]
+  }
+}

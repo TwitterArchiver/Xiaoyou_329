@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2098633343743193141",
+    "created_at": "2026-09-12T06:17:34.000Z",
+    "display_text_range": [
+      17,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098657251162833315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2705589943",
+          "start": 0,
+          "username": "zty370201980012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098657251162833315",
+    "in_reply_to_user_id": "2705589943",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098639164610839021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zty370201980012 蹭蹭口牙(´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2098633343743193141",
+        "created_at": "2026-09-12T06:17:34.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098657251162833315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2705589943",
+              "start": 0,
+              "username": "zty370201980012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098657251162833315",
+        "in_reply_to_user_id": "2705589943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098639164610839021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zty370201980012 蹭蹭口牙(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2705589943",
+        "conversation_id": "2098633343743193141",
+        "created_at": "2026-09-12T05:05:42.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098639164610839021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098639164610839021",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098633343743193141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 摸摸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098657251162833315",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097562944405966848/c2VkkXJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17372,
+          "following_count": 176,
+          "like_count": 7740,
+          "listed_count": 21,
+          "media_count": 1190,
+          "tweet_count": 7950
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-08-04T03:36:52.000Z",
+        "description": "",
+        "id": "2705589943",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098640517294866731",
+        "name": "莫斯提马厨",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1258819356999299072/k2EMjy2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 2014,
+          "like_count": 45605,
+          "listed_count": 4,
+          "media_count": 9,
+          "tweet_count": 13352
+        },
+        "url": "",
+        "username": "zty370201980012",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

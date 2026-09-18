@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961340401626808488",
+    "created_at": "2025-08-29T09:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T10:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961360974725681403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691791250670895105",
+          "start": 0,
+          "username": "bluE17blueee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961360974725681403",
+    "in_reply_to_user_id": "1691791250670895105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961340401626808488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluE17blueee 这是不是七夕给我的惩罚！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961340401626808488",
+        "created_at": "2025-08-29T09:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T10:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961360974725681403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691791250670895105",
+              "start": 0,
+              "username": "bluE17blueee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961360974725681403",
+        "in_reply_to_user_id": "1691791250670895105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961340401626808488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluE17blueee 这是不是七夕给我的惩罚！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691791250670895105",
+        "conversation_id": "1961340401626808488",
+        "created_at": "2025-08-29T08:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T09:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961340401626808488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961340401626808488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1209,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来你们都说做就做上了那我呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 92,
+          "like_count": 771,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 744
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T12:37:33.000Z",
+        "description": "我只是在自说自话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%88%91%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%88%91%E6%9C%8D%E4%BA%86%E5%AE%9D%E5%AE%9D",
+                "start": 0,
+                "url": "https://t.co/xEONfKhYzW"
+              }
+            ]
+          }
+        },
+        "id": "1691791250670895105",
+        "location": "答应我会幸福",
+        "name": "宝宝我服了",
+        "pinned_tweet_id": "1943497057458675759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941451907437858818/-TZObtUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18431,
+          "following_count": 380,
+          "like_count": 25311,
+          "listed_count": 32,
+          "media_count": 274,
+          "tweet_count": 15362
+        },
+        "url": "https://t.co/xEONfKhYzW",
+        "username": "bluE17blueee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986811656408539137"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1986811662800744930",
+    "created_at": "2025-11-07T15:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T16:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986811662800744930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GzBLktkv59",
+          "end": 135,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1986811662800744930/photo/1",
+          "media_key": "3_1986811656408539137",
+          "start": 112,
+          "url": "https://t.co/GzBLktkv59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986811662800744930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天一看23年的时候百度网盘自动备份的照片。我看到了我早些年追星追的多非主流。还看见了网恋前男友穿裙子给我拍的照片（我那个时候以为他是女的我还想他为什么穿个裙子给我看还扭扭捏捏）\n我都不记得我啥时候都备份下来了。好诡异。 https://t.co/GzBLktkv59"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_1986811656408539137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KSrMfWIAEuHj6.jpg",
+        "width": 823
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986811656408539137"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1986811662800744930",
+        "created_at": "2025-11-07T15:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986811662800744930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzBLktkv59",
+              "end": 135,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1986811662800744930/photo/1",
+              "media_key": "3_1986811656408539137",
+              "start": 112,
+              "url": "https://t.co/GzBLktkv59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986811662800744930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天一看23年的时候百度网盘自动备份的照片。我看到了我早些年追星追的多非主流。还看见了网恋前男友穿裙子给我拍的照片（我那个时候以为他是女的我还想他为什么穿个裙子给我看还扭扭捏捏）\n我都不记得我啥时候都备份下来了。好诡异。 https://t.co/GzBLktkv59"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5052,
+          "following_count": 144,
+          "like_count": 3959,
+          "listed_count": 4,
+          "media_count": 428,
+          "tweet_count": 3392
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

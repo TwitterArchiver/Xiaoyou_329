@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1968248946645725343",
+    "created_at": "2025-09-17T09:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T10:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968249180994056408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778896067171655680",
+          "start": 0,
+          "username": "Popo0vo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968249180994056408",
+    "in_reply_to_user_id": "1778896067171655680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968248946645725343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Popo0vo ？？？贝贝你到底要干什么。！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7405,
+        "height": 720,
+        "media_key": "13_1968248888105848832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968248888105848832/img/ZW4eUb-3PZV1gnDl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968248888105848832/vid/avc1/296x270/y-6Vyeobu-LjdzTa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968248888105848832/vid/avc1/396x360/Cuk0vtTA5qIqECV1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968248888105848832/vid/avc1/794x720/pjOiqcHJilAnGpjf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968248888105848832/pl/RCn-Wzl7c-0AFmcS.m3u8"
+          }
+        ],
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1968248946645725343",
+        "created_at": "2025-09-17T09:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968249180994056408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778896067171655680",
+              "start": 0,
+              "username": "Popo0vo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968249180994056408",
+        "in_reply_to_user_id": "1778896067171655680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968248946645725343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Popo0vo ？？？贝贝你到底要干什么。！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968248888105848832"
+          ]
+        },
+        "author_id": "1778896067171655680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1968248946645725343",
+        "created_at": "2025-09-17T09:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968248946645725343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8NKFXf3zd",
+              "end": 30,
+              "expanded_url": "https://x.com/Popo0vo/status/1968248946645725343/video/1",
+              "media_key": "13_1968248888105848832",
+              "start": 7,
+              "url": "https://t.co/P8NKFXf3zd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968248946645725343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "裸眼3D牛牛 https://t.co/P8NKFXf3zd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "🚪68/88/108 纯绿可以聊天",
+        "name": "小由",
+        "pinned_tweet_id": "1967968461600199156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 115,
+          "like_count": 1578,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 1924
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T21:20:57.000Z",
+        "description": "直男｜不加联系｜盗图替我挡灾｜男同男娘能不能滚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popo0vo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popo0vo",
+                "start": 0,
+                "url": "https://t.co/vZofSblEcG"
+              }
+            ]
+          }
+        },
+        "id": "1778896067171655680",
+        "location": "0.1km",
+        "name": "贝贝",
+        "pinned_tweet_id": "1967081255264309699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968194726827528196/Bdfn9Opd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 145,
+          "like_count": 7048,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/vZofSblEcG",
+        "username": "Popo0vo",
+        "verified": false
+      }
+    ]
+  }
+}

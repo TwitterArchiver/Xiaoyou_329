@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2097947584794898607",
+    "created_at": "2026-09-10T08:33:35.000Z",
+    "display_text_range": [
+      9,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097966703334302059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "836941533265813504",
+          "start": 0,
+          "username": "Cirnoss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097966703334302059",
+    "in_reply_to_user_id": "836941533265813504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097958175031034324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cirnoss 可是自欺欺人很痛苦呀。我希望别人喜欢我是喜欢真实的我 如果只是喜欢我表现出来的这些 那如果我展现真实的自己呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2097947584794898607",
+        "created_at": "2026-09-10T08:33:35.000Z",
+        "display_text_range": [
+          9,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097966703334302059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "836941533265813504",
+              "start": 0,
+              "username": "Cirnoss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097966703334302059",
+        "in_reply_to_user_id": "836941533265813504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097958175031034324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cirnoss 可是自欺欺人很痛苦呀。我希望别人喜欢我是喜欢真实的我 如果只是喜欢我表现出来的这些 那如果我展现真实的自己呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "836941533265813504",
+        "conversation_id": "2097947584794898607",
+        "created_at": "2026-09-10T07:59:41.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097958175031034324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097958175031034324",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097947584794898607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 大家都焦虑都压抑，高p照骗不也是保护自己的方法吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097966703334302059",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097562944405966848/c2VkkXJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17356,
+          "following_count": 176,
+          "like_count": 7733,
+          "listed_count": 21,
+          "media_count": 1183,
+          "tweet_count": 7929
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-01T14:09:45.000Z",
+        "description": "",
+        "id": "836941533265813504",
+        "is_identity_verified": false,
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "most_recent_tweet_id": "2097962106545172663",
+        "name": "VVHH",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/836941533265813504/1489132249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/840107311867740161/MzfA8KsY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 13,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Cirnoss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

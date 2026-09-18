@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2062490915625914664",
+    "created_at": "2026-06-04T15:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062555659602956324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1969948530967302144",
+          "start": 0,
+          "username": "HypGe9QFgl9517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062555659602956324",
+    "in_reply_to_user_id": "1969948530967302144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062555270891348115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HypGe9QFgl9517 没有什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2062490915625914664",
+        "created_at": "2026-06-04T15:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062555659602956324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1969948530967302144",
+              "start": 0,
+              "username": "HypGe9QFgl9517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062555659602956324",
+        "in_reply_to_user_id": "1969948530967302144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062555270891348115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HypGe9QFgl9517 没有什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969948530967302144",
+        "conversation_id": "2062490915625914664",
+        "created_at": "2026-06-04T15:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062555270891348115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062555270891348115",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062490915625914664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 没有啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15431,
+          "following_count": 176,
+          "like_count": 7587,
+          "listed_count": 20,
+          "media_count": 877,
+          "tweet_count": 6772
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T02:15:32.000Z",
+        "description": "INFP闷骚男\n性生活是梦",
+        "id": "1969948530967302144",
+        "name": "尾巴",
+        "pinned_tweet_id": "2047031419797451012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047549477259788288/qIuzF9AD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 51,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 126
+        },
+        "username": "HypGe9QFgl9517",
+        "verified": false
+      }
+    ]
+  }
+}

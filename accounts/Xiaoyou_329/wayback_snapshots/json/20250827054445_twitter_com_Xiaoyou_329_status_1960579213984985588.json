@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1960259462855643324",
+    "created_at": "2025-08-27T05:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T06:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960579213984985588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1457484727024189446",
+          "start": 0,
+          "username": "Qiusng829"
+        },
+        {
+          "end": 20,
+          "id": "1864946257481158656",
+          "start": 11,
+          "username": "Ash1nzou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960579213984985588",
+    "in_reply_to_user_id": "1457484727024189446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960578914314494095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiusng829 @Ash1nzou 是因为步步高他能下载知乎，但是后来不可以了，然后我就在知乎上面搜百度网址，然后那个百度网址是可以打开的，你可以直接在上面搜那种…但是他那个黄片网站真的很隐蔽，就是每次是那种什么建材公司或者是什么🌚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1960259462855643324",
+        "created_at": "2025-08-27T05:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960579213984985588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1457484727024189446",
+              "start": 0,
+              "username": "Qiusng829"
+            },
+            {
+              "end": 20,
+              "id": "1864946257481158656",
+              "start": 11,
+              "username": "Ash1nzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960579213984985588",
+        "in_reply_to_user_id": "1457484727024189446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960578914314494095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiusng829 @Ash1nzou 是因为步步高他能下载知乎，但是后来不可以了，然后我就在知乎上面搜百度网址，然后那个百度网址是可以打开的，你可以直接在上面搜那种…但是他那个黄片网站真的很隐蔽，就是每次是那种什么建材公司或者是什么🌚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457484727024189446",
+        "conversation_id": "1960259462855643324",
+        "created_at": "2025-08-27T05:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960578914314494095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            },
+            {
+              "end": 22,
+              "id": "1864946257481158656",
+              "start": 13,
+              "username": "Ash1nzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960578914314494095",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960578576501096909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 @Ash1nzou 是不是那个网站可以点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 84,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 649
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T23:07:00.000Z",
+        "description": "记录自己活过的证据 欢迎私信",
+        "id": "1457484727024189446",
+        "location": "距离你200米",
+        "name": "是秋生欸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880103556184776704/cac9eiOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 105,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 551,
+          "tweet_count": 3470
+        },
+        "username": "Qiusng829",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T08:13:43.000Z",
+        "description": "恶人脸/虚伪肥宅/真实垃圾/精神病患/社会边缘人士－记录号@Thirdshinzou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "Thirdshinzou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ash1nzou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ash1nzou",
+                "start": 0,
+                "url": "https://t.co/qPDE4JNKvH"
+              }
+            ]
+          }
+        },
+        "id": "1864946257481158656",
+        "location": "提问箱",
+        "name": "饮冰的刃",
+        "pinned_tweet_id": "1945938034144505875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864946632820953092/_edfRZMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6086,
+          "following_count": 222,
+          "like_count": 22990,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 4386
+        },
+        "url": "https://t.co/qPDE4JNKvH",
+        "username": "Ash1nzou",
+        "verified": true
+      }
+    ]
+  }
+}

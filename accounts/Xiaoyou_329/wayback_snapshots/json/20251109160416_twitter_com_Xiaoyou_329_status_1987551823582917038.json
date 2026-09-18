@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987551813126537216"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1987551823582917038",
+    "created_at": "2025-11-09T16:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T17:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987551823582917038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/31qDph5tDW",
+          "end": 34,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1987551823582917038/photo/1",
+          "media_key": "3_1987551813126537216",
+          "start": 11,
+          "url": "https://t.co/31qDph5tDW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987551823582917038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我将研究一下影子视角 https://t.co/31qDph5tDW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1987551813126537216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Uz1_IXQAAE27D.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987551813126537216"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1987551823582917038",
+        "created_at": "2025-11-09T16:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T17:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987551823582917038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/31qDph5tDW",
+              "end": 34,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1987551823582917038/photo/1",
+              "media_key": "3_1987551813126537216",
+              "start": 11,
+              "url": "https://t.co/31qDph5tDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987551823582917038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将研究一下影子视角 https://t.co/31qDph5tDW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5052,
+          "following_count": 144,
+          "like_count": 4056,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 3454
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957837091309776901",
+    "created_at": "2025-08-20T14:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T15:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958180996974538798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1555072803992350721",
+          "start": 0,
+          "username": "kittyx0811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958180996974538798",
+    "in_reply_to_user_id": "1555072803992350721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957837091309776901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittyx0811 追求的时候说什么都能包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容 追到手就说自己也是人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1505,
+        "media_key": "3_1957837077682483201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyuicvdacAEiEAN.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1957837091309776901",
+        "created_at": "2025-08-20T14:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T15:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958180996974538798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1555072803992350721",
+              "start": 0,
+              "username": "kittyx0811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958180996974538798",
+        "in_reply_to_user_id": "1555072803992350721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957837091309776901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittyx0811 追求的时候说什么都能包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容包容 追到手就说自己也是人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957837077682483201"
+          ]
+        },
+        "author_id": "1555072803992350721",
+        "conversation_id": "1957837091309776901",
+        "created_at": "2025-08-19T16:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T17:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957837091309776901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ptHHN7DOwA",
+              "end": 31,
+              "expanded_url": "https://x.com/kittyx0811/status/1957837091309776901/photo/1",
+              "media_key": "3_1957837077682483201",
+              "start": 8,
+              "url": "https://t.co/ptHHN7DOwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957837091309776901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31424,
+          "like_count": 189,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我哭的难受呵呵 https://t.co/ptHHN7DOwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 71,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 435
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T06:07:15.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kittyx0811",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kittyx0811",
+                "start": 0,
+                "url": "https://t.co/aBb4IYmhdS"
+              }
+            ]
+          }
+        },
+        "id": "1555072803992350721",
+        "location": "只玩推 没有🚪 不线下",
+        "name": "xxrain",
+        "pinned_tweet_id": "1956413656817860986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945065573831897088/xQBu_UP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52626,
+          "following_count": 45,
+          "like_count": 2044,
+          "listed_count": 134,
+          "media_count": 101,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/aBb4IYmhdS",
+        "username": "kittyx0811",
+        "verified": false
+      }
+    ]
+  }
+}

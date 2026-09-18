@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2029754428472053866",
+    "created_at": "2026-03-06T03:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T04:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029761303582232668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877629729806618624",
+          "start": 0,
+          "username": "ymnghu43329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029761303582232668",
+    "in_reply_to_user_id": "1877629729806618624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029757955512381602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ymnghu43329 低星局。。我现在18星。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2029754428472053866",
+        "created_at": "2026-03-06T03:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029761303582232668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877629729806618624",
+              "start": 0,
+              "username": "ymnghu43329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029761303582232668",
+        "in_reply_to_user_id": "1877629729806618624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029757955512381602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ymnghu43329 低星局。。我现在18星。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877629729806618624",
+        "conversation_id": "2029754428472053866",
+        "created_at": "2026-03-06T03:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029757955512381602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029757955512381602",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029754428472053866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 这什么段位的局"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12973,
+          "following_count": 163,
+          "like_count": 6870,
+          "listed_count": 19,
+          "media_count": 718,
+          "tweet_count": 5757
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T08:13:28.000Z",
+        "description": "",
+        "id": "1877629729806618624",
+        "location": "America",
+        "name": "鱼鸣花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956390428216885254/wr_vCyYa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 652,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 437
+        },
+        "username": "ymnghu43329",
+        "verified": false
+      }
+    ]
+  }
+}

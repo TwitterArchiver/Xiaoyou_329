@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1999409324825907424",
+    "created_at": "2025-12-12T10:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T11:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999429943059706215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1962369612366172160",
+          "start": 0,
+          "username": "lizhiquu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999429943059706215",
+    "in_reply_to_user_id": "1962369612366172160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999422978053083204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizhiquu 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1999409324825907424",
+        "created_at": "2025-12-12T10:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999429943059706215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962369612366172160",
+              "start": 0,
+              "username": "lizhiquu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999429943059706215",
+        "in_reply_to_user_id": "1962369612366172160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999422978053083204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizhiquu 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962369612366172160",
+        "conversation_id": "1999409324825907424",
+        "created_at": "2025-12-12T10:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999422978053083204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999422978053083204",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999409324825907424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 这我真喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注祝你 天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8058,
+          "following_count": 152,
+          "like_count": 5663,
+          "listed_count": 8,
+          "media_count": 552,
+          "tweet_count": 4550
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T04:19:19.000Z",
+        "description": "叫我小荔枝｜infp｜已过大叔 熊二 日理万姬认证｜不喜欢的私信会骂回去｜有🚪验证20r 不收口令｜高强度在线等你互关｜过去式@xinttoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "xinttoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinttoo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinttoo1",
+                "start": 0,
+                "url": "https://t.co/KTzRwzyFyN"
+              }
+            ]
+          }
+        },
+        "id": "1962369612366172160",
+        "location": "匿名发发发➡️",
+        "name": "荔枝雾（强势回归）",
+        "pinned_tweet_id": "1998980620194820421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998979152305848320/-M9erb6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2485,
+          "following_count": 150,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/KTzRwzyFyN",
+        "username": "lizhiquu",
+        "verified": false
+      }
+    ]
+  }
+}

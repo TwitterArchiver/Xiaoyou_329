@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074333994045652992"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2074334015360999747",
+    "created_at": "2026-07-07T03:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074334015360999747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XQAmKg8ADZ",
+          "end": 54,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2074334015360999747/photo/1",
+          "media_key": "3_2074333994045652992",
+          "start": 31,
+          "url": "https://t.co/XQAmKg8ADZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074334015360999747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这简直是我目前p过最满意的一张照片…我想穿新衣服出去玩啊啊啊 https://t.co/XQAmKg8ADZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074333994045652992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmDxvybwAAQ99P.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074333994045652992"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2074334015360999747",
+        "created_at": "2026-07-07T03:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074334015360999747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQAmKg8ADZ",
+              "end": 54,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2074334015360999747/photo/1",
+              "media_key": "3_2074333994045652992",
+              "start": 31,
+              "url": "https://t.co/XQAmKg8ADZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074334015360999747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这简直是我目前p过最满意的一张照片…我想穿新衣服出去玩啊啊啊 https://t.co/XQAmKg8ADZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16991,
+          "following_count": 183,
+          "like_count": 7696,
+          "listed_count": 20,
+          "media_count": 919,
+          "tweet_count": 7209
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

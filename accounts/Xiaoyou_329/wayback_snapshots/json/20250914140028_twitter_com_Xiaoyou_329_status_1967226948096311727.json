@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967226930593247233"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967175339601530993",
+    "created_at": "2025-09-14T14:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T15:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967226948096311727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937191223313465346",
+          "start": 0,
+          "username": "MoKong54748"
+        },
+        {
+          "end": 22,
+          "id": "1490941014030561283",
+          "start": 13,
+          "username": "redaizhu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/befCTN8FFk",
+          "end": 79,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1967226948096311727/photo/1",
+          "media_key": "3_1967226930593247233",
+          "start": 56,
+          "url": "https://t.co/befCTN8FFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967226948096311727",
+    "in_reply_to_user_id": "1937191223313465346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967175339601530993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoKong54748 @redaizhu 老公你咋这么宠粉…(｡ì _ í｡)好喜欢你呀嘿嘿 好美味的饭… https://t.co/befCTN8FFk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1022,
+        "media_key": "3_1967226930593247233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0z-eHaXsAE3JBm.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 76300,
+        "height": 720,
+        "media_key": "13_1967175136945328129",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967175136945328129/img/Hd5h3URmCUmv5RPu.jpg",
+        "public_metrics": {
+          "view_count": 449
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967175136945328129/vid/avc1/360x270/pKGfj6zH3z5TvE3z.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967175136945328129/vid/avc1/480x360/qTfDkbYhEMg26bDB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967175136945328129/vid/avc1/960x720/3gCrkuW36xnzDTen.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967175136945328129/pl/Tw0IfdypsASj4h-o.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967226930593247233"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967175339601530993",
+        "created_at": "2025-09-14T14:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T15:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967226948096311727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937191223313465346",
+              "start": 0,
+              "username": "MoKong54748"
+            },
+            {
+              "end": 22,
+              "id": "1490941014030561283",
+              "start": 13,
+              "username": "redaizhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/befCTN8FFk",
+              "end": 79,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1967226948096311727/photo/1",
+              "media_key": "3_1967226930593247233",
+              "start": 56,
+              "url": "https://t.co/befCTN8FFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967226948096311727",
+        "in_reply_to_user_id": "1937191223313465346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967175339601530993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoKong54748 @redaizhu 老公你咋这么宠粉…(｡ì _ í｡)好喜欢你呀嘿嘿 好美味的饭… https://t.co/befCTN8FFk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967175136945328129"
+          ]
+        },
+        "author_id": "1937191223313465346",
+        "conversation_id": "1967175339601530993",
+        "created_at": "2025-09-14T10:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967175339601530993"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男喘"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "女性向"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "青叔音"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1490941014030561283",
+              "start": 4,
+              "username": "redaizhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEKhQ3S45x",
+              "end": 52,
+              "expanded_url": "https://x.com/MoKong54748/status/1967175339601530993/video/1",
+              "media_key": "13_1967175136945328129",
+              "start": 29,
+              "url": "https://t.co/tEKhQ3S45x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967175339601530993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1126,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台本老师@redaizhu \n#男喘 #女性向 #青叔音 https://t.co/tEKhQ3S45x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 110,
+          "like_count": 1442,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 1778
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T16:49:32.000Z",
+        "description": "接陪玩陪聊 🚪99                                                         匿名📭 https://t.co/bj1ZokwLvP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%AE%8769874",
+                "end": 93,
+                "expanded_url": "https://ngl.link/%E5%AE%8769874",
+                "start": 70,
+                "url": "https://t.co/bj1ZokwLvP"
+              }
+            ]
+          }
+        },
+        "id": "1937191223313465346",
+        "location": "哈尔滨",
+        "name": "宇",
+        "pinned_tweet_id": "1953396256857813435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945653669405290496/s32b-8uD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7413,
+          "following_count": 28,
+          "like_count": 44,
+          "listed_count": 13,
+          "media_count": 46,
+          "tweet_count": 295
+        },
+        "username": "MoKong54748",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T06:50:26.000Z",
+        "description": "不喜欢屏蔽就好了    祝大家天天开心啦   匿名箱📭:https://t.co/f0Oh2hS41M   生活号  @kaixinyao0987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "kaixinyao0987"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/goujuanjii",
+                "end": 51,
+                "expanded_url": "http://ngl.link/goujuanjii",
+                "start": 28,
+                "url": "https://t.co/f0Oh2hS41M"
+              }
+            ]
+          }
+        },
+        "id": "1490941014030561283",
+        "name": "热带猪🌙",
+        "pinned_tweet_id": "1963804763889254400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875558956464271365/jS3Awz6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45877,
+          "following_count": 111,
+          "like_count": 32209,
+          "listed_count": 58,
+          "media_count": 1909,
+          "tweet_count": 5525
+        },
+        "username": "redaizhu",
+        "verified": false
+      }
+    ]
+  }
+}

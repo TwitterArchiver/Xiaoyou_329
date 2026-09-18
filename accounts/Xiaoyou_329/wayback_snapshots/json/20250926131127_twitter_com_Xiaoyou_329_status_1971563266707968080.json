@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1971562475226358131",
+    "created_at": "2025-09-26T13:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T14:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971563266707968080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942095076932698112",
+          "start": 0,
+          "username": "kiko179352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971563266707968080",
+    "in_reply_to_user_id": "1942095076932698112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971562475226358131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiko179352 居然是吃醋吗…那我今晚不得不…😋😋😋抱歉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 501643,
+        "height": 1920,
+        "media_key": "13_1971562313296879616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971562313296879616/img/FR01Ra6SMtS15GAQ.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971562313296879616/vid/avc1/320x320/x7OJS9OQ9y_6eFyQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971562313296879616/vid/avc1/540x540/t6SOHJu_s6TVTUhs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971562313296879616/vid/avc1/720x720/SnAlaOdimxQWFgyC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971562313296879616/pl/7QYKHAzd8_JPk1MJ.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1971562475226358131",
+        "created_at": "2025-09-26T13:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T14:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971563266707968080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942095076932698112",
+              "start": 0,
+              "username": "kiko179352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971563266707968080",
+        "in_reply_to_user_id": "1942095076932698112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971562475226358131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiko179352 居然是吃醋吗…那我今晚不得不…😋😋😋抱歉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971562313296879616"
+          ]
+        },
+        "author_id": "1942095076932698112",
+        "conversation_id": "1971562475226358131",
+        "created_at": "2025-09-26T13:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T14:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971562475226358131"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "男喘"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "反攻"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "女性向"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "男喘台本"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "青受音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKLAQafqZz",
+              "end": 93,
+              "expanded_url": "https://x.com/kiko179352/status/1971562475226358131/video/1",
+              "media_key": "13_1971562313296879616",
+              "start": 70,
+              "url": "https://t.co/xKLAQafqZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971562475226358131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 38,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【switch转换_吃醋反攻】\n“我还不如你以前的狗...？”\n“你说什么？”\n#男喘 #手冲实录 #反攻 #女性向 #男喘台本 #青受音 https://t.co/xKLAQafqZz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 123,
+          "like_count": 2017,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 2366
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T05:35:41.000Z",
+        "description": "01♉｜欢迎私信找我聊天｜四爱是工作，一爱是生活｜接🥣＆音声定制\n｜匿名📭：https://t.co/ZslE3A7yVA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiko17935268245",
+                "end": 61,
+                "expanded_url": "https://ngl.link/kiko17935268245",
+                "start": 38,
+                "url": "https://t.co/ZslE3A7yVA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiko179352.fanbox.cc",
+                "end": 23,
+                "expanded_url": "http://kiko179352.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/8xCuRGFOKR"
+              }
+            ]
+          }
+        },
+        "id": "1942095076932698112",
+        "location": "🚪88/188/588（推广自辨）",
+        "name": "小贩熊",
+        "pinned_tweet_id": "1965274421146644962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965289005244923904/CMvAStun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12032,
+          "following_count": 100,
+          "like_count": 8092,
+          "listed_count": 11,
+          "media_count": 124,
+          "tweet_count": 2339
+        },
+        "url": "https://t.co/8xCuRGFOKR",
+        "username": "kiko179352",
+        "verified": false
+      }
+    ]
+  }
+}

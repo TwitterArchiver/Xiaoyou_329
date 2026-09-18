@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2000192346999185440",
+    "created_at": "2025-12-14T13:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T14:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000199912550543567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1954395835573379072",
+          "start": 0,
+          "username": "rukyomi08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000199912550543567",
+    "in_reply_to_user_id": "1954395835573379072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000199516004171974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rukyomi08 教主偶想你了T T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2000192346999185440",
+        "created_at": "2025-12-14T13:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T14:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000199912550543567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1954395835573379072",
+              "start": 0,
+              "username": "rukyomi08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000199912550543567",
+        "in_reply_to_user_id": "1954395835573379072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000199516004171974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rukyomi08 教主偶想你了T T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954395835573379072",
+        "conversation_id": "2000192346999185440",
+        "created_at": "2025-12-14T13:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T14:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000199516004171974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000199516004171974",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000192346999185440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 小由我陪你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8112,
+          "following_count": 151,
+          "like_count": 5720,
+          "listed_count": 8,
+          "media_count": 547,
+          "tweet_count": 4562
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T04:14:31.000Z",
+        "description": "喜欢善良有礼貌的人｜眼熟的会回关",
+        "id": "1954395835573379072",
+        "name": "纯爱派教主",
+        "pinned_tweet_id": "1994652906059174095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954395916275982336/o_0oa1mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 176,
+          "like_count": 1729,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 2045
+        },
+        "username": "rukyomi08",
+        "verified": false
+      }
+    ]
+  }
+}

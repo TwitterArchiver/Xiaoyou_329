@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072482002616655872"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2072482014515892377",
+    "created_at": "2026-07-02T00:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T01:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072482014515892377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/57mV2WYS1S",
+          "end": 67,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2072482014515892377/photo/1",
+          "media_key": "3_2072482002616655872",
+          "start": 44,
+          "url": "https://t.co/57mV2WYS1S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072482014515892377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯呀！欢迎收看小由变形记好不好（。•ω -)ε •  。）我真的将要研究一下穿搭嗯对！ https://t.co/57mV2WYS1S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2072482002616655872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLvZqFbIAAiCzB.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072482002616655872"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2072482014515892377",
+        "created_at": "2026-07-02T00:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T01:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072482014515892377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/57mV2WYS1S",
+              "end": 67,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2072482014515892377/photo/1",
+              "media_key": "3_2072482002616655872",
+              "start": 44,
+              "url": "https://t.co/57mV2WYS1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072482014515892377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯呀！欢迎收看小由变形记好不好（。•ω -)ε •  。）我真的将要研究一下穿搭嗯对！ https://t.co/57mV2WYS1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17007,
+          "following_count": 178,
+          "like_count": 7683,
+          "listed_count": 20,
+          "media_count": 890,
+          "tweet_count": 7118
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

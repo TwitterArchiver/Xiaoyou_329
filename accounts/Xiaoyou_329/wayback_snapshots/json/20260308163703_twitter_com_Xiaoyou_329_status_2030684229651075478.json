@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2030482606291046821",
+    "created_at": "2026-03-08T16:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T17:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030684229651075478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1973034614882279424",
+          "start": 0,
+          "username": "zzh1869388"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030684229651075478",
+    "in_reply_to_user_id": "1973034614882279424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030489326912708928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzh1869388 好。！我一定会更新我的减肥计划的…！感谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2030482606291046821",
+        "created_at": "2026-03-08T16:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030684229651075478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1973034614882279424",
+              "start": 0,
+              "username": "zzh1869388"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030684229651075478",
+        "in_reply_to_user_id": "1973034614882279424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030489326912708928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzh1869388 好。！我一定会更新我的减肥计划的…！感谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973034614882279424",
+        "conversation_id": "2030482606291046821",
+        "created_at": "2026-03-08T03:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030489326912708928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030489326912708928",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030482606291046821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 首先：少摄入盐分，每顿饭尽量干净一些，少油少盐，一周可以有一天的放纵餐，放纵餐想怎么吃都行，运动肯定是要的，可以找附近健身房或者是不去健身房跑跑步也可以，健身房跑步机设置，10-12度斜坡，4-5的跑速，爬坡有氧一天控制在40-50分钟，一星期内不能超过6个小时的有氧，在其他下一个月和你讲加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13077,
+          "following_count": 163,
+          "like_count": 6944,
+          "listed_count": 19,
+          "media_count": 726,
+          "tweet_count": 5842
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T14:38:14.000Z",
+        "description": "",
+        "id": "1973034614882279424",
+        "name": "z zh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030349166996811776/4ngy_hoB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 73,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "username": "zzh1869388",
+        "verified": false
+      }
+    ]
+  }
+}

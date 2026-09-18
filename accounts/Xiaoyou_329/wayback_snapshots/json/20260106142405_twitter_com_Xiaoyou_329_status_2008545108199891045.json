@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2008515780082885049",
+    "created_at": "2026-01-06T14:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T15:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008545108199891045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845323058556567554",
+          "start": 0,
+          "username": "JM7NT1oUDH99807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008545108199891045",
+    "in_reply_to_user_id": "1845323058556567554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008542983009038778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JM7NT1oUDH99807 好多事情呀…根本说不清楚…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2008515780082885049",
+        "created_at": "2026-01-06T14:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008545108199891045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845323058556567554",
+              "start": 0,
+              "username": "JM7NT1oUDH99807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008545108199891045",
+        "in_reply_to_user_id": "1845323058556567554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008542983009038778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JM7NT1oUDH99807 好多事情呀…根本说不清楚…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845323058556567554",
+        "conversation_id": "2008515780082885049",
+        "created_at": "2026-01-06T14:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008542983009038778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008542983009038778",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008515780082885049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 吵什么啊，感觉你过得比我还糟糕呢怎么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 谢谢你愿意留下来了解我 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8736,
+          "following_count": 154,
+          "like_count": 6024,
+          "listed_count": 10,
+          "media_count": 576,
+          "tweet_count": 4830
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T04:38:04.000Z",
+        "description": "就像能闭气一分钟的人在水下待了一分钟后想透出水面换气时被人强行按了下去一样窒息和压抑。",
+        "id": "1845323058556567554",
+        "location": "江苏",
+        "name": "自来也",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965209273878843392/OcrA0WVP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 326,
+          "like_count": 3390,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1650
+        },
+        "username": "JM7NT1oUDH99807",
+        "verified": false
+      }
+    ]
+  }
+}

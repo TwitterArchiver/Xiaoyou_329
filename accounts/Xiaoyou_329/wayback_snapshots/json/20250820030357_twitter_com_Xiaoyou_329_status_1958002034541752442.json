@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957993606473478524",
+    "created_at": "2025-08-20T03:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T04:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958002034541752442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1932473903408160768",
+          "start": 0,
+          "username": "ivblune1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958002034541752442",
+    "in_reply_to_user_id": "1932473903408160768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957993606473478524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivblune1 完蛋了😭我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1957993606473478524",
+        "created_at": "2025-08-20T03:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T04:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958002034541752442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932473903408160768",
+              "start": 0,
+              "username": "ivblune1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958002034541752442",
+        "in_reply_to_user_id": "1932473903408160768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957993606473478524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivblune1 完蛋了😭我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932473903408160768",
+        "conversation_id": "1957993606473478524",
+        "created_at": "2025-08-20T02:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T03:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957993606473478524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957993606473478524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋。。我的恋年上癖治不好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)当朋友圈发…不约炮…喜欢发一些身材照…我是双性恋…陌生人发私信不回…",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 70,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 411
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T16:24:29.000Z",
+        "description": "恭喜你发现了全世界最可爱的小博主啦",
+        "id": "1932473903408160768",
+        "name": "4ever",
+        "pinned_tweet_id": "1956750462306160843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932474155359719424/0wTds96y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 149,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 475
+        },
+        "username": "ivblune1",
+        "verified": false
+      }
+    ]
+  }
+}

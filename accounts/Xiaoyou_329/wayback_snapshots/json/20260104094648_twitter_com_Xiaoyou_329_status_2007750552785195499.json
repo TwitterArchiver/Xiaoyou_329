@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2007748415648944562",
+    "created_at": "2026-01-04T09:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T10:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007750552785195499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1954395835573379072",
+          "start": 0,
+          "username": "rukyomi08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007750552785195499",
+    "in_reply_to_user_id": "1954395835573379072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007750294667657569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rukyomi08 感觉很睿智！好萌吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2007748415648944562",
+        "created_at": "2026-01-04T09:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007750552785195499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1954395835573379072",
+              "start": 0,
+              "username": "rukyomi08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007750552785195499",
+        "in_reply_to_user_id": "1954395835573379072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007750294667657569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rukyomi08 感觉很睿智！好萌吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954395835573379072",
+        "conversation_id": "2007748415648944562",
+        "created_at": "2026-01-04T09:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007750294667657569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007750294667657569",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007749253490520302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 叫聪明（但它和这两个字没一个沾边的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 谢谢你愿意留下来了解我 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8697,
+          "following_count": 154,
+          "like_count": 5977,
+          "listed_count": 10,
+          "media_count": 574,
+          "tweet_count": 4771
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T04:14:31.000Z",
+        "description": "喜欢善良有礼貌的人｜眼熟的会回关",
+        "id": "1954395835573379072",
+        "name": "纯爱派教主",
+        "pinned_tweet_id": "1994652906059174095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954395916275982336/o_0oa1mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 183,
+          "like_count": 1906,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 2290
+        },
+        "username": "rukyomi08",
+        "verified": false
+      }
+    ]
+  }
+}

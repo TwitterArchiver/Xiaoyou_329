@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962471484376699244",
+    "created_at": "2025-09-01T11:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T12:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962475560543629359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1584510313172414464",
+          "start": 0,
+          "username": "whonntao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962475560543629359",
+    "in_reply_to_user_id": "1584510313172414464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962471484376699244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whonntao 鼠鼠我怎么看不见你的ngl链接。（ ;  ; ）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 194860,
+        "height": 1280,
+        "media_key": "13_1962471229044277248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962471229044277248/img/zvPTt7vU6WVROHCS.jpg",
+        "public_metrics": {
+          "view_count": 38
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962471229044277248/vid/avc1/320x694/9sLViWQBMOVJdbxR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962471229044277248/vid/avc1/480x1040/GOEW_2AnTehKsv84.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962471229044277248/vid/avc1/590x1280/96d9srltM4R6g7Oi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962471229044277248/pl/sPd94-18WhNPTtPy.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962471484376699244",
+        "created_at": "2025-09-01T11:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962475560543629359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1584510313172414464",
+              "start": 0,
+              "username": "whonntao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962475560543629359",
+        "in_reply_to_user_id": "1584510313172414464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962471484376699244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whonntao 鼠鼠我怎么看不见你的ngl链接。（ ;  ; ）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962471229044277248"
+          ]
+        },
+        "author_id": "1584510313172414464",
+        "conversation_id": "1962471484376699244",
+        "created_at": "2025-09-01T11:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962471484376699244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVY7JFAD0U",
+              "end": 41,
+              "expanded_url": "https://x.com/whonntao/status/1962471484376699244/video/1",
+              "media_key": "13_1962471229044277248",
+              "start": 18,
+              "url": "https://t.co/tVY7JFAD0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962471484376699244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ngl 我又来re了，欢迎大家来听 https://t.co/tVY7JFAD0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…｜梦想是去一次海边",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 100,
+          "like_count": 897,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1012
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T11:41:24.000Z",
+        "description": "世界麦当劳测评美食家/异性恋/会发一些写的文，一些赛博云游，一些碎碎念",
+        "id": "1584510313172414464",
+        "location": "Fujian",
+        "name": "鼠鼠鼠了",
+        "pinned_tweet_id": "1961716880349208953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958526460622434304/IwLhuOPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 419,
+          "like_count": 4417,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 2015
+        },
+        "username": "whonntao",
+        "verified": false
+      }
+    ]
+  }
+}

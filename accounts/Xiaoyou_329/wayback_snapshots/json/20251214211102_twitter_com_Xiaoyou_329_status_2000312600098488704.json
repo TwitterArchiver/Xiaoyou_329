@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2000311847233417422",
+    "created_at": "2025-12-14T21:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T22:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000312600098488704"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "萌萌萌萌萌萌",
+          "probability": 0.4264,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816042391604015104",
+          "start": 0,
+          "username": "tao1865453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000312600098488704",
+    "in_reply_to_user_id": "1816042391604015104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000311847233417422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tao1865453 萌萌萌萌萌萌"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2000311847233417422].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2000311847233417422",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2000311847233417422"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2000311847233417422",
+        "created_at": "2025-12-14T21:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T22:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000312600098488704"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "萌萌萌萌萌萌",
+              "probability": 0.4264,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816042391604015104",
+              "start": 0,
+              "username": "tao1865453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000312600098488704",
+        "in_reply_to_user_id": "1816042391604015104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000311847233417422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tao1865453 萌萌萌萌萌萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8127,
+          "following_count": 152,
+          "like_count": 5731,
+          "listed_count": 8,
+          "media_count": 550,
+          "tweet_count": 4570
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T09:27:10.000Z",
+        "description": "07 双鱼女 人不好脾气坏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=wFHzjTH0",
+                "start": 0,
+                "url": "https://t.co/2jN9lIX0t1"
+              }
+            ]
+          }
+        },
+        "id": "1816042391604015104",
+        "location": "有🚪 不过勿扰喵",
+        "name": "玩具",
+        "pinned_tweet_id": "1992243266214142364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999852703061831681/jZPgDSqd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 12107,
+          "following_count": 261,
+          "like_count": 13835,
+          "listed_count": 8,
+          "media_count": 176,
+          "tweet_count": 5129
+        },
+        "url": "https://t.co/2jN9lIX0t1",
+        "username": "tao1865453",
+        "verified": false
+      }
+    ]
+  }
+}

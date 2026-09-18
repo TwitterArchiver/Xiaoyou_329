@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1958578387938660813",
+    "created_at": "2025-08-21T17:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T18:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958584080398000522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1955305109660835847",
+          "start": 0,
+          "username": "zybzyb195997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958584080398000522",
+    "in_reply_to_user_id": "1955305109660835847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958579050815136259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zybzyb195997 2我不缺人和我处对象我缺的是一个我喜欢的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1958578387938660813",
+        "created_at": "2025-08-21T17:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T18:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958584080398000522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1955305109660835847",
+              "start": 0,
+              "username": "zybzyb195997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958584080398000522",
+        "in_reply_to_user_id": "1955305109660835847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958579050815136259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zybzyb195997 2我不缺人和我处对象我缺的是一个我喜欢的人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955305109660835847",
+        "conversation_id": "1958578387938660813",
+        "created_at": "2025-08-21T17:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T18:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958579050815136259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958579050815136259",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958578387938660813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 扣1主包和你处"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 71,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 495
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T16:28:30.000Z",
+        "description": "https://t.co/aj7o3oOuuy喜欢臭屌丝来的就来找我聊天吧",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/swndhdjw",
+                "end": 23,
+                "expanded_url": "http://t.me/swndhdjw",
+                "start": 0,
+                "url": "https://t.co/aj7o3oOuuy"
+              }
+            ]
+          }
+        },
+        "id": "1955305109660835847",
+        "location": "America",
+        "name": "handsome",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955661036503080963/Rzeejkdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 32,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 197
+        },
+        "username": "zybzyb195997",
+        "verified": false
+      }
+    ]
+  }
+}

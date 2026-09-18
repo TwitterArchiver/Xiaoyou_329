@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1996893018847097282",
+    "created_at": "2025-12-05T10:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T11:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996897000131121515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1973280566213853184",
+          "start": 0,
+          "username": "shenyi919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996897000131121515",
+    "in_reply_to_user_id": "1973280566213853184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996896718970147273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenyi919 那好吧！嗯对！那就恩将仇报抽你给我报销晚饭。对实则不然这期是开玩笑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996893018847097282",
+        "created_at": "2025-12-05T10:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996897000131121515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1973280566213853184",
+              "start": 0,
+              "username": "shenyi919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996897000131121515",
+        "in_reply_to_user_id": "1973280566213853184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996896718970147273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenyi919 那好吧！嗯对！那就恩将仇报抽你给我报销晚饭。对实则不然这期是开玩笑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973280566213853184",
+        "conversation_id": "1996893018847097282",
+        "created_at": "2025-12-05T10:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996896718970147273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996896718970147273",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996896532428476622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 那很幸福了，人生就是吃吃喝喝玩玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜感谢关注祝你 天天开心！｜诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8005,
+          "following_count": 157,
+          "like_count": 5483,
+          "listed_count": 8,
+          "media_count": 529,
+          "tweet_count": 4381
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T06:57:31.000Z",
+        "description": "这里空空的，什么都没有～",
+        "id": "1973280566213853184",
+        "name": "顾亭谌一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973290379886862340/AgoVrkxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "shenyi919",
+        "verified": false
+      }
+    ]
+  }
+}

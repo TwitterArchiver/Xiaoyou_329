@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1958567230058504210",
+    "created_at": "2025-08-21T17:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T18:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958576437725655379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1954395835573379072",
+          "start": 0,
+          "username": "rukyomi08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958576437725655379",
+    "in_reply_to_user_id": "1954395835573379072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958567230058504210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rukyomi08 我也想玩！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11300,
+        "height": 720,
+        "media_key": "13_1958567157971001348",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958567157971001348/img/SCJomHF19Vqu76Oy.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958567157971001348/vid/avc1/480x270/iZFLTr3c04nncbxs.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958567157971001348/vid/avc1/640x360/8LJVUyUAo1XQxUO1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958567157971001348/vid/avc1/1280x720/O1Pk846JBJ3IqNe-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958567157971001348/pl/egmajAB1s4oM5KIS.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1958567230058504210",
+        "created_at": "2025-08-21T17:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T18:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958576437725655379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1954395835573379072",
+              "start": 0,
+              "username": "rukyomi08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958576437725655379",
+        "in_reply_to_user_id": "1954395835573379072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958567230058504210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rukyomi08 我也想玩！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1958567157971001348"
+          ]
+        },
+        "author_id": "1954395835573379072",
+        "conversation_id": "1958567230058504210",
+        "created_at": "2025-08-21T16:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T17:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958567230058504210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1o00NMf1oR",
+              "end": 33,
+              "expanded_url": "https://x.com/rukyomi08/status/1958567230058504210/video/1",
+              "media_key": "13_1958567157971001348",
+              "start": 10,
+              "url": "https://t.co/1o00NMf1oR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958567230058504210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜们asmr来了 https://t.co/1o00NMf1oR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 71,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 488
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T04:14:31.000Z",
+        "description": "喜欢善良有礼貌的人｜女孩子都会回关｜男孩子发消息之前先给我打钱",
+        "id": "1954395835573379072",
+        "name": "纯爱派教主",
+        "pinned_tweet_id": "1956797869907988807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954395916275982336/o_0oa1mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 118,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1067
+        },
+        "username": "rukyomi08",
+        "verified": false
+      }
+    ]
+  }
+}

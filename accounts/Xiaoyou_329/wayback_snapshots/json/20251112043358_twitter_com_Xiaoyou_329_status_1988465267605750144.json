@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1988426370742186494",
+    "created_at": "2025-11-12T04:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T05:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988465267605750144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1609816524336017408",
+          "start": 0,
+          "username": "Ens_earabbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988465267605750144",
+    "in_reply_to_user_id": "1609816524336017408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988426370742186494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ens_earabbi 我喜欢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1988426370742186494",
+        "created_at": "2025-11-12T04:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T05:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988465267605750144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1609816524336017408",
+              "start": 0,
+              "username": "Ens_earabbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988465267605750144",
+        "in_reply_to_user_id": "1609816524336017408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988426370742186494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ens_earabbi 我喜欢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609816524336017408",
+        "conversation_id": "1988426370742186494",
+        "created_at": "2025-11-12T01:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T02:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988426370742186494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988426370742186494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我喜欢你日 大家要互相说我喜欢你 先别管有没有这个节日 总之你要说喜欢我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5333,
+          "following_count": 148,
+          "like_count": 4183,
+          "listed_count": 4,
+          "media_count": 436,
+          "tweet_count": 3539
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T07:39:25.000Z",
+        "description": "零零/乌乌｜想跟我聊天先给我打钱 推广自辨｜欢迎妹子来私信找我互关｜🚪88/188",
+        "id": "1609816524336017408",
+        "location": "一个不会寂寞不会痛苦的星球上",
+        "name": "真理零零乌",
+        "pinned_tweet_id": "1984211211966427478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987892665804103680/k16R8Qbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 322,
+          "like_count": 7188,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 4112
+        },
+        "username": "Ens_earabbi",
+        "verified": false
+      }
+    ]
+  }
+}

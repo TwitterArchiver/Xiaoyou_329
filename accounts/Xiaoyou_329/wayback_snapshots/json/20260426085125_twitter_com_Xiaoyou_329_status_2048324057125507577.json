@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2048279390308671785",
+    "created_at": "2026-04-26T08:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048324057125507577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048064318499905536",
+          "start": 0,
+          "username": "gsyshhsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048324057125507577",
+    "in_reply_to_user_id": "2048064318499905536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048297644171104268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gsyshhsh 这个要去检查什么的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2048279390308671785",
+        "created_at": "2026-04-26T08:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048324057125507577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048064318499905536",
+              "start": 0,
+              "username": "gsyshhsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048324057125507577",
+        "in_reply_to_user_id": "2048064318499905536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048297644171104268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsyshhsh 这个要去检查什么的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048064318499905536",
+        "conversation_id": "2048279390308671785",
+        "created_at": "2026-04-26T07:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048297644171104268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048297644171104268",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048279390308671785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 简单一点，就直接说抑郁症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13728,
+          "following_count": 163,
+          "like_count": 7417,
+          "listed_count": 20,
+          "media_count": 817,
+          "tweet_count": 6429
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T15:39:36.000Z",
+        "description": "",
+        "id": "2048064318499905536",
+        "name": "三月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048065714741809152/NwRXqkMq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 28,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "gsyshhsh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1977028077814530469",
+    "created_at": "2025-10-11T15:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T16:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977033748710670847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946927130501120000",
+          "start": 0,
+          "username": "Xiaowu__111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977033748710670847",
+    "in_reply_to_user_id": "1946927130501120000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977033056340131968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaowu__111 蒽。不知道吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1977028077814530469",
+        "created_at": "2025-10-11T15:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T16:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977033748710670847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946927130501120000",
+              "start": 0,
+              "username": "Xiaowu__111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977033748710670847",
+        "in_reply_to_user_id": "1946927130501120000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977033056340131968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaowu__111 蒽。不知道吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946927130501120000",
+        "conversation_id": "1977028077814530469",
+        "created_at": "2025-10-11T15:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T16:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977033056340131968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977033056340131968",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977028077814530469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 哪里有军火"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜爱搞抽象的普通人 请别打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1975791841409966295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 131,
+          "like_count": 2660,
+          "listed_count": 2,
+          "media_count": 382,
+          "tweet_count": 2763
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T13:36:32.000Z",
+        "description": "选择性接陪🥣 （陪聊/哄睡 没有卡）我只是一个爱玩抽象的普通人 不要对我带滤镜   新人男喘 暂时无🚪   不加V",
+        "id": "1946927130501120000",
+        "name": "小五",
+        "pinned_tweet_id": "1972269962581753912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948800124420775936/KiLLLXii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9547,
+          "following_count": 43,
+          "like_count": 626,
+          "listed_count": 14,
+          "media_count": 92,
+          "tweet_count": 383
+        },
+        "username": "Xiaowu__111",
+        "verified": false
+      }
+    ]
+  }
+}

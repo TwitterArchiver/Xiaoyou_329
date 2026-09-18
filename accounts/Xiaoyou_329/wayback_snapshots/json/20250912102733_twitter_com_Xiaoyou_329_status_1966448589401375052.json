@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1966444889266160028",
+    "created_at": "2025-09-12T10:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T11:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966448589401375052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951924850148380672",
+          "start": 0,
+          "username": "LHn6AcK55f64748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966448589401375052",
+    "in_reply_to_user_id": "1951924850148380672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966444889266160028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LHn6AcK55f64748 笑的我受不了了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1966444889266160028",
+        "created_at": "2025-09-12T10:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966448589401375052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951924850148380672",
+              "start": 0,
+              "username": "LHn6AcK55f64748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966448589401375052",
+        "in_reply_to_user_id": "1951924850148380672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966444889266160028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LHn6AcK55f64748 笑的我受不了了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951924850148380672",
+        "conversation_id": "1966444889266160028",
+        "created_at": "2025-09-12T10:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966444889266160028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "紫罗兰.’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1LyxB…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1LyxBXVLRAzGN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1966444931641180162/9pFI5Qzo?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966444931641180162/9pFI5Qzo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 为啥没人开sps",
+              "unwound_url": "https://twitter.com/i/spaces/1LyxBXVLRAzGN/peek",
+              "url": "https://t.co/XxokxV70a2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966444889266160028",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XxokxV70a2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 101,
+          "like_count": 1349,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 1642
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T08:35:42.000Z",
+        "description": "infp|白羊|正太音|想做男喘因为声音难听而放弃.没学会ps.放弃成为粉牛黄推.现在在努力出道成为歌手.",
+        "id": "1951924850148380672",
+        "name": "紫罗兰.",
+        "pinned_tweet_id": "1956367715805073777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955145753623732224/nd7Qqu4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 155,
+          "like_count": 1968,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 342
+        },
+        "username": "LHn6AcK55f64748",
+        "verified": false
+      }
+    ]
+  }
+}

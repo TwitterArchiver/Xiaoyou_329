@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1959586919215693824"
+      ],
+      "media_source_tweet_id": [
+        "1959587546704576985"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1971588981948399702",
+    "created_at": "2025-09-26T14:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T15:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971588981948399702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1146090411942793216",
+          "start": 3,
+          "username": "tapam586mjmg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qz2gvU7A7g",
+          "end": 75,
+          "expanded_url": "https://x.com/tapam586mjmg/status/1959587546704576985/video/1",
+          "media_key": "13_1959586919215693824",
+          "start": 52,
+          "url": "https://t.co/qz2gvU7A7g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971588981948399702",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1263
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959587546704576985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tapam586mjmg: 【クリ舐め好きな人向け】\nおっきめのクリをチロ舐めしたり吸ったり。 https://t.co/qz2gvU7A7g"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1971588981948399702].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1971588981948399702",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1971588981948399702"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 86353,
+        "height": 884,
+        "media_key": "13_1959586919215693824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959586919215693824/img/bmrZ_LFeiDbH0zMN.jpg",
+        "public_metrics": {
+          "view_count": 270956
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959586919215693824/vid/avc1/320x574/DOIKAmSPw1V88Kqi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959586919215693824/vid/avc1/492x884/0i0GK6lY-QP9s8jg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959586919215693824/pl/nKTQcY_EKPiPgktu.m3u8"
+          }
+        ],
+        "width": 492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959586919215693824"
+          ]
+        },
+        "author_id": "1146090411942793216",
+        "conversation_id": "1959587546704576985",
+        "created_at": "2025-08-24T12:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959587546704576985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qz2gvU7A7g",
+              "end": 57,
+              "expanded_url": "https://x.com/tapam586mjmg/status/1959587546704576985/video/1",
+              "media_key": "13_1959586919215693824",
+              "start": 34,
+              "url": "https://t.co/qz2gvU7A7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959587546704576985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4985,
+          "impression_count": 597177,
+          "like_count": 12324,
+          "quote_count": 19,
+          "reply_count": 6,
+          "retweet_count": 1263
+        },
+        "reply_settings": "everyone",
+        "text": "【クリ舐め好きな人向け】\nおっきめのクリをチロ舐めしたり吸ったり。 https://t.co/qz2gvU7A7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 123,
+          "like_count": 2040,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 2381
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-02T16:17:02.000Z",
+        "description": "クンニ、全身リップ専用垢。性癖喋りあいたい。たまに舐め撮り。こっちは過激→@jadPg5mmk DM送れない方はインスタにDMください→ https://t.co/h2stEqU1mW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "jadPg5mmk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/dra.ka.dd?igsh…",
+                "end": 92,
+                "expanded_url": "https://instagram.com/dra.ka.dd?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 69,
+                "url": "https://t.co/h2stEqU1mW"
+              }
+            ]
+          }
+        },
+        "id": "1146090411942793216",
+        "name": "カヲル🐶",
+        "pinned_tweet_id": "1334144861130215431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1323470388316139525/r1YWq1yO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47124,
+          "following_count": 347,
+          "like_count": 666,
+          "listed_count": 259,
+          "media_count": 320,
+          "tweet_count": 1367
+        },
+        "username": "tapam586mjmg",
+        "verified": false
+      }
+    ]
+  }
+}

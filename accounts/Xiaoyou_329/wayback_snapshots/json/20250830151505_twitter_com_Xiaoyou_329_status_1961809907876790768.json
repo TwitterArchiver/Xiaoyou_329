@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961656433964961906",
+    "created_at": "2025-08-30T15:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T16:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961809907876790768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943566199885049856",
+          "start": 0,
+          "username": "shi_cao88464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961809907876790768",
+    "in_reply_to_user_id": "1943566199885049856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961803691176120515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shi_cao88464 我不喜欢那种大男子主义和精神男人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961656433964961906",
+        "created_at": "2025-08-30T15:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961809907876790768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1943566199885049856",
+              "start": 0,
+              "username": "shi_cao88464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961809907876790768",
+        "in_reply_to_user_id": "1943566199885049856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961803691176120515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shi_cao88464 我不喜欢那种大男子主义和精神男人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943566199885049856",
+        "conversation_id": "1961656433964961906",
+        "created_at": "2025-08-30T14:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961803691176120515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961803691176120515",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961656433964961906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 98,
+          "like_count": 853,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 884
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T07:05:28.000Z",
+        "description": "红色的鼠仔",
+        "id": "1943566199885049856",
+        "name": "丑逼克星.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958872376063795205/-4KSHoNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 5,
+          "like_count": 1499,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 410
+        },
+        "username": "shi_cao88464",
+        "verified": false
+      }
+    ]
+  }
+}

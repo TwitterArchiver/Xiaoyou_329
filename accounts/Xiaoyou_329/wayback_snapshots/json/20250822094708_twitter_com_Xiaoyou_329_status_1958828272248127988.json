@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1958823854710636782",
+    "created_at": "2025-08-22T09:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T10:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958828272248127988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1932473903408160768",
+          "start": 0,
+          "username": "ivblune1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958828272248127988",
+    "in_reply_to_user_id": "1932473903408160768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958826128552206413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivblune1 我也喜欢你宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1958823854710636782",
+        "created_at": "2025-08-22T09:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T10:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958828272248127988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932473903408160768",
+              "start": 0,
+              "username": "ivblune1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958828272248127988",
+        "in_reply_to_user_id": "1932473903408160768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958826128552206413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivblune1 我也喜欢你宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932473903408160768",
+        "conversation_id": "1958823854710636782",
+        "created_at": "2025-08-22T09:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T10:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958826128552206413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958826128552206413",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958823854710636782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 喜欢小由&gt;&lt;！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 72,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 510
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T16:24:29.000Z",
+        "description": "恭喜你发现了全世界最可爱的小博主啦｜匿名https://t.co/K6BlTF3lYX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ivblune1",
+                "end": 43,
+                "expanded_url": "https://ngl.link/ivblune1",
+                "start": 20,
+                "url": "https://t.co/K6BlTF3lYX"
+              }
+            ]
+          }
+        },
+        "id": "1932473903408160768",
+        "name": "4ever",
+        "pinned_tweet_id": "1956750462306160843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932474155359719424/0wTds96y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 151,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 667
+        },
+        "username": "ivblune1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1971531017468236183",
+    "created_at": "2025-09-26T11:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T12:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971531017468236183"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1971531017468236183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男人爱胸 爱腰爱腿 女性总是渴望一种具象的爱 爱她为流浪猫蹲下时垂下的发丝 好奇她为什么看了这部电视几十遍 但是他们总是以外貌来接近你 不了解你的思想你爱看的电影爱听的音乐 不花心思去维护你 他们只想撩起你的衣服 只想去亲吻你 你说今晚月色真好 他说你晚上可以不回家吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1971531017468236183",
+        "created_at": "2025-09-26T11:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T12:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971531017468236183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971531017468236183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男人爱胸 爱腰爱腿 女性总是渴望一种具象的爱 爱她为流浪猫蹲下时垂下的发丝 好奇她为什么看了这部电视几十遍 但是他们总是以外貌来接近你 不了解你的思想你爱看的电影爱听的音乐 不花心思去维护你 他们只想撩起你的衣服 只想去亲吻你 你说今晚月色真好 他说你晚上可以不回家吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 122,
+          "like_count": 2005,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 2360
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962052776659390682",
+    "created_at": "2025-08-31T07:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T08:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962053702174273949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699680752894427136",
+          "start": 0,
+          "username": "baobaobao268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962053702174273949",
+    "in_reply_to_user_id": "1699680752894427136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962052776659390682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobaobao268 宝宝你好漂亮呀…！(｡･ω･｡)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_1962052766114942976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzqcmGrakAACxuT.jpg",
+        "width": 934
+      },
+      {
+        "height": 714,
+        "media_key": "3_1962052766094045184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzqcmGmbsAAzS2c.jpg",
+        "width": 1091
+      },
+      {
+        "height": 702,
+        "media_key": "3_1962052766127542272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzqcmGua0AAolAH.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962052776659390682",
+        "created_at": "2025-08-31T07:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T08:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962053702174273949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699680752894427136",
+              "start": 0,
+              "username": "baobaobao268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962053702174273949",
+        "in_reply_to_user_id": "1699680752894427136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962052776659390682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobaobao268 宝宝你好漂亮呀…！(｡･ω･｡)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962052766114942976",
+            "3_1962052766094045184",
+            "3_1962052766127542272"
+          ]
+        },
+        "author_id": "1699680752894427136",
+        "conversation_id": "1962052776659390682",
+        "created_at": "2025-08-31T07:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T08:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962052776659390682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RLOroZwdJZ",
+              "end": 31,
+              "expanded_url": "https://x.com/baobaobao268/status/1962052776659390682/photo/1",
+              "media_key": "3_1962052766114942976",
+              "start": 8,
+              "url": "https://t.co/RLOroZwdJZ"
+            },
+            {
+              "display_url": "pic.x.com/RLOroZwdJZ",
+              "end": 31,
+              "expanded_url": "https://x.com/baobaobao268/status/1962052776659390682/photo/1",
+              "media_key": "3_1962052766094045184",
+              "start": 8,
+              "url": "https://t.co/RLOroZwdJZ"
+            },
+            {
+              "display_url": "pic.x.com/RLOroZwdJZ",
+              "end": 31,
+              "expanded_url": "https://x.com/baobaobao268/status/1962052776659390682/photo/1",
+              "media_key": "3_1962052766127542272",
+              "start": 8,
+              "url": "https://t.co/RLOroZwdJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962052776659390682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "游戏女主播视角 https://t.co/RLOroZwdJZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 98,
+          "like_count": 865,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 919
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T07:07:25.000Z",
+        "description": "一些碎碎念|🐱|🐑|照片存放地|美好的肉体就是艺术|卷甲虫|和我的好朋友马纳纳@Manana2029",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Manana2029"
+              }
+            ]
+          }
+        },
+        "id": "1699680752894427136",
+        "name": "包包包好运",
+        "pinned_tweet_id": "1804095541522935892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731699775005933568/uqPXckil_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31959,
+          "following_count": 329,
+          "like_count": 19385,
+          "listed_count": 72,
+          "media_count": 1936,
+          "tweet_count": 6126
+        },
+        "username": "baobaobao268",
+        "verified": false
+      }
+    ]
+  }
+}

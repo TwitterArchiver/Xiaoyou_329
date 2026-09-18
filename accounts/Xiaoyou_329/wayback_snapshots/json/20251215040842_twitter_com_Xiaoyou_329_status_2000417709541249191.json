@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2000411938350825705",
+    "created_at": "2025-12-15T04:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T05:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000417709541249191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989891440688992261",
+          "start": 0,
+          "username": "wh8110402520063"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000417709541249191",
+    "in_reply_to_user_id": "1989891440688992261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000412267201081652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wh8110402520063 我已经感冒了怎么办T T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2000411938350825705",
+        "created_at": "2025-12-15T04:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000417709541249191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989891440688992261",
+              "start": 0,
+              "username": "wh8110402520063"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000417709541249191",
+        "in_reply_to_user_id": "1989891440688992261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000412267201081652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wh8110402520063 我已经感冒了怎么办T T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989891440688992261",
+        "conversation_id": "2000411938350825705",
+        "created_at": "2025-12-15T03:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000412267201081652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000412267201081652",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000411938350825705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 穿暖和点 别感冒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8123,
+          "following_count": 151,
+          "like_count": 5732,
+          "listed_count": 8,
+          "media_count": 550,
+          "tweet_count": 4574
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T03:01:19.000Z",
+        "description": "Until it becomes calm",
+        "id": "1989891440688992261",
+        "name": "檸檬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997855669861715968/f_TU662V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 30,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 408
+        },
+        "username": "wh8110402520063",
+        "verified": false
+      }
+    ]
+  }
+}

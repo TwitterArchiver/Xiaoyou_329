@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1959225230448062559",
+    "created_at": "2025-08-23T12:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T13:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959231873919471701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1955305109660835847",
+          "start": 0,
+          "username": "zybzyb195997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959231873919471701",
+    "in_reply_to_user_id": "1955305109660835847",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959225418961105104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zybzyb195997 你就羡慕吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1959225230448062559",
+        "created_at": "2025-08-23T12:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T13:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959231873919471701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1955305109660835847",
+              "start": 0,
+              "username": "zybzyb195997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959231873919471701",
+        "in_reply_to_user_id": "1955305109660835847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959225418961105104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zybzyb195997 你就羡慕吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955305109660835847",
+        "conversation_id": "1959225230448062559",
+        "created_at": "2025-08-23T12:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T13:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959225418961105104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959225418961105104",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959225230448062559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 可恶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 71,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 551
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T16:28:30.000Z",
+        "description": "https://t.co/aj7o3oOuuy喜欢臭屌丝来的就来找我聊天吧",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/swndhdjw",
+                "end": 23,
+                "expanded_url": "http://t.me/swndhdjw",
+                "start": 0,
+                "url": "https://t.co/aj7o3oOuuy"
+              }
+            ]
+          }
+        },
+        "id": "1955305109660835847",
+        "location": "America",
+        "name": "handsome",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955661036503080963/Rzeejkdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 33,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 219
+        },
+        "username": "zybzyb195997",
+        "verified": false
+      }
+    ]
+  }
+}

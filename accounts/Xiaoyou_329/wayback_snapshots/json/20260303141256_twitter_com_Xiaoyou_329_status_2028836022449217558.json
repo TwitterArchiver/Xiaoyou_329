@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028723249811705949",
+    "created_at": "2026-03-03T14:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T15:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028836022449217558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2021459866708250624",
+          "start": 0,
+          "username": "pp520111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028836022449217558",
+    "in_reply_to_user_id": "2021459866708250624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028818749449711629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pp520111 好的！谢谢宝宝推荐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028723249811705949",
+        "created_at": "2026-03-03T14:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028836022449217558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2021459866708250624",
+              "start": 0,
+              "username": "pp520111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028836022449217558",
+        "in_reply_to_user_id": "2021459866708250624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028818749449711629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pp520111 好的！谢谢宝宝推荐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021459866708250624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255950086699315200",
+              "name": "Designer fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2028723249811705949",
+        "created_at": "2026-03-03T13:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028818749449711629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028818749449711629",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028723249811705949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 用一下 ysl 夜皇后系列吧，我混干，敏皮，用完皮肤很稳定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12826,
+          "following_count": 163,
+          "like_count": 6842,
+          "listed_count": 19,
+          "media_count": 716,
+          "tweet_count": 5725
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T05:42:54.000Z",
+        "description": "呃我觉得，看到这里的景象感觉我变成了一个懵逼的人。人们都在七嘴八舌的讨论，我就这样看着你们，很有那种女主角的感觉你们懂吗。你们说的什么，我不懂，但是，重要的是，我现在很呆萌的一个人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pp520111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pp520111",
+                "start": 0,
+                "url": "https://t.co/ZwJxGUTSY9"
+              }
+            ]
+          }
+        },
+        "id": "2021459866708250624",
+        "location": "🚪520（爱过不过）提问箱👉",
+        "name": "鱼汤",
+        "pinned_tweet_id": "2021461795790258385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021460433157427200/P-nOjzlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 57,
+          "like_count": 827,
+          "listed_count": 6,
+          "media_count": 46,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/ZwJxGUTSY9",
+        "username": "pp520111",
+        "verified": false
+      }
+    ]
+  }
+}

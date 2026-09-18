@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2026806560283099286",
+    "created_at": "2026-02-26T14:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T15:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027031285986689219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582289665524396032",
+          "start": 0,
+          "username": "Luk85129You"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027031285986689219",
+    "in_reply_to_user_id": "1582289665524396032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026806560283099286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luk85129You 我靠呀早说你长这样 我私你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17972,
+        "height": 1088,
+        "media_key": "7_2026806531203936256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026806531203936256/pu/img/TN2PBJ0lEznPoUU7.jpg",
+        "public_metrics": {
+          "view_count": 1107
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026806531203936256/pu/vid/avc1/320x482/-bvdZ9ERMIed90Bd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026806531203936256/pu/vid/avc1/480x724/vD879936ikiBn-k8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026806531203936256/pu/vid/avc1/720x1088/R-Udf8h_J7w3LRT3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026806531203936256/pu/pl/vYaqyQVZSp0c49Ph.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2026806560283099286",
+        "created_at": "2026-02-26T14:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027031285986689219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582289665524396032",
+              "start": 0,
+              "username": "Luk85129You"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027031285986689219",
+        "in_reply_to_user_id": "1582289665524396032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026806560283099286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luk85129You 我靠呀早说你长这样 我私你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026806531203936256"
+          ]
+        },
+        "author_id": "1582289665524396032",
+        "conversation_id": "2026806560283099286",
+        "created_at": "2026-02-25T23:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T00:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026806560283099286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ByXXQOAxX",
+              "end": 47,
+              "expanded_url": "https://x.com/Luk85129You/status/2026806560283099286/video/1",
+              "media_key": "7_2026806531203936256",
+              "start": 24,
+              "url": "https://t.co/9ByXXQOAxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026806560283099286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3303,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道我的kp录音很难听 但我其实最厉害p图！ https://t.co/9ByXXQOAxX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12566,
+          "following_count": 161,
+          "like_count": 6785,
+          "listed_count": 19,
+          "media_count": 694,
+          "tweet_count": 5603
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-18T08:37:22.000Z",
+        "description": "04｜mlys🇲🇾｜S｜您伟大的电子男友｜24小时高强度冲浪｜成分复杂",
+        "id": "1582289665524396032",
+        "name": "7s",
+        "pinned_tweet_id": "2026491366214349220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026506266865184771/szKfXahB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 31,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 193
+        },
+        "username": "Luk85129You",
+        "verified": false
+      }
+    ]
+  }
+}

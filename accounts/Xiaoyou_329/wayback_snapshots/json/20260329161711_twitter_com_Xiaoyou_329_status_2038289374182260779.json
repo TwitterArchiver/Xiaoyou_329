@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2038289374182260779",
+    "created_at": "2026-03-29T16:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038289374182260779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__yuqing/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/__yuqing/status/2038252602614562926",
+          "start": 9,
+          "url": "https://t.co/fvDiqVOKJD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038289374182260779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038252602614562926",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个淤青很美味😋 https://t.co/fvDiqVOKJD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53196,
+        "height": 720,
+        "media_key": "13_2038252335235997696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038252335235997696/img/Gx3OuWJwQ6G5NsLA.jpg",
+        "public_metrics": {
+          "view_count": 105
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038252335235997696/vid/avc1/288x270/H3I_Jck4jihx5cAv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038252335235997696/vid/avc1/384x360/ZbC_Y2HStWQKYZ68.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038252335235997696/vid/avc1/770x720/MXL6za6zlH1o5vcK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038252335235997696/pl/jmMhz9AaNTeGRhkC.m3u8"
+          }
+        ],
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2038289374182260779",
+        "created_at": "2026-03-29T16:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038289374182260779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__yuqing/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/__yuqing/status/2038252602614562926",
+              "start": 9,
+              "url": "https://t.co/fvDiqVOKJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038289374182260779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038252602614562926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个淤青很美味😋 https://t.co/fvDiqVOKJD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038252335235997696"
+          ]
+        },
+        "author_id": "1564235266004422656",
+        "conversation_id": "2038252602614562926",
+        "created_at": "2026-03-29T13:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038252602614562926"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "女性向"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D62zFpOlzf",
+              "end": 44,
+              "expanded_url": "https://x.com/__yuqing/status/2038252602614562926/video/1",
+              "media_key": "13_2038252335235997696",
+              "start": 21,
+              "url": "https://t.co/D62zFpOlzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038252602614562926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 278,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冲完失去意识三秒钟…#手冲实录 #女性向 https://t.co/D62zFpOlzf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13375,
+          "following_count": 163,
+          "like_count": 7323,
+          "listed_count": 20,
+          "media_count": 777,
+          "tweet_count": 6222
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T12:55:41.000Z",
+        "description": "06年 179cm 62kg，私信都会回。\n喜欢白天睡觉，晚上喘，我是男的谢谢。\nkp 🥣请点单私，🚪28谢谢宝宝喜欢ovo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuqing35995",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuqing35995",
+                "start": 0,
+                "url": "https://t.co/51ySu876Fz"
+              }
+            ]
+          }
+        },
+        "id": "1564235266004422656",
+        "location": "沒有悲傷的明天",
+        "name": "淤青",
+        "pinned_tweet_id": "2037997924995809523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028185462217781248/rSTijl9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 72,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/51ySu876Fz",
+        "username": "__yuqing",
+        "verified": false
+      }
+    ]
+  }
+}

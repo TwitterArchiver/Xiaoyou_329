@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1997328673981051212",
+    "created_at": "2025-12-06T15:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T16:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997334816354599166"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997334816354599166",
+    "in_reply_to_user_id": "1906360034725961728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997328673981051212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你也是小孩！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1997328673981051212",
+        "created_at": "2025-12-06T15:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997334816354599166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997334816354599166",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997328673981051212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你也是小孩！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1997328673981051212",
+        "created_at": "2025-12-06T15:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997328673981051212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "小由’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ZkKz…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1ZkKzZNlBRrKv",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1997328675658772480/Q0XAdLbh?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1997328675658772480/Q0XAdLbh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 喵喵喵喵天",
+              "unwound_url": "https://twitter.com/i/spaces/1ZkKzZNlBRrKv/peek",
+              "url": "https://t.co/V8vFFaR8WY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997328673981051212",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V8vFFaR8WY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜讨厌我就屏蔽我 喜欢我就投喂我｜无🚪｜感谢关注祝你 天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8095,
+          "following_count": 158,
+          "like_count": 5530,
+          "listed_count": 8,
+          "media_count": 539,
+          "tweet_count": 4448
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

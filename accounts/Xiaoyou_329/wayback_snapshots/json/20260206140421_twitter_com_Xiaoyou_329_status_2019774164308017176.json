@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2019735123533635821",
+    "created_at": "2026-02-06T14:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T15:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019774164308017176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761670967951339520",
+          "start": 0,
+          "username": "Alien0067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019774164308017176",
+    "in_reply_to_user_id": "1761670967951339520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019768530988851247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alien0067 我草这就是我😭。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2019735123533635821",
+        "created_at": "2026-02-06T14:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019774164308017176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761670967951339520",
+              "start": 0,
+              "username": "Alien0067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019774164308017176",
+        "in_reply_to_user_id": "1761670967951339520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019768530988851247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alien0067 我草这就是我😭。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761670967951339520",
+        "conversation_id": "2019735123533635821",
+        "created_at": "2026-02-06T13:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T14:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019768530988851247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019768530988851247",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019735123533635821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我142了，辛苦大半年一到冬天全白搭🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜谨以此记当下的心情 无关好坏｜爱搞抽象的普通人 不要对我有滤镜｜无🚪｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12062,
+          "following_count": 157,
+          "like_count": 6335,
+          "listed_count": 18,
+          "media_count": 638,
+          "tweet_count": 5235
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T08:34:38.000Z",
+        "description": "线上纯涩 线下纯绿 日常视监列表 易破防 选择困难症患者 自言自语大师   能已读给回应就是私信被限制了望周知🙏",
+        "id": "1761670967951339520",
+        "location": "保养中随缘更  无🚪 社恐不加v  加就收🚪很贵别加！",
+        "name": "Alien",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955205830552526848/uGQc_nAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 424,
+          "like_count": 5227,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 506
+        },
+        "username": "Alien0067",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967445511843307621",
+    "created_at": "2025-09-15T05:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T06:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967456746253013246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752127500388315136",
+          "start": 0,
+          "username": "mengnalishat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967456746253013246",
+    "in_reply_to_user_id": "1752127500388315136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967448524792201423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengnalishat 那种老师的化妆技术我学不来…救命手没那么巧啊啊啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967445511843307621",
+        "created_at": "2025-09-15T05:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T06:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967456746253013246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752127500388315136",
+              "start": 0,
+              "username": "mengnalishat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967456746253013246",
+        "in_reply_to_user_id": "1752127500388315136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967448524792201423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengnalishat 那种老师的化妆技术我学不来…救命手没那么巧啊啊啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752127500388315136",
+        "conversation_id": "1967445511843307621",
+        "created_at": "2025-09-15T04:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T05:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967448524792201423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967448524792201423",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967445511843307621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我感觉我学化妆快是因为之前去漫展约过几次妆 后来就慢慢会了 不过我觉得我完全进化到会化妆花了快一年呢 现在还在慢慢摸索中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 109,
+          "like_count": 1462,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 1807
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T00:32:17.000Z",
+        "description": "girl｜international student｜another me @zoeydec20｜let's make friends together…^ @IVEstarship @TXT_bighit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "zoeydec20"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "IVEstarship"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "TXT_bighit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zoe1nyourheart",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zoe1nyourheart",
+                "start": 0,
+                "url": "https://t.co/SQu3E67JfM"
+              }
+            ]
+          }
+        },
+        "id": "1752127500388315136",
+        "name": "tong*",
+        "pinned_tweet_id": "1945032424578007069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958499812258557952/YW743D4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 114,
+          "like_count": 3509,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/SQu3E67JfM",
+        "username": "mengnalishat",
+        "verified": false
+      }
+    ]
+  }
+}

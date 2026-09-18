@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099134919029202944",
+        "3_2099134919079530496",
+        "3_2099134919113056256",
+        "3_2099134919054434304"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099134959038406833",
+    "created_at": "2026-09-13T13:55:48.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T14:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099134959038406833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mDDM11BkWb",
+          "end": 31,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2099134959038406833/photo/1",
+          "media_key": "3_2099134919029202944",
+          "start": 8,
+          "url": "https://t.co/mDDM11BkWb"
+        },
+        {
+          "display_url": "pic.x.com/mDDM11BkWb",
+          "end": 31,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2099134959038406833/photo/1",
+          "media_key": "3_2099134919079530496",
+          "start": 8,
+          "url": "https://t.co/mDDM11BkWb"
+        },
+        {
+          "display_url": "pic.x.com/mDDM11BkWb",
+          "end": 31,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2099134959038406833/photo/1",
+          "media_key": "3_2099134919113056256",
+          "start": 8,
+          "url": "https://t.co/mDDM11BkWb"
+        },
+        {
+          "display_url": "pic.x.com/mDDM11BkWb",
+          "end": 31,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2099134959038406833/photo/1",
+          "media_key": "3_2099134919054434304",
+          "start": 8,
+          "url": "https://t.co/mDDM11BkWb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099134959038406833",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099134919029202944"
+      },
+      {
+        "media_key": "3_2099134919079530496"
+      },
+      {
+        "media_key": "3_2099134919113056256"
+      },
+      {
+        "media_key": "3_2099134919054434304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起 我爱你 https://t.co/mDDM11BkWb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2099134919029202944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGgFlBaoAAcxW3.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2099134919079530496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGgFlNakAADXgz.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2099134919113056256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGgFlVaIAA3wC2.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2099134919054434304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGgFlHboAASzyd.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099134919029202944",
+            "3_2099134919079530496",
+            "3_2099134919113056256",
+            "3_2099134919054434304"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099134959038406833",
+        "created_at": "2026-09-13T13:55:48.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099134959038406833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDDM11BkWb",
+              "end": 31,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2099134959038406833/photo/1",
+              "media_key": "3_2099134919029202944",
+              "start": 8,
+              "url": "https://t.co/mDDM11BkWb"
+            },
+            {
+              "display_url": "pic.x.com/mDDM11BkWb",
+              "end": 31,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2099134959038406833/photo/1",
+              "media_key": "3_2099134919079530496",
+              "start": 8,
+              "url": "https://t.co/mDDM11BkWb"
+            },
+            {
+              "display_url": "pic.x.com/mDDM11BkWb",
+              "end": 31,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2099134959038406833/photo/1",
+              "media_key": "3_2099134919113056256",
+              "start": 8,
+              "url": "https://t.co/mDDM11BkWb"
+            },
+            {
+              "display_url": "pic.x.com/mDDM11BkWb",
+              "end": 31,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2099134959038406833/photo/1",
+              "media_key": "3_2099134919054434304",
+              "start": 8,
+              "url": "https://t.co/mDDM11BkWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099134959038406833",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099134919029202944"
+          },
+          {
+            "media_key": "3_2099134919079530496"
+          },
+          {
+            "media_key": "3_2099134919113056256"
+          },
+          {
+            "media_key": "3_2099134919054434304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起 我爱你 https://t.co/mDDM11BkWb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099134959038406833",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097562944405966848/c2VkkXJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17373,
+          "following_count": 179,
+          "like_count": 7744,
+          "listed_count": 21,
+          "media_count": 1197,
+          "tweet_count": 7963
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

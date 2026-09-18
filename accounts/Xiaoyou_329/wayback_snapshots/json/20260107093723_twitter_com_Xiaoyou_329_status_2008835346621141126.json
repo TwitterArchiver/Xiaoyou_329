@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2008834731790786993",
+    "created_at": "2026-01-07T09:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T10:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008835346621141126"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008835346621141126",
+    "in_reply_to_user_id": "1906360034725961728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008834731790786993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨天家里人说不要我了不管我了特别反感我了。我以为我真的要被赶出去了。小时候有过被不允许回家。而且也有过各种情况下把我赶出家门的经历。有一次我裤子都没穿直接就被叫滚出去。所以我真的很害怕很害怕。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2008834731790786993",
+        "created_at": "2026-01-07T09:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008835346621141126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008835346621141126",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008834731790786993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天家里人说不要我了不管我了特别反感我了。我以为我真的要被赶出去了。小时候有过被不允许回家。而且也有过各种情况下把我赶出家门的经历。有一次我裤子都没穿直接就被叫滚出去。所以我真的很害怕很害怕。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2008834731790786993",
+        "created_at": "2026-01-07T09:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008834731790786993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008834731790786993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天吵架吵的我脑袋懵懵的…到今天本来还在发愁该怎么样赚钱维持一下温饱…晚上本来准备在外面吃饭，突然家里人给我打了通电话叫我回去吃饭…好像这个事情就这么一带而过了。蒽。好吧。或许达成了好结局（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 谢谢你愿意留下来了解我 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8734,
+          "following_count": 154,
+          "like_count": 6033,
+          "listed_count": 10,
+          "media_count": 577,
+          "tweet_count": 4837
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

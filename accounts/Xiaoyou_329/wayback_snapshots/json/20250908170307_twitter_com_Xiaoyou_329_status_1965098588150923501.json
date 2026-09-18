@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1965096910148305156",
+    "created_at": "2025-09-08T17:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T18:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965098588150923501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1928525199928070144",
+          "start": 0,
+          "username": "QvErKpq2qO46196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965098588150923501",
+    "in_reply_to_user_id": "1928525199928070144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965098066886967582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QvErKpq2qO46196 安老师…！你说话我怎么没看懂…后面一段话像有小猫乱按你键盘一样…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1965096910148305156",
+        "created_at": "2025-09-08T17:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T18:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965098588150923501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1928525199928070144",
+              "start": 0,
+              "username": "QvErKpq2qO46196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965098588150923501",
+        "in_reply_to_user_id": "1928525199928070144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965098066886967582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QvErKpq2qO46196 安老师…！你说话我怎么没看懂…后面一段话像有小猫乱按你键盘一样…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928525199928070144",
+        "conversation_id": "1965096910148305156",
+        "created_at": "2025-09-08T17:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T18:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965098066886967582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965098066886967582",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965096910148305156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 没事哦，好日子在后头呢，这些都是雨水，会遇到你的专属鸟屎的。快睡觉了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 105,
+          "like_count": 1203,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 1475
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T18:53:49.000Z",
+        "description": "单纯喜欢聊天 。嗯对。",
+        "id": "1928525199928070144",
+        "name": "安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928527801411682304/mdzXSuoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 69,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 415
+        },
+        "username": "QvErKpq2qO46196",
+        "verified": false
+      }
+    ]
+  }
+}

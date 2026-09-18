@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967956002034126848"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967955436151378257",
+    "created_at": "2025-09-16T14:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T15:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967956019872665912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862557266890956800",
+          "start": 0,
+          "username": "lzb_haishui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mgf0YIc157",
+          "end": 40,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1967956019872665912/photo/1",
+          "media_key": "3_1967956002034126848",
+          "start": 17,
+          "url": "https://t.co/mgf0YIc157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967956019872665912",
+    "in_reply_to_user_id": "1862557266890956800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967955436151378257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzb_haishui 老公。 https://t.co/mgf0YIc157"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_1967956002034126848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-VjqLXkAAIFe5.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 10100,
+        "height": 1280,
+        "media_key": "13_1967954971200196614",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967954971200196614/img/N6nxqRXhOrGYcHV5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967954971200196614/vid/avc1/320x568/lddUT9Pl1xNjTB1z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967954971200196614/vid/avc1/480x852/OhkyKLYHv_9EIDc3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967954971200196614/vid/avc1/720x1280/9kWaA6w9FoyMYqM8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967954971200196614/pl/5vRFEF4P3TawTNRs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967956002034126848"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967955436151378257",
+        "created_at": "2025-09-16T14:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967956019872665912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862557266890956800",
+              "start": 0,
+              "username": "lzb_haishui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgf0YIc157",
+              "end": 40,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1967956019872665912/photo/1",
+              "media_key": "3_1967956002034126848",
+              "start": 17,
+              "url": "https://t.co/mgf0YIc157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967956019872665912",
+        "in_reply_to_user_id": "1862557266890956800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967955436151378257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzb_haishui 老公。 https://t.co/mgf0YIc157"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967954971200196614"
+          ]
+        },
+        "author_id": "1862557266890956800",
+        "conversation_id": "1967955436151378257",
+        "created_at": "2025-09-16T14:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967955436151378257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tee6wFNnsJ",
+              "end": 34,
+              "expanded_url": "https://x.com/lzb_haishui/status/1967955436151378257/video/1",
+              "media_key": "13_1967954971200196614",
+              "start": 11,
+              "url": "https://t.co/Tee6wFNnsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967955436151378257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是低脂小视频适合我 https://t.co/Tee6wFNnsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1965820788399026273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 117,
+          "like_count": 1551,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 1893
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "不要讨厌我好吗",
+        "id": "1862557266890956800",
+        "name": "一直游到海水变蓝",
+        "pinned_tweet_id": "1967603363815846320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956750131401023488/nY2PObOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9631,
+          "following_count": 575,
+          "like_count": 31173,
+          "listed_count": 13,
+          "media_count": 142,
+          "tweet_count": 4624
+        },
+        "username": "lzb_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

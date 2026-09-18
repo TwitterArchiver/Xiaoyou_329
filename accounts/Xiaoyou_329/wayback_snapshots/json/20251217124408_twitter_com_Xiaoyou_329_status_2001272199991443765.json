@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2001269096604942707",
+    "created_at": "2025-12-17T12:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T13:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001272199991443765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1598983658206945280",
+          "start": 0,
+          "username": "ganjiuchawuduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001272199991443765",
+    "in_reply_to_user_id": "1598983658206945280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001271486594843122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ganjiuchawuduo 不是机器人不是入机不是真人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 885,
+        "media_key": "3_2001271483889537024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Xxz7ha0AAkGP4.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2001269096604942707",
+        "created_at": "2025-12-17T12:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001272199991443765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1598983658206945280",
+              "start": 0,
+              "username": "ganjiuchawuduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001272199991443765",
+        "in_reply_to_user_id": "1598983658206945280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001271486594843122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ganjiuchawuduo 不是机器人不是入机不是真人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001271483889537024"
+          ]
+        },
+        "author_id": "1598983658206945280",
+        "conversation_id": "2001269096604942707",
+        "created_at": "2025-12-17T12:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001271486594843122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9fiQ61IOtt",
+              "end": 42,
+              "expanded_url": "https://x.com/ganjiuchawuduo/status/2001271486594843122/photo/1",
+              "media_key": "3_2001271483889537024",
+              "start": 19,
+              "url": "https://t.co/9fiQ61IOtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001271486594843122",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001269096604942707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 机器人吗😄 https://t.co/9fiQ61IOtt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8141,
+          "following_count": 152,
+          "like_count": 5827,
+          "listed_count": 8,
+          "media_count": 558,
+          "tweet_count": 4633
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T10:13:17.000Z",
+        "description": "大陆人！大陆人！大陆人！男的，男的，男的，我还是做快乐且孤独的INFJ绿老头好了\n（另外骗子真多啊）",
+        "id": "1598983658206945280",
+        "location": "岭南",
+        "name": "咁就差唔多",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998575374763175939/_TzI57_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 355,
+          "like_count": 4371,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 1633
+        },
+        "username": "ganjiuchawuduo",
+        "verified": false
+      }
+    ]
+  }
+}

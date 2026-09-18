@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1980196680244039929",
+    "created_at": "2025-10-20T08:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T09:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980197091894014035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894531140733878272",
+          "start": 0,
+          "username": "fanbufan00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980197091894014035",
+    "in_reply_to_user_id": "1894531140733878272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980196680244039929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanbufan00 我操我笑的不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1980196680244039929",
+        "created_at": "2025-10-20T08:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T09:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980197091894014035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894531140733878272",
+              "start": 0,
+              "username": "fanbufan00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980197091894014035",
+        "in_reply_to_user_id": "1894531140733878272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980196680244039929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanbufan00 我操我笑的不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894531140733878272",
+        "conversation_id": "1980196680244039929",
+        "created_at": "2025-10-20T08:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T09:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980196680244039929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yu954604733685…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/yu9546047336853/status/1980190202493899257",
+              "start": 14,
+              "url": "https://t.co/d2Q4a90iUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980196680244039929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980190202493899257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天上下雨是因为我在摸太阳穴 https://t.co/d2Q4a90iUI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3109,
+          "following_count": 135,
+          "like_count": 3016,
+          "listed_count": 3,
+          "media_count": 411,
+          "tweet_count": 3006
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T23:33:37.000Z",
+        "description": "1i=4i  Switch  00年  180cm    75kg                                             \n匿名箱：https://t.co/Vy8ECE4AMX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fanbufan00",
+                "end": 106,
+                "expanded_url": "https://ngl.link/fanbufan00",
+                "start": 83,
+                "url": "https://t.co/Vy8ECE4AMX"
+              }
+            ]
+          }
+        },
+        "id": "1894531140733878272",
+        "name": "凡躁",
+        "pinned_tweet_id": "1970267497875272152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967634822517641216/A8dYZNr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 227,
+          "like_count": 10003,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 757
+        },
+        "username": "fanbufan00",
+        "verified": false
+      }
+    ]
+  }
+}

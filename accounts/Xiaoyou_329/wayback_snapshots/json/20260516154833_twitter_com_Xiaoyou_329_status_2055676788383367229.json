@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2055676788383367229",
+    "created_at": "2026-05-16T15:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055676788383367229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+          "end": 87,
+          "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2028433835231457280/5TZMMbXs?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2028433835231457280/5TZMMbXs?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 64,
+          "status": 200,
+          "title": "@小由: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+          "url": "https://t.co/LFL1XmTGRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055676788383367229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像好久没有一起聊聊天！大家可以给我的ngl发点什么吗qwq\n或许会录一期…？或许是文字回答！总之大家有想跟我说的话吗ovo.\nhttps://t.co/LFL1XmTGRW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2055676788383367229",
+        "created_at": "2026-05-16T15:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055676788383367229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+              "end": 87,
+              "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2028433835231457280/5TZMMbXs?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028433835231457280/5TZMMbXs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 64,
+              "status": 200,
+              "title": "@小由: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+              "url": "https://t.co/LFL1XmTGRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055676788383367229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像好久没有一起聊聊天！大家可以给我的ngl发点什么吗qwq\n或许会录一期…？或许是文字回答！总之大家有想跟我说的话吗ovo.\nhttps://t.co/LFL1XmTGRW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14897,
+          "following_count": 174,
+          "like_count": 7479,
+          "listed_count": 21,
+          "media_count": 848,
+          "tweet_count": 6597
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1964326051946889597",
+    "created_at": "2025-09-06T14:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T15:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964340632626860230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1478921478355644416",
+          "start": 0,
+          "username": "lh17272"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964340632626860230",
+    "in_reply_to_user_id": "1478921478355644416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964340396810510618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lh17272 😽😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1964326051946889597",
+        "created_at": "2025-09-06T14:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964340632626860230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1478921478355644416",
+              "start": 0,
+              "username": "lh17272"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964340632626860230",
+        "in_reply_to_user_id": "1478921478355644416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964340396810510618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lh17272 😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478921478355644416",
+        "conversation_id": "1964326051946889597",
+        "created_at": "2025-09-06T14:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964340396810510618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964340396810510618",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964326051946889597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 这很香啦～我喜欢埋埋😻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 102,
+          "like_count": 1082,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1332
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T02:49:55.000Z",
+        "description": "重要的不是某一个特定的时间， 而是我们为时间赋予的意义。",
+        "id": "1478921478355644416",
+        "name": "猪仔煲捞面",
+        "pinned_tweet_id": "1962729683205914753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925875438502526976/EBMRMpcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 265,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 220
+        },
+        "username": "lh17272",
+        "verified": false
+      }
+    ]
+  }
+}

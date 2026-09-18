@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1984932006568829265",
+    "created_at": "2025-11-02T10:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T11:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984937630090264600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1854802850825830400",
+          "start": 0,
+          "username": "voice_J1HUA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984937630090264600",
+    "in_reply_to_user_id": "1854802850825830400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984932006568829265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voice_J1HUA 熊不熊有点丈化"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984931983424667648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vlH09WwAATYYZ.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1984932006568829265",
+        "created_at": "2025-11-02T10:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984937630090264600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854802850825830400",
+              "start": 0,
+              "username": "voice_J1HUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984937630090264600",
+        "in_reply_to_user_id": "1854802850825830400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984932006568829265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voice_J1HUA 熊不熊有点丈化"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984931983424667648"
+          ]
+        },
+        "author_id": "1854802850825830400",
+        "conversation_id": "1984932006568829265",
+        "created_at": "2025-11-02T10:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984932006568829265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m33Ovr34KD",
+              "end": 46,
+              "expanded_url": "https://x.com/voice_J1HUA/status/1984932006568829265/photo/1",
+              "media_key": "3_1984931983424667648",
+              "start": 23,
+              "url": "https://t.co/m33Ovr34KD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984932006568829265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的私信被广告塞满了，大家🈶什么头猪吗😭😭😭 https://t.co/m33Ovr34KD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1981690322745970734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 146,
+          "like_count": 3684,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 3226
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T08:27:24.000Z",
+        "description": "♌狮子座/🦋INFP/直男/青年音/接配音/接定制男🚢（可带本）/🥺想跟我唠嗑可以给我发私信看到了就会回/🥺接游戏陪玩语音陪聊🥰/我的匿名箱在↓👇🏻↓/希望能成为大家都认可的男喘博主/点单私聊我/          盒岛:31528F",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/voice_j1hua",
+                "end": 23,
+                "expanded_url": "https://ngl.link/voice_j1hua",
+                "start": 0,
+                "url": "https://t.co/UeNLJefpNf"
+              }
+            ]
+          }
+        },
+        "id": "1854802850825830400",
+        "location": "这是匿名箱→",
+        "name": "鹿岐",
+        "pinned_tweet_id": "1931041811449209156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896746819436306432/QRkPXJDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19642,
+          "following_count": 52,
+          "like_count": 8352,
+          "listed_count": 26,
+          "media_count": 117,
+          "tweet_count": 951
+        },
+        "url": "https://t.co/UeNLJefpNf",
+        "username": "voice_J1HUA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1969404702409572710",
+    "created_at": "2025-09-20T14:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T15:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969408690835890675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885021581153320961",
+          "start": 0,
+          "username": "xu121718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969408690835890675",
+    "in_reply_to_user_id": "1885021581153320961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969404702409572710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu121718 每次微信弹消息了我都兴致勃勃的去看…结果发现全都是记账的那种…我一直在哭…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 720,
+        "media_key": "13_1969404638513545221",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969404638513545221/img/46sONeQFjFARgKQ4.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969404638513545221/vid/avc1/360x270/LOg6p6FF9LyTKFVe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969404638513545221/vid/avc1/480x360/9E7wxvS7quvSvFcw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969404638513545221/vid/avc1/960x720/wrST_Mp1zDi-_yFQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969404638513545221/pl/mrRpgXT-X6bWbyA9.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1969404702409572710",
+        "created_at": "2025-09-20T14:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969408690835890675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885021581153320961",
+              "start": 0,
+              "username": "xu121718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969408690835890675",
+        "in_reply_to_user_id": "1885021581153320961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969404702409572710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu121718 每次微信弹消息了我都兴致勃勃的去看…结果发现全都是记账的那种…我一直在哭…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969404638513545221"
+          ]
+        },
+        "author_id": "1885021581153320961",
+        "conversation_id": "1969404702409572710",
+        "created_at": "2025-09-20T14:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969404702409572710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZBhVhkmy3",
+              "end": 23,
+              "expanded_url": "https://x.com/xu121718/status/1969404702409572710/video/1",
+              "media_key": "13_1969404638513545221",
+              "start": 0,
+              "url": "https://t.co/sZBhVhkmy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969404702409572710",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sZBhVhkmy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1965820788399026273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 119,
+          "like_count": 1680,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 2064
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T17:45:50.000Z",
+        "description": "05 ENFJ sw 巨蟹 直男 碎碎念 网瘾 喜欢会回关 偶尔发健身成果和厨艺分享 高强度冲浪 快来和小鱼卷喵喵天",
+        "id": "1885021581153320961",
+        "location": "杭州",
+        "name": "小鱼卷",
+        "pinned_tweet_id": "1960713529385705980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964989653934899200/K5Hfw8Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 134,
+          "like_count": 13836,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 1764
+        },
+        "username": "xu121718",
+        "verified": false
+      }
+    ]
+  }
+}

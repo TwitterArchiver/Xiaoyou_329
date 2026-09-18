@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959225220805373952"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1959225230448062559",
+    "created_at": "2025-08-23T12:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T13:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959225230448062559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YHb4gdDfPX",
+          "end": 30,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1959225230448062559/photo/1",
+          "media_key": "3_1959225220805373952",
+          "start": 7,
+          "url": "https://t.co/YHb4gdDfPX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959225230448062559",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在爽。 https://t.co/YHb4gdDfPX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1959225220805373952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzCQ9TkXMAAi8kc.jpg",
+        "width": 530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959225220805373952"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1959225230448062559",
+        "created_at": "2025-08-23T12:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T13:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959225230448062559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHb4gdDfPX",
+              "end": 30,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1959225230448062559/photo/1",
+              "media_key": "3_1959225220805373952",
+              "start": 7,
+              "url": "https://t.co/YHb4gdDfPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959225230448062559",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在爽。 https://t.co/YHb4gdDfPX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 71,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 548
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

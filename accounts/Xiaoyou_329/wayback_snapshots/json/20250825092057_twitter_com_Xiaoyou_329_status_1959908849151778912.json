@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959908841799176192"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1959901679954042996",
+    "created_at": "2025-08-25T09:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T10:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959908849151778912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1750718804097658880",
+          "start": 0,
+          "username": "ndbl55"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EIrlwGImRW",
+          "end": 42,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1959908849151778912/photo/1",
+          "media_key": "3_1959908841799176192",
+          "start": 19,
+          "url": "https://t.co/EIrlwGImRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959908849151778912",
+    "in_reply_to_user_id": "1750718804097658880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959901679954042996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ndbl55 爹咪…我要赎你回家。 https://t.co/EIrlwGImRW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 996,
+        "media_key": "3_1959908841799176192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzL-tSOWUAA7DFT.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 3134,
+        "height": 720,
+        "media_key": "13_1959900199746514944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959900199746514944/img/cxGR3gn61DMBV4Vy.jpg",
+        "public_metrics": {
+          "view_count": 190
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959900199746514944/vid/avc1/480x270/rti4QZhdBXB7Kj0Z.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959900199746514944/vid/avc1/640x360/4UVAToMDWmjquTsS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959900199746514944/vid/avc1/1280x720/_QbCcPusMy39qjJ4.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959900199746514944/pl/MUFNGGXu6Md8VmWQ.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959908841799176192"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1959901679954042996",
+        "created_at": "2025-08-25T09:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T10:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959908849151778912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1750718804097658880",
+              "start": 0,
+              "username": "ndbl55"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EIrlwGImRW",
+              "end": 42,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1959908849151778912/photo/1",
+              "media_key": "3_1959908841799176192",
+              "start": 19,
+              "url": "https://t.co/EIrlwGImRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959908849151778912",
+        "in_reply_to_user_id": "1750718804097658880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959901679954042996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ndbl55 爹咪…我要赎你回家。 https://t.co/EIrlwGImRW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959900199746514944"
+          ]
+        },
+        "author_id": "1750718804097658880",
+        "conversation_id": "1959901679954042996",
+        "created_at": "2025-08-25T08:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T09:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959901679954042996"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "男妈妈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A01YcdtcG5",
+              "end": 40,
+              "expanded_url": "https://x.com/ndbl55/status/1959901679954042996/video/1",
+              "media_key": "13_1959900199746514944",
+              "start": 17,
+              "url": "https://t.co/A01YcdtcG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959901679954042996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 497,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "放个视频版，有人喜欢吗\n#男妈妈 https://t.co/A01YcdtcG5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 73,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 611
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T03:14:44.000Z",
+        "description": "4i/1i  奶子王者 （逗号老师）永远喜欢热情真诚 \n自用VPN：\nhttps://t.co/xqviB29Oj7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 58,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=Vm7htGSw",
+                "start": 35,
+                "url": "https://t.co/xqviB29Oj7"
+              }
+            ]
+          }
+        },
+        "id": "1750718804097658880",
+        "location": "guangdong",
+        "name": "，，",
+        "pinned_tweet_id": "1902195095845400852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866389410016854016/c25odJ8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10609,
+          "following_count": 72,
+          "like_count": 413,
+          "listed_count": 16,
+          "media_count": 46,
+          "tweet_count": 429
+        },
+        "username": "ndbl55",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2000229873487646786",
+    "created_at": "2025-12-14T16:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000238503406584119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1977071213878140929",
+          "start": 0,
+          "username": "koiiouoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000238503406584119",
+    "in_reply_to_user_id": "1977071213878140929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000238168902365692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koiiouoii 仇人看到我照片都释怀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2000229873487646786",
+        "created_at": "2025-12-14T16:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000238503406584119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1977071213878140929",
+              "start": 0,
+              "username": "koiiouoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000238503406584119",
+        "in_reply_to_user_id": "1977071213878140929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000238168902365692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koiiouoii 仇人看到我照片都释怀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977071213878140929",
+        "conversation_id": "2000229873487646786",
+        "created_at": "2025-12-14T16:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000238168902365692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000238168902365692",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000229873487646786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 仇人看到我照片都释怀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8119,
+          "following_count": 151,
+          "like_count": 5725,
+          "listed_count": 8,
+          "media_count": 547,
+          "tweet_count": 4565
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T17:58:13.000Z",
+        "description": "不要给我发牛牛",
+        "id": "1977071213878140929",
+        "location": "上班就是坐牢",
+        "name": "ツ",
+        "pinned_tweet_id": "1983122553595126161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977071428852912128/h6sBqrr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 42,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 369
+        },
+        "username": "koiiouoii",
+        "verified": false
+      }
+    ]
+  }
+}

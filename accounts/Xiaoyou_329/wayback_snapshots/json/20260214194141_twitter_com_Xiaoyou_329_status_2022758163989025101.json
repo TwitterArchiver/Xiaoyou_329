@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2022742011468718192",
+    "created_at": "2026-02-14T19:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T20:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022758163989025101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919283967867625472",
+          "start": 0,
+          "username": "ggbond9694"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022758163989025101",
+    "in_reply_to_user_id": "1919283967867625472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022758039754018823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggbond9694 我朋友送的十抽嫦娥直接出了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022742011468718192",
+        "created_at": "2026-02-14T19:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T20:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022758163989025101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919283967867625472",
+              "start": 0,
+              "username": "ggbond9694"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022758163989025101",
+        "in_reply_to_user_id": "1919283967867625472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022758039754018823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggbond9694 我朋友送的十抽嫦娥直接出了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919283967867625472",
+        "conversation_id": "2022742011468718192",
+        "created_at": "2026-02-14T19:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T20:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022758039754018823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022758039754018823",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022742011468718192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 卧槽好幸运啊，想起来我去年抽嫦娥皮肤，三百块抽出来俩令牌最后买了一个回血了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12113,
+          "following_count": 162,
+          "like_count": 6663,
+          "listed_count": 19,
+          "media_count": 662,
+          "tweet_count": 5457
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T06:52:19.000Z",
+        "description": "upup",
+        "id": "1919283967867625472",
+        "location": "灰色地带",
+        "name": "梦里做大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020543991318761472/lVC4D93U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 143,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 177
+        },
+        "username": "ggbond9694",
+        "verified": false
+      }
+    ]
+  }
+}

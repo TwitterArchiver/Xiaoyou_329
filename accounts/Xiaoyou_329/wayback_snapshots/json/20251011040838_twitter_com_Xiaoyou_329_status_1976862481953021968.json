@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1976857661389050064",
+    "created_at": "2025-10-11T04:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T05:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976862481953021968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1923424244823941120",
+          "start": 0,
+          "username": "kannimane_SB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976862481953021968",
+    "in_reply_to_user_id": "1923424244823941120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976857661389050064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kannimane_SB 喜欢你…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1976857653117890560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G281j8masAACnmj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1976857661389050064",
+        "created_at": "2025-10-11T04:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T05:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976862481953021968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1923424244823941120",
+              "start": 0,
+              "username": "kannimane_SB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976862481953021968",
+        "in_reply_to_user_id": "1923424244823941120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976857661389050064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kannimane_SB 喜欢你…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976857653117890560"
+          ]
+        },
+        "author_id": "1923424244823941120",
+        "conversation_id": "1976857661389050064",
+        "created_at": "2025-10-11T03:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T04:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976857661389050064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJhyt8kYhZ",
+              "end": 23,
+              "expanded_url": "https://x.com/kannimane_SB/status/1976857661389050064/photo/1",
+              "media_key": "3_1976857653117890560",
+              "start": 0,
+              "url": "https://t.co/JJhyt8kYhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976857661389050064",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JJhyt8kYhZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜爱搞抽象的普通人 请别打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1975791841409966295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 131,
+          "like_count": 2577,
+          "listed_count": 3,
+          "media_count": 387,
+          "tweet_count": 2743
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T17:04:18.000Z",
+        "description": "我只是个爱上网的坚果🚬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kannimane_sb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kannimane_sb",
+                "start": 0,
+                "url": "https://t.co/C8kxXhBNhU"
+              }
+            ]
+          }
+        },
+        "id": "1923424244823941120",
+        "location": "戴夫的后花园",
+        "name": "高建国",
+        "pinned_tweet_id": "1976652072801210687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953160100560166912/v_TmQc6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 467,
+          "like_count": 7959,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 6451
+        },
+        "url": "https://t.co/C8kxXhBNhU",
+        "username": "kannimane_SB",
+        "verified": false
+      }
+    ]
+  }
+}

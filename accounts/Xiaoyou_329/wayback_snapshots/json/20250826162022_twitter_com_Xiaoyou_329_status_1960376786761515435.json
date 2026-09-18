@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960353265025004024",
+    "created_at": "2025-08-26T16:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T17:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960376786761515435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933553167087906820",
+          "start": 0,
+          "username": "zhngxnyu167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960376786761515435",
+    "in_reply_to_user_id": "1933553167087906820",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960376684504621319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngxnyu167 蛋挞我好想你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960353265025004024",
+        "created_at": "2025-08-26T16:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960376786761515435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933553167087906820",
+              "start": 0,
+              "username": "zhngxnyu167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960376786761515435",
+        "in_reply_to_user_id": "1933553167087906820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960376684504621319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngxnyu167 蛋挞我好想你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933553167087906820",
+        "conversation_id": "1960353265025004024",
+        "created_at": "2025-08-26T16:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960376684504621319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960376684504621319",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960353265025004024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 埋埋埋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 79,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 634
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T15:53:11.000Z",
+        "description": "ISFJ",
+        "id": "1933553167087906820",
+        "name": "我想吃蛋挞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944113657337544704/UYE-UFy7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 60,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 594
+        },
+        "username": "zhngxnyu167",
+        "verified": false
+      }
+    ]
+  }
+}

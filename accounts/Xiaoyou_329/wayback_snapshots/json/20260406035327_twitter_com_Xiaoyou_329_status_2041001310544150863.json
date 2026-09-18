@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2039326973789429937",
+    "created_at": "2026-04-06T03:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041001310544150863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2006822871105155072",
+          "start": 0,
+          "username": "bingganns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041001310544150863",
+    "in_reply_to_user_id": "2006822871105155072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040998947339325738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bingganns 。！我们知道了！我终于知道为什么总感觉怪怪的了！谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2039326973789429937",
+        "created_at": "2026-04-06T03:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041001310544150863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006822871105155072",
+              "start": 0,
+              "username": "bingganns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041001310544150863",
+        "in_reply_to_user_id": "2006822871105155072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040998947339325738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bingganns 。！我们知道了！我终于知道为什么总感觉怪怪的了！谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006822871105155072",
+        "conversation_id": "2039326973789429937",
+        "created_at": "2026-04-06T03:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040998947339325738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040998947339325738",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039326973789429937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 宝宝！别把评价自己身体与隐私的权力交给他人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13633,
+          "following_count": 163,
+          "like_count": 7389,
+          "listed_count": 20,
+          "media_count": 795,
+          "tweet_count": 6304
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T20:20:50.000Z",
+        "description": "les🌈/intj/0.555/switch/欢迎女孩子们来找我聊天💬/男的看我一眼全家暴毙",
+        "id": "2006822871105155072",
+        "location": "中华人民共和国",
+        "name": "你闻起来像小饼干",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006823040651526144/HcQo6uEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 140,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 375
+        },
+        "username": "bingganns",
+        "verified": false
+      }
+    ]
+  }
+}

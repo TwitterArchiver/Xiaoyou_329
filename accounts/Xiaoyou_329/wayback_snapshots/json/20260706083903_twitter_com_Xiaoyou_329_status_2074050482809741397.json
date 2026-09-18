@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074047297617633280"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2074050482809741397",
+    "created_at": "2026-07-06T08:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074050482809741397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FmWuXHUJyp",
+          "end": 26,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2074050482809741397/photo/1",
+          "media_key": "3_2074047297617633280",
+          "start": 3,
+          "url": "https://t.co/FmWuXHUJyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074050482809741397",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "腿腿 https://t.co/FmWuXHUJyp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074047297617633280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMh_B0XboAAy4mz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074047297617633280"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2074050482809741397",
+        "created_at": "2026-07-06T08:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074050482809741397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmWuXHUJyp",
+              "end": 26,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2074050482809741397/photo/1",
+              "media_key": "3_2074047297617633280",
+              "start": 3,
+              "url": "https://t.co/FmWuXHUJyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074050482809741397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腿腿 https://t.co/FmWuXHUJyp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17000,
+          "following_count": 183,
+          "like_count": 7688,
+          "listed_count": 20,
+          "media_count": 915,
+          "tweet_count": 7196
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

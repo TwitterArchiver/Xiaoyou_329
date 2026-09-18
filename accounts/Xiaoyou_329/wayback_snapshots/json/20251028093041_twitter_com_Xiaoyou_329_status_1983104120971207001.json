@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1983104120971207001",
+    "created_at": "2025-10-28T09:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T10:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983104120971207001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yej80915089517…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/yej809150895172/status/1983028959869915236",
+          "start": 40,
+          "url": "https://t.co/zdHlEVnMra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983104120971207001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983028959869915236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是吧。我可以是孤独的 但是不能没有人关心我。那样我会觉得自己是没有人在乎的。 https://t.co/zdHlEVnMra"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 324,
+        "media_key": "3_1983028956782850049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4UiVGRa8AE2Nys.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1983104120971207001",
+        "created_at": "2025-10-28T09:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983104120971207001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yej80915089517…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/yej809150895172/status/1983028959869915236",
+              "start": 40,
+              "url": "https://t.co/zdHlEVnMra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983104120971207001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983028959869915236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是吧。我可以是孤独的 但是不能没有人关心我。那样我会觉得自己是没有人在乎的。 https://t.co/zdHlEVnMra"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983028956782850049"
+          ]
+        },
+        "author_id": "1650021728964280321",
+        "conversation_id": "1983028959869915236",
+        "created_at": "2025-10-28T04:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T05:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983028959869915236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bb5L6pPjAk",
+              "end": 31,
+              "expanded_url": "https://x.com/yej809150895172/status/1983028959869915236/photo/1",
+              "media_key": "3_1983028956782850049",
+              "start": 8,
+              "url": "https://t.co/Bb5L6pPjAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983028959869915236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3817,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天脸都很臭🚬 https://t.co/Bb5L6pPjAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4667,
+          "following_count": 140,
+          "like_count": 3428,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 3144
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T06:20:19.000Z",
+        "description": "骚扰我打钱（互关除外）。手冲小号@syxjdgxuns\n直男😋\nhttps://t.co/ycYaWbkNTy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "syxjdgxuns"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 55,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=lOLLvWuJ",
+                "start": 32,
+                "url": "https://t.co/ycYaWbkNTy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yej809150895172",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yej809150895172",
+                "start": 0,
+                "url": "https://t.co/17HSNtOnem"
+              }
+            ]
+          }
+        },
+        "id": "1650021728964280321",
+        "location": "春日部",
+        "name": "肥嘟嘟左卫门",
+        "pinned_tweet_id": "1954896370894241855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974872558366523392/tWBCR-DZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6670,
+          "following_count": 1734,
+          "like_count": 50573,
+          "listed_count": 7,
+          "media_count": 40,
+          "tweet_count": 5105
+        },
+        "url": "https://t.co/17HSNtOnem",
+        "username": "yej809150895172",
+        "verified": false
+      }
+    ]
+  }
+}

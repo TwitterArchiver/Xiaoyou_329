@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2007727279183671430",
+    "created_at": "2026-01-04T08:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T09:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007736250690855034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1921920906869497856",
+          "start": 0,
+          "username": "Y_82_Z_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007736250690855034",
+    "in_reply_to_user_id": "1921920906869497856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007732388022104124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_82_Z_ 不要呀😭不要上学🙀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2007727279183671430",
+        "created_at": "2026-01-04T08:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007736250690855034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1921920906869497856",
+              "start": 0,
+              "username": "Y_82_Z_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007736250690855034",
+        "in_reply_to_user_id": "1921920906869497856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007732388022104124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_82_Z_ 不要呀😭不要上学🙀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921920906869497856",
+        "conversation_id": "2007727279183671430",
+        "created_at": "2026-01-04T08:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007732388022104124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007732388022104124",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007727279183671430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我们每天要做的有两件事，一个是上学，另一个也是上学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 谢谢你愿意留下来了解我 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8696,
+          "following_count": 154,
+          "like_count": 5972,
+          "listed_count": 10,
+          "media_count": 574,
+          "tweet_count": 4766
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T13:30:40.000Z",
+        "description": "死人",
+        "id": "1921920906869497856",
+        "location": "距你0.3km",
+        "name": "零 下",
+        "pinned_tweet_id": "1996160031172284844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007007283390328833/U5lx4TIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 93,
+          "like_count": 13753,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 888
+        },
+        "username": "Y_82_Z_",
+        "verified": false
+      }
+    ]
+  }
+}

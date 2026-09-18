@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1956283362307383297",
+    "created_at": "2025-08-15T09:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T10:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956285386025574614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1916426330616586240",
+          "start": 0,
+          "username": "Blue_eeee_e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956285386025574614",
+    "in_reply_to_user_id": "1916426330616586240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956283968409485571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blue_eeee_e 谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1956283362307383297",
+        "created_at": "2025-08-15T09:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956285386025574614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916426330616586240",
+              "start": 0,
+              "username": "Blue_eeee_e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956285386025574614",
+        "in_reply_to_user_id": "1916426330616586240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956283968409485571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blue_eeee_e 谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916426330616586240",
+        "conversation_id": "1956283362307383297",
+        "created_at": "2025-08-15T09:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956283968409485571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956283968409485571",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956283362307383297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 如果是军训用的话可以买理肤泉诶 如果是日常通勤用我推荐你买石泽研究所的防晒霜才一百多有很大一瓶 敏感肌也很友好 小孩也可以用 肤感巨好 完全不粘腻 我这边夏天n热 涂了也不会不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 73,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 244
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T09:37:13.000Z",
+        "description": "",
+        "id": "1916426330616586240",
+        "name": "Blueeee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942532670531198979/tKe2AEC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 95,
+          "like_count": 1378,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 613
+        },
+        "username": "Blue_eeee_e",
+        "verified": false
+      }
+    ]
+  }
+}

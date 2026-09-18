@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070434236096708608"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070434246246998393",
+    "created_at": "2026-06-26T09:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070434246246998393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JnPGHLVn4G",
+          "end": 71,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2070434246246998393/photo/1",
+          "media_key": "3_2070434236096708608",
+          "start": 48,
+          "url": "https://t.co/JnPGHLVn4G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070434246246998393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "辛苦了呀！记得照顾好自己！祝你忙完以后能拥有一段完全属于自己的时间（。ꔷω-）εꔷ。）mua！ https://t.co/JnPGHLVn4G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1498,
+        "media_key": "3_2070434236096708608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuo99VaAAAc2CO.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070434236096708608"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070434246246998393",
+        "created_at": "2026-06-26T09:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070434246246998393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JnPGHLVn4G",
+              "end": 71,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2070434246246998393/photo/1",
+              "media_key": "3_2070434236096708608",
+              "start": 48,
+              "url": "https://t.co/JnPGHLVn4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070434246246998393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "辛苦了呀！记得照顾好自己！祝你忙完以后能拥有一段完全属于自己的时间（。ꔷω-）εꔷ。）mua！ https://t.co/JnPGHLVn4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15756,
+          "following_count": 178,
+          "like_count": 7684,
+          "listed_count": 20,
+          "media_count": 866,
+          "tweet_count": 6984
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

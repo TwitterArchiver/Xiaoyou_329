@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961264503003267528",
+    "created_at": "2025-08-29T03:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T04:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961266971955114206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612854174714302466",
+          "start": 0,
+          "username": "gu87734192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961266971955114206",
+    "in_reply_to_user_id": "1612854174714302466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961264503003267528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu87734192 无能的丈夫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961264503003267528",
+        "created_at": "2025-08-29T03:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961266971955114206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612854174714302466",
+              "start": 0,
+              "username": "gu87734192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961266971955114206",
+        "in_reply_to_user_id": "1612854174714302466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961264503003267528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu87734192 无能的丈夫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612854174714302466",
+        "conversation_id": "1961264503003267528",
+        "created_at": "2025-08-29T03:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961264503003267528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961264503003267528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天啥日子 怎么老婆说这几天出差不回家了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 92,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 736
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:49:50.000Z",
+        "description": "接定制 加v有🚪66\n接陪🥣\n抖音 21943386284\n匿名箱:  https://t.co/feCyxvpgDl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gu8773419221",
+                "end": 59,
+                "expanded_url": "https://ngl.link/gu8773419221",
+                "start": 36,
+                "url": "https://t.co/feCyxvpgDl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gu87734192.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://gu87734192.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/HjWcbeecYw"
+              }
+            ]
+          }
+        },
+        "id": "1612854174714302466",
+        "location": "河南",
+        "name": "念",
+        "pinned_tweet_id": "1878996127103803653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766545216583196672/aC28okYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21454,
+          "following_count": 43,
+          "like_count": 1142,
+          "listed_count": 37,
+          "media_count": 177,
+          "tweet_count": 1528
+        },
+        "url": "https://t.co/HjWcbeecYw",
+        "username": "gu87734192",
+        "verified": false
+      }
+    ]
+  }
+}

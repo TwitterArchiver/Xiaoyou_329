@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1987487855854453240",
+    "created_at": "2025-11-09T14:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T15:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987521110779289909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "mofumofuyewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987521110779289909",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987487855854453240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofumofuyewo 看的我一直哭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1987487855854453240",
+        "created_at": "2025-11-09T14:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987521110779289909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofumofuyewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987521110779289909",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987487855854453240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofumofuyewo 看的我一直哭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "1987487855854453240",
+        "created_at": "2025-11-09T11:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T12:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987487855854453240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987487855854453240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2598,
+          "like_count": 95,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "如何玩弄推特无人在意的缺爱逼：\n1.假装不经意间互关，给对方点赞评论\n2.表现出亲密，但不要把话说清楚\n3.在对方开始和你频繁互动的时候突然停止对其的点赞评论\n4.静候缺爱逼疯狂内耗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5053,
+          "following_count": 144,
+          "like_count": 4050,
+          "listed_count": 4,
+          "media_count": 429,
+          "tweet_count": 3448
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "旧号卖了喵｜マヌルネコ中毒｜王老师是我的恋人我的朋友我的母亲我的狗我的主人我的灵魂伴侣我的性奴隶｜腋窝的名字是小咪",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1986106429498163357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987089820573966337/WElOadft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 668,
+          "like_count": 1674,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1043
+        },
+        "username": "mofumofuyewo",
+        "verified": false
+      }
+    ]
+  }
+}

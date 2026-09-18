@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2020917197246169315",
+    "created_at": "2026-02-10T04:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T05:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021071695793262990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1848471938504790017",
+          "start": 0,
+          "username": "hope4xu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021071695793262990",
+    "in_reply_to_user_id": "1848471938504790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020917197246169315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hope4xu 主播可不可以定制一期手控福利"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020917188442697728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAu9ecGbsAAOJha.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2020917197246169315",
+        "created_at": "2026-02-10T04:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T05:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021071695793262990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1848471938504790017",
+              "start": 0,
+              "username": "hope4xu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021071695793262990",
+        "in_reply_to_user_id": "1848471938504790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020917197246169315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hope4xu 主播可不可以定制一期手控福利"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020917188442697728"
+          ]
+        },
+        "author_id": "1848471938504790017",
+        "conversation_id": "2020917197246169315",
+        "created_at": "2026-02-09T17:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T18:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020917197246169315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9a19otxECj",
+              "end": 29,
+              "expanded_url": "https://x.com/hope4xu/status/2020917197246169315/photo/1",
+              "media_key": "3_2020917188442697728",
+              "start": 6,
+              "url": "https://t.co/9a19otxECj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020917197246169315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 528,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欲语泪先流 https://t.co/9a19otxECj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12078,
+          "following_count": 158,
+          "like_count": 6438,
+          "listed_count": 19,
+          "media_count": 639,
+          "tweet_count": 5294
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T21:10:36.000Z",
+        "description": "纯绿🥣私 @xluv4u_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xluv4u_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iil0veu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iil0veu",
+                "start": 0,
+                "url": "https://t.co/Mz84wL9RIG"
+              }
+            ]
+          }
+        },
+        "id": "1848471938504790017",
+        "name": "昨夜",
+        "pinned_tweet_id": "2020455385740509295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019858127693443075/bVJo0Twl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4701,
+          "following_count": 0,
+          "like_count": 586,
+          "listed_count": 12,
+          "media_count": 47,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/Mz84wL9RIG",
+        "username": "hope4xu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2078623474667647309",
+    "created_at": "2026-07-19T01:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T02:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078653611664638260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1797986040441188352",
+          "start": 0,
+          "username": "zbf8888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078653611664638260",
+    "in_reply_to_user_id": "1797986040441188352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078651102518816999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zbf8888 这个是啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2078623474667647309",
+        "created_at": "2026-07-19T01:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078653611664638260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1797986040441188352",
+              "start": 0,
+              "username": "zbf8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078653611664638260",
+        "in_reply_to_user_id": "1797986040441188352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078651102518816999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zbf8888 这个是啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797986040441188352",
+        "conversation_id": "2078623474667647309",
+        "created_at": "2026-07-19T01:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078651102518816999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078651102518816999",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078623474667647309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 可以请你吃趣园吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17393,
+          "following_count": 186,
+          "like_count": 7695,
+          "listed_count": 22,
+          "media_count": 987,
+          "tweet_count": 7478
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T13:37:40.000Z",
+        "description": "",
+        "id": "1797986040441188352",
+        "location": "莫斯科",
+        "name": "莫斯科肌肉狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797988625491369984/o4KHvFVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "zbf8888",
+        "verified": false
+      }
+    ]
+  }
+}

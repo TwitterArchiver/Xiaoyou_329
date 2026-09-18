@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1988849055535907109",
+    "created_at": "2025-11-13T09:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T10:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988896237873996011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1803482252233547777",
+          "start": 0,
+          "username": "yannn_12_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988896237873996011",
+    "in_reply_to_user_id": "1803482252233547777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988849055535907109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yannn_12_ 老婆老婆mua！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1988849035256770560",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G5nPqQJbsAAMtyG.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G5nPqQJbsAAMtyG.mp4"
+          }
+        ],
+        "width": 270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1988849055535907109",
+        "created_at": "2025-11-13T09:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T10:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988896237873996011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1803482252233547777",
+              "start": 0,
+              "username": "yannn_12_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988896237873996011",
+        "in_reply_to_user_id": "1803482252233547777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988849055535907109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yannn_12_ 老婆老婆mua！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1988849035256770560"
+          ]
+        },
+        "author_id": "1803482252233547777",
+        "conversation_id": "1988849055535907109",
+        "created_at": "2025-11-13T05:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T06:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988849055535907109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gD5XgWsoOv",
+              "end": 27,
+              "expanded_url": "https://x.com/yannn_12_/status/1988849055535907109/photo/1",
+              "media_key": "16_1988849035256770560",
+              "start": 4,
+              "url": "https://t.co/gD5XgWsoOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988849055535907109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想你🥺 https://t.co/gD5XgWsoOv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6106,
+          "following_count": 148,
+          "like_count": 4300,
+          "listed_count": 4,
+          "media_count": 446,
+          "tweet_count": 3615
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T17:37:56.000Z",
+        "description": "ENFP｜摩羯｜157 43｜我废话很多｜不谈恋爱 不线下 不接广 不原味｜盗图替我挡灾｜@lovE_Li52 一个精神病",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lovE_Li52"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/Yannn_12",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/Yannn_12",
+                "start": 0,
+                "url": "https://t.co/EfFNBM78St"
+              }
+            ]
+          }
+        },
+        "id": "1803482252233547777",
+        "location": "🚪",
+        "name": "小塩闲不闲(yán)",
+        "pinned_tweet_id": "1984541558470033637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977960325678043136/9mJoCig8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 391,
+          "like_count": 22875,
+          "listed_count": 7,
+          "media_count": 435,
+          "tweet_count": 6609
+        },
+        "url": "https://t.co/EfFNBM78St",
+        "username": "yannn_12_",
+        "verified": false
+      }
+    ]
+  }
+}

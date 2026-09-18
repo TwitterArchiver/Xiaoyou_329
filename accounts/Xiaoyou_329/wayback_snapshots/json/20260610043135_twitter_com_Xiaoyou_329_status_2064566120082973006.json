@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2064423159823290666",
+    "created_at": "2026-06-10T04:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064566120082973006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1864641290144763910",
+          "start": 0,
+          "username": "cuoyuqie233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064566120082973006",
+    "in_reply_to_user_id": "1864641290144763910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064441530056945711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuoyuqie233 我再也不视奸别人朋友圈了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2064423159823290666",
+        "created_at": "2026-06-10T04:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064566120082973006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1864641290144763910",
+              "start": 0,
+              "username": "cuoyuqie233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064566120082973006",
+        "in_reply_to_user_id": "1864641290144763910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064441530056945711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuoyuqie233 我再也不视奸别人朋友圈了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864641290144763910",
+        "conversation_id": "2064423159823290666",
+        "created_at": "2026-06-09T20:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T21:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064441530056945711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064441530056945711",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 491,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064423159823290666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 爆猪率这一块！千万不要看照片呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15428,
+          "following_count": 177,
+          "like_count": 7611,
+          "listed_count": 20,
+          "media_count": 795,
+          "tweet_count": 6675
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T12:01:49.000Z",
+        "description": "如果哭能解决一切的话我要把世界淹没˃ ˄ ˂̥̥",
+        "id": "1864641290144763910",
+        "name": "cuoyuqie",
+        "pinned_tweet_id": "2035742210092900653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893716062811893760/HL2npN1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 201,
+          "like_count": 3215,
+          "listed_count": 7,
+          "media_count": 11,
+          "tweet_count": 296
+        },
+        "username": "cuoyuqie233",
+        "verified": false
+      }
+    ]
+  }
+}

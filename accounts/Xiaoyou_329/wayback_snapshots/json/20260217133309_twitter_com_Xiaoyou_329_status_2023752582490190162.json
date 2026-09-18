@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023752569257160712",
+        "3_2023752569084936192"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2023752582490190162",
+    "created_at": "2026-02-17T13:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T14:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023752582490190162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mH78EVlfPq",
+          "end": 102,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2023752582490190162/photo/1",
+          "media_key": "3_2023752569257160712",
+          "start": 79,
+          "url": "https://t.co/mH78EVlfPq"
+        },
+        {
+          "display_url": "pic.x.com/mH78EVlfPq",
+          "end": 102,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2023752582490190162/photo/1",
+          "media_key": "3_2023752569084936192",
+          "start": 79,
+          "url": "https://t.co/mH78EVlfPq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023752582490190162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好难受。我讨厌这个人。还有她凭啥过的比我好。。\n第二次见面就跟我妈打小报告。过年去乡下每次都把我跟她比。她妈妈还老是惹我妈妈。凭啥啊。。我好讨厌她。我想哭。 https://t.co/mH78EVlfPq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_2023752569257160712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXQPUvbcAgjgu8.jpg",
+        "width": 1169
+      },
+      {
+        "height": 2004,
+        "media_key": "3_2023752569084936192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXQPUGXgAAs2pa.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023752569257160712",
+            "3_2023752569084936192"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2023752582490190162",
+        "created_at": "2026-02-17T13:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023752582490190162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mH78EVlfPq",
+              "end": 102,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2023752582490190162/photo/1",
+              "media_key": "3_2023752569257160712",
+              "start": 79,
+              "url": "https://t.co/mH78EVlfPq"
+            },
+            {
+              "display_url": "pic.x.com/mH78EVlfPq",
+              "end": 102,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2023752582490190162/photo/1",
+              "media_key": "3_2023752569084936192",
+              "start": 79,
+              "url": "https://t.co/mH78EVlfPq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023752582490190162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受。我讨厌这个人。还有她凭啥过的比我好。。\n第二次见面就跟我妈打小报告。过年去乡下每次都把我跟她比。她妈妈还老是惹我妈妈。凭啥啊。。我好讨厌她。我想哭。 https://t.co/mH78EVlfPq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2023345096985612741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12091,
+          "following_count": 160,
+          "like_count": 6701,
+          "listed_count": 19,
+          "media_count": 672,
+          "tweet_count": 5511
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

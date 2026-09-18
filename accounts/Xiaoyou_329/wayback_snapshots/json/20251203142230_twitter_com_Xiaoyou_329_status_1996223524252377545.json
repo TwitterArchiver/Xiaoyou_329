@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1996223183297388916",
+    "created_at": "2025-12-03T14:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T15:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996223524252377545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816042391604015104",
+          "start": 0,
+          "username": "tao1865453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996223524252377545",
+    "in_reply_to_user_id": "1816042391604015104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996223183297388916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tao1865453 当年扫射丑b的时候 我蹲在地上p图躲过一劫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996223183297388916",
+        "created_at": "2025-12-03T14:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996223524252377545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816042391604015104",
+              "start": 0,
+              "username": "tao1865453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996223524252377545",
+        "in_reply_to_user_id": "1816042391604015104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996223183297388916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tao1865453 当年扫射丑b的时候 我蹲在地上p图躲过一劫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816042391604015104",
+        "conversation_id": "1996223183297388916",
+        "created_at": "2025-12-03T14:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996223183297388916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996223183297388916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当年扫射丑b的时候 我蹲在地上p图躲过一劫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7861,
+          "following_count": 157,
+          "like_count": 5363,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 4320
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T09:27:10.000Z",
+        "description": "07｜宝宝@tao07158｜置顶推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "tao07158"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=wFHzjTH0",
+                "start": 0,
+                "url": "https://t.co/2jN9lIX0t1"
+              }
+            ]
+          }
+        },
+        "id": "1816042391604015104",
+        "name": "玩具",
+        "pinned_tweet_id": "1996119679149215837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979557623042097152/kqNYAf0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11957,
+          "following_count": 254,
+          "like_count": 13182,
+          "listed_count": 8,
+          "media_count": 164,
+          "tweet_count": 4498
+        },
+        "url": "https://t.co/2jN9lIX0t1",
+        "username": "tao1865453",
+        "verified": false
+      }
+    ]
+  }
+}

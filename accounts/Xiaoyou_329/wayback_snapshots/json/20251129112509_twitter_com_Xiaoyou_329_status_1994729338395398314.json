@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1994729338395398314",
+    "created_at": "2025-11-29T11:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T12:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994729338395398314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+          "end": 88,
+          "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/1993999627000164352/an3-ZLdb?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1993999627000164352/an3-ZLdb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 65,
+          "status": 200,
+          "title": "@小由: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+          "url": "https://t.co/LFL1XmTGRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994729338395398314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还想录ngl…！好吧！谁陪我玩！可以说点小指令比方说“让我唱一下最近新学的歌”“说一下现在几点了”…反正唉哎…！谁陪我玩吧！🥺\nhttps://t.co/LFL1XmTGRW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1994729338395398314",
+        "created_at": "2025-11-29T11:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994729338395398314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+              "end": 88,
+              "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/1993999627000164352/an3-ZLdb?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993999627000164352/an3-ZLdb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "@小由: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+              "url": "https://t.co/LFL1XmTGRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994729338395398314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还想录ngl…！好吧！谁陪我玩！可以说点小指令比方说“让我唱一下最近新学的歌”“说一下现在几点了”…反正唉哎…！谁陪我玩吧！🥺\nhttps://t.co/LFL1XmTGRW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7733,
+          "following_count": 157,
+          "like_count": 5181,
+          "listed_count": 7,
+          "media_count": 541,
+          "tweet_count": 4287
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

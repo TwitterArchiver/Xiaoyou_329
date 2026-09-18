@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070193542014914699",
+    "created_at": "2026-06-25T17:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070197506185802177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1383831538433884171",
+          "start": 0,
+          "username": "Mr_jiangju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070197506185802177",
+    "in_reply_to_user_id": "1383831538433884171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070194547028873253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_jiangju 我从上午开始钓…海参好多…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070193542014914699",
+        "created_at": "2026-06-25T17:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070197506185802177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1383831538433884171",
+              "start": 0,
+              "username": "Mr_jiangju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070197506185802177",
+        "in_reply_to_user_id": "1383831538433884171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070194547028873253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_jiangju 我从上午开始钓…海参好多…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383831538433884171",
+        "conversation_id": "2070193542014914699",
+        "created_at": "2026-06-25T17:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070194547028873253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070194547028873253",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070193542014914699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 不挺好的吗 晚上掉的都是海参"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "置顶关评推广自辨 脱离X平台概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15669,
+          "following_count": 177,
+          "like_count": 7673,
+          "listed_count": 20,
+          "media_count": 864,
+          "tweet_count": 6953
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-18T17:15:30.000Z",
+        "description": "Nothing here",
+        "id": "1383831538433884171",
+        "name": "一条爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831776838475218944/IjUDAzbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 34,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Mr_jiangju",
+        "verified": false
+      }
+    ]
+  }
+}

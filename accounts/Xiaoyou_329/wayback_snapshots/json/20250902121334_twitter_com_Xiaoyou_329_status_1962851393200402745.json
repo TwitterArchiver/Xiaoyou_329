@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962851382882418688"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962850330372399299",
+    "created_at": "2025-09-02T12:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T13:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962851393200402745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904949484783841280",
+          "start": 0,
+          "username": "fuzhuovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a3ar6f9SpS",
+          "end": 44,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1962851393200402745/photo/1",
+          "media_key": "3_1962851382882418688",
+          "start": 21,
+          "url": "https://t.co/a3ar6f9SpS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962851393200402745",
+    "in_reply_to_user_id": "1904949484783841280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962850330372399299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuzhuovo 这期是我定制的对镜照 https://t.co/a3ar6f9SpS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 775,
+        "media_key": "3_1962851382882418688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1y7t-XQAA4Swj.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962850273879359488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1x7KnbgAAXUVL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962850279248060416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1x7enbYAA7NVh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962850280653111296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1x7j2awAAeRQS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962850280145666049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1x7h9bwAE2pvo.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962851382882418688"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962850330372399299",
+        "created_at": "2025-09-02T12:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962851393200402745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904949484783841280",
+              "start": 0,
+              "username": "fuzhuovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a3ar6f9SpS",
+              "end": 44,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1962851393200402745/photo/1",
+              "media_key": "3_1962851382882418688",
+              "start": 21,
+              "url": "https://t.co/a3ar6f9SpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962851393200402745",
+        "in_reply_to_user_id": "1904949484783841280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962850330372399299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuzhuovo 这期是我定制的对镜照 https://t.co/a3ar6f9SpS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962850273879359488",
+            "3_1962850279248060416",
+            "3_1962850280653111296",
+            "3_1962850280145666049"
+          ]
+        },
+        "author_id": "1904949484783841280",
+        "conversation_id": "1962850330372399299",
+        "created_at": "2025-09-02T12:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962850330372399299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9l2fuXJt5r",
+              "end": 30,
+              "expanded_url": "https://x.com/fuzhuovo/status/1962850330372399299/photo/1",
+              "media_key": "3_1962850273879359488",
+              "start": 7,
+              "url": "https://t.co/9l2fuXJt5r"
+            },
+            {
+              "display_url": "pic.x.com/9l2fuXJt5r",
+              "end": 30,
+              "expanded_url": "https://x.com/fuzhuovo/status/1962850330372399299/photo/1",
+              "media_key": "3_1962850279248060416",
+              "start": 7,
+              "url": "https://t.co/9l2fuXJt5r"
+            },
+            {
+              "display_url": "pic.x.com/9l2fuXJt5r",
+              "end": 30,
+              "expanded_url": "https://x.com/fuzhuovo/status/1962850330372399299/photo/1",
+              "media_key": "3_1962850280653111296",
+              "start": 7,
+              "url": "https://t.co/9l2fuXJt5r"
+            },
+            {
+              "display_url": "pic.x.com/9l2fuXJt5r",
+              "end": 30,
+              "expanded_url": "https://x.com/fuzhuovo/status/1962850330372399299/photo/1",
+              "media_key": "3_1962850280145666049",
+              "start": 7,
+              "url": "https://t.co/9l2fuXJt5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962850330372399299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打卡啦打卡啦 https://t.co/9l2fuXJt5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…｜梦想是去一次海边",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 100,
+          "like_count": 924,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1077
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T17:32:15.000Z",
+        "description": "男同点赞评论转发关注我的一辈子开不了张！！！\n🤗请叫我腐竹，谢谢你们喜欢我，台本中的角色终究不是我🫶请对我祛魅😌。\n我是看黄男😼牛牛精灵被封印了 @fuzhuyami\n(po一下属性185/74.70/15.1，1iswitch＞4i）\n欢迎提问👉 https://t.co/WL2eFEN50Z",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "fuzhuyami"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/flowerz28684",
+                "end": 148,
+                "expanded_url": "http://ngl.link/flowerz28684",
+                "start": 125,
+                "url": "https://t.co/WL2eFEN50Z"
+              }
+            ]
+          }
+        },
+        "id": "1904949484783841280",
+        "name": "😼腐竹大王",
+        "pinned_tweet_id": "1962671528694423760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962567126755221504/UpYzGaKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 603,
+          "like_count": 11542,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 2269
+        },
+        "username": "fuzhuovo",
+        "verified": false
+      }
+    ]
+  }
+}

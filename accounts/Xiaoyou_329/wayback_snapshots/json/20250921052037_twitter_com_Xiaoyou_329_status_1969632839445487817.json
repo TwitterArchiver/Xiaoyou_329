@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1969570449433461169",
+    "created_at": "2025-09-21T05:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T06:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969632839445487817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1103029613008105472",
+          "start": 0,
+          "username": "ruoyu48542575"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969632839445487817",
+    "in_reply_to_user_id": "1103029613008105472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969631819839783203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoyu48542575 收到…！谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1969570449433461169",
+        "created_at": "2025-09-21T05:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969632839445487817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1103029613008105472",
+              "start": 0,
+              "username": "ruoyu48542575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969632839445487817",
+        "in_reply_to_user_id": "1103029613008105472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969631819839783203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoyu48542575 收到…！谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103029613008105472",
+        "conversation_id": "1969570449433461169",
+        "created_at": "2025-09-21T05:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969631819839783203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969631819839783203",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969570449433461169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 身上阳气不足，多出去晒太阳，还有朱砂，同仁堂没假药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1965820788399026273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 119,
+          "like_count": 1711,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 2099
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-05T20:28:47.000Z",
+        "description": "半生荒唐半生痴，\n只恨沉醉不自知，\n我劝诸公皆抖擞，\n莫若如我后悔迟；\n枕戈待旦鸡鸣天，\n日落西山趁早眠，\n春夏秋冬成一统，\n粗茶淡饭耕薄田；\n夜半孤灯人难眠，\n昨日种种过眼前，\n豆蔻年华随时杳，\n冷暖自知空陌轩；\n南华一梦终须醒，\n东奔西走天复明，\n闲时但把诗书念，\n不负心怀不负卿。",
+        "id": "1103029613008105472",
+        "name": "ruoyu",
+        "pinned_tweet_id": "1965055972952711237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1103029996010930176/E62tUT3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 598,
+          "like_count": 7746,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 6649
+        },
+        "username": "ruoyu48542575",
+        "verified": false
+      }
+    ]
+  }
+}

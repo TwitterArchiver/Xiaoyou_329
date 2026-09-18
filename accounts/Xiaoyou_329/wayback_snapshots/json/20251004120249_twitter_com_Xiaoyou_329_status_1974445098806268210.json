@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1974445098806268210",
+    "created_at": "2025-10-04T12:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T13:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974445098806268210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+          "end": 29,
+          "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/1970116820628824064/3JxrwHPR?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1970116820628824064/3JxrwHPR?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 6,
+          "status": 200,
+          "title": "@小由: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+          "url": "https://t.co/LFL1XmTGRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974445098806268210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请陪我玩\n\nhttps://t.co/LFL1XmTGRW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1974445098806268210",
+        "created_at": "2025-10-04T12:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T13:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974445098806268210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+              "end": 29,
+              "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/1970116820628824064/3JxrwHPR?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1970116820628824064/3JxrwHPR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 6,
+              "status": 200,
+              "title": "@小由: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+              "url": "https://t.co/LFL1XmTGRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974445098806268210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请陪我玩\n\nhttps://t.co/LFL1XmTGRW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 129,
+          "like_count": 2274,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 2524
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1992590138564874246",
+    "created_at": "2025-11-24T03:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T04:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992798383808131417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1221771238168653827",
+          "start": 0,
+          "username": "WzUnKJgOm85LtQp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992798383808131417",
+    "in_reply_to_user_id": "1221771238168653827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992795885999436161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WzUnKJgOm85LtQp 啊啊啊啊这个更是灾难！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1992590138564874246",
+        "created_at": "2025-11-24T03:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T04:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992798383808131417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1221771238168653827",
+              "start": 0,
+              "username": "WzUnKJgOm85LtQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992798383808131417",
+        "in_reply_to_user_id": "1221771238168653827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992795885999436161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WzUnKJgOm85LtQp 啊啊啊啊这个更是灾难！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1221771238168653827",
+        "conversation_id": "1992590138564874246",
+        "created_at": "2025-11-24T03:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T04:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992795885999436161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992795885999436161",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992590138564874246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 还有的不是口音重，而是分不清l/n一类的，也很出戏啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7187,
+          "following_count": 152,
+          "like_count": 5030,
+          "listed_count": 5,
+          "media_count": 518,
+          "tweet_count": 4119
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-27T12:25:51.000Z",
+        "description": "哎嘿(˵¯͒〰¯͒˵)",
+        "id": "1221771238168653827",
+        "name": "RW瓶子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978223723002970112/lH8qtSBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 50,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 46
+        },
+        "username": "WzUnKJgOm85LtQp",
+        "verified": false
+      }
+    ]
+  }
+}

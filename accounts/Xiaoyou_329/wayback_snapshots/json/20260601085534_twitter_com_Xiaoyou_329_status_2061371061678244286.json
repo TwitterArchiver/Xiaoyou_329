@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2061301867305648216",
+    "created_at": "2026-06-01T08:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061371061678244286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947492570612772864",
+          "start": 0,
+          "username": "wngychn120756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061371061678244286",
+    "in_reply_to_user_id": "1947492570612772864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061305154129834332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngychn120756 你要气死我吗。😂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2061301867305648216",
+        "created_at": "2026-06-01T08:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061371061678244286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947492570612772864",
+              "start": 0,
+              "username": "wngychn120756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061371061678244286",
+        "in_reply_to_user_id": "1947492570612772864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061305154129834332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngychn120756 你要气死我吗。😂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947492570612772864",
+        "conversation_id": "2061301867305648216",
+        "created_at": "2026-06-01T04:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061305154129834332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061305154129834332",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061301867305648216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 不给操看看还喜不喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15355,
+          "following_count": 176,
+          "like_count": 7567,
+          "listed_count": 20,
+          "media_count": 872,
+          "tweet_count": 6721
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T03:03:33.000Z",
+        "description": "1",
+        "id": "1947492570612772864",
+        "location": "Atlanta, GA",
+        "name": "19",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059347343380455424/i4lqIs0a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 24,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 119
+        },
+        "username": "wngychn120756",
+        "verified": false
+      }
+    ]
+  }
+}

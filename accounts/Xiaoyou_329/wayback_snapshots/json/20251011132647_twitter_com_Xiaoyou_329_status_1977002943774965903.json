@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1976990048043385019",
+    "created_at": "2025-10-11T13:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T14:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977002943774965903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922986184755773442",
+          "start": 0,
+          "username": "xiugour05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977002943774965903",
+    "in_reply_to_user_id": "1922986184755773442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977002153215770970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiugour05 什么都可以吧…但是前提是声音好听不然玩游戏红温了 我肯定会骂对方 蒽如果声音好听那我可以忍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1976990048043385019",
+        "created_at": "2025-10-11T13:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977002943774965903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1922986184755773442",
+              "start": 0,
+              "username": "xiugour05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977002943774965903",
+        "in_reply_to_user_id": "1922986184755773442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977002153215770970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiugour05 什么都可以吧…但是前提是声音好听不然玩游戏红温了 我肯定会骂对方 蒽如果声音好听那我可以忍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922986184755773442",
+        "conversation_id": "1976990048043385019",
+        "created_at": "2025-10-11T13:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977002153215770970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977002153215770970",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976990048043385019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 玩什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜爱搞抽象的普通人 请别打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1975791841409966295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 131,
+          "like_count": 2647,
+          "listed_count": 2,
+          "media_count": 381,
+          "tweet_count": 2755
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T12:03:45.000Z",
+        "description": "玩X只为看美女，别找我聊天，不想聊",
+        "id": "1922986184755773442",
+        "name": "修勾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957112007213363201/AYpVlRdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 56,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 185
+        },
+        "username": "xiugour05",
+        "verified": false
+      }
+    ]
+  }
+}

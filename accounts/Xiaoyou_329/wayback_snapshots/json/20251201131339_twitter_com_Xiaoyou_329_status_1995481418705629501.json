@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1995051630925160792",
+    "created_at": "2025-12-01T13:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T14:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995481418705629501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779093261954465792",
+          "start": 0,
+          "username": "HaniOvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995481418705629501",
+    "in_reply_to_user_id": "1779093261954465792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995051630925160792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaniOvO_ 我操！我的私信也这样！能不能直接甩语音条让我听听实力！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1995051630925160792",
+        "created_at": "2025-12-01T13:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995481418705629501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779093261954465792",
+              "start": 0,
+              "username": "HaniOvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995481418705629501",
+        "in_reply_to_user_id": "1779093261954465792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995051630925160792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaniOvO_ 我操！我的私信也这样！能不能直接甩语音条让我听听实力！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779093261954465792",
+        "conversation_id": "1995051630925160792",
+        "created_at": "2025-11-30T08:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995051630925160792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995051630925160792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24428,
+          "like_count": 187,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽尼玛，私信只回复青年音很难理解吗，给我发“青年音”三个字的到底是何意味？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7833,
+          "following_count": 157,
+          "like_count": 5260,
+          "listed_count": 7,
+          "media_count": 550,
+          "tweet_count": 4354
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T10:24:39.000Z",
+        "description": "私訊只回覆青年音。主人@Readyt01ove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "Readyt01ove"
+              }
+            ]
+          }
+        },
+        "id": "1779093261954465792",
+        "location": "距离你1km",
+        "name": "hani",
+        "pinned_tweet_id": "1922650768458354949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991679077066121216/rhiO9CTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6269,
+          "following_count": 108,
+          "like_count": 40162,
+          "listed_count": 12,
+          "media_count": 175,
+          "tweet_count": 2727
+        },
+        "username": "HaniOvO_",
+        "verified": false
+      }
+    ]
+  }
+}

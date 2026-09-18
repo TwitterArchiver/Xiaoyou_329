@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2013152482654888211",
+    "created_at": "2026-01-19T08:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T09:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013174161267478728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953812757910106113",
+          "start": 0,
+          "username": "hugonrainynight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013174161267478728",
+    "in_reply_to_user_id": "1953812757910106113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013167820813873386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hugonrainynight 没招了吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2013152482654888211",
+        "created_at": "2026-01-19T08:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T09:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013174161267478728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953812757910106113",
+              "start": 0,
+              "username": "hugonrainynight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013174161267478728",
+        "in_reply_to_user_id": "1953812757910106113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013167820813873386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hugonrainynight 没招了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953812757910106113",
+        "conversation_id": "2013152482654888211",
+        "created_at": "2026-01-19T08:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T09:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013167820813873386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013167820813873386",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013152482654888211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我去我也是。每次感觉很久了最后一看录制时间三分钟😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私 不回冒犯性问题｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9737,
+          "following_count": 156,
+          "like_count": 6263,
+          "listed_count": 13,
+          "media_count": 587,
+          "tweet_count": 4979
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T13:37:52.000Z",
+        "description": "说我的眼泪比别人珍贵｜提问箱https://t.co/QD7N0oQq5M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hugonrainynight",
+                "end": 37,
+                "expanded_url": "https://ngl.link/hugonrainynight",
+                "start": 14,
+                "url": "https://t.co/QD7N0oQq5M"
+              }
+            ]
+          }
+        },
+        "id": "1953812757910106113",
+        "location": "🚪52纯绿 发屌拉黑",
+        "name": "无情娇妻",
+        "pinned_tweet_id": "2000245677906145671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996381955697573888/zxXfNeig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 44,
+          "like_count": 430,
+          "listed_count": 8,
+          "media_count": 71,
+          "tweet_count": 303
+        },
+        "username": "hugonrainynight",
+        "verified": false
+      }
+    ]
+  }
+}

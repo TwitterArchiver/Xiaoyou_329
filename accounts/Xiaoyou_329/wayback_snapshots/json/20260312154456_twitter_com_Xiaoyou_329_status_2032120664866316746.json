@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032120642313584640"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2032120252759163005",
+    "created_at": "2026-03-12T15:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032120664866316746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N6GMl4OVkT",
+          "end": 64,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2032120664866316746/photo/1",
+          "media_key": "3_2032120642313584640",
+          "start": 41,
+          "url": "https://t.co/N6GMl4OVkT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032120664866316746",
+    "in_reply_to_user_id": "1906360034725961728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032120252759163005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好难受呀。我玩的好菜。我不知道该怎么办了。我选择放弃。玩的我不舒服他也不舒服。 https://t.co/N6GMl4OVkT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032120642313584640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOK9SHXAAAfG9i.jpg",
+        "width": 1064
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2032120243099668480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOKmC7WEAAdyF4.jpg",
+        "width": 601
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032120642313584640"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2032120252759163005",
+        "created_at": "2026-03-12T15:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032120664866316746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6GMl4OVkT",
+              "end": 64,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2032120664866316746/photo/1",
+              "media_key": "3_2032120642313584640",
+              "start": 41,
+              "url": "https://t.co/N6GMl4OVkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032120664866316746",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032120252759163005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好难受呀。我玩的好菜。我不知道该怎么办了。我选择放弃。玩的我不舒服他也不舒服。 https://t.co/N6GMl4OVkT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032120243099668480"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032120252759163005",
+        "created_at": "2026-03-12T15:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032120252759163005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w2p91ZV8X3",
+              "end": 95,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2032120252759163005/photo/1",
+              "media_key": "3_2032120243099668480",
+              "start": 72,
+              "url": "https://t.co/w2p91ZV8X3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032120252759163005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我好难受。他一说我我就紧张。我就不知道咋玩。他教我我还很蠢我反应慢跟不上。我好难受。我放弃了。我不适合和脾气不好的人一起玩。我特别害怕被骂。 https://t.co/w2p91ZV8X3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13130,
+          "following_count": 162,
+          "like_count": 7035,
+          "listed_count": 19,
+          "media_count": 732,
+          "tweet_count": 5922
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

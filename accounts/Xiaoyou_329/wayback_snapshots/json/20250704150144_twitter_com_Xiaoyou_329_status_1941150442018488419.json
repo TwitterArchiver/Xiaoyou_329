@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1941129898804088990",
+    "created_at": "2025-07-04T15:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T16:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941150442018488419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612854174714302466",
+          "start": 0,
+          "username": "gu87734192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941150442018488419",
+    "in_reply_to_user_id": "1612854174714302466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941129898804088990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu87734192 这个小念老师坏我道心…好听…大概就是头戴式耳机听这种就是身临其境的感觉吧…多喘好不好"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 600333,
+        "height": 480,
+        "media_key": "13_1941129661242859520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1941129661242859520/img/OhNgQccOKEe2RXLN.jpg",
+        "public_metrics": {
+          "view_count": 228
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941129661242859520/vid/avc1/300x270/ywczmCm3am22QLfo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941129661242859520/vid/avc1/402x360/trXhkMLzua5AF0kk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941129661242859520/vid/avc1/536x480/xc_pMUyGe362aoEM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1941129661242859520/pl/bBCZuakBCHzVGrbB.m3u8?tag=14"
+          }
+        ],
+        "width": 536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1941129898804088990",
+        "created_at": "2025-07-04T15:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T16:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941150442018488419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612854174714302466",
+              "start": 0,
+              "username": "gu87734192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941150442018488419",
+        "in_reply_to_user_id": "1612854174714302466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941129898804088990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu87734192 这个小念老师坏我道心…好听…大概就是头戴式耳机听这种就是身临其境的感觉吧…多喘好不好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1941129661242859520"
+          ]
+        },
+        "author_id": "1612854174714302466",
+        "conversation_id": "1941129898804088990",
+        "created_at": "2025-07-04T13:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T14:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941129898804088990"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "男喘"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "纯喘"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "青年音"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "手冲实录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r22GmmouLi",
+              "end": 111,
+              "expanded_url": "https://x.com/gu87734192/status/1941129898804088990/video/1",
+              "media_key": "13_1941129661242859520",
+              "start": 88,
+              "url": "https://t.co/r22GmmouLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941129898804088990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 775,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "依旧纯喘./（操飞机杯返场啦！）\n咕叽咕叽的就是插飞机杯的声音哈！\n爽冲！\n喜欢这种类型吗评论区和我说一声，要是喜欢的多我就经常录这种！\n＃男喘 ＃纯喘 ＃青年音 ＃手冲实录 https://t.co/r22GmmouLi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 52,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 161
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:49:50.000Z",
+        "description": "接定制 加v有🚪66\n接陪🥣\n抖音 21943386284\n匿名箱:  https://t.co/feCyxvpgDl\n自用喵叽加速器 高速 稳定 强推：https://t.co/LkGaa7s2XN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gu8773419221",
+                "end": 59,
+                "expanded_url": "https://ngl.link/gu8773419221",
+                "start": 36,
+                "url": "https://t.co/feCyxvpgDl"
+              },
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 100,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=MCRkRBkO",
+                "start": 77,
+                "url": "https://t.co/LkGaa7s2XN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gu87734192.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://gu87734192.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/HjWcbeecYw"
+              }
+            ]
+          }
+        },
+        "id": "1612854174714302466",
+        "location": "河南",
+        "name": "念",
+        "pinned_tweet_id": "1878996127103803653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766545216583196672/aC28okYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20305,
+          "following_count": 61,
+          "like_count": 1160,
+          "listed_count": 31,
+          "media_count": 299,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/HjWcbeecYw",
+        "username": "gu87734192",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1986327704057098527",
+    "created_at": "2025-11-06T07:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T08:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986332516769554500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1415875318510882817",
+          "start": 0,
+          "username": "tree1312260"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986332516769554500",
+    "in_reply_to_user_id": "1415875318510882817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986330955838333033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tree1312260 老婆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1986327704057098527",
+        "created_at": "2025-11-06T07:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T08:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986332516769554500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1415875318510882817",
+              "start": 0,
+              "username": "tree1312260"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986332516769554500",
+        "in_reply_to_user_id": "1415875318510882817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986330955838333033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tree1312260 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1415875318510882817",
+        "conversation_id": "1986327704057098527",
+        "created_at": "2025-11-06T07:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T08:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986330955838333033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986330955838333033",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986327704057098527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 小妾粉在此排队"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1985354277674479915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5012,
+          "following_count": 145,
+          "like_count": 3833,
+          "listed_count": 4,
+          "media_count": 433,
+          "tweet_count": 3334
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-16T03:26:03.000Z",
+        "description": "不爱生活 爱自由🆓 彩虹屁制造机 不接推广 不收门槛 不看私信 想说啥说啥",
+        "id": "1415875318510882817",
+        "location": "在海景酒店和互关女推开imparty",
+        "name": "你蛮有趣的",
+        "pinned_tweet_id": "1666667612372340736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417287283548459022/4vBMM51X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5213,
+          "following_count": 893,
+          "like_count": 21248,
+          "listed_count": 11,
+          "media_count": 86,
+          "tweet_count": 8697
+        },
+        "username": "tree1312260",
+        "verified": false
+      }
+    ]
+  }
+}

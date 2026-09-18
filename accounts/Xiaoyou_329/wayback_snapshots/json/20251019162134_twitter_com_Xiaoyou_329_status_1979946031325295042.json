@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1979591060239323241",
+    "created_at": "2025-10-19T16:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T17:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979946031325295042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746856093438103552",
+          "start": 0,
+          "username": "zzy3477736913"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979946031325295042",
+    "in_reply_to_user_id": "1746856093438103552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979591060239323241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzy3477736913 香香我好想亲你一口两口三口…一直亲你吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1979591052236324864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jrkt0WgAAODsx.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1979591060239323241",
+        "created_at": "2025-10-19T16:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979946031325295042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746856093438103552",
+              "start": 0,
+              "username": "zzy3477736913"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979946031325295042",
+        "in_reply_to_user_id": "1746856093438103552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979591060239323241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzy3477736913 香香我好想亲你一口两口三口…一直亲你吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979591052236324864"
+          ]
+        },
+        "author_id": "1746856093438103552",
+        "conversation_id": "1979591060239323241",
+        "created_at": "2025-10-18T16:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T17:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979591060239323241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHpjpzHfMm",
+              "end": 42,
+              "expanded_url": "https://x.com/zzy3477736913/status/1979591060239323241/photo/1",
+              "media_key": "3_1979591052236324864",
+              "start": 19,
+              "url": "https://t.co/dHpjpzHfMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979591060239323241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4923,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好吧找了半天角度和表情就拍出这样玩意 https://t.co/dHpjpzHfMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3109,
+          "following_count": 135,
+          "like_count": 2989,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 2978
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T11:25:30.000Z",
+        "description": "碎碎念",
+        "id": "1746856093438103552",
+        "name": "楿",
+        "pinned_tweet_id": "1975533754044314005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976835333779337216/pxpIcXqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 78,
+          "like_count": 5345,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 814
+        },
+        "username": "zzy3477736913",
+        "verified": false
+      }
+    ]
+  }
+}

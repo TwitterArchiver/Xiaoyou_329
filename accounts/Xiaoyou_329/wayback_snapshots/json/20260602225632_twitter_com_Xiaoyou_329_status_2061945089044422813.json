@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2061863198459039824",
+    "created_at": "2026-06-02T22:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T23:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061945089044422813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1441806714555142167",
+          "start": 0,
+          "username": "BotboyKikaiNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061945089044422813",
+    "in_reply_to_user_id": "1441806714555142167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061914514032136692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BotboyKikaiNeko no。还是会时常犯痛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2061863198459039824",
+        "created_at": "2026-06-02T22:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061945089044422813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1441806714555142167",
+              "start": 0,
+              "username": "BotboyKikaiNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061945089044422813",
+        "in_reply_to_user_id": "1441806714555142167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061914514032136692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BotboyKikaiNeko no。还是会时常犯痛。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441806714555142167",
+        "conversation_id": "2061863198459039824",
+        "created_at": "2026-06-02T20:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T21:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061914514032136692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061914514032136692",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061863198459039824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 增生治好了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15380,
+          "following_count": 177,
+          "like_count": 7570,
+          "listed_count": 20,
+          "media_count": 875,
+          "tweet_count": 6730
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-25T16:48:27.000Z",
+        "description": "",
+        "id": "1441806714555142167",
+        "name": "Neko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642200348407525377/sK668VE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 658,
+          "like_count": 371,
+          "listed_count": 6,
+          "media_count": 1,
+          "tweet_count": 325
+        },
+        "username": "BotboyKikaiNeko",
+        "verified": false
+      }
+    ]
+  }
+}

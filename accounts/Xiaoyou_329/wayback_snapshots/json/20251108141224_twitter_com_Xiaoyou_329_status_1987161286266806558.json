@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1987150484272972285",
+    "created_at": "2025-11-08T14:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T15:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987161286266806558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1970287402376990720",
+          "start": 0,
+          "username": "Tomato_10900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987161286266806558",
+    "in_reply_to_user_id": "1970287402376990720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987157473300783303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tomato_10900 宝宝⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1987150484272972285",
+        "created_at": "2025-11-08T14:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987161286266806558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1970287402376990720",
+              "start": 0,
+              "username": "Tomato_10900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987161286266806558",
+        "in_reply_to_user_id": "1970287402376990720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987157473300783303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tomato_10900 宝宝⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970287402376990720",
+        "conversation_id": "1987150484272972285",
+        "created_at": "2025-11-08T13:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987157473300783303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987157473300783303",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987150484272972285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 你咋那么可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5067,
+          "following_count": 143,
+          "like_count": 4011,
+          "listed_count": 6,
+          "media_count": 432,
+          "tweet_count": 3430
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T00:41:45.000Z",
+        "description": "这里是小 u  |  纯绿 | 吃播小 u | 愿望就是吃下天下最好吃的美食 | 骚扰我 4000+",
+        "id": "1970287402376990720",
+        "location": "小悠王国",
+        "name": "uu 来了哦",
+        "pinned_tweet_id": "1986350878824239386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987082974878441472/2gEdl7Vw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 100,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1641
+        },
+        "username": "Tomato_10900",
+        "verified": false
+      }
+    ]
+  }
+}

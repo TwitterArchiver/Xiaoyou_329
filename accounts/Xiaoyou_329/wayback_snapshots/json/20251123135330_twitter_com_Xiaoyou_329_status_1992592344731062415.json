@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1992591535054159978",
+    "created_at": "2025-11-23T13:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T14:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992592344731062415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833833080282288128",
+          "start": 0,
+          "username": "kng875632791285"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992592344731062415",
+    "in_reply_to_user_id": "1833833080282288128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992592220290257393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kng875632791285 防拍价9999"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1992591535054159978",
+        "created_at": "2025-11-23T13:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992592344731062415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833833080282288128",
+              "start": 0,
+              "username": "kng875632791285"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992592344731062415",
+        "in_reply_to_user_id": "1833833080282288128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992592220290257393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kng875632791285 防拍价9999"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833833080282288128",
+        "conversation_id": "1992591535054159978",
+        "created_at": "2025-11-23T13:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992592220290257393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992592220290257393",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992591535054159978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 有什么要求吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7180,
+          "following_count": 152,
+          "like_count": 5018,
+          "listed_count": 5,
+          "media_count": 517,
+          "tweet_count": 4105
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T11:41:03.000Z",
+        "description": "性压抑到极致，缺爱到极致",
+        "id": "1833833080282288128",
+        "name": "抗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942615146272055296/ajXU5FRZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 144,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 158
+        },
+        "username": "kng875632791285",
+        "verified": false
+      }
+    ]
+  }
+}

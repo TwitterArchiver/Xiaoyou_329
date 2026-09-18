@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074480466972090368"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2074480519560237305",
+    "created_at": "2026-07-07T13:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074480519560237305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lH9cM6AVgu",
+          "end": 58,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2074480519560237305/photo/1",
+          "media_key": "3_2074480466972090368",
+          "start": 35,
+          "url": "https://t.co/lH9cM6AVgu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074480519560237305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈服了呀，突然下雨…我全湿了…本来就透…现在更是完全贴在我身上了 https://t.co/lH9cM6AVgu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074480466972090368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoI_l9boAAs-9K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074480466972090368"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2074480519560237305",
+        "created_at": "2026-07-07T13:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074480519560237305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lH9cM6AVgu",
+              "end": 58,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2074480519560237305/photo/1",
+              "media_key": "3_2074480466972090368",
+              "start": 35,
+              "url": "https://t.co/lH9cM6AVgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074480519560237305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈服了呀，突然下雨…我全湿了…本来就透…现在更是完全贴在我身上了 https://t.co/lH9cM6AVgu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17016,
+          "following_count": 184,
+          "like_count": 7696,
+          "listed_count": 20,
+          "media_count": 924,
+          "tweet_count": 7224
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

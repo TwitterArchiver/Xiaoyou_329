@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960171973528449429",
+    "created_at": "2025-08-26T02:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T03:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960174238024753261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1888717326691766272",
+          "start": 0,
+          "username": "CestDot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960174238024753261",
+    "in_reply_to_user_id": "1888717326691766272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960171973528449429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CestDot 好好休息！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960171973528449429",
+        "created_at": "2025-08-26T02:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T03:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960174238024753261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1888717326691766272",
+              "start": 0,
+              "username": "CestDot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960174238024753261",
+        "in_reply_to_user_id": "1888717326691766272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960171973528449429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CestDot 好好休息！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888717326691766272",
+        "conversation_id": "1960171973528449429",
+        "created_at": "2025-08-26T02:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T03:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960171973528449429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960171973528449429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我时差可能还没倒过来，我困的要死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 74,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 613
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T22:31:37.000Z",
+        "description": "",
+        "id": "1888717326691766272",
+        "name": "Ouais",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956683106246635521/U6aiLBjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 15,
+          "like_count": 1273,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "username": "CestDot",
+        "verified": false
+      }
+    ]
+  }
+}

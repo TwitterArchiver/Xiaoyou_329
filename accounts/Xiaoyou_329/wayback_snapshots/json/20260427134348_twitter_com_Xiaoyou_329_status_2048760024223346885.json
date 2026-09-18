@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048760008163389440"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2048760024223346885",
+    "created_at": "2026-04-27T13:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048760024223346885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C7FbfXqG1P",
+          "end": 30,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2048760024223346885/photo/1",
+          "media_key": "3_2048760008163389440",
+          "start": 7,
+          "url": "https://t.co/C7FbfXqG1P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048760024223346885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有人叫妈妈 https://t.co/C7FbfXqG1P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048760008163389440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6oX2Sa8AAo8lc.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048760008163389440"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2048760024223346885",
+        "created_at": "2026-04-27T13:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048760024223346885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7FbfXqG1P",
+              "end": 30,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2048760024223346885/photo/1",
+              "media_key": "3_2048760008163389440",
+              "start": 7,
+              "url": "https://t.co/C7FbfXqG1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048760024223346885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人叫妈妈 https://t.co/C7FbfXqG1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13835,
+          "following_count": 164,
+          "like_count": 7416,
+          "listed_count": 20,
+          "media_count": 819,
+          "tweet_count": 6434
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

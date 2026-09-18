@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1979060772719272167",
+    "created_at": "2025-10-17T05:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T06:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979061353059885357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977943570083696641",
+          "start": 0,
+          "username": "kkkjgc191684"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979061353059885357",
+    "in_reply_to_user_id": "1977943570083696641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979061040395485656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkjgc191684 推广自辩 只有推特这一个账号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1979060772719272167",
+        "created_at": "2025-10-17T05:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T06:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979061353059885357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977943570083696641",
+              "start": 0,
+              "username": "kkkjgc191684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979061353059885357",
+        "in_reply_to_user_id": "1977943570083696641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979061040395485656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkjgc191684 推广自辩 只有推特这一个账号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977943570083696641",
+        "conversation_id": "1979060772719272167",
+        "created_at": "2025-10-17T05:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T06:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979061040395485656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979061040395485656",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979060772719272167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 你的tg号是卖了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 130,
+          "like_count": 2865,
+          "listed_count": 3,
+          "media_count": 398,
+          "tweet_count": 2891
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T03:44:38.000Z",
+        "description": "",
+        "id": "1977943570083696641",
+        "name": "k kk jg c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978258876052226048/vMsVhkHL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 242,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 48
+        },
+        "username": "kkkjgc191684",
+        "verified": false
+      }
+    ]
+  }
+}

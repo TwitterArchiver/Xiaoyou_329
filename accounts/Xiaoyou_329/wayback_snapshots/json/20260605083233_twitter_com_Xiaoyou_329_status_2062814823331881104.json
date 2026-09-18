@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2062574902465667130",
+    "created_at": "2026-06-05T08:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062814823331881104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1827416305038987264",
+          "start": 0,
+          "username": "candf0131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062814823331881104",
+    "in_reply_to_user_id": "1827416305038987264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062574902465667130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@candf0131 老大为啥你的形容能力这么强。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2062574902465667130",
+        "created_at": "2026-06-05T08:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062814823331881104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1827416305038987264",
+              "start": 0,
+              "username": "candf0131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062814823331881104",
+        "in_reply_to_user_id": "1827416305038987264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062574902465667130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@candf0131 老大为啥你的形容能力这么强。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827416305038987264",
+        "conversation_id": "2062574902465667130",
+        "created_at": "2026-06-04T16:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062574902465667130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062574902465667130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 25088,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在学校里看到一个男生很胖穿着黑色速干束脚裤 屁股那块有点土 脏脏的 上身穿着看起来很不干净的黑色紧身背心 把他的胸轮廓喝啤酒肚勾勒出来 包括突起的两点 然后他就这么从我边上跑过去 胸颤颤巍巍的。看得我好崩溃好难受好心酸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15453,
+          "following_count": 176,
+          "like_count": 7590,
+          "listed_count": 20,
+          "media_count": 877,
+          "tweet_count": 6782
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T18:43:02.000Z",
+        "description": "我只是一个很伤心的小女生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haochi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/haochi2",
+                "start": 0,
+                "url": "https://t.co/AwAYrB3LiA"
+              }
+            ]
+          }
+        },
+        "id": "1827416305038987264",
+        "location": "🚪52000",
+        "name": "土豆泥世界第一",
+        "pinned_tweet_id": "2049019727616540846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003034217345896449/dGaEPoNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10865,
+          "following_count": 126,
+          "like_count": 6288,
+          "listed_count": 13,
+          "media_count": 1096,
+          "tweet_count": 12755
+        },
+        "url": "https://t.co/AwAYrB3LiA",
+        "username": "candf0131",
+        "verified": false
+      }
+    ]
+  }
+}

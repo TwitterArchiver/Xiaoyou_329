@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957818044459429888",
+        "3_1957818044417470470"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957818055905468711",
+    "created_at": "2025-08-19T14:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T15:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957818055905468711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eh1TNEcpiU",
+          "end": 30,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1957818055905468711/photo/1",
+          "media_key": "3_1957818044459429888",
+          "start": 7,
+          "url": "https://t.co/Eh1TNEcpiU"
+        },
+        {
+          "display_url": "pic.x.com/Eh1TNEcpiU",
+          "end": 30,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1957818055905468711/photo/1",
+          "media_key": "3_1957818044417470470",
+          "start": 7,
+          "url": "https://t.co/Eh1TNEcpiU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957818055905468711",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我恨我兄弟。 https://t.co/Eh1TNEcpiU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_1957818044459429888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyuRI3LasAAAZoq.jpg",
+        "width": 1542
+      },
+      {
+        "height": 855,
+        "media_key": "3_1957818044417470470",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyuRI3BacAY1jQe.jpg",
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957818044459429888",
+            "3_1957818044417470470"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1957818055905468711",
+        "created_at": "2025-08-19T14:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T15:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957818055905468711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eh1TNEcpiU",
+              "end": 30,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1957818055905468711/photo/1",
+              "media_key": "3_1957818044459429888",
+              "start": 7,
+              "url": "https://t.co/Eh1TNEcpiU"
+            },
+            {
+              "display_url": "pic.x.com/Eh1TNEcpiU",
+              "end": 30,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1957818055905468711/photo/1",
+              "media_key": "3_1957818044417470470",
+              "start": 7,
+              "url": "https://t.co/Eh1TNEcpiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957818055905468711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨我兄弟。 https://t.co/Eh1TNEcpiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)当朋友圈发…不约炮…喜欢发一些身材照…我是双性恋…陌生人发私信不回…",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 72,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 376
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

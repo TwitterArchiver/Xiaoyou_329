@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2021945095239676200",
+    "created_at": "2026-02-12T16:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021978864642404762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1948253330431692800",
+          "start": 0,
+          "username": "LINGloveyoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021978864642404762",
+    "in_reply_to_user_id": "1948253330431692800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021946200698814928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LINGloveyoyo 你好萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2021945095239676200",
+        "created_at": "2026-02-12T16:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021978864642404762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948253330431692800",
+              "start": 0,
+              "username": "LINGloveyoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021978864642404762",
+        "in_reply_to_user_id": "1948253330431692800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021946200698814928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LINGloveyoyo 你好萌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948253330431692800",
+        "conversation_id": "2021945095239676200",
+        "created_at": "2026-02-12T13:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021946200698814928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021946200698814928",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021945095239676200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 是的 为什么无人鸟我是我太丑了吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2018262383047700927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12089,
+          "following_count": 161,
+          "like_count": 6535,
+          "listed_count": 19,
+          "media_count": 649,
+          "tweet_count": 5361
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T05:26:32.000Z",
+        "description": "10 金牛女 iiii",
+        "id": "1948253330431692800",
+        "name": "L",
+        "pinned_tweet_id": "2021962303584055709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021964039719735296/MTktQ0aD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "LINGloveyoyo",
+        "verified": false
+      }
+    ]
+  }
+}

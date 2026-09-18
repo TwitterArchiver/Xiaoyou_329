@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1997843902729179630",
+    "created_at": "2025-12-08T04:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T05:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997893758214369749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1802621079875444736",
+          "start": 0,
+          "username": "resirenle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997893758214369749",
+    "in_reply_to_user_id": "1802621079875444736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997868898461618374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@resirenle 这是我和我朋友🌚。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1997843902729179630",
+        "created_at": "2025-12-08T04:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T05:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997893758214369749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1802621079875444736",
+              "start": 0,
+              "username": "resirenle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997893758214369749",
+        "in_reply_to_user_id": "1802621079875444736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997868898461618374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@resirenle 这是我和我朋友🌚。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802621079875444736",
+        "conversation_id": "1997843902729179630",
+        "created_at": "2025-12-08T03:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T04:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997868898461618374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997868898461618374",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997843902729179630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 哼，恋爱的酸臭味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜讨厌我就屏蔽我 喜欢我就投喂我｜无🚪｜感谢关注祝你 天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8071,
+          "following_count": 158,
+          "like_count": 5553,
+          "listed_count": 8,
+          "media_count": 540,
+          "tweet_count": 4471
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T08:35:42.000Z",
+        "description": "",
+        "id": "1802621079875444736",
+        "name": "粉粉小天使doro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918839388387315712/44RrFCOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 137,
+          "like_count": 892,
+          "listed_count": 4,
+          "media_count": 3902,
+          "tweet_count": 12894
+        },
+        "username": "resirenle",
+        "verified": false
+      }
+    ]
+  }
+}

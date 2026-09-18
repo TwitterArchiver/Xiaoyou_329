@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1992283392134779092",
+    "created_at": "2025-11-22T17:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T18:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992283934533857684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855647297084043265",
+          "start": 0,
+          "username": "AugustJos_22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992283934533857684",
+    "in_reply_to_user_id": "1855647297084043265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992283712109817907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AugustJos_22 我是专门研究三养火鸡面咋做才好吃的科研人员"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1992283392134779092",
+        "created_at": "2025-11-22T17:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992283934533857684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855647297084043265",
+              "start": 0,
+              "username": "AugustJos_22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992283934533857684",
+        "in_reply_to_user_id": "1855647297084043265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992283712109817907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AugustJos_22 我是专门研究三养火鸡面咋做才好吃的科研人员"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855647297084043265",
+        "conversation_id": "1992283392134779092",
+        "created_at": "2025-11-22T17:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992283712109817907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992283712109817907",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992283392134779092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 老吃家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7175,
+          "following_count": 154,
+          "like_count": 4972,
+          "listed_count": 5,
+          "media_count": 509,
+          "tweet_count": 4054
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T16:22:55.000Z",
+        "description": "重生号｜直男｜07｜🇬🇧英留25fall｜switch｜颜控｜不定时更新｜🎮农铲瓦等等等等｜twice重度依赖 kpop博爱｜🚪52/288（没啥别的只是想多圈点 互关可以直接加）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/august_jos0822",
+                "end": 23,
+                "expanded_url": "https://ngl.link/august_jos0822",
+                "start": 0,
+                "url": "https://t.co/HOncCtVqpN"
+              }
+            ]
+          }
+        },
+        "id": "1855647297084043265",
+        "location": "在想你",
+        "name": "枫",
+        "pinned_tweet_id": "1959988037989060954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855647466374459393/yGBBTLFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10500,
+          "following_count": 371,
+          "like_count": 2262,
+          "listed_count": 19,
+          "media_count": 112,
+          "tweet_count": 1788
+        },
+        "url": "https://t.co/HOncCtVqpN",
+        "username": "AugustJos_22",
+        "verified": false
+      }
+    ]
+  }
+}

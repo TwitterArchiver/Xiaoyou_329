@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1990280638218514760",
+    "created_at": "2025-11-17T04:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T05:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990280638218514760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tomatovo__/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/tomatovo__/status/1990068706467070295",
+          "start": 36,
+          "url": "https://t.co/nWLL7Lq6iP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990280638218514760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990068706467070295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊。之前和一个门哥聊天聊的太投机了。名字和地址全告诉他了。😭。 https://t.co/nWLL7Lq6iP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1990280638218514760",
+        "created_at": "2025-11-17T04:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T05:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990280638218514760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tomatovo__/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/tomatovo__/status/1990068706467070295",
+              "start": 36,
+              "url": "https://t.co/nWLL7Lq6iP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990280638218514760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990068706467070295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊。之前和一个门哥聊天聊的太投机了。名字和地址全告诉他了。😭。 https://t.co/nWLL7Lq6iP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950580081346412544",
+        "conversation_id": "1990068706467070295",
+        "created_at": "2025-11-16T14:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990068706467070295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990068706467070295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 47829,
+          "like_count": 255,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "其实聊的来的多聊几句我就实名上网了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6684,
+          "following_count": 150,
+          "like_count": 4556,
+          "listed_count": 5,
+          "media_count": 472,
+          "tweet_count": 3788
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T15:31:54.000Z",
+        "description": "来发疯的。\n我脑子不好。",
+        "id": "1950580081346412544",
+        "name": "特猫头头",
+        "pinned_tweet_id": "1979875527021457571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950813669899599872/PGkYKKYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 393,
+          "like_count": 3585,
+          "listed_count": 3,
+          "media_count": 659,
+          "tweet_count": 6466
+        },
+        "username": "Tomatovo__",
+        "verified": false
+      }
+    ]
+  }
+}

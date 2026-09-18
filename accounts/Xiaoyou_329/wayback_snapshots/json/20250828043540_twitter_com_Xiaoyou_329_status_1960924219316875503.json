@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960924210823364608"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960713529385705980",
+    "created_at": "2025-08-28T04:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T05:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960924219316875503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885021581153320961",
+          "start": 0,
+          "username": "xu121718"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hVv7dzIase",
+          "end": 43,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1960924219316875503/photo/1",
+          "media_key": "3_1960924210823364608",
+          "start": 20,
+          "url": "https://t.co/hVv7dzIase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960924219316875503",
+    "in_reply_to_user_id": "1885021581153320961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960713529385705980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu121718 爹咪接电话 我想… https://t.co/hVv7dzIase"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 950,
+        "media_key": "3_1960924210823364608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzaaLimXAAAlSXy.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 14633,
+        "height": 720,
+        "media_key": "13_1960713283767570432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960713283767570432/img/QkQrOrFco7Jkb0gM.jpg",
+        "public_metrics": {
+          "view_count": 424
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960713283767570432/vid/avc1/480x270/Z-7R-zhM2RjnXKIy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960713283767570432/vid/avc1/640x360/CaJSmbYl3aah8-SG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960713283767570432/vid/avc1/1280x720/Nt6fiPwZ3-Ct1g5l.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960713283767570432/pl/YRB0reaySt7U5Pes.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960924210823364608"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960713529385705980",
+        "created_at": "2025-08-28T04:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T05:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960924219316875503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885021581153320961",
+              "start": 0,
+              "username": "xu121718"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVv7dzIase",
+              "end": 43,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1960924219316875503/photo/1",
+              "media_key": "3_1960924210823364608",
+              "start": 20,
+              "url": "https://t.co/hVv7dzIase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960924219316875503",
+        "in_reply_to_user_id": "1885021581153320961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960713529385705980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu121718 爹咪接电话 我想… https://t.co/hVv7dzIase"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960713283767570432"
+          ]
+        },
+        "author_id": "1885021581153320961",
+        "conversation_id": "1960713529385705980",
+        "created_at": "2025-08-27T14:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T15:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960713529385705980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/49dAg7kZpa",
+              "end": 39,
+              "expanded_url": "https://x.com/xu121718/status/1960713529385705980/video/1",
+              "media_key": "13_1960713283767570432",
+              "start": 16,
+              "url": "https://t.co/49dAg7kZpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960713529385705980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1557,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中缝小有成效 依旧喂耐视角^^ https://t.co/49dAg7kZpa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 87,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 693
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T17:45:50.000Z",
+        "description": "05 ENFJ sw 不4i 谢谢宝宝视奸我",
+        "id": "1885021581153320961",
+        "location": "杭州",
+        "name": "小鱼卷",
+        "pinned_tweet_id": "1959607988643385533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958812372728266752/EzF135aV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 61,
+          "like_count": 8384,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 537
+        },
+        "username": "xu121718",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1991936212844892255",
+    "created_at": "2025-11-22T10:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992177044252168576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1901339878966636544",
+          "start": 0,
+          "username": "tteokki9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992177044252168576",
+    "in_reply_to_user_id": "1901339878966636544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991936212844892255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tteokki9 我操。朱志鑫能不能来让邓佳鑫过我的🚪。我给他免。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1991936212844892255",
+        "created_at": "2025-11-22T10:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992177044252168576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1901339878966636544",
+              "start": 0,
+              "username": "tteokki9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992177044252168576",
+        "in_reply_to_user_id": "1901339878966636544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991936212844892255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tteokki9 我操。朱志鑫能不能来让邓佳鑫过我的🚪。我给他免。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901339878966636544",
+        "conversation_id": "1991936212844892255",
+        "created_at": "2025-11-21T18:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T19:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991936212844892255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991936212844892255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7752,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "朱志鑫到底在推特过的谁的🚪有人能给我解答一下吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7172,
+          "following_count": 152,
+          "like_count": 4901,
+          "listed_count": 5,
+          "media_count": 503,
+          "tweet_count": 4007
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T18:28:59.000Z",
+        "description": "可以叫我小叽叽^o^ 嫌我坏你走！你赶紧走！｜私信只回有意思的和过🚪口令｜",
+        "id": "1901339878966636544",
+        "location": "🚪88/188/520/1314…",
+        "name": "椰叽",
+        "pinned_tweet_id": "1984659027478102138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978562699706707968/ZBtaBVTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 113,
+          "like_count": 1922,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 862
+        },
+        "username": "tteokki9",
+        "verified": false
+      }
+    ]
+  }
+}

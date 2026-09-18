@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979227706723094528"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1979227715946353140",
+    "created_at": "2025-10-17T16:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T17:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979227715946353140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RjJdAs0KBS",
+          "end": 23,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1979227715946353140/photo/1",
+          "media_key": "3_1979227706723094528",
+          "start": 0,
+          "url": "https://t.co/RjJdAs0KBS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979227715946353140",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/RjJdAs0KBS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1979227706723094528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ehHOTXUAAzOHa.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979227706723094528"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1979227715946353140",
+        "created_at": "2025-10-17T16:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979227715946353140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjJdAs0KBS",
+              "end": 23,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1979227715946353140/photo/1",
+              "media_key": "3_1979227706723094528",
+              "start": 0,
+              "url": "https://t.co/RjJdAs0KBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979227715946353140",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RjJdAs0KBS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2948,
+          "following_count": 134,
+          "like_count": 2904,
+          "listed_count": 3,
+          "media_count": 401,
+          "tweet_count": 2932
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2072202226542805406",
+    "created_at": "2026-07-01T09:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072253863739171111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1860768887572135936",
+          "start": 0,
+          "username": "tianmingku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072253863739171111",
+    "in_reply_to_user_id": "1860768887572135936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072253378856681965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianmingku 因为是我朋友出给我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2072202226542805406",
+        "created_at": "2026-07-01T09:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072253863739171111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1860768887572135936",
+              "start": 0,
+              "username": "tianmingku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072253863739171111",
+        "in_reply_to_user_id": "1860768887572135936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072253378856681965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianmingku 因为是我朋友出给我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860768887572135936",
+        "conversation_id": "2072202226542805406",
+        "created_at": "2026-07-01T09:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072253378856681965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072253378856681965",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072202226542805406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 50能收到一台手机，也是神了，可以去抖音上出个教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17018,
+          "following_count": 177,
+          "like_count": 7685,
+          "listed_count": 20,
+          "media_count": 884,
+          "tweet_count": 7089
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T19:34:29.000Z",
+        "description": "",
+        "id": "1860768887572135936",
+        "name": "tiaoming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860770304231919617/hsh1YiFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 131,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "tianmingku",
+        "verified": true
+      }
+    ]
+  }
+}

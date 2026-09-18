@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2050021450661445771",
+    "created_at": "2026-05-01T01:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T02:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050022922144890969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2029516666569359360",
+          "start": 0,
+          "username": "lzxzzxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050022922144890969",
+    "in_reply_to_user_id": "2029516666569359360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050022648709833044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzxzzxx 我上推直奔书签。看片。看完我就跑路了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2050021450661445771",
+        "created_at": "2026-05-01T01:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050022922144890969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2029516666569359360",
+              "start": 0,
+              "username": "lzxzzxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050022922144890969",
+        "in_reply_to_user_id": "2029516666569359360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050022648709833044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzxzzxx 我上推直奔书签。看片。看完我就跑路了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029516666569359360",
+        "conversation_id": "2050021450661445771",
+        "created_at": "2026-05-01T01:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050022648709833044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050022648709833044",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050021450661445771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 说实话，我也很想，但是x上的人机每次都能让我人间清醒，这何偿不是一种解脱🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13931,
+          "following_count": 165,
+          "like_count": 7405,
+          "listed_count": 21,
+          "media_count": 820,
+          "tweet_count": 6441
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T11:18:24.000Z",
+        "description": "",
+        "id": "2029516666569359360",
+        "name": "问号橘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048730337178738688/a4RTROvW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 268,
+          "like_count": 1382,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 648
+        },
+        "username": "lzxzzxx",
+        "verified": false
+      }
+    ]
+  }
+}

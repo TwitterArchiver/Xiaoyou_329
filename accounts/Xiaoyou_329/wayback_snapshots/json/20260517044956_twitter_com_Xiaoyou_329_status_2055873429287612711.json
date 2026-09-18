@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2055682460630077729",
+    "created_at": "2026-05-17T04:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055873429287612711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1989338360528490496",
+          "start": 0,
+          "username": "ankijj157193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055873429287612711",
+    "in_reply_to_user_id": "1989338360528490496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055862361920250105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ankijj157193 真的是啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2055682460630077729",
+        "created_at": "2026-05-17T04:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055873429287612711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989338360528490496",
+              "start": 0,
+              "username": "ankijj157193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055873429287612711",
+        "in_reply_to_user_id": "1989338360528490496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055862361920250105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ankijj157193 真的是啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989338360528490496",
+        "conversation_id": "2055682460630077729",
+        "created_at": "2026-05-17T04:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055862361920250105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055862361920250105",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055682460630077729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 好绝望啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14950,
+          "following_count": 173,
+          "like_count": 7484,
+          "listed_count": 21,
+          "media_count": 840,
+          "tweet_count": 6576
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T14:23:35.000Z",
+        "description": "不是粉牛牛不看。不线下，想照顾我怎么样的直接给我发钱行不🥰",
+        "id": "1989338360528490496",
+        "name": "ankijj",
+        "pinned_tweet_id": "2050061036418719954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989339027666042881/eI1LeTQR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 11,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 377
+        },
+        "username": "ankijj157193",
+        "verified": false
+      }
+    ]
+  }
+}

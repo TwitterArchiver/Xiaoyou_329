@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028355348466397530",
+    "created_at": "2026-03-02T16:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T17:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028503330968965381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1780622398913671168",
+          "start": 0,
+          "username": "Skpeeeeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028503330968965381",
+    "in_reply_to_user_id": "1780622398913671168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028502851337761047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Skpeeeeer 我去？还有连续剧？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_2028502845436370944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCawlygaoAA5dmQ.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028355348466397530",
+        "created_at": "2026-03-02T16:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028503330968965381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1780622398913671168",
+              "start": 0,
+              "username": "Skpeeeeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028503330968965381",
+        "in_reply_to_user_id": "1780622398913671168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028502851337761047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skpeeeeer 我去？还有连续剧？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028502845436370944"
+          ]
+        },
+        "author_id": "1780622398913671168",
+        "conversation_id": "2028355348466397530",
+        "created_at": "2026-03-02T16:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028502851337761047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v68l2YY2Lc",
+              "end": 40,
+              "expanded_url": "https://x.com/Skpeeeeer/status/2028502851337761047/photo/1",
+              "media_key": "3_2028502845436370944",
+              "start": 17,
+              "url": "https://t.co/v68l2YY2Lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028502851337761047",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028355348466397530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 陪一个 https://t.co/v68l2YY2Lc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12814,
+          "following_count": 163,
+          "like_count": 6837,
+          "listed_count": 19,
+          "media_count": 714,
+          "tweet_count": 5711
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T15:40:53.000Z",
+        "description": "",
+        "id": "1780622398913671168",
+        "name": "Skp",
+        "pinned_tweet_id": "1888043401674899536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848568277800493056/0wdwIpme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 96,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 237
+        },
+        "username": "Skpeeeeer",
+        "verified": false
+      }
+    ]
+  }
+}

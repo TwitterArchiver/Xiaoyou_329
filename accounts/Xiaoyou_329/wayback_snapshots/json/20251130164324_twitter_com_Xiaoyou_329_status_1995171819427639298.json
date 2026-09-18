@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995171811500204032"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1995171819427639298",
+    "created_at": "2025-11-30T16:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995171819427639298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xFEwCAdjgF",
+          "end": 31,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1995171819427639298/photo/1",
+          "media_key": "3_1995171811500204032",
+          "start": 8,
+          "url": "https://t.co/xFEwCAdjgF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995171819427639298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 378,
+      "like_count": 7,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于圈到了…！ https://t.co/xFEwCAdjgF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995171819427639298].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995171819427639298",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995171819427639298"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_1995171811500204032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7BGMRJXoAARanC.jpg",
+        "width": 1003
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7820,
+          "following_count": 158,
+          "like_count": 5226,
+          "listed_count": 7,
+          "media_count": 545,
+          "tweet_count": 4326
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

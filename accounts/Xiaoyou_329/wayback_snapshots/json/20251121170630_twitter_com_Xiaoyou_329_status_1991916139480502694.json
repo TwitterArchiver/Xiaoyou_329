@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1991776736015749185",
+    "created_at": "2025-11-21T17:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T18:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991916139480502694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957104304034394112",
+          "start": 0,
+          "username": "cunyuanyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991916139480502694",
+    "in_reply_to_user_id": "1957104304034394112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991915761842245697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cunyuanyu 敢突然爆照就死定了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1991776736015749185",
+        "created_at": "2025-11-21T17:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991916139480502694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957104304034394112",
+              "start": 0,
+              "username": "cunyuanyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991916139480502694",
+        "in_reply_to_user_id": "1957104304034394112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991915761842245697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cunyuanyu 敢突然爆照就死定了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957104304034394112",
+        "conversation_id": "1991776736015749185",
+        "created_at": "2025-11-21T17:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991915761842245697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991915761842245697",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991776736015749185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 敢突然爆照就死定了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7150,
+          "following_count": 152,
+          "like_count": 4871,
+          "listed_count": 5,
+          "media_count": 503,
+          "tweet_count": 3994
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T15:37:11.000Z",
+        "description": "我有一颗最好的蘑菇在心里｜双人只是因为没互动不是对你有意见｜来这儿说吧https://t.co/cmuxogvnq7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuan43872",
+                "end": 58,
+                "expanded_url": "https://ngl.link/yuan43872",
+                "start": 35,
+                "url": "https://t.co/cmuxogvnq7"
+              }
+            ]
+          }
+        },
+        "id": "1957104304034394112",
+        "location": "🚪88纯绿",
+        "name": "笨笨你又怎么了",
+        "pinned_tweet_id": "1988238113731436642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988911399565934592/XQ6AA1j7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 55,
+          "like_count": 2473,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2537
+        },
+        "username": "cunyuanyu",
+        "verified": false
+      }
+    ]
+  }
+}

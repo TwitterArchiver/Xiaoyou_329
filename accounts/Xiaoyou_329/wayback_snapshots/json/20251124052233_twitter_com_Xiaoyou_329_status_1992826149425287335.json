@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1992590138564874246",
+    "created_at": "2025-11-24T05:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992826149425287335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946927130501120000",
+          "start": 0,
+          "username": "Xiaowu__111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992826149425287335",
+    "in_reply_to_user_id": "1946927130501120000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992826024267333801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaowu__111 又在闹。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1992590138564874246",
+        "created_at": "2025-11-24T05:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992826149425287335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946927130501120000",
+              "start": 0,
+              "username": "Xiaowu__111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992826149425287335",
+        "in_reply_to_user_id": "1946927130501120000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992826024267333801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaowu__111 又在闹。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946927130501120000",
+        "conversation_id": "1992590138564874246",
+        "created_at": "2025-11-24T05:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992826024267333801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992826024267333801",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992590138564874246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 对不起 我口音太重了  我下次注意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7184,
+          "following_count": 153,
+          "like_count": 5045,
+          "listed_count": 5,
+          "media_count": 519,
+          "tweet_count": 4124
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T13:36:32.000Z",
+        "description": "选择性接陪🥣 （陪聊/哄睡 没有卡）我只是一个爱玩抽象的普通人 不要对我带滤镜   新人男喘 暂时无🚪   不加V",
+        "id": "1946927130501120000",
+        "name": "小五",
+        "pinned_tweet_id": "1985676741810274809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948800124420775936/KiLLLXii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10540,
+          "following_count": 40,
+          "like_count": 747,
+          "listed_count": 18,
+          "media_count": 98,
+          "tweet_count": 408
+        },
+        "username": "Xiaowu__111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018973036993503232"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018973052868911248",
+    "created_at": "2026-02-04T09:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T10:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018973052868911248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B8bURV6buI",
+          "end": 64,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2018973052868911248/photo/1",
+          "media_key": "3_2018973036993503232",
+          "start": 41,
+          "url": "https://t.co/B8bURV6buI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018973052868911248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的敏感程度就跟galgame一样 选错选项第二天你一推开门就看见我吊死在卧室里 https://t.co/B8bURV6buI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2018973036993503232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HATVR7kW4AAXcDG.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018973036993503232"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018973052868911248",
+        "created_at": "2026-02-04T09:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018973052868911248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8bURV6buI",
+              "end": 64,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2018973052868911248/photo/1",
+              "media_key": "3_2018973036993503232",
+              "start": 41,
+              "url": "https://t.co/B8bURV6buI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018973052868911248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的敏感程度就跟galgame一样 选错选项第二天你一推开门就看见我吊死在卧室里 https://t.co/B8bURV6buI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11914,
+          "following_count": 158,
+          "like_count": 6295,
+          "listed_count": 17,
+          "media_count": 631,
+          "tweet_count": 5204
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2081653465042858004",
+    "created_at": "2026-07-27T15:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081762051223924953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902888249653334016",
+          "start": 0,
+          "username": "Misak1Kusanagi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081762051223924953",
+    "in_reply_to_user_id": "1902888249653334016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081761450478223605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misak1Kusanagi1 TuT柚子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2081653465042858004",
+        "created_at": "2026-07-27T15:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081762051223924953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902888249653334016",
+              "start": 0,
+              "username": "Misak1Kusanagi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081762051223924953",
+        "in_reply_to_user_id": "1902888249653334016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081761450478223605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misak1Kusanagi1 TuT柚子…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902888249653334016",
+        "conversation_id": "2081653465042858004",
+        "created_at": "2026-07-27T15:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081761450478223605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081761450478223605",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081653465042858004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 听起来就好疼。。注意安全呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17613,
+          "following_count": 188,
+          "like_count": 7682,
+          "listed_count": 21,
+          "media_count": 1017,
+          "tweet_count": 7552
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:02:03.000Z",
+        "description": "这里是pomelo 可以叫我柚子/♂/负能/欢迎扩/4i/重郁重焦/08高三/mai舟崩什么的都沾一点",
+        "id": "1902888249653334016",
+        "name": "pomelo",
+        "pinned_tweet_id": "2070945673294598445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587225020301312/9qykg60z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 326,
+          "like_count": 3766,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "Misak1Kusanagi1",
+        "verified": false
+      }
+    ]
+  }
+}

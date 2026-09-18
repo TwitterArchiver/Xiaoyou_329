@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944682142232948736"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1944682152936751181",
+    "created_at": "2025-07-14T08:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T09:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944682152936751181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XmCUEXULLC",
+          "end": 35,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1944682152936751181/photo/1",
+          "media_key": "3_1944682142232948736",
+          "start": 12,
+          "url": "https://t.co/XmCUEXULLC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944682152936751181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "许愿一个爱我的青年音。 https://t.co/XmCUEXULLC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_1944682142232948736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvzmGuDXMAACdzE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944682142232948736"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1944682152936751181",
+        "created_at": "2025-07-14T08:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T09:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944682152936751181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmCUEXULLC",
+              "end": 35,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1944682152936751181/photo/1",
+              "media_key": "3_1944682142232948736",
+              "start": 12,
+              "url": "https://t.co/XmCUEXULLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944682152936751181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "许愿一个爱我的青年音。 https://t.co/XmCUEXULLC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 59,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 183
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

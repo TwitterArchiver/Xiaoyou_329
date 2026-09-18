@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2021945095239676200",
+    "created_at": "2026-02-13T09:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T10:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022241020298375232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2022220443378495490",
+          "start": 0,
+          "username": "3bEZtpA4ig94619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022241020298375232",
+    "in_reply_to_user_id": "2022220443378495490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022232033892933740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3bEZtpA4ig94619 没错！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2021945095239676200",
+        "created_at": "2026-02-13T09:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T10:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022241020298375232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2022220443378495490",
+              "start": 0,
+              "username": "3bEZtpA4ig94619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022241020298375232",
+        "in_reply_to_user_id": "2022220443378495490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022232033892933740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3bEZtpA4ig94619 没错！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022220443378495490",
+        "conversation_id": "2021945095239676200",
+        "created_at": "2026-02-13T08:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022232033892933740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022232033892933740",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021945095239676200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我觉得这里还挺有意思的。我好喜欢给别人评论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12091,
+          "following_count": 161,
+          "like_count": 6579,
+          "listed_count": 19,
+          "media_count": 649,
+          "tweet_count": 5375
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:05:23.000Z",
+        "description": "",
+        "id": "2022220443378495490",
+        "name": "ireyoureyes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022226254666379266/5bf4-Ptw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "3bEZtpA4ig94619",
+        "verified": false
+      }
+    ]
+  }
+}

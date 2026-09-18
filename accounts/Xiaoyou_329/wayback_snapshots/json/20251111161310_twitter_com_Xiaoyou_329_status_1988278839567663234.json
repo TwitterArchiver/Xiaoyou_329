@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1988274190949241310",
+    "created_at": "2025-11-11T16:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T17:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988278839567663234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862557266890956800",
+          "start": 0,
+          "username": "bei_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988278839567663234",
+    "in_reply_to_user_id": "1862557266890956800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988274190949241310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bei_haishui 我会努力互动的…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1988274190949241310",
+        "created_at": "2025-11-11T16:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T17:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988278839567663234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862557266890956800",
+              "start": 0,
+              "username": "bei_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988278839567663234",
+        "in_reply_to_user_id": "1862557266890956800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988274190949241310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bei_haishui 我会努力互动的…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862557266890956800",
+        "conversation_id": "1988274190949241310",
+        "created_at": "2025-11-11T15:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988274190949241310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988274190949241310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "双了一批没怎么互动的🧎对不起🧎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5062,
+          "following_count": 147,
+          "like_count": 4185,
+          "listed_count": 4,
+          "media_count": 438,
+          "tweet_count": 3539
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "双取屏蔽随意 匿名信箱 https://t.co/mDWro0l3qC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lzb06110813374",
+                "end": 35,
+                "expanded_url": "https://ngl.link/lzb06110813374",
+                "start": 12,
+                "url": "https://t.co/mDWro0l3qC"
+              }
+            ]
+          }
+        },
+        "id": "1862557266890956800",
+        "name": "蛋挞心",
+        "pinned_tweet_id": "1987210397947187273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986718737274400768/weYux4D7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10420,
+          "following_count": 555,
+          "like_count": 33592,
+          "listed_count": 13,
+          "media_count": 103,
+          "tweet_count": 4962
+        },
+        "username": "bei_haishui",
+        "verified": false
+      }
+    ]
+  }
+}

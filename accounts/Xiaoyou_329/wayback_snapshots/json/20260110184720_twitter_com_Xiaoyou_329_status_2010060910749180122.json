@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2010060910749180122",
+    "created_at": "2026-01-10T18:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T19:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010060910749180122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+          "end": 61,
+          "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2010060112451514372/itvHXt3v?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2010060112451514372/itvHXt3v?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 38,
+          "status": 200,
+          "title": "@小由: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+          "url": "https://t.co/LFL1XmTGRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010060910749180122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我将把这个匿名提问放一晚上！明天来录回答！请各位陪我玩！早点休息晚安大家！\nhttps://t.co/LFL1XmTGRW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2010060910749180122",
+        "created_at": "2026-01-10T18:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T19:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010060910749180122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+              "end": 61,
+              "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2010060112451514372/itvHXt3v?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010060112451514372/itvHXt3v?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "@小由: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+              "url": "https://t.co/LFL1XmTGRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010060910749180122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将把这个匿名提问放一晚上！明天来录回答！请各位陪我玩！早点休息晚安大家！\nhttps://t.co/LFL1XmTGRW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私 不回冒犯性的问题｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9162,
+          "following_count": 155,
+          "like_count": 6125,
+          "listed_count": 12,
+          "media_count": 583,
+          "tweet_count": 4887
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

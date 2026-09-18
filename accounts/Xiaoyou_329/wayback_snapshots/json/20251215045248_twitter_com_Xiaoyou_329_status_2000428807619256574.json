@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2000417861538595231",
+    "created_at": "2025-12-15T04:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T05:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000428807619256574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1852416951316058112",
+          "start": 0,
+          "username": "white1689903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000428807619256574",
+    "in_reply_to_user_id": "1852416951316058112",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000428752334160183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@white1689903 mua！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2000417861538595231",
+        "created_at": "2025-12-15T04:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000428807619256574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852416951316058112",
+              "start": 0,
+              "username": "white1689903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000428807619256574",
+        "in_reply_to_user_id": "1852416951316058112",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000428752334160183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@white1689903 mua！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852416951316058112",
+        "conversation_id": "2000417861538595231",
+        "created_at": "2025-12-15T04:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000428752334160183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000428752334160183",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000417861538595231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 由神！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8123,
+          "following_count": 151,
+          "like_count": 5735,
+          "listed_count": 8,
+          "media_count": 551,
+          "tweet_count": 4578
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T18:26:50.000Z",
+        "description": "幸福的隐藏技是什么…",
+        "id": "1852416951316058112",
+        "name": "white",
+        "pinned_tweet_id": "1888118220726689813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988448711547183104/bcGIMb6R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 62,
+          "like_count": 9181,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 2710
+        },
+        "username": "white1689903",
+        "verified": false
+      }
+    ]
+  }
+}

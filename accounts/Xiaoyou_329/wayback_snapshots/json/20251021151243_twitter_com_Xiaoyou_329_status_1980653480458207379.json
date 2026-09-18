@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1980653409758818304"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1980653480458207379",
+    "created_at": "2025-10-21T15:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T16:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980653480458207379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g4xRxpuBIv",
+          "end": 42,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1980653480458207379/video/1",
+          "media_key": "13_1980653409758818304",
+          "start": 19,
+          "url": "https://t.co/g4xRxpuBIv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980653480458207379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无奖竞猜那天冲了几次给我嗓子都冲哑了 https://t.co/g4xRxpuBIv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10035,
+        "height": 1280,
+        "media_key": "13_1980653409758818304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980653409758818304/img/D9bLkd0HObDeQNtc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980653409758818304/vid/avc1/320x690/fzpxCnykumrPOjXA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980653409758818304/vid/avc1/480x1036/qQXAWet_ZbC4A38a.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980653409758818304/vid/avc1/592x1280/aux2NwjOntUo4uPJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980653409758818304/pl/P_YuvctMeGEBP942.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980653409758818304"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1980653480458207379",
+        "created_at": "2025-10-21T15:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T16:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980653480458207379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g4xRxpuBIv",
+              "end": 42,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1980653480458207379/video/1",
+              "media_key": "13_1980653409758818304",
+              "start": 19,
+              "url": "https://t.co/g4xRxpuBIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980653480458207379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无奖竞猜那天冲了几次给我嗓子都冲哑了 https://t.co/g4xRxpuBIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3102,
+          "following_count": 138,
+          "like_count": 3109,
+          "listed_count": 3,
+          "media_count": 421,
+          "tweet_count": 3061
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

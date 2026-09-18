@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1986817914151059527",
+    "created_at": "2025-11-07T15:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T16:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986820468221866350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592433377143328768",
+          "start": 0,
+          "username": "SUZUdesu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986820468221866350",
+    "in_reply_to_user_id": "1592433377143328768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986817914151059527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUZUdesu111 好诡异啊捏捏我笑的不行"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 97684,
+        "height": 1280,
+        "media_key": "13_1986817831611269120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1986817831611269120/img/Gz6HszmADBlJZ7gg.jpg",
+        "public_metrics": {
+          "view_count": 259
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986817831611269120/vid/avc1/320x568/sLs5c0sLK_QBxSaA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986817831611269120/vid/avc1/480x852/b5qKzY5ob3ey-gjm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986817831611269120/vid/avc1/720x1280/w64Ex8GctULwk_8i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1986817831611269120/pl/y58kmLVucGxVV3wE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1986817914151059527",
+        "created_at": "2025-11-07T15:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986820468221866350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592433377143328768",
+              "start": 0,
+              "username": "SUZUdesu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986820468221866350",
+        "in_reply_to_user_id": "1592433377143328768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986817914151059527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUZUdesu111 好诡异啊捏捏我笑的不行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1986817831611269120"
+          ]
+        },
+        "author_id": "1592433377143328768",
+        "conversation_id": "1986817914151059527",
+        "created_at": "2025-11-07T15:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986817914151059527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ji5klMN3FU",
+              "end": 55,
+              "expanded_url": "https://x.com/SUZUdesu111/status/1986817914151059527/video/1",
+              "media_key": "13_1986817831611269120",
+              "start": 32,
+              "url": "https://t.co/ji5klMN3FU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986817914151059527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 626,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "之前发拍几把教程的那根给你们看看有多真，我真的没事就拿出来把玩 https://t.co/ji5klMN3FU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5052,
+          "following_count": 144,
+          "like_count": 3959,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 3392
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-15T08:24:49.000Z",
+        "description": "随便发发，大号@lover_ning炸了可以来这边找我玩 / 推女性向的号@suibiankankan_6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "lover_ning"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "suibiankankan_6"
+              }
+            ]
+          }
+        },
+        "id": "1592433377143328768",
+        "name": "suzu",
+        "pinned_tweet_id": "1985616338417811900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717021718571814912/t82tDl5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253273,
+          "following_count": 33,
+          "like_count": 14236,
+          "listed_count": 241,
+          "media_count": 1619,
+          "tweet_count": 31553
+        },
+        "username": "SUZUdesu111",
+        "verified": false
+      }
+    ]
+  }
+}

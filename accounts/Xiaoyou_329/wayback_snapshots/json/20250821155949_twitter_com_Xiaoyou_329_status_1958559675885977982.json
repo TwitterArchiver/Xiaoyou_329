@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1958553111175287096",
+    "created_at": "2025-08-21T15:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T16:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958559675885977982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933553167087906820",
+          "start": 0,
+          "username": "zhngxnyu167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958559675885977982",
+    "in_reply_to_user_id": "1933553167087906820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958559611365044398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngxnyu167 么么哒！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1958553111175287096",
+        "created_at": "2025-08-21T15:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T16:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958559675885977982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933553167087906820",
+              "start": 0,
+              "username": "zhngxnyu167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958559675885977982",
+        "in_reply_to_user_id": "1933553167087906820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958559611365044398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngxnyu167 么么哒！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933553167087906820",
+        "conversation_id": "1958553111175287096",
+        "created_at": "2025-08-21T15:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T16:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958559611365044398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958559611365044398",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958559476333543538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 必须！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 71,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 492
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T15:53:11.000Z",
+        "description": "ISFJ",
+        "id": "1933553167087906820",
+        "name": "我想吃蛋挞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944113657337544704/UYE-UFy7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 62,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 537
+        },
+        "username": "zhngxnyu167",
+        "verified": false
+      }
+    ]
+  }
+}

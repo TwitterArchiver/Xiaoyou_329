@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1996713594722177058",
+    "created_at": "2025-12-04T23:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T00:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996717527477498177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863356297741303808",
+          "start": 0,
+          "username": "GeorgExxxric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996717527477498177",
+    "in_reply_to_user_id": "1863356297741303808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996715623498633251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeorgExxxric 嗯对今天中午或者下午我要去医院。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996713594722177058",
+        "created_at": "2025-12-04T23:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T00:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996717527477498177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863356297741303808",
+              "start": 0,
+              "username": "GeorgExxxric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996717527477498177",
+        "in_reply_to_user_id": "1863356297741303808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996715623498633251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeorgExxxric 嗯对今天中午或者下午我要去医院。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863356297741303808",
+        "conversation_id": "1996713594722177058",
+        "created_at": "2025-12-04T22:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T23:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996715623498633251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996715623498633251",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996713594722177058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 要是影响到了生活啥的还是早点拔了要好点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7982,
+          "following_count": 157,
+          "like_count": 5436,
+          "listed_count": 8,
+          "media_count": 527,
+          "tweet_count": 4371
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T22:55:47.000Z",
+        "description": "",
+        "id": "1863356297741303808",
+        "name": "你P的U最A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995424165567082496/QPaA2CS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 188,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "GeorgExxxric",
+        "verified": false
+      }
+    ]
+  }
+}

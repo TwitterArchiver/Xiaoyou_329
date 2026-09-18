@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2024167923107975268",
+    "created_at": "2026-02-18T17:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024169504951898386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2705589943",
+          "start": 0,
+          "username": "zty370201980012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024169504951898386",
+    "in_reply_to_user_id": "2705589943",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024168574043214117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zty370201980012 TuT我好委屈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2024167923107975268",
+        "created_at": "2026-02-18T17:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024169504951898386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2705589943",
+              "start": 0,
+              "username": "zty370201980012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024169504951898386",
+        "in_reply_to_user_id": "2705589943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024168574043214117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zty370201980012 TuT我好委屈。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2705589943",
+        "conversation_id": "2024167923107975268",
+        "created_at": "2026-02-18T17:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024168574043214117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024168574043214117",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024167923107975268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024073032029950059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12096,
+          "following_count": 158,
+          "like_count": 6727,
+          "listed_count": 19,
+          "media_count": 678,
+          "tweet_count": 5546
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-04T03:36:52.000Z",
+        "description": "",
+        "id": "2705589943",
+        "name": "莫斯提马厨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1258819356999299072/k2EMjy2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 2023,
+          "like_count": 41920,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 12219
+        },
+        "username": "zty370201980012",
+        "verified": false
+      }
+    ]
+  }
+}

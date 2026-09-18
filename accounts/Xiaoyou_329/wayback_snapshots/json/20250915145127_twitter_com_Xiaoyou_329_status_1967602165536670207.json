@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967602142593572864"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967601858635268600",
+    "created_at": "2025-09-15T14:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T15:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967602165536670207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778896067171655680",
+          "start": 0,
+          "username": "Popo0vo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fnUrnXbBQa",
+          "end": 36,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1967602165536670207/photo/1",
+          "media_key": "3_1967602142593572864",
+          "start": 13,
+          "url": "https://t.co/fnUrnXbBQa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967602165536670207",
+    "in_reply_to_user_id": "1778896067171655680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967601858635268600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Popo0vo 老公… https://t.co/fnUrnXbBQa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_1967602142593572864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05TuVCWYAATvpX.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1367,
+        "media_key": "3_1967601847432253440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05TdJeaEAAI2ft.jpg",
+        "width": 1863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967602142593572864"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967601858635268600",
+        "created_at": "2025-09-15T14:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967602165536670207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778896067171655680",
+              "start": 0,
+              "username": "Popo0vo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fnUrnXbBQa",
+              "end": 36,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1967602165536670207/photo/1",
+              "media_key": "3_1967602142593572864",
+              "start": 13,
+              "url": "https://t.co/fnUrnXbBQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967602165536670207",
+        "in_reply_to_user_id": "1778896067171655680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967601858635268600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Popo0vo 老公… https://t.co/fnUrnXbBQa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967601847432253440"
+          ]
+        },
+        "author_id": "1778896067171655680",
+        "conversation_id": "1967601858635268600",
+        "created_at": "2025-09-15T14:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967601858635268600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VprCV7t1kG",
+              "end": 37,
+              "expanded_url": "https://x.com/Popo0vo/status/1967601858635268600/photo/1",
+              "media_key": "3_1967601847432253440",
+              "start": 14,
+              "url": "https://t.co/VprCV7t1kG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967601858635268600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "指甲游离线长不是不剪指甲🥹 https://t.co/VprCV7t1kG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1967249281976594683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 111,
+          "like_count": 1488,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 1834
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T21:20:57.000Z",
+        "description": "直男｜不加联系｜盗图替我挡灾｜男同男娘能不能滚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popo0vo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popo0vo",
+                "start": 0,
+                "url": "https://t.co/vZofSblEcG"
+              }
+            ]
+          }
+        },
+        "id": "1778896067171655680",
+        "location": "0.1km",
+        "name": "爱上直女后发现直女是变性的男同",
+        "pinned_tweet_id": "1967081255264309699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965467532674170882/r09ZEBCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 141,
+          "like_count": 6360,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/vZofSblEcG",
+        "username": "Popo0vo",
+        "verified": false
+      }
+    ]
+  }
+}

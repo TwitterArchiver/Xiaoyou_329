@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1976232794385940832",
+    "created_at": "2025-10-09T11:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T12:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976246735732416633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1640719825646546944",
+          "start": 0,
+          "username": "xxx9180321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976246735732416633",
+    "in_reply_to_user_id": "1640719825646546944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976232794385940832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx9180321 不允许。做男喘。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1976232794385940832",
+        "created_at": "2025-10-09T11:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976246735732416633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1640719825646546944",
+              "start": 0,
+              "username": "xxx9180321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976246735732416633",
+        "in_reply_to_user_id": "1640719825646546944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976232794385940832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx9180321 不允许。做男喘。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640719825646546944",
+        "conversation_id": "1976232794385940832",
+        "created_at": "2025-10-09T10:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T11:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976232794385940832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "喵’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ynJO…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1ynJOMrYLLvKR",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1976232795505819651/auA1GTPu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1976232795505819651/auA1GTPu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 余热一下sps多来点人就开始讲（🍉）",
+              "unwound_url": "https://twitter.com/i/spaces/1ynJOMrYLLvKR/peek",
+              "url": "https://t.co/Ivcv2IRQJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976232794385940832",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2127,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ivcv2IRQJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜爱搞抽象的普通人 请别打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1975791841409966295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 131,
+          "like_count": 2514,
+          "listed_count": 3,
+          "media_count": 391,
+          "tweet_count": 2726
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T14:17:52.000Z",
+        "description": "非互关不加v账号分享自己生活碎碎念/看心情聊天/不闲聊，过门加v，私信骚扰可以等着挨骂➕屏蔽/🚪纯绿(不退）/蜂鸟VPN 稳定好用可免费体验”https://t.co/yGNKYeVJeQ（我不是机器人，求放过）小号熟人可以过@miaomiao126146",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "miaomiao126146"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=cjFAE3",
+                "start": 71,
+                "url": "https://t.co/yGNKYeVJeQ"
+              }
+            ]
+          }
+        },
+        "id": "1640719825646546944",
+        "location": "🚪88",
+        "name": "喵",
+        "pinned_tweet_id": "1912429606151549284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911859034384154624/B8iN5gkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 241,
+          "like_count": 1262,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 538
+        },
+        "username": "xxx9180321",
+        "verified": true
+      }
+    ]
+  }
+}

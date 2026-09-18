@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1958568243439816859",
+    "created_at": "2025-08-21T17:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T18:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958576365243871475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1387311832025616386",
+          "start": 0,
+          "username": "Jw2C5JFyphJSXgl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958576365243871475",
+    "in_reply_to_user_id": "1387311832025616386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958568243439816859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jw2C5JFyphJSXgl 胳膊上的疤淡了 记忆却还没有散。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1958568243439816859",
+        "created_at": "2025-08-21T17:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T18:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958576365243871475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1387311832025616386",
+              "start": 0,
+              "username": "Jw2C5JFyphJSXgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958576365243871475",
+        "in_reply_to_user_id": "1387311832025616386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958568243439816859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jw2C5JFyphJSXgl 胳膊上的疤淡了 记忆却还没有散。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387311832025616386",
+        "conversation_id": "1958568243439816859",
+        "created_at": "2025-08-21T16:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T17:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958568243439816859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958568243439816859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕炮不如磕药 自慰不如自残"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 71,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 487
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T07:44:57.000Z",
+        "description": "",
+        "id": "1387311832025616386",
+        "name": "她想死也想去巴黎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957059040007331840/M1BGAZ0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 27,
+          "like_count": 2226,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 227
+        },
+        "username": "Jw2C5JFyphJSXgl",
+        "verified": false
+      }
+    ]
+  }
+}

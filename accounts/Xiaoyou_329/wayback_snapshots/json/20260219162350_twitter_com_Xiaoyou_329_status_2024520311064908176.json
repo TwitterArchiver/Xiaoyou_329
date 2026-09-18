@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2024516820720336948",
+    "created_at": "2026-02-19T16:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024520311064908176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024520311064908176",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024520083549409606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 你发的太素了。敢不敢发点荤的。qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2024516820720336948",
+        "created_at": "2026-02-19T16:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024520311064908176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024520311064908176",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024520083549409606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 你发的太素了。敢不敢发点荤的。qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632079685436727299",
+        "conversation_id": "2024516820720336948",
+        "created_at": "2026-02-19T16:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024520083549409606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024520083549409606",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024520021314040019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 敢不敢现在。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024073032029950059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12191,
+          "following_count": 160,
+          "like_count": 6770,
+          "listed_count": 19,
+          "media_count": 684,
+          "tweet_count": 5567
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "人生长恨水长东@xxxLim0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "xxxLim0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mea96067",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mea96067",
+                "start": 0,
+                "url": "https://t.co/6wifRCliKc"
+              }
+            ]
+          }
+        },
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "2020146275459518690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024469999826718724/7C4JzeB2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2739,
+          "following_count": 171,
+          "like_count": 22125,
+          "listed_count": 6,
+          "media_count": 306,
+          "tweet_count": 3706
+        },
+        "url": "https://t.co/6wifRCliKc",
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2074417504995475693",
+    "created_at": "2026-07-07T09:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074426599529918755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677579915120525313",
+          "start": 0,
+          "username": "liangmi86063744"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074426599529918755",
+    "in_reply_to_user_id": "1677579915120525313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074426085174054925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangmi86063744 不是 是那种香醋太多了！闻起来一股酸味…加上油腻腻的凉面…没有放辣椒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2074417504995475693",
+        "created_at": "2026-07-07T09:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074426599529918755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1677579915120525313",
+              "start": 0,
+              "username": "liangmi86063744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074426599529918755",
+        "in_reply_to_user_id": "1677579915120525313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074426085174054925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangmi86063744 不是 是那种香醋太多了！闻起来一股酸味…加上油腻腻的凉面…没有放辣椒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677579915120525313",
+        "conversation_id": "2074417504995475693",
+        "created_at": "2026-07-07T09:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074426085174054925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074426085174054925",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074417504995475693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 是不是糖用多了，酸和辣太少了，还加了芝麻之类的，有坚果的味道。哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17001,
+          "following_count": 184,
+          "like_count": 7698,
+          "listed_count": 20,
+          "media_count": 921,
+          "tweet_count": 7218
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T07:26:47.000Z",
+        "description": "",
+        "id": "1677579915120525313",
+        "name": "两面包夹芝士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042460593333088256/hJWN3J92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 545,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 815
+        },
+        "url": "",
+        "username": "liangmi86063744",
+        "verified": false
+      }
+    ]
+  }
+}

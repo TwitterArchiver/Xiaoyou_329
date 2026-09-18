@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957630653681528837"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1957630667048776041",
+    "created_at": "2025-08-19T02:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T03:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957630667048776041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f7u0ri1soB",
+          "end": 52,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1957630667048776041/photo/1",
+          "media_key": "3_1957630653681528837",
+          "start": 29,
+          "url": "https://t.co/f7u0ri1soB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957630667048776041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "…？我妈说军训给我准备了一点东西……喂…谁懂列阵的救赎感 https://t.co/f7u0ri1soB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957630653681528837",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyrmtSIacAUNurZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957630653681528837"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1957630667048776041",
+        "created_at": "2025-08-19T02:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T03:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957630667048776041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7u0ri1soB",
+              "end": 52,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1957630667048776041/photo/1",
+              "media_key": "3_1957630653681528837",
+              "start": 29,
+              "url": "https://t.co/f7u0ri1soB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957630667048776041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…？我妈说军训给我准备了一点东西……喂…谁懂列阵的救赎感 https://t.co/f7u0ri1soB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)当朋友圈发…不约炮…会回私信…骚扰就算了除非你身材我真的很喜欢 喜欢发一些身材照…我是双性恋",
+        "id": "1906360034725961728",
+        "name": "一只小由饼",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 69,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 337
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070361084356337838",
+    "created_at": "2026-06-26T04:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070361986576359811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046372747371257856",
+          "start": 0,
+          "username": "ZHU030401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070361986576359811",
+    "in_reply_to_user_id": "2046372747371257856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070361755080118437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZHU030401 玩星露谷玩睡着了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070361084356337838",
+        "created_at": "2026-06-26T04:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070361986576359811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046372747371257856",
+              "start": 0,
+              "username": "ZHU030401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070361986576359811",
+        "in_reply_to_user_id": "2046372747371257856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070361755080118437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZHU030401 玩星露谷玩睡着了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046372747371257856",
+        "conversation_id": "2070361084356337838",
+        "created_at": "2026-06-26T04:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070361755080118437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070361755080118437",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070361084356337838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 这是通宵星露谷当老农民了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15745,
+          "following_count": 177,
+          "like_count": 7682,
+          "listed_count": 20,
+          "media_count": 864,
+          "tweet_count": 6977
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T23:37:53.000Z",
+        "description": "谁家狗狗这么乖",
+        "id": "2046372747371257856",
+        "name": "YU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046491308660068352/4fM8DL5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 158,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "ZHU030401",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1978847450853990876",
+    "created_at": "2025-10-16T15:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T16:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978849290471489936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956019061760122883",
+          "start": 0,
+          "username": "kiczp156726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978849290471489936",
+    "in_reply_to_user_id": "1956019061760122883",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978848769153110061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiczp156726 真的好白"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1978847450853990876",
+        "created_at": "2025-10-16T15:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T16:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978849290471489936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956019061760122883",
+              "start": 0,
+              "username": "kiczp156726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978849290471489936",
+        "in_reply_to_user_id": "1956019061760122883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978848769153110061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiczp156726 真的好白"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956019061760122883",
+        "conversation_id": "1978847450853990876",
+        "created_at": "2025-10-16T15:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T16:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978848769153110061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978848769153110061",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978847450853990876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 好白"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "爱搞抽象的普通人 请别打探我的隐私",
+        "name": "小由",
+        "pinned_tweet_id": "1978302778784071941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 130,
+          "like_count": 2855,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 2878
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T15:44:28.000Z",
+        "description": "喜欢唱歌弹琴摄影旅游  考研ing",
+        "id": "1956019061760122883",
+        "location": "🚪",
+        "name": "蛋炒饭",
+        "pinned_tweet_id": "1960247234647273713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978262672035733504/h0PaTgPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 339,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1057
+        },
+        "username": "kiczp156726",
+        "verified": false
+      }
+    ]
+  }
+}

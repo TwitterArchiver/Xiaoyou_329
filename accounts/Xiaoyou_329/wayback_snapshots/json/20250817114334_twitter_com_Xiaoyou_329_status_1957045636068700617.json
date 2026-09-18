@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957045626883203072"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1957045636068700617",
+    "created_at": "2025-08-17T11:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T12:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957045636068700617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5CqANO3ifu",
+          "end": 23,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1957045636068700617/photo/1",
+          "media_key": "3_1957045626883203072",
+          "start": 0,
+          "url": "https://t.co/5CqANO3ifu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957045636068700617",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/5CqANO3ifu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1957045626883203072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjSoPea4AAyX_5.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957045626883203072"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1957045636068700617",
+        "created_at": "2025-08-17T11:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957045636068700617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5CqANO3ifu",
+              "end": 23,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1957045636068700617/photo/1",
+              "media_key": "3_1957045626883203072",
+              "start": 0,
+              "url": "https://t.co/5CqANO3ifu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957045636068700617",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5CqANO3ifu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)不约炮…会回私信…骚扰就算了除非你身材我真的很喜欢 喜欢发一些身材照…",
+        "id": "1906360034725961728",
+        "name": "一只小由饼",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 64,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 311
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

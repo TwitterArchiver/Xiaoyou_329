@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967889958317986240",
+    "created_at": "2025-09-16T09:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T10:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967890249834696892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1640719825646546944",
+          "start": 0,
+          "username": "xxx9180321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967890249834696892",
+    "in_reply_to_user_id": "1640719825646546944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967889958317986240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx9180321 宝宝你萌死了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12996,
+        "height": 1280,
+        "media_key": "13_1967889870703173632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967889870703173632/img/ws_WfCvE2F5XkfDS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967889870703173632/vid/avc1/320x568/CujH8DPmJI3b4Jzp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967889870703173632/vid/avc1/480x852/WiezGIqNqEaQdqwl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967889870703173632/vid/avc1/720x1280/e1OILl9buYsoriMm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967889870703173632/pl/MHWps-E5z_KPV7FS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967889958317986240",
+        "created_at": "2025-09-16T09:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T10:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967890249834696892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1640719825646546944",
+              "start": 0,
+              "username": "xxx9180321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967890249834696892",
+        "in_reply_to_user_id": "1640719825646546944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967889958317986240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx9180321 宝宝你萌死了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967889870703173632"
+          ]
+        },
+        "author_id": "1640719825646546944",
+        "conversation_id": "1967889958317986240",
+        "created_at": "2025-09-16T09:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T10:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967889958317986240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IFUthx618x",
+              "end": 28,
+              "expanded_url": "https://x.com/xxx9180321/status/1967889958317986240/video/1",
+              "media_key": "13_1967889870703173632",
+              "start": 5,
+              "url": "https://t.co/IFUthx618x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967889958317986240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要搞了 https://t.co/IFUthx618x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1967249281976594683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 117,
+          "like_count": 1509,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 1869
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T14:17:52.000Z",
+        "description": "非互关不加v账号分享自己生活碎碎念/看心情聊天/蜂鸟VPN 稳定好用可免费体验”https://t.co/yGNKYeVJeQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 63,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=cjFAE3",
+                "start": 40,
+                "url": "https://t.co/yGNKYeVJeQ"
+              }
+            ]
+          }
+        },
+        "id": "1640719825646546944",
+        "name": "喵",
+        "pinned_tweet_id": "1912429606151549284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911859034384154624/B8iN5gkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 278,
+          "like_count": 706,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 264
+        },
+        "username": "xxx9180321",
+        "verified": false
+      }
+    ]
+  }
+}

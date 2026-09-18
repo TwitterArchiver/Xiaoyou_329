@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2073498203081879579",
+    "created_at": "2026-07-05T15:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073796382327177335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999129830785433600",
+          "start": 0,
+          "username": "CCami_82"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073796382327177335",
+    "in_reply_to_user_id": "1999129830785433600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073795765164802321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCami_82 ！正有此意，我准备试试配一下我的棕色制服鞋…如果不好看就配我粉色的lo鞋 嗯对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2073498203081879579",
+        "created_at": "2026-07-05T15:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073796382327177335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999129830785433600",
+              "start": 0,
+              "username": "CCami_82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073796382327177335",
+        "in_reply_to_user_id": "1999129830785433600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073795765164802321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCami_82 ！正有此意，我准备试试配一下我的棕色制服鞋…如果不好看就配我粉色的lo鞋 嗯对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999129830785433600",
+        "conversation_id": "2073498203081879579",
+        "created_at": "2026-07-05T15:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073795765164802321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073795765164802321",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073498203081879579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 棕色咋样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17003,
+          "following_count": 182,
+          "like_count": 7683,
+          "listed_count": 20,
+          "media_count": 914,
+          "tweet_count": 7186
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T14:51:24.000Z",
+        "description": "原账号@Cami040802炸了…………我复活了 04打工妹 莫名其妙的碎碎念🥺 https://t.co/SXPi0Jhrfj匿名 🚪188纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Cami040802"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cami0280521",
+                "end": 64,
+                "expanded_url": "https://ngl.link/cami0280521",
+                "start": 41,
+                "url": "https://t.co/SXPi0Jhrfj"
+              }
+            ]
+          }
+        },
+        "id": "1999129830785433600",
+        "location": "你心里",
+        "name": "Cami02",
+        "pinned_tweet_id": "2020457418275119417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016975444625833984/zoqWNC4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 42,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 763
+        },
+        "url": "",
+        "username": "CCami_82",
+        "verified": false
+      }
+    ]
+  }
+}

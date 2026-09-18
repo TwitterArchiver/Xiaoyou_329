@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1971538251963113541",
+    "created_at": "2025-09-26T12:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T13:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971545576492999060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883775568275267584",
+          "start": 0,
+          "username": "kwiiii634737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971545576492999060",
+    "in_reply_to_user_id": "1883775568275267584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971544100462850262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwiiii634737 为了帅…我可以攒钱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1971538251963113541",
+        "created_at": "2025-09-26T12:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T13:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971545576492999060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883775568275267584",
+              "start": 0,
+              "username": "kwiiii634737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971545576492999060",
+        "in_reply_to_user_id": "1883775568275267584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971544100462850262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwiiii634737 为了帅…我可以攒钱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883775568275267584",
+        "conversation_id": "1971538251963113541",
+        "created_at": "2025-09-26T11:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T12:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971544100462850262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971544100462850262",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971538251963113541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我一开始也这么想…结果改起来超贵…😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 122,
+          "like_count": 2008,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 2361
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T07:14:39.000Z",
+        "description": "可以叫我苗苗！1i/4i预备役 高强度冲浪选手 欢迎找我聊天🥺👐🏻 https://t.co/OBoNNuqw6Y匿名问问题！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kwi634737",
+                "end": 57,
+                "expanded_url": "https://ngl.link/kwi634737",
+                "start": 34,
+                "url": "https://t.co/OBoNNuqw6Y"
+              }
+            ]
+          }
+        },
+        "id": "1883775568275267584",
+        "name": "无暇赴死",
+        "pinned_tweet_id": "1914723417808626028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885357625392717828/PusI2NKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 1390,
+          "like_count": 7632,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 4022
+        },
+        "username": "kwiiii634737",
+        "verified": false
+      }
+    ]
+  }
+}

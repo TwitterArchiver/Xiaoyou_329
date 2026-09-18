@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2021870568849506483",
+    "created_at": "2026-02-12T09:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T10:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021880214796517859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "124250567",
+          "start": 0,
+          "username": "Ayuyu000823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021880214796517859",
+    "in_reply_to_user_id": "124250567",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021874090018210184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayuyu000823 没有人陪我。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2021870568849506483",
+        "created_at": "2026-02-12T09:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021880214796517859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "124250567",
+              "start": 0,
+              "username": "Ayuyu000823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021880214796517859",
+        "in_reply_to_user_id": "124250567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021874090018210184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayuyu000823 没有人陪我。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "124250567",
+        "conversation_id": "2021870568849506483",
+        "created_at": "2026-02-12T09:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021874090018210184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021874090018210184",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021871794257277289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 🙉🙉出去玩呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2018262383047700927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12083,
+          "following_count": 161,
+          "like_count": 6526,
+          "listed_count": 19,
+          "media_count": 651,
+          "tweet_count": 5358
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-18T19:34:18.000Z",
+        "description": "难道我很女孩子吗？/打永劫打铲打steam/上班有时候会消失/不会发布任何奇怪的图片视频/想到就分享日常吧/可以的话交个朋友",
+        "id": "124250567",
+        "location": "距离你2km",
+        "name": "YuYu0823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962746074491392000/FT-Ly0Ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 165,
+          "like_count": 1809,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 730
+        },
+        "username": "Ayuyu000823",
+        "verified": false
+      }
+    ]
+  }
+}

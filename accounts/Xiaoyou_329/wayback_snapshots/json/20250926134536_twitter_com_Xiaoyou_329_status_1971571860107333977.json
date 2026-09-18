@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1971571761822007296"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1971571860107333977",
+    "created_at": "2025-09-26T13:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T14:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971571860107333977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v8Tjw2rBpd",
+          "end": 40,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1971571860107333977/video/1",
+          "media_key": "13_1971571761822007296",
+          "start": 17,
+          "url": "https://t.co/v8Tjw2rBpd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971571860107333977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近长这样 我和素颜和解一秒钟！ https://t.co/v8Tjw2rBpd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20195,
+        "height": 1280,
+        "media_key": "13_1971571761822007296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971571761822007296/img/151scBImmABQU-c8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971571761822007296/vid/avc1/320x568/sGxl6rDTTefxRLZb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971571761822007296/vid/avc1/480x852/OjWJ5NzdUzHjF53I.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971571761822007296/vid/avc1/720x1280/sv1W448Afse_VSml.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971571761822007296/pl/HN6xnDpFIAMTcjk_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971571761822007296"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1971571860107333977",
+        "created_at": "2025-09-26T13:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T14:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971571860107333977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v8Tjw2rBpd",
+              "end": 40,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1971571860107333977/video/1",
+              "media_key": "13_1971571761822007296",
+              "start": 17,
+              "url": "https://t.co/v8Tjw2rBpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971571860107333977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近长这样 我和素颜和解一秒钟！ https://t.co/v8Tjw2rBpd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 123,
+          "like_count": 2023,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 2373
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

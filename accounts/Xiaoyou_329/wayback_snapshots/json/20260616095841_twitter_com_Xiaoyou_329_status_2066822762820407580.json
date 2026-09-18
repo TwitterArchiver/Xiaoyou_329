@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2066822762820407580",
+    "created_at": "2026-06-16T09:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066822762820407580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1906360034725961728",
+          "start": 3,
+          "username": "Xiaoyou_329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066822762820407580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996956498233061547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaoyou_329: 我没有🚪。喜欢我可以不求回报的给我打钱投喂我（也有概率可能你会私信收到我的感谢语音条 每一个人我都会单独录一条不存在一条语音重复用…除了内容）我只回我感兴趣的私信。投喂不收口令因为我没有zfb（除非你要给我转超大额 截图给我看 嗯对我会借个zf…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2066822762820407580",
+        "created_at": "2026-06-16T09:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066822762820407580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1906360034725961728",
+              "start": 3,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066822762820407580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996956498233061547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaoyou_329: 我没有🚪。喜欢我可以不求回报的给我打钱投喂我（也有概率可能你会私信收到我的感谢语音条 每一个人我都会单独录一条不存在一条语音重复用…除了内容）我只回我感兴趣的私信。投喂不收口令因为我没有zfb（除非你要给我转超大额 截图给我看 嗯对我会借个zf…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996956498233061547",
+        "created_at": "2025-12-05T14:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T15:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996956498233061547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996956498233061547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10574,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我没有🚪。喜欢我可以不求回报的给我打钱投喂我（也有概率可能你会私信收到我的感谢语音条 每一个人我都会单独录一条不存在一条语音重复用…除了内容）我只回我感兴趣的私信。投喂不收口令因为我没有zfb（除非你要给我转超大额 截图给我看 嗯对我会借个zfb来领的🌚）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15534,
+          "following_count": 176,
+          "like_count": 7661,
+          "listed_count": 20,
+          "media_count": 821,
+          "tweet_count": 6792
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

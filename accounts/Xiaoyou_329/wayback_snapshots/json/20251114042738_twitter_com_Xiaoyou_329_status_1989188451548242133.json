@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1989101418419196088",
+    "created_at": "2025-11-14T04:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989188451548242133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1806888114918461440",
+          "start": 0,
+          "username": "y301415926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989188451548242133",
+    "in_reply_to_user_id": "1806888114918461440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989118272093200593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y301415926 最近休息调回来了…但是后面还是会继续睡回笼觉的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1989101418419196088",
+        "created_at": "2025-11-14T04:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989188451548242133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1806888114918461440",
+              "start": 0,
+              "username": "y301415926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989188451548242133",
+        "in_reply_to_user_id": "1806888114918461440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989118272093200593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y301415926 最近休息调回来了…但是后面还是会继续睡回笼觉的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806888114918461440",
+        "conversation_id": "1989101418419196088",
+        "created_at": "2025-11-13T23:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T00:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989118272093200593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989118272093200593",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989101418419196088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 起那么早吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6216,
+          "following_count": 148,
+          "like_count": 4342,
+          "listed_count": 4,
+          "media_count": 449,
+          "tweet_count": 3643
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T03:11:22.000Z",
+        "description": "",
+        "id": "1806888114918461440",
+        "name": "阳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806888246946803712/oxtlYoXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 92,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "y301415926",
+        "verified": false
+      }
+    ]
+  }
+}

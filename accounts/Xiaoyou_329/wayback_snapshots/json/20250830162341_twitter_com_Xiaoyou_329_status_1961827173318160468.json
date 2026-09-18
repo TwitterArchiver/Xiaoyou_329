@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961818704997417214",
+    "created_at": "2025-08-30T16:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T17:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961827173318160468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1068461866576371714",
+          "start": 0,
+          "username": "Cherry_07_23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961827173318160468",
+    "in_reply_to_user_id": "1068461866576371714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961826901430841574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cherry_07_23 谢谢你宝宝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961818704997417214",
+        "created_at": "2025-08-30T16:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961827173318160468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1068461866576371714",
+              "start": 0,
+              "username": "Cherry_07_23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961827173318160468",
+        "in_reply_to_user_id": "1068461866576371714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961826901430841574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cherry_07_23 谢谢你宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1068461866576371714",
+        "conversation_id": "1961818704997417214",
+        "created_at": "2025-08-30T16:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961826901430841574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961826901430841574",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961818704997417214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 很好接啊 小宝 我接接接！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 98,
+          "like_count": 855,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 894
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-30T11:08:54.000Z",
+        "description": "碎碎碎碎念\n你会喜欢咪吗？",
+        "id": "1068461866576371714",
+        "location": "流浪中",
+        "name": "咪咪大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959641982633959424/fbphD5Lr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 139,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 190
+        },
+        "username": "Cherry_07_23",
+        "verified": false
+      }
+    ]
+  }
+}

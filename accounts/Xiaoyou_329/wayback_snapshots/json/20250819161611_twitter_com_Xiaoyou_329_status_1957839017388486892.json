@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957837889036820897",
+    "created_at": "2025-08-19T16:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T17:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957839017388486892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1500135415449145347",
+          "start": 0,
+          "username": "xiehuangbao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957839017388486892",
+    "in_reply_to_user_id": "1500135415449145347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957838843261952184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiehuangbao_ 你害羞了吗(｡･ω･｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1957837889036820897",
+        "created_at": "2025-08-19T16:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T17:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957839017388486892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1500135415449145347",
+              "start": 0,
+              "username": "xiehuangbao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957839017388486892",
+        "in_reply_to_user_id": "1500135415449145347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957838843261952184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiehuangbao_ 你害羞了吗(｡･ω･｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500135415449145347",
+        "conversation_id": "1957837889036820897",
+        "created_at": "2025-08-19T16:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T17:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957838843261952184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957838843261952184",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957838611287507315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 哎呀别夸了别夸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)当朋友圈发…不约炮…喜欢发一些身材照…我是双性恋…陌生人发私信不回…",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 73,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 399
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-05T15:45:38.000Z",
+        "description": "bro们给小堡点赞小堡很开心，小堡也会努力锻炼拍些大家爱看的，但是小堡性取向正常，不要给我发屌🫨还有我是男生/小号@fanqiejiang__ /匿名箱https://t.co/DAQVBiuEhx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "fanqiejiang__"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiehuangba_",
+                "end": 99,
+                "expanded_url": "https://ngl.link/xiehuangba_",
+                "start": 76,
+                "url": "https://t.co/DAQVBiuEhx"
+              }
+            ]
+          }
+        },
+        "id": "1500135415449145347",
+        "location": "j❗️❗️推广自辩❗️❗️",
+        "name": "蟹黄堡",
+        "pinned_tweet_id": "1931744672348807273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892248381332090880/-MBsbGT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16316,
+          "following_count": 1577,
+          "like_count": 9379,
+          "listed_count": 38,
+          "media_count": 678,
+          "tweet_count": 2351
+        },
+        "username": "xiehuangbao_",
+        "verified": false
+      }
+    ]
+  }
+}

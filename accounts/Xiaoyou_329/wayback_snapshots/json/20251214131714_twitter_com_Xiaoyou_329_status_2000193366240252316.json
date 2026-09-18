@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2000167046739616147",
+    "created_at": "2025-12-14T13:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T14:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000193366240252316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992243902691397632",
+          "start": 0,
+          "username": "DGGl8Y4KQ783851"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000193366240252316",
+    "in_reply_to_user_id": "1992243902691397632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000176478416466425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DGGl8Y4KQ783851 这期我看的一直哭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2000167046739616147",
+        "created_at": "2025-12-14T13:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T14:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000193366240252316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992243902691397632",
+              "start": 0,
+              "username": "DGGl8Y4KQ783851"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000193366240252316",
+        "in_reply_to_user_id": "1992243902691397632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000176478416466425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DGGl8Y4KQ783851 这期我看的一直哭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992243902691397632",
+        "conversation_id": "2000167046739616147",
+        "created_at": "2025-12-14T12:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000176478416466425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000176478416466425",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000167046739616147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 一看别人又美又有特点。看到自己真想一键消消乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8110,
+          "following_count": 151,
+          "like_count": 5715,
+          "listed_count": 8,
+          "media_count": 547,
+          "tweet_count": 4561
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T14:49:15.000Z",
+        "description": "别管我了",
+        "id": "1992243902691397632",
+        "location": "不要再失眠",
+        "name": "不喜欢吃鱼",
+        "pinned_tweet_id": "1993707832655654961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992244349598584833/H6CncQNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 9,
+          "like_count": 1809,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 362
+        },
+        "username": "DGGl8Y4KQ783851",
+        "verified": false
+      }
+    ]
+  }
+}

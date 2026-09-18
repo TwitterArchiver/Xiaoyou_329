@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2054998052512100848",
+    "created_at": "2026-05-17T06:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055891606855909473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050340053398761472",
+          "start": 0,
+          "username": "eiqvzyomcb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055891606855909473",
+    "in_reply_to_user_id": "2050340053398761472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054998052512100848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eiqvzyomcb 抖音作品删掉或者私密。谢谢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2054998052512100848",
+        "created_at": "2026-05-17T06:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055891606855909473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050340053398761472",
+              "start": 0,
+              "username": "eiqvzyomcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055891606855909473",
+        "in_reply_to_user_id": "2050340053398761472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054998052512100848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eiqvzyomcb 抖音作品删掉或者私密。谢谢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050340053398761472",
+        "conversation_id": "2054998052512100848",
+        "created_at": "2026-05-14T18:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054998052512100848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054998052512100848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 994,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直愚蠢的追求，可人死了就什么都没有了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14953,
+          "following_count": 173,
+          "like_count": 7496,
+          "listed_count": 21,
+          "media_count": 842,
+          "tweet_count": 6580
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T22:22:53.000Z",
+        "description": "心無所屬，怎麼不算流浪",
+        "id": "2050340053398761472",
+        "location": "英国",
+        "name": "eiqv zyom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054473245450260480/1zZ5edpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 0,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "eiqvzyomcb",
+        "verified": false
+      }
+    ]
+  }
+}

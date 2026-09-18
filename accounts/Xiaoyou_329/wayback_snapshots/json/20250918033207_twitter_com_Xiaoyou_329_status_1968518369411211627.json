@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1968505399859925183",
+    "created_at": "2025-09-18T03:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T04:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968518369411211627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894531140733878272",
+          "start": 0,
+          "username": "fanbufan00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968518369411211627",
+    "in_reply_to_user_id": "1894531140733878272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968505399859925183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanbufan00 早上好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1968505399859925183",
+        "created_at": "2025-09-18T03:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T04:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968518369411211627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894531140733878272",
+              "start": 0,
+              "username": "fanbufan00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968518369411211627",
+        "in_reply_to_user_id": "1894531140733878272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968505399859925183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanbufan00 早上好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894531140733878272",
+        "conversation_id": "1968505399859925183",
+        "created_at": "2025-09-18T02:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T03:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968505399859925183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "凡躁’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1OyJA…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1OyJAjzgmyexb",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1968505442381832192/peMA6mLE?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1968505442381832192/peMA6mLE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 感觉自己好恶心",
+              "unwound_url": "https://twitter.com/i/spaces/1OyJAjzgmyexb/peek",
+              "url": "https://t.co/xthr1VGyFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968505399859925183",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xthr1VGyFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "🚪68/88/108 纯绿可以聊天",
+        "name": "小由",
+        "pinned_tweet_id": "1967968461600199156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 114,
+          "like_count": 1585,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1951
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T23:33:37.000Z",
+        "description": "匿名箱：https://t.co/Vy8ECE4AMX\n\n小号不定时掉落凡自认为的自拍涩图",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fanbufan00",
+                "end": 27,
+                "expanded_url": "https://ngl.link/fanbufan00",
+                "start": 4,
+                "url": "https://t.co/Vy8ECE4AMX"
+              }
+            ]
+          }
+        },
+        "id": "1894531140733878272",
+        "name": "凡躁",
+        "pinned_tweet_id": "1967820871504179215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967634822517641216/A8dYZNr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 192,
+          "like_count": 8825,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 491
+        },
+        "username": "fanbufan00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961968458343628800"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961968475313754608",
+    "created_at": "2025-08-31T01:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T02:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961968475313754608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qykLF121cY",
+          "end": 99,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1961968475313754608/photo/1",
+          "media_key": "3_1961968458343628800",
+          "start": 76,
+          "url": "https://t.co/qykLF121cY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961968475313754608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回家了。不想上学。我不同意开学。明天七点我就要醒了。因为家离学校特别远。我是小由我不同意学校开学。我是学生我不允许学校开学。我是孩子我不允许学校开学。 https://t.co/qykLF121cY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961968458343628800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzpP6vwXwAAfD6A.jpg",
+        "width": 1730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961968458343628800"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961968475313754608",
+        "created_at": "2025-08-31T01:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T02:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961968475313754608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qykLF121cY",
+              "end": 99,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1961968475313754608/photo/1",
+              "media_key": "3_1961968458343628800",
+              "start": 76,
+              "url": "https://t.co/qykLF121cY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961968475313754608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回家了。不想上学。我不同意开学。明天七点我就要醒了。因为家离学校特别远。我是小由我不同意学校开学。我是学生我不允许学校开学。我是孩子我不允许学校开学。 https://t.co/qykLF121cY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注｜真的不卡泡不要私信了…",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 99,
+          "like_count": 855,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 905
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

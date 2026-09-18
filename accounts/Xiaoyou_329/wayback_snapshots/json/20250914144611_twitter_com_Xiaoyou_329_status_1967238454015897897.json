@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967237829039391057",
+    "created_at": "2025-09-14T14:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T15:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967238454015897897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1527511175302287360",
+          "start": 0,
+          "username": "uuu521314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967238454015897897",
+    "in_reply_to_user_id": "1527511175302287360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967238260826210732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uuu521314 我拒绝接收了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967237829039391057",
+        "created_at": "2025-09-14T14:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T15:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967238454015897897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1527511175302287360",
+              "start": 0,
+              "username": "uuu521314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967238454015897897",
+        "in_reply_to_user_id": "1527511175302287360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967238260826210732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uuu521314 我拒绝接收了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527511175302287360",
+        "conversation_id": "1967237829039391057",
+        "created_at": "2025-09-14T14:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T15:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967238260826210732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967238260826210732",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967237829039391057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 嘶你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 110,
+          "like_count": 1451,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 1787
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T04:47:11.000Z",
+        "description": "https://t.co/4NeDlbeR30",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tutu42418",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tutu42418",
+                "start": 0,
+                "url": "https://t.co/4NeDlbeR30"
+              }
+            ]
+          }
+        },
+        "id": "1527511175302287360",
+        "location": "0.1k m",
+        "name": "Tttu",
+        "pinned_tweet_id": "1961456047752659292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944824936159203329/uK8qDmRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 213,
+          "like_count": 10221,
+          "listed_count": 7,
+          "media_count": 99,
+          "tweet_count": 712
+        },
+        "username": "uuu521314",
+        "verified": false
+      }
+    ]
+  }
+}

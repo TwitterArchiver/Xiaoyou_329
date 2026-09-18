@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2055669567029125290",
+    "created_at": "2026-05-16T15:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055672280152432700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751321701647040512",
+          "start": 0,
+          "username": "Forein2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055672280152432700",
+    "in_reply_to_user_id": "1751321701647040512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055670101689729185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Forein2022 此男不夹青年音而且他夹着和这个不一样。他这纯跟我发情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2055669567029125290",
+        "created_at": "2026-05-16T15:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055672280152432700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751321701647040512",
+              "start": 0,
+              "username": "Forein2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055672280152432700",
+        "in_reply_to_user_id": "1751321701647040512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055670101689729185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Forein2022 此男不夹青年音而且他夹着和这个不一样。他这纯跟我发情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751321701647040512",
+        "conversation_id": "2055669567029125290",
+        "created_at": "2026-05-16T15:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055670101689729185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055670101689729185",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055669567029125290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 因为夹的太虚了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14893,
+          "following_count": 174,
+          "like_count": 7479,
+          "listed_count": 21,
+          "media_count": 849,
+          "tweet_count": 6597
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T19:10:20.000Z",
+        "description": "上x只为看黄，另外因为实在无聊决定记录一下今后开始的实盘，之前买的票还在持有的就不发了",
+        "id": "1751321701647040512",
+        "name": "辣椒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908578410471026688/vfSslzzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 274,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 184
+        },
+        "username": "Forein2022",
+        "verified": false
+      }
+    ]
+  }
+}

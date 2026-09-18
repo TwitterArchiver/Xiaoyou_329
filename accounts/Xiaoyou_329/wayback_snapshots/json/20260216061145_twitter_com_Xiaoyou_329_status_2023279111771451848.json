@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2023272883318075451",
+    "created_at": "2026-02-16T06:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T07:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023279111771451848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023279111771451848",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023272883318075451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 叫哥哥🦶🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2023272883318075451",
+        "created_at": "2026-02-16T06:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023279111771451848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023279111771451848",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023272883318075451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 叫哥哥🦶🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632079685436727299",
+        "conversation_id": "2023272883318075451",
+        "created_at": "2026-02-16T05:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023272883318075451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023272883318075451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫哥哥🦶🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12103,
+          "following_count": 161,
+          "like_count": 6692,
+          "listed_count": 19,
+          "media_count": 665,
+          "tweet_count": 5488
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "人生长恨水长东 @xxxLim0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "xxxLim0"
+              }
+            ]
+          }
+        },
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "2020146275459518690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022512524680400904/GA_I8Kpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2545,
+          "following_count": 163,
+          "like_count": 20570,
+          "listed_count": 6,
+          "media_count": 292,
+          "tweet_count": 3495
+        },
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965716002685034496"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1965716011455545684",
+    "created_at": "2025-09-10T09:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T10:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965716011455545684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Lw4h2owPK",
+          "end": 34,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1965716011455545684/photo/1",
+          "media_key": "3_1965716002685034496",
+          "start": 11,
+          "url": "https://t.co/7Lw4h2owPK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965716011455545684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？蜜雪你的价格🙀🙀🙀 https://t.co/7Lw4h2owPK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 494,
+        "media_key": "3_1965716002685034496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0egSiVXoAAOB95.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965716002685034496"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1965716011455545684",
+        "created_at": "2025-09-10T09:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T10:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965716011455545684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Lw4h2owPK",
+              "end": 34,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1965716011455545684/photo/1",
+              "media_key": "3_1965716002685034496",
+              "start": 11,
+              "url": "https://t.co/7Lw4h2owPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965716011455545684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？蜜雪你的价格🙀🙀🙀 https://t.co/7Lw4h2owPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 107,
+          "like_count": 1278,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 1562
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

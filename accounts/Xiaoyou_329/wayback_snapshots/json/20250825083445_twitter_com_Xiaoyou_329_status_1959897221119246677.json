@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1959885818559906290",
+    "created_at": "2025-08-25T08:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T09:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959897221119246677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937191223313465346",
+          "start": 0,
+          "username": "MoKong54748"
+        },
+        {
+          "end": 23,
+          "id": "1784887323211280384",
+          "start": 13,
+          "username": "ljng15760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959897221119246677",
+    "in_reply_to_user_id": "1937191223313465346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959885818559906290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoKong54748 @ljng15760 爽。。。谢谢小宇。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 456033,
+        "height": 960,
+        "media_key": "13_1959885312341270528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959885312341270528/img/HeOSgkNNpiuWw9Jk.jpg",
+        "public_metrics": {
+          "view_count": 141
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959885312341270528/vid/avc1/320x426/baiU0dxDTO4T3lor.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959885312341270528/vid/avc1/480x640/mFxXrF7ycxFviSc1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959885312341270528/vid/avc1/720x960/DKe8HHB6Qg5iX9B2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959885312341270528/pl/Cn6Jh5OlH_LdIIj_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1959885818559906290",
+        "created_at": "2025-08-25T08:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T09:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959897221119246677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937191223313465346",
+              "start": 0,
+              "username": "MoKong54748"
+            },
+            {
+              "end": 23,
+              "id": "1784887323211280384",
+              "start": 13,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959897221119246677",
+        "in_reply_to_user_id": "1937191223313465346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959885818559906290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoKong54748 @ljng15760 爽。。。谢谢小宇。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959885312341270528"
+          ]
+        },
+        "author_id": "1937191223313465346",
+        "conversation_id": "1959885818559906290",
+        "created_at": "2025-08-25T07:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T08:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959885818559906290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男喘"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "青叔音"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "女性向"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "骨科"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1784887323211280384",
+              "start": 4,
+              "username": "ljng15760"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KlJx4eIIjd",
+              "end": 78,
+              "expanded_url": "https://x.com/MoKong54748/status/1959885818559906290/video/1",
+              "media_key": "13_1959885312341270528",
+              "start": 55,
+              "url": "https://t.co/KlJx4eIIjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959885818559906290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 687,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台本老师@ljng15760 \n#男喘 #青叔音 #女性向 #骨科 \n\n  有心软的神吗，上来就转我520。 https://t.co/KlJx4eIIjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 73,
+          "like_count": 653,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 609
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T16:49:32.000Z",
+        "description": "接陪玩陪聊 没有🚪 也没福利 想加就加",
+        "id": "1937191223313465346",
+        "location": "哈尔滨",
+        "name": "宇",
+        "pinned_tweet_id": "1953396256857813435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945653669405290496/s32b-8uD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5585,
+          "following_count": 30,
+          "like_count": 30,
+          "listed_count": 9,
+          "media_count": 24,
+          "tweet_count": 214
+        },
+        "username": "MoKong54748",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "所有台本及短打都需要私信找我要授权，拿到授权再录/发布请圈@我一下 /自用🪜 https://t.co/9PJ5FnVBtO不接置顶～定制台本60千字、商用3倍、台本加急OR不公开千字多20⭐️（暂时不接新的了）/请勿搬运、抄袭、缝合",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.达蒙.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://a.xn--hv1a41u.com/#/register?code=NsOxJjaN",
+                "start": 39,
+                "url": "https://t.co/9PJ5FnVBtO"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "月亮🌙上",
+        "name": "星星⭐️🫧",
+        "pinned_tweet_id": "1896054832747921456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956030588256968707/1wjKy8Hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65431,
+          "following_count": 274,
+          "like_count": 10146,
+          "listed_count": 65,
+          "media_count": 587,
+          "tweet_count": 8066
+        },
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

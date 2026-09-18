@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2036038284472967186",
+    "created_at": "2026-03-24T04:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036301750400065683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1886810489717690368",
+          "start": 0,
+          "username": "QuQkuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036301750400065683",
+    "in_reply_to_user_id": "1886810489717690368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036038284472967186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuQkuu 你们两个好可爱呀…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2036038275450982400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEF2Bi1a0AAu3vg.jpg",
+        "width": 544
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2036038275442642945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEF2BizbkAE3SqQ.jpg",
+        "width": 448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2036038284472967186",
+        "created_at": "2026-03-24T04:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036301750400065683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1886810489717690368",
+              "start": 0,
+              "username": "QuQkuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036301750400065683",
+        "in_reply_to_user_id": "1886810489717690368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036038284472967186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuQkuu 你们两个好可爱呀…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036038275450982400",
+            "3_2036038275442642945"
+          ]
+        },
+        "author_id": "1886810489717690368",
+        "conversation_id": "2036038284472967186",
+        "created_at": "2026-03-23T11:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036038284472967186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1QjX27vJe",
+              "end": 35,
+              "expanded_url": "https://x.com/QuQkuu/status/2036038284472967186/photo/1",
+              "media_key": "3_2036038275450982400",
+              "start": 12,
+              "url": "https://t.co/g1QjX27vJe"
+            },
+            {
+              "display_url": "pic.x.com/g1QjX27vJe",
+              "end": 35,
+              "expanded_url": "https://x.com/QuQkuu/status/2036038284472967186/photo/1",
+              "media_key": "3_2036038275442642945",
+              "start": 12,
+              "url": "https://t.co/g1QjX27vJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036038284472967186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 58777,
+          "like_count": 243,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "那个尴尬型人格的女朋友 https://t.co/g1QjX27vJe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13194,
+          "following_count": 164,
+          "like_count": 7159,
+          "listed_count": 19,
+          "media_count": 758,
+          "tweet_count": 6125
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T16:14:21.000Z",
+        "description": "我只是太无聊了随便说说话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/28379673401",
+                "end": 23,
+                "expanded_url": "https://ngl.link/28379673401",
+                "start": 0,
+                "url": "https://t.co/a9hQkcXSBu"
+              }
+            ]
+          }
+        },
+        "id": "1886810489717690368",
+        "location": "地球",
+        "name": "我想喵喵觉",
+        "pinned_tweet_id": "2002291229183373518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031585604937592834/t5afI-L-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 89,
+          "like_count": 3509,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1904
+        },
+        "url": "https://t.co/a9hQkcXSBu",
+        "username": "QuQkuu",
+        "verified": false
+      }
+    ]
+  }
+}

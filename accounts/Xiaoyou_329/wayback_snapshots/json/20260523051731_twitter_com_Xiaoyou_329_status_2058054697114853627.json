@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2058036564413059083",
+    "created_at": "2026-05-23T05:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058054697114853627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2359133851",
+          "start": 0,
+          "username": "50026kazu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058054697114853627",
+    "in_reply_to_user_id": "2359133851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058053644306858369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@50026kazu 不是推特上认识的。TuT。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2058036564413059083",
+        "created_at": "2026-05-23T05:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058054697114853627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2359133851",
+              "start": 0,
+              "username": "50026kazu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058054697114853627",
+        "in_reply_to_user_id": "2359133851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058053644306858369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@50026kazu 不是推特上认识的。TuT。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2359133851",
+        "conversation_id": "2058036564413059083",
+        "created_at": "2026-05-23T05:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058053644306858369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058053644306858369",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058036564413059083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 把你当p友了这是，也是啊，推上纯爱真的很少很少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15051,
+          "following_count": 175,
+          "like_count": 7537,
+          "listed_count": 21,
+          "media_count": 850,
+          "tweet_count": 6614
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-24T07:29:43.000Z",
+        "description": "溜达溜达，别封我了，我是真人🥺🥺🥺",
+        "id": "2359133851",
+        "location": "Hong Kong",
+        "name": "不想太阳（求关注版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057169123021660160/xlJpMAU0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 17,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 179
+        },
+        "username": "50026kazu",
+        "verified": false
+      }
+    ]
+  }
+}

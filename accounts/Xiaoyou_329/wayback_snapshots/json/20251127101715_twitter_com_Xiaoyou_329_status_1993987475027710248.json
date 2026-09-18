@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993987464072187909"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1993870116589850721",
+    "created_at": "2025-11-27T10:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T11:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993987475027710248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816042391604015104",
+          "start": 0,
+          "username": "tao1865453"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RKJA33qxb8",
+          "end": 41,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1993987475027710248/photo/1",
+          "media_key": "3_1993987464072187909",
+          "start": 18,
+          "url": "https://t.co/RKJA33qxb8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993987475027710248",
+    "in_reply_to_user_id": "1816042391604015104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993870116589850721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tao1865453 这期也是… https://t.co/RKJA33qxb8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1993987464072187909",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wRCLKa0AUkOtT.jpg",
+        "width": 1440
+      },
+      {
+        "height": 976,
+        "media_key": "3_1993870108486455298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6umTLia0AIRPkK.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993987464072187909"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1993870116589850721",
+        "created_at": "2025-11-27T10:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993987475027710248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816042391604015104",
+              "start": 0,
+              "username": "tao1865453"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKJA33qxb8",
+              "end": 41,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1993987475027710248/photo/1",
+              "media_key": "3_1993987464072187909",
+              "start": 18,
+              "url": "https://t.co/RKJA33qxb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993987475027710248",
+        "in_reply_to_user_id": "1816042391604015104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993870116589850721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tao1865453 这期也是… https://t.co/RKJA33qxb8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993870108486455298"
+          ]
+        },
+        "author_id": "1816042391604015104",
+        "conversation_id": "1993870116589850721",
+        "created_at": "2025-11-27T02:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993870116589850721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dejO2yLlMf",
+              "end": 26,
+              "expanded_url": "https://x.com/tao1865453/status/1993870116589850721/photo/1",
+              "media_key": "3_1993870108486455298",
+              "start": 3,
+              "url": "https://t.co/dejO2yLlMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993870116589850721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1570,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗男 https://t.co/dejO2yLlMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7198,
+          "following_count": 155,
+          "like_count": 5155,
+          "listed_count": 4,
+          "media_count": 530,
+          "tweet_count": 4227
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T09:27:10.000Z",
+        "description": "07｜私信已关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=wFHzjTH0",
+                "start": 0,
+                "url": "https://t.co/2jN9lIX0t1"
+              }
+            ]
+          }
+        },
+        "id": "1816042391604015104",
+        "name": "玩具",
+        "pinned_tweet_id": "1981347017462075697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979557623042097152/kqNYAf0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10840,
+          "following_count": 248,
+          "like_count": 13016,
+          "listed_count": 6,
+          "media_count": 157,
+          "tweet_count": 4359
+        },
+        "url": "https://t.co/2jN9lIX0t1",
+        "username": "tao1865453",
+        "verified": false
+      }
+    ]
+  }
+}

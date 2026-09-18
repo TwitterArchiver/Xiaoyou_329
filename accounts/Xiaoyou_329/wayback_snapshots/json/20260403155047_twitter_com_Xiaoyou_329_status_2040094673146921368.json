@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2040063261903556833",
+    "created_at": "2026-04-03T15:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T16:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040094673146921368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1451991805646540800",
+          "start": 0,
+          "username": "angelaw_nuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040094673146921368",
+    "in_reply_to_user_id": "1451991805646540800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040093523815374919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelaw_nuo 我删除了…但是我忘记保存聊天记录了。。不过我录屏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2040063261903556833",
+        "created_at": "2026-04-03T15:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040094673146921368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1451991805646540800",
+              "start": 0,
+              "username": "angelaw_nuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040094673146921368",
+        "in_reply_to_user_id": "1451991805646540800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040093523815374919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelaw_nuo 我删除了…但是我忘记保存聊天记录了。。不过我录屏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451991805646540800",
+        "conversation_id": "2040063261903556833",
+        "created_at": "2026-04-03T15:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040093523815374919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040093523815374919",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040063261903556833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 拉黑掉，保存聊天记录，敢开你就报警"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13327,
+          "following_count": 164,
+          "like_count": 7366,
+          "listed_count": 20,
+          "media_count": 785,
+          "tweet_count": 6262
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T19:20:23.000Z",
+        "description": "infp｜Brat｜小狗｜喜欢碎碎念｜07 叫我小诺/诺诺｜纯绿🚪152 互关直接加｜少女心事@NUOnuo0o0o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "NUOnuo0o0o"
+              }
+            ]
+          }
+        },
+        "id": "1451991805646540800",
+        "location": "在你心里",
+        "name": "小诺🫐",
+        "pinned_tweet_id": "2026623402639806772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989351730887139328/qf7Gf8kJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 554,
+          "like_count": 28781,
+          "listed_count": 6,
+          "media_count": 153,
+          "tweet_count": 2476
+        },
+        "username": "angelaw_nuo",
+        "verified": false
+      }
+    ]
+  }
+}

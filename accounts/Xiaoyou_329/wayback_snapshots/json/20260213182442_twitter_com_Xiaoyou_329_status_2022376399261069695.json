@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2022364832666714261",
+    "created_at": "2026-02-13T18:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T19:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022376399261069695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832116163670847488",
+          "start": 0,
+          "username": "fk5524719774022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022376399261069695",
+    "in_reply_to_user_id": "1832116163670847488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022375675710316587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fk5524719774022 给我私信能不能录段声音！我只和青受喽 你是黑牛紫牛也不管我事啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022364832666714261",
+        "created_at": "2026-02-13T18:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T19:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022376399261069695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832116163670847488",
+              "start": 0,
+              "username": "fk5524719774022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022376399261069695",
+        "in_reply_to_user_id": "1832116163670847488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022375675710316587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fk5524719774022 给我私信能不能录段声音！我只和青受喽 你是黑牛紫牛也不管我事啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832116163670847488",
+        "conversation_id": "2022364832666714261",
+        "created_at": "2026-02-13T18:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T19:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022375675710316587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022375675710316587",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022373820036755896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 十个青受九个肥猪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12097,
+          "following_count": 161,
+          "like_count": 6600,
+          "listed_count": 19,
+          "media_count": 654,
+          "tweet_count": 5405
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T17:58:37.000Z",
+        "description": "",
+        "id": "1832116163670847488",
+        "name": "fk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921271252431392768/QX1D4cNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "username": "fk5524719774022",
+        "verified": false
+      }
+    ]
+  }
+}

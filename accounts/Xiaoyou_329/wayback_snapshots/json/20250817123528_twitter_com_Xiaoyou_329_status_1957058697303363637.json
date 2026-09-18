@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1957058443006918656"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957058697303363637",
+    "created_at": "2025-08-17T12:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T13:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957058697303363637"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 7,
+          "tag": "辣条音"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zWceSGDTxI",
+          "end": 35,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1957058697303363637/video/1",
+          "media_key": "13_1957058443006918656",
+          "start": 12,
+          "url": "https://t.co/zWceSGDTxI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957058697303363637",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我到底好不好 #辣条音 https://t.co/zWceSGDTxI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25015,
+        "height": 960,
+        "media_key": "13_1957058443006918656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957058443006918656/img/zsVG0gh3rNWSy6_q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957058443006918656/vid/avc1/320x426/HzWAGgFmeBA9Or5Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957058443006918656/vid/avc1/480x640/UULe4J9fuBGFsVbJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957058443006918656/vid/avc1/720x960/KOTgdkdvVnZljp7n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957058443006918656/pl/g__nh2keGtk-27ir.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957058443006918656"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1957058697303363637",
+        "created_at": "2025-08-17T12:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957058697303363637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "辣条音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWceSGDTxI",
+              "end": 35,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1957058697303363637/video/1",
+              "media_key": "13_1957058443006918656",
+              "start": 12,
+              "url": "https://t.co/zWceSGDTxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957058697303363637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底好不好 #辣条音 https://t.co/zWceSGDTxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)不约炮…会回私信…骚扰就算了除非你身材我真的很喜欢 喜欢发一些身材照…",
+        "id": "1906360034725961728",
+        "name": "一只小由饼",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 64,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 312
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

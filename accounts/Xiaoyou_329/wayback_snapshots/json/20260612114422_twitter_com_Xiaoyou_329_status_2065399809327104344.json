@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065399797943799808",
+        "3_2065399797952159744"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2065399809327104344",
+    "created_at": "2026-06-12T11:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065399809327104344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JbtXKkk5Xe",
+          "end": 32,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2065399809327104344/photo/1",
+          "media_key": "3_2065399797943799808",
+          "start": 9,
+          "url": "https://t.co/JbtXKkk5Xe"
+        },
+        {
+          "display_url": "pic.x.com/JbtXKkk5Xe",
+          "end": 32,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2065399809327104344/photo/1",
+          "media_key": "3_2065399797952159744",
+          "start": 9,
+          "url": "https://t.co/JbtXKkk5Xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065399809327104344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全网最恶俗之人… https://t.co/JbtXKkk5Xe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2005,
+        "media_key": "3_2065399797943799808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnGLFuakAA4T5i.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1110,
+        "media_key": "3_2065399797952159744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnGLFwaIAArfCs.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065399797943799808",
+            "3_2065399797952159744"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2065399809327104344",
+        "created_at": "2026-06-12T11:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065399809327104344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbtXKkk5Xe",
+              "end": 32,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2065399809327104344/photo/1",
+              "media_key": "3_2065399797943799808",
+              "start": 9,
+              "url": "https://t.co/JbtXKkk5Xe"
+            },
+            {
+              "display_url": "pic.x.com/JbtXKkk5Xe",
+              "end": 32,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2065399809327104344/photo/1",
+              "media_key": "3_2065399797952159744",
+              "start": 9,
+              "url": "https://t.co/JbtXKkk5Xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065399809327104344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全网最恶俗之人… https://t.co/JbtXKkk5Xe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15440,
+          "following_count": 176,
+          "like_count": 7624,
+          "listed_count": 20,
+          "media_count": 804,
+          "tweet_count": 6726
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

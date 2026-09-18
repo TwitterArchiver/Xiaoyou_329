@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1983491939241701838",
+    "created_at": "2025-10-30T04:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983756354029269446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1803674898314960896",
+          "start": 0,
+          "username": "ll132345796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983756354029269446",
+    "in_reply_to_user_id": "1803674898314960896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983491939241701838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ll132345796 我准备好了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1983491929737478144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bHZq7bQAAUBy0.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1983491936913866755",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bHaFqaQAM62G-.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1983491939241701838",
+        "created_at": "2025-10-30T04:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983756354029269446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1803674898314960896",
+              "start": 0,
+              "username": "ll132345796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983756354029269446",
+        "in_reply_to_user_id": "1803674898314960896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983491939241701838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll132345796 我准备好了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983491929737478144",
+            "3_1983491936913866755"
+          ]
+        },
+        "author_id": "1803674898314960896",
+        "conversation_id": "1983491939241701838",
+        "created_at": "2025-10-29T11:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983491939241701838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0upzamHsgq",
+              "end": 28,
+              "expanded_url": "https://x.com/ll132345796/status/1983491939241701838/photo/1",
+              "media_key": "3_1983491929737478144",
+              "start": 5,
+              "url": "https://t.co/0upzamHsgq"
+            },
+            {
+              "display_url": "pic.x.com/0upzamHsgq",
+              "end": 28,
+              "expanded_url": "https://x.com/ll132345796/status/1983491939241701838/photo/1",
+              "media_key": "3_1983491936913866755",
+              "start": 5,
+              "url": "https://t.co/0upzamHsgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983491939241701838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7188,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "下班了！ https://t.co/0upzamHsgq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 142,
+          "like_count": 3526,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 3172
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T06:23:14.000Z",
+        "description": "只是一个普通男生的日常碎碎念💦 /欢迎礼貌私信哦🌸 /然后就是祝大家天天开心呀✨ /有时写小狗日记偶尔读文/04/180/ENFP/是异性恋/可以叫我凉凉/世界和平就可以了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xgll",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xgll",
+                "start": 0,
+                "url": "https://t.co/QqhxoIjXsG"
+              }
+            ]
+          }
+        },
+        "id": "1803674898314960896",
+        "name": "小狗凉凉（困困版）",
+        "pinned_tweet_id": "1947693170558661048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803678040616214530/IqZImltA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 520,
+          "like_count": 56426,
+          "listed_count": 6,
+          "media_count": 732,
+          "tweet_count": 7190
+        },
+        "url": "https://t.co/QqhxoIjXsG",
+        "username": "ll132345796",
+        "verified": false
+      }
+    ]
+  }
+}

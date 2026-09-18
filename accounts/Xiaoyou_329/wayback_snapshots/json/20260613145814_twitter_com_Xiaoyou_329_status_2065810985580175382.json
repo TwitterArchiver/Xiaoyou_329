@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2065768428888342691",
+    "created_at": "2026-06-13T14:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065810985580175382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1797327897537224704",
+          "start": 0,
+          "username": "Suzhou_gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065810985580175382",
+    "in_reply_to_user_id": "1797327897537224704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065795619185434713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suzhou_gu 我呆不住家，我真的很想很想出去，真的很想出去，我不要在家。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2065768428888342691",
+        "created_at": "2026-06-13T14:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065810985580175382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1797327897537224704",
+              "start": 0,
+              "username": "Suzhou_gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065810985580175382",
+        "in_reply_to_user_id": "1797327897537224704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065795619185434713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzhou_gu 我呆不住家，我真的很想很想出去，真的很想出去，我不要在家。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797327897537224704",
+        "conversation_id": "2065768428888342691",
+        "created_at": "2026-06-13T13:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065795619185434713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065795619185434713",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065768428888342691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 外面那么热，出去好麻烦，不如就在家玩游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15493,
+          "following_count": 175,
+          "like_count": 7633,
+          "listed_count": 20,
+          "media_count": 807,
+          "tweet_count": 6742
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T18:02:33.000Z",
+        "description": "天蝎♏，声音还好，喜欢玩游戏",
+        "id": "1797327897537224704",
+        "location": "苏州",
+        "name": "Shelbie",
+        "pinned_tweet_id": "1801880941897650358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982733529545904128/sSpQavCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 14,
+          "like_count": 1544,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 916
+        },
+        "username": "Suzhou_gu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028362599704952974",
+    "created_at": "2026-03-02T07:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T08:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028376417478873089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1890747374785732608",
+          "start": 0,
+          "username": "dzhung24091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028376417478873089",
+    "in_reply_to_user_id": "1890747374785732608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028373817937289340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzhung24091 原来这样吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028362599704952974",
+        "created_at": "2026-03-02T07:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028376417478873089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1890747374785732608",
+              "start": 0,
+              "username": "dzhung24091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028376417478873089",
+        "in_reply_to_user_id": "1890747374785732608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028373817937289340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzhung24091 原来这样吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890747374785732608",
+        "conversation_id": "2028362599704952974",
+        "created_at": "2026-03-02T07:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028373817937289340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028373817937289340",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028362599704952974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 上翘还长的很少有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12746,
+          "following_count": 164,
+          "like_count": 6818,
+          "listed_count": 19,
+          "media_count": 706,
+          "tweet_count": 5671
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T12:58:05.000Z",
+        "description": "梦想成为情侣博主",
+        "id": "1890747374785732608",
+        "location": "0538",
+        "name": "冲到炸膛",
+        "pinned_tweet_id": "1952994257805164862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960985778785550336/RniUllt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 72,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 175
+        },
+        "username": "dzhung24091",
+        "verified": false
+      }
+    ]
+  }
+}

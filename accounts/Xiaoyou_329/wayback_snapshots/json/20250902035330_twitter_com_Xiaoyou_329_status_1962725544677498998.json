@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962715897912779027",
+    "created_at": "2025-09-02T03:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T04:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962725544677498998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1621786603357356033",
+          "start": 0,
+          "username": "lnkngnn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962725544677498998",
+    "in_reply_to_user_id": "1621786603357356033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962715897912779027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnkngnn1 好！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962715897912779027",
+        "created_at": "2025-09-02T03:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T04:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962725544677498998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1621786603357356033",
+              "start": 0,
+              "username": "lnkngnn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962725544677498998",
+        "in_reply_to_user_id": "1621786603357356033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962715897912779027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnkngnn1 好！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621786603357356033",
+        "conversation_id": "1962715897912779027",
+        "created_at": "2025-09-02T03:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T04:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962715897912779027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962715897912779027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我超级喜欢和互关装熟，所以我评论大家的时候多多和我互动好吗，在我心里互关不只是关注一下就可以了呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…｜梦想是去一次海边",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 98,
+          "like_count": 912,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1058
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T08:24:22.000Z",
+        "description": "我只是一个在读大学喜欢看点黄推爱唠嗑的小女孩罢了🥺🥺🥺\n\n不约/给我发牛之前请看我的名字/不互看/头像本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaolin30090",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaolin30090",
+                "start": 0,
+                "url": "https://t.co/aisjE9wTDY"
+              }
+            ]
+          }
+        },
+        "id": "1621786603357356033",
+        "location": "提问箱",
+        "name": "梦想和有腹肌粉色大老鼠会喘的男朋友度过一生",
+        "pinned_tweet_id": "1960338898179264583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956865957080829952/N0PMWB1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 96,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/aisjE9wTDY",
+        "username": "lnkngnn1",
+        "verified": false
+      }
+    ]
+  }
+}

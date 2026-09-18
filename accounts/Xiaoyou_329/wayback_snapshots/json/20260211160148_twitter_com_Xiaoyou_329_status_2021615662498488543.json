@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2021604676282745307",
+    "created_at": "2026-02-11T16:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T17:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021615662498488543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1265587306439688194",
+          "start": 0,
+          "username": "Chuan_XXX_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021615662498488543",
+    "in_reply_to_user_id": "1265587306439688194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021604676282745307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chuan_XXX_ 哥哥(´o̴̶̷̤ㅂo̴̶̷̤`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7900,
+        "height": 720,
+        "media_key": "13_2021604649296646144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021604649296646144/img/ouN3IGacJXuY_Dcn.jpg",
+        "public_metrics": {
+          "view_count": 51
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021604649296646144/vid/avc1/478x270/X2cnnWyfqBaSdfRJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021604649296646144/vid/avc1/638x360/HmLyKkB_jAUUJnor.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021604649296646144/vid/avc1/1278x720/biSKYza217wBKfNZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021604649296646144/pl/PPDCvVqP6L5MVL2w.m3u8"
+          }
+        ],
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2021604676282745307",
+        "created_at": "2026-02-11T16:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021615662498488543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1265587306439688194",
+              "start": 0,
+              "username": "Chuan_XXX_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021615662498488543",
+        "in_reply_to_user_id": "1265587306439688194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021604676282745307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chuan_XXX_ 哥哥(´o̴̶̷̤ㅂo̴̶̷̤`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021604649296646144"
+          ]
+        },
+        "author_id": "1265587306439688194",
+        "conversation_id": "2021604676282745307",
+        "created_at": "2026-02-11T15:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021604676282745307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "男喘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aZe09A60l",
+              "end": 32,
+              "expanded_url": "https://x.com/Chuan_XXX_/status/2021604676282745307/video/1",
+              "media_key": "13_2021604649296646144",
+              "start": 9,
+              "url": "https://t.co/9aZe09A60l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021604676282745307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥抱抱 #男喘 https://t.co/9aZe09A60l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2018262383047700927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12082,
+          "following_count": 161,
+          "like_count": 6501,
+          "listed_count": 19,
+          "media_count": 647,
+          "tweet_count": 5332
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-27T10:15:14.000Z",
+        "description": "05 switch 不是同 看到信息都会回可接🥣",
+        "id": "1265587306439688194",
+        "name": "秋川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984838548928008192/RKCi6rWR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4970,
+          "following_count": 102,
+          "like_count": 2668,
+          "listed_count": 6,
+          "media_count": 133,
+          "tweet_count": 963
+        },
+        "username": "Chuan_XXX_",
+        "verified": false
+      }
+    ]
+  }
+}

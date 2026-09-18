@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962051397824004536",
+    "created_at": "2025-08-31T07:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T08:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962052053716320278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957369817897619456",
+          "start": 0,
+          "username": "rourou109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962052053716320278",
+    "in_reply_to_user_id": "1957369817897619456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962051397824004536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rourou109 我也不喜欢。有的番茄炒鸡蛋太甜了。有的太咸了。完全没有那种正正好的。"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1962051397824004536].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1962051397824004536",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962051397824004536"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962051397824004536",
+        "created_at": "2025-08-31T07:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T08:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962052053716320278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957369817897619456",
+              "start": 0,
+              "username": "rourou109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962052053716320278",
+        "in_reply_to_user_id": "1957369817897619456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962051397824004536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rourou109 我也不喜欢。有的番茄炒鸡蛋太甜了。有的太咸了。完全没有那种正正好的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 98,
+          "like_count": 864,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 918
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T09:12:09.000Z",
+        "description": "我又变回了枯树 你成了另一棵树的春天",
+        "id": "1957369817897619456",
+        "location": "番茄大王国",
+        "name": "番茄牛肉大王",
+        "pinned_tweet_id": "1962052032992526646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962051089446125568/FkTe8jyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 86,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 967
+        },
+        "username": "rourou109",
+        "verified": false
+      }
+    ]
+  }
+}

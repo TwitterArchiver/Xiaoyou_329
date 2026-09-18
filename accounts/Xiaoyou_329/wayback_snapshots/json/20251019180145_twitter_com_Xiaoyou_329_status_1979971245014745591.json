@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1979968232997216447",
+    "created_at": "2025-10-19T18:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T19:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979971245014745591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956019061760122883",
+          "start": 0,
+          "username": "kiczp156726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979971245014745591",
+    "in_reply_to_user_id": "1956019061760122883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979968232997216447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiczp156726 这个蛋炒饭唱歌好爽吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44953,
+        "height": 720,
+        "media_key": "7_1979968170594070528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1979968170594070528/pu/img/kG_trfbDSqXkL25r.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979968170594070528/pu/vid/avc1/320x320/IoT_MuI4EH1MV-BO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979968170594070528/pu/vid/avc1/540x540/miPQ1N7cn6OyGfof.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979968170594070528/pu/vid/avc1/720x720/5c5KBv-EyNN3kEx_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1979968170594070528/pu/pl/QKPHdmyIGhOsFBqm.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1979968232997216447",
+        "created_at": "2025-10-19T18:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T19:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979971245014745591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956019061760122883",
+              "start": 0,
+              "username": "kiczp156726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979971245014745591",
+        "in_reply_to_user_id": "1956019061760122883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979968232997216447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiczp156726 这个蛋炒饭唱歌好爽吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1979968170594070528"
+          ]
+        },
+        "author_id": "1956019061760122883",
+        "conversation_id": "1979968232997216447",
+        "created_at": "2025-10-19T17:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T18:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979968232997216447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBsEhbfr8K",
+              "end": 42,
+              "expanded_url": "https://x.com/kiczp156726/status/1979968232997216447/video/1",
+              "media_key": "7_1979968170594070528",
+              "start": 19,
+              "url": "https://t.co/fBsEhbfr8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979968232997216447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇见新的人请诋毁我吧 至少让他心疼你 https://t.co/fBsEhbfr8K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3111,
+          "following_count": 136,
+          "like_count": 2998,
+          "listed_count": 3,
+          "media_count": 409,
+          "tweet_count": 2986
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T15:44:28.000Z",
+        "description": "喜欢唱歌弹琴摄影旅游  考研ing",
+        "id": "1956019061760122883",
+        "location": "🚪",
+        "name": "蛋炒饭",
+        "pinned_tweet_id": "1960247234647273713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978262672035733504/h0PaTgPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 370,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1099
+        },
+        "username": "kiczp156726",
+        "verified": false
+      }
+    ]
+  }
+}

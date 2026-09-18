@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2051689660058157464",
+    "created_at": "2026-05-05T23:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T00:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051802674656584119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1619932560120758274",
+          "start": 0,
+          "username": "liwi38609609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051802674656584119",
+    "in_reply_to_user_id": "1619932560120758274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051794735187235021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liwi38609609 我没跟他卡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2051689660058157464",
+        "created_at": "2026-05-05T23:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T00:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051802674656584119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1619932560120758274",
+              "start": 0,
+              "username": "liwi38609609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051802674656584119",
+        "in_reply_to_user_id": "1619932560120758274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051794735187235021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwi38609609 我没跟他卡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619932560120758274",
+        "conversation_id": "2051689660058157464",
+        "created_at": "2026-05-05T22:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051794735187235021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051794735187235021",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051689660058157464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 啥意思？三分钟不到完事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14434,
+          "following_count": 167,
+          "like_count": 7433,
+          "listed_count": 22,
+          "media_count": 836,
+          "tweet_count": 6512
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T05:36:47.000Z",
+        "description": "无规则冲浪top.258",
+        "id": "1619932560120758274",
+        "name": "本质小猪肘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005772043447590912/8LzGNt5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 37,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "username": "liwi38609609",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2022923019153522944",
+    "created_at": "2026-02-15T06:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T07:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022924152743874919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1915649190161768449",
+          "start": 0,
+          "username": "zoushuONE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022924152743874919",
+    "in_reply_to_user_id": "1915649190161768449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022923563070820441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zoushuONE 你去小红书抖音上还有那个视频号里搜那种文案查重率百分之百🌚。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022923019153522944",
+        "created_at": "2026-02-15T06:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022924152743874919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1915649190161768449",
+              "start": 0,
+              "username": "zoushuONE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022924152743874919",
+        "in_reply_to_user_id": "1915649190161768449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022923563070820441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zoushuONE 你去小红书抖音上还有那个视频号里搜那种文案查重率百分之百🌚。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915649190161768449",
+        "conversation_id": "2022923019153522944",
+        "created_at": "2026-02-15T06:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022923563070820441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022923563070820441",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022923019153522944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 那我天天看你的推文做阅读理解，岂不是全错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12110,
+          "following_count": 162,
+          "like_count": 6675,
+          "listed_count": 19,
+          "media_count": 661,
+          "tweet_count": 5463
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T06:09:05.000Z",
+        "description": "真是绕了好大一个圈啊",
+        "id": "1915649190161768449",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "奏树ONE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915649383812784128/hXHIwBy9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 81,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 73
+        },
+        "username": "zoushuONE",
+        "verified": false
+      }
+    ]
+  }
+}

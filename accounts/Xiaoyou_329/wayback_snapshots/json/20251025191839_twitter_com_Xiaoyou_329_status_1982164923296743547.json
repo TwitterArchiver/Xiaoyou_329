@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1982163490610541036",
+    "created_at": "2025-10-25T19:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T20:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982164923296743547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "964492606276276224",
+          "start": 0,
+          "username": "Felipinho0022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982164923296743547",
+    "in_reply_to_user_id": "964492606276276224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982164740034969887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Felipinho0022 不好意思…！我以为你是要找我打推广…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1982163490610541036",
+        "created_at": "2025-10-25T19:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T20:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982164923296743547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "964492606276276224",
+              "start": 0,
+              "username": "Felipinho0022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982164923296743547",
+        "in_reply_to_user_id": "964492606276276224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982164740034969887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Felipinho0022 不好意思…！我以为你是要找我打推广…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "964492606276276224",
+        "conversation_id": "1982163490610541036",
+        "created_at": "2025-10-25T19:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T20:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982164740034969887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982164740034969887",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982164373062754395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 可是我就是想和你玩...以为你和我一样无聊对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 139,
+          "like_count": 3293,
+          "listed_count": 4,
+          "media_count": 404,
+          "tweet_count": 3088
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-16T13:32:11.000Z",
+        "description": "傻逼",
+        "id": "964492606276276224",
+        "location": "距离你8.23km的海",
+        "name": "善变的海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980206150105628672/QMbhEsV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 372,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 443
+        },
+        "username": "Felipinho0022",
+        "verified": true
+      }
+    ]
+  }
+}

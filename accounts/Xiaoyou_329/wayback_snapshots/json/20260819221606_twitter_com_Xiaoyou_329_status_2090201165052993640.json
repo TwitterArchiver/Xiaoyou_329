@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2090009570269966344",
+    "created_at": "2026-08-19T22:16:06.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T23:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090201165052993640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2037054508589867010",
+          "start": 0,
+          "username": "kinatinaguihua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090201165052993640",
+    "in_reply_to_user_id": "2037054508589867010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090066184045769182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kinatinaguihua 没有！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2090009570269966344",
+        "created_at": "2026-08-19T22:16:06.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T23:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090201165052993640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037054508589867010",
+              "start": 0,
+              "username": "kinatinaguihua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090201165052993640",
+        "in_reply_to_user_id": "2037054508589867010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090066184045769182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinatinaguihua 没有！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037054508589867010",
+        "conversation_id": "2090009570269966344",
+        "created_at": "2026-08-19T13:19:44.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090066184045769182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090066184045769182",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090009570269966344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 终究还是给了吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090201165052993640",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17393,
+          "following_count": 182,
+          "like_count": 7674,
+          "listed_count": 22,
+          "media_count": 1121,
+          "tweet_count": 7720
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-26T06:31:01.000Z",
+        "description": "I am a hypocrite.",
+        "id": "2037054508589867010",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090066184045769182",
+        "name": "Blue",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037054508589867010/1774628957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037228094424281088/Jk2MnSmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 90,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "kinatinaguihua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

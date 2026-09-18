@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2064249763290308853",
+    "created_at": "2026-06-09T16:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064388935426711853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1316002167338065921",
+          "start": 0,
+          "username": "Gnimi114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064388935426711853",
+    "in_reply_to_user_id": "1316002167338065921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064379471298494494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gnimi114514 5060 模拟人生4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2064249763290308853",
+        "created_at": "2026-06-09T16:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064388935426711853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1316002167338065921",
+              "start": 0,
+              "username": "Gnimi114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064388935426711853",
+        "in_reply_to_user_id": "1316002167338065921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064379471298494494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gnimi114514 5060 模拟人生4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1316002167338065921",
+        "conversation_id": "2064249763290308853",
+        "created_at": "2026-06-09T16:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064379471298494494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064379471298494494",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064249763290308853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 什么配置，什么游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15416,
+          "following_count": 177,
+          "like_count": 7608,
+          "listed_count": 20,
+          "media_count": 794,
+          "tweet_count": 6654
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T13:06:22.000Z",
+        "description": "",
+        "id": "1316002167338065921",
+        "name": "Gnimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996778231723446273/QdYmBxZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 774,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 154
+        },
+        "username": "Gnimi114514",
+        "verified": false
+      }
+    ]
+  }
+}

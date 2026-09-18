@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960958656104816805",
+    "created_at": "2025-08-28T07:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T08:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960972360514691390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1621786603357356033",
+          "start": 0,
+          "username": "lnkngnn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960972360514691390",
+    "in_reply_to_user_id": "1621786603357356033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960967389102948578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnkngnn1 不客气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960958656104816805",
+        "created_at": "2025-08-28T07:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T08:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960972360514691390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1621786603357356033",
+              "start": 0,
+              "username": "lnkngnn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960972360514691390",
+        "in_reply_to_user_id": "1621786603357356033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960967389102948578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnkngnn1 不客气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621786603357356033",
+        "conversation_id": "1960958656104816805",
+        "created_at": "2025-08-28T07:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T08:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960967389102948578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960967389102948578",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960958656104816805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 已保存 打算以后实践"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 88,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 698
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T08:24:22.000Z",
+        "description": "我只是一个在读大学喜欢看点黄推爱唠嗑的小女孩罢了🥺🥺🥺\n\n不约/给我发牛之前请看我的名字/不互看/头像本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaolin30090",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaolin30090",
+                "start": 0,
+                "url": "https://t.co/aisjE9wTDY"
+              }
+            ]
+          }
+        },
+        "id": "1621786603357356033",
+        "location": "提问箱",
+        "name": "梦想和有腹肌粉色大老鼠会喘的男朋友度过一生",
+        "pinned_tweet_id": "1960338898179264583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956865957080829952/N0PMWB1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 92,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/aisjE9wTDY",
+        "username": "lnkngnn1",
+        "verified": false
+      }
+    ]
+  }
+}

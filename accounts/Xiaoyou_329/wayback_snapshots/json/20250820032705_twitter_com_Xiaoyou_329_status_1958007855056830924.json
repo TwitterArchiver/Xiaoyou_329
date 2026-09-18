@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957969378328342877",
+    "created_at": "2025-08-20T03:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T04:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958007855056830924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1760463222392643584",
+          "start": 0,
+          "username": "mosswind777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958007855056830924",
+    "in_reply_to_user_id": "1760463222392643584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958007382283268472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mosswind777 好🫶🫶🫶🫶🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1957969378328342877",
+        "created_at": "2025-08-20T03:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T04:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958007855056830924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1760463222392643584",
+              "start": 0,
+              "username": "mosswind777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958007855056830924",
+        "in_reply_to_user_id": "1760463222392643584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958007382283268472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mosswind777 好🫶🫶🫶🫶🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760463222392643584",
+        "conversation_id": "1957969378328342877",
+        "created_at": "2025-08-20T03:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T04:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958007382283268472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958007382283268472",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958005347177594896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 那以后做给你吃吧💓💓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)当朋友圈发…不约炮…喜欢发一些身材照…我是双性恋…陌生人发私信不回…",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 70,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 419
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T00:35:35.000Z",
+        "description": "今日份 果奶姐姐&美女 加载完毕🔗",
+        "id": "1760463222392643584",
+        "location": "喝着美式，在别人的生活里演自己",
+        "name": "🤍七七栩🤍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956464863087394817/wiFh8qI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 254,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1966
+        },
+        "username": "mosswind777",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961027881213346097",
+    "created_at": "2025-08-28T12:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T13:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961044268904022152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951924850148380672",
+          "start": 0,
+          "username": "LHn6AcK55f64748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961044268904022152",
+    "in_reply_to_user_id": "1951924850148380672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961027881213346097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LHn6AcK55f64748 对我不行了我好像推销员"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961027881213346097",
+        "created_at": "2025-08-28T12:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T13:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961044268904022152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951924850148380672",
+              "start": 0,
+              "username": "LHn6AcK55f64748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961044268904022152",
+        "in_reply_to_user_id": "1951924850148380672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961027881213346097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LHn6AcK55f64748 对我不行了我好像推销员"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951924850148380672",
+        "conversation_id": "1961027881213346097",
+        "created_at": "2025-08-28T11:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T12:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961027881213346097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "紫罗兰.’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1lDxL…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1lDxLBZzwlRGm",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1961027882802900992/OWD-Nhwo?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1961027882802900992/OWD-Nhwo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 吃了嘛",
+              "unwound_url": "https://twitter.com/i/spaces/1lDxLBZzwlRGm/peek",
+              "url": "https://t.co/D6VBv4ZUVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961027881213346097",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D6VBv4ZUVw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 88,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 708
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T08:35:42.000Z",
+        "description": "infp|白羊|正太音|想做男喘因为声音难听而放弃.目前在学习ps.励志成为粉牛黄推.（会礼貌性回复每一个伪人言论.）",
+        "id": "1951924850148380672",
+        "name": "紫罗兰.",
+        "pinned_tweet_id": "1956367715805073777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955145753623732224/nd7Qqu4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 120,
+          "like_count": 1361,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 248
+        },
+        "username": "LHn6AcK55f64748",
+        "verified": false
+      }
+    ]
+  }
+}

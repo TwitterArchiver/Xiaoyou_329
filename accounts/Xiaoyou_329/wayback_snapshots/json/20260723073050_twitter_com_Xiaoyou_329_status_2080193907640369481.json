@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2079736949448057179",
+    "created_at": "2026-07-23T07:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080193907640369481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2013831526249873408",
+          "start": 0,
+          "username": "epp_medicant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080193907640369481",
+    "in_reply_to_user_id": "2013831526249873408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079736949448057179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@epp_medicant 婆婆咋如此美萌…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8380,
+        "height": 1280,
+        "media_key": "13_2079736913523802112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079736913523802112/img/tl766SGQa0aKz-PQ.jpg",
+        "public_metrics": {
+          "view_count": 112
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079736913523802112/vid/avc1/320x568/Nj8BsVuMWq1qgw8r.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079736913523802112/vid/avc1/480x852/HkRXrH_hCyc1t-9w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079736913523802112/vid/avc1/720x1280/O_ArfVEIRHwtNOt4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079736913523802112/pl/XBYWwdlhDTarH_CP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2079736949448057179",
+        "created_at": "2026-07-23T07:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080193907640369481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2013831526249873408",
+              "start": 0,
+              "username": "epp_medicant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080193907640369481",
+        "in_reply_to_user_id": "2013831526249873408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079736949448057179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@epp_medicant 婆婆咋如此美萌…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079736913523802112"
+          ]
+        },
+        "author_id": "2013831526249873408",
+        "conversation_id": "2079736949448057179",
+        "created_at": "2026-07-22T01:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079736949448057179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8kynvwFUD",
+              "end": 23,
+              "expanded_url": "https://x.com/epp_medicant/status/2079736949448057179/video/1",
+              "media_key": "13_2079736913523802112",
+              "start": 0,
+              "url": "https://t.co/u8kynvwFUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079736949448057179",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 582,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/u8kynvwFUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17522,
+          "following_count": 187,
+          "like_count": 7697,
+          "listed_count": 21,
+          "media_count": 1002,
+          "tweet_count": 7518
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T04:30:37.000Z",
+        "description": "我的头像是一只猫，我也是一只猫",
+        "id": "2013831526249873408",
+        "location": "我需要一个拥抱",
+        "name": "屎婆婆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072406648874811392/H6oQC4mD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2674,
+          "following_count": 58,
+          "like_count": 112,
+          "listed_count": 6,
+          "media_count": 15,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "epp_medicant",
+        "verified": false
+      }
+    ]
+  }
+}

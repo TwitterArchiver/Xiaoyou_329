@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070197314527076450",
+    "created_at": "2026-06-25T18:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T19:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070206818669023237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2057448267701768192",
+          "start": 0,
+          "username": "wzh134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070206818669023237",
+    "in_reply_to_user_id": "2057448267701768192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070198408246436340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzh134 ohno。很早的时候这个玩的我有点犯晕，搞不懂玩法而且有点不习惯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070197314527076450",
+        "created_at": "2026-06-25T18:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070206818669023237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2057448267701768192",
+              "start": 0,
+              "username": "wzh134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070206818669023237",
+        "in_reply_to_user_id": "2057448267701768192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070198408246436340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzh134 ohno。很早的时候这个玩的我有点犯晕，搞不懂玩法而且有点不习惯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057448267701768192",
+        "conversation_id": "2070197314527076450",
+        "created_at": "2026-06-25T17:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070198408246436340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070198408246436340",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070197314527076450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 泰拉瑞亚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15682,
+          "following_count": 177,
+          "like_count": 7678,
+          "listed_count": 20,
+          "media_count": 864,
+          "tweet_count": 6961
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T13:09:20.000Z",
+        "description": "爱国爱党，成绩理想",
+        "id": "2057448267701768192",
+        "name": "灰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057448884188901376/hRGtzsPZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 59,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "wzh134",
+        "verified": false
+      }
+    ]
+  }
+}

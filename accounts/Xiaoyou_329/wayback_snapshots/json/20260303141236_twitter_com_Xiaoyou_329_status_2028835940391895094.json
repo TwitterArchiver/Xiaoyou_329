@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028723249811705949",
+    "created_at": "2026-03-03T14:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T15:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028835940391895094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938469560962928641",
+          "start": 0,
+          "username": "tianxin_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028835940391895094",
+    "in_reply_to_user_id": "1938469560962928641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028833747584598238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianxin_77 好！谢谢宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028723249811705949",
+        "created_at": "2026-03-03T14:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028835940391895094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938469560962928641",
+              "start": 0,
+              "username": "tianxin_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028835940391895094",
+        "in_reply_to_user_id": "1938469560962928641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028833747584598238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianxin_77 好！谢谢宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938469560962928641",
+        "conversation_id": "2028723249811705949",
+        "created_at": "2026-03-03T14:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028833747584598238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028833747584598238",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028723249811705949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 是不是屏障受损了 用点修护面霜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12826,
+          "following_count": 163,
+          "like_count": 6838,
+          "listed_count": 19,
+          "media_count": 716,
+          "tweet_count": 5724
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T05:29:04.000Z",
+        "description": "已有老公@DecRa1nn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "DecRa1nn"
+              }
+            ]
+          }
+        },
+        "id": "1938469560962928641",
+        "location": "🚪88",
+        "name": "甜心番主",
+        "pinned_tweet_id": "2026316193309556883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938470330416447488/9MjE3jKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 22,
+          "like_count": 212,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 355
+        },
+        "username": "tianxin_77",
+        "verified": false
+      }
+    ]
+  }
+}

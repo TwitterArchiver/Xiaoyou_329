@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2097947584794898607",
+    "created_at": "2026-09-10T08:36:08.000Z",
+    "display_text_range": [
+      12,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097967345746481175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1094930643157438465",
+          "start": 0,
+          "username": "testpaper5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097967345746481175",
+    "in_reply_to_user_id": "1094930643157438465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097964925583007850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@testpaper5 我家里人每天都想把我赶出去。九年义务制教育肯定读完了呀。但是我后面的学历很难看。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2097947584794898607",
+        "created_at": "2026-09-10T08:36:08.000Z",
+        "display_text_range": [
+          12,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097967345746481175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1094930643157438465",
+              "start": 0,
+              "username": "testpaper5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097967345746481175",
+        "in_reply_to_user_id": "1094930643157438465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097964925583007850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@testpaper5 我家里人每天都想把我赶出去。九年义务制教育肯定读完了呀。但是我后面的学历很难看。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094930643157438465",
+        "conversation_id": "2097947584794898607",
+        "created_at": "2026-09-10T08:26:31.000Z",
+        "display_text_range": [
+          13,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097964925583007850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097964925583007850",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097947584794898607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 上学是让你有更多选择，如果你是小富婆，家里衣食无忧，说实话上不上学无所谓，文凭是为了工作服务的。当然九年义务制还是要读完的。容貌焦虑的话确实没什么好办法，只能说萝卜青菜各有所爱，找一个吃你颜的就行了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097967345746481175",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097562944405966848/c2VkkXJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17357,
+          "following_count": 176,
+          "like_count": 7733,
+          "listed_count": 21,
+          "media_count": 1183,
+          "tweet_count": 7930
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-11T12:06:22.000Z",
+        "description": "姑妄言之,如是我闻\n梦到哪句，写哪句\n业余男喘：@Silvawood04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "Silvawood04"
+              }
+            ]
+          }
+        },
+        "id": "1094930643157438465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097964925583007850",
+        "name": "IIIIIIIIIIIIIII",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089332292049358848/6z9UxAy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 131,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 713
+        },
+        "url": "",
+        "username": "testpaper5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

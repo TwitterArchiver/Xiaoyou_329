@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1970835720425337242",
+    "created_at": "2025-09-24T14:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T15:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970860683912007921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947634203358543873",
+          "start": 0,
+          "username": "uxehNv2zpB70937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970860683912007921",
+    "in_reply_to_user_id": "1947634203358543873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970835720425337242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uxehNv2zpB70937 学到了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1970835720425337242",
+        "created_at": "2025-09-24T14:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T15:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970860683912007921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947634203358543873",
+              "start": 0,
+              "username": "uxehNv2zpB70937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970860683912007921",
+        "in_reply_to_user_id": "1947634203358543873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970835720425337242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uxehNv2zpB70937 学到了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947634203358543873",
+        "conversation_id": "1970835720425337242",
+        "created_at": "2025-09-24T13:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970835720425337242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/spaces/1lDGL…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1lDGLBElOAyxm",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/1970835727505371136/A2Q2ST9N?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1970835727505371136/A2Q2ST9N?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://twitter.com/i/spaces/1lDGLBElOAyxm/peek",
+              "url": "https://t.co/ejXBqDl7wx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970835720425337242",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ejXBqDl7wx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1969401174278201363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 121,
+          "like_count": 1894,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2278
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T12:26:11.000Z",
+        "description": "幸福日记本/欢迎来找我聊天/会发身材照且不定期删除/成分极其复杂无法表达 全是乱七八糟的回复和推文/请多夸夸我好吗 我是夸夸脑",
+        "id": "1947634203358543873",
+        "name": "岁星",
+        "pinned_tweet_id": "1970800409485905956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955658680114044928/OlfF5_8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 171,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1332
+        },
+        "username": "uxehNv2zpB70937",
+        "verified": false
+      }
+    ]
+  }
+}

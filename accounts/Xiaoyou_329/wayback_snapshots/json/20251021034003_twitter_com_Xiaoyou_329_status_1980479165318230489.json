@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1980444872030187649",
+    "created_at": "2025-10-21T03:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T04:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980479165318230489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956019061760122883",
+          "start": 0,
+          "username": "kiczp156726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980479165318230489",
+    "in_reply_to_user_id": "1956019061760122883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980444872030187649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiczp156726 我会努力的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1980444867596808193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3v0HT5acAEptJP.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1980444872030187649",
+        "created_at": "2025-10-21T03:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T04:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980479165318230489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956019061760122883",
+              "start": 0,
+              "username": "kiczp156726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980479165318230489",
+        "in_reply_to_user_id": "1956019061760122883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980444872030187649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiczp156726 我会努力的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980444867596808193"
+          ]
+        },
+        "author_id": "1956019061760122883",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1980444872030187649",
+        "created_at": "2025-10-21T01:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T02:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980444872030187649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1978517149191962625/k4bwbkC6?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978517149191962625/k4bwbkC6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/0cUUGU2uqg"
+            },
+            {
+              "display_url": "pic.x.com/0fc26GPoqA",
+              "end": 64,
+              "expanded_url": "https://x.com/kiczp156726/status/1980444872030187649/photo/1",
+              "media_key": "3_1980444867596808193",
+              "start": 41,
+              "url": "https://t.co/0fc26GPoqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980444872030187649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/0cUUGU2uqg https://t.co/0fc26GPoqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 138,
+          "like_count": 3061,
+          "listed_count": 3,
+          "media_count": 417,
+          "tweet_count": 3032
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T15:44:28.000Z",
+        "description": "喜欢唱歌弹琴摄影旅游  考研ing",
+        "id": "1956019061760122883",
+        "location": "🚪",
+        "name": "蛋炒饭",
+        "pinned_tweet_id": "1960247234647273713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978262672035733504/h0PaTgPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 378,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1124
+        },
+        "username": "kiczp156726",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1964693578493669861",
+    "created_at": "2025-09-07T14:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T15:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964696022598488564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1658860705871974401",
+          "start": 0,
+          "username": "nizhiying289240"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964696022598488564",
+    "in_reply_to_user_id": "1658860705871974401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964695618804453868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nizhiying289240 因为上学好累喔所以声音会听着有点没力气的感觉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1964693578493669861",
+        "created_at": "2025-09-07T14:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T15:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964696022598488564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1658860705871974401",
+              "start": 0,
+              "username": "nizhiying289240"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964696022598488564",
+        "in_reply_to_user_id": "1658860705871974401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964695618804453868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nizhiying289240 因为上学好累喔所以声音会听着有点没力气的感觉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658860705871974401",
+        "conversation_id": "1964693578493669861",
+        "created_at": "2025-09-07T14:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T15:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964695618804453868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964695618804453868",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964693578493669861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 哈哈哈哈哈哈哈哈哈哈哈哈哈哈 声音怎么呆萌呆萌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 103,
+          "like_count": 1124,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 1379
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T15:43:15.000Z",
+        "description": "",
+        "id": "1658860705871974401",
+        "name": "归期",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672574302800195584/ckDNffbp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 212,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 128
+        },
+        "username": "nizhiying289240",
+        "verified": false
+      }
+    ]
+  }
+}

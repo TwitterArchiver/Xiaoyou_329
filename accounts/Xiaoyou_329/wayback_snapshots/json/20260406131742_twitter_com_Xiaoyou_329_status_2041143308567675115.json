@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2040261172981534789",
+    "created_at": "2026-04-06T13:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T14:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041143308567675115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016921809153904644",
+          "start": 0,
+          "username": "zero_000YY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041143308567675115",
+    "in_reply_to_user_id": "2016921809153904644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041142219537789242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zero_000YY 不客气…！唉哎我真的特别想申请你的好友位…ovo."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2040261172981534789",
+        "created_at": "2026-04-06T13:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041143308567675115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016921809153904644",
+              "start": 0,
+              "username": "zero_000YY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041143308567675115",
+        "in_reply_to_user_id": "2016921809153904644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041142219537789242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zero_000YY 不客气…！唉哎我真的特别想申请你的好友位…ovo."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016921809153904644",
+        "conversation_id": "2040261172981534789",
+        "created_at": "2026-04-06T13:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041142219537789242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041142219537789242",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040723606884200769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 谢谢你呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13640,
+          "following_count": 161,
+          "like_count": 7408,
+          "listed_count": 20,
+          "media_count": 795,
+          "tweet_count": 6318
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T17:10:14.000Z",
+        "description": "发呆到世界末日",
+        "id": "2016921809153904644",
+        "name": "有我在你哭什么呢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037114478505189379/C6qgiyUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 112,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "zero_000YY",
+        "verified": false
+      }
+    ]
+  }
+}

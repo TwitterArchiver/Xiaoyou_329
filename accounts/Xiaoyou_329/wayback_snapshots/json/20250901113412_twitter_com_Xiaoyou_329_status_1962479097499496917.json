@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962467650334019606",
+    "created_at": "2025-09-01T11:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T12:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962479097499496917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1874085758488690688",
+          "start": 0,
+          "username": "pyh996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962479097499496917",
+    "in_reply_to_user_id": "1874085758488690688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962467650334019606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyh996 🤲小亦我喜欢你…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27712,
+        "height": 720,
+        "media_key": "7_1962467623041646592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1962467623041646592/pu/img/lyNMIrfB6pflhBGR.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962467623041646592/pu/vid/avc1/320x320/DCJzmObLPJS3JBbz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962467623041646592/pu/vid/avc1/540x540/xu-BMQFj28Xbs97d.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962467623041646592/pu/vid/avc1/720x720/OvX43Ww7206zH96X.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1962467623041646592/pu/pl/e24EDt28rQ0FZkND.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962467650334019606",
+        "created_at": "2025-09-01T11:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962479097499496917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1874085758488690688",
+              "start": 0,
+              "username": "pyh996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962479097499496917",
+        "in_reply_to_user_id": "1874085758488690688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962467650334019606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyh996 🤲小亦我喜欢你…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1962467623041646592"
+          ]
+        },
+        "author_id": "1874085758488690688",
+        "conversation_id": "1962467650334019606",
+        "created_at": "2025-09-01T10:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962467650334019606"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "配音"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "短打"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "清水"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "青年音"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "青受音"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "声控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Od2PhwQ4D",
+              "end": 112,
+              "expanded_url": "https://x.com/pyh996/status/1962467650334019606/video/1",
+              "media_key": "7_1962467623041646592",
+              "start": 89,
+              "url": "https://t.co/6Od2PhwQ4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962467650334019606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“宝宝，你是一个宝，你生来就是一个宝，文物搁地底下躺了三千年，才配叫做宝，你一出生就有俩”----------by 碎嘴企鹅\n#配音 #短打 #清水 #青年音 #青受音 #声控 https://t.co/6Od2PhwQ4D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…｜梦想是去一次海边",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 100,
+          "like_count": 900,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1014
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T13:31:37.000Z",
+        "description": "平平无奇的小死宅 新人随便读一下 经常发短打，偶尔发长的 手机录音机直录 萝卜青菜各有所爱 评论私信都会回的，请多多给我发，我的匿名信箱https://t.co/SKQUto1JRu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pyh996",
+                "end": 91,
+                "expanded_url": "https://ngl.link/pyh996",
+                "start": 68,
+                "url": "https://t.co/SKQUto1JRu"
+              }
+            ]
+          }
+        },
+        "id": "1874085758488690688",
+        "location": "🚪1/6/18/30/68 没有区别全充王者助我v10",
+        "name": "小亦",
+        "pinned_tweet_id": "1961332308612636737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941875269200994304/U63b45r0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 204,
+          "like_count": 3375,
+          "listed_count": 3,
+          "media_count": 132,
+          "tweet_count": 923
+        },
+        "username": "pyh996",
+        "verified": false
+      }
+    ]
+  }
+}

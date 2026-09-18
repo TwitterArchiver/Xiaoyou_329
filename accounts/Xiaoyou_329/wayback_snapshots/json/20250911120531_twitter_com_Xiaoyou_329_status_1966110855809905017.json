@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1966108217819406489",
+    "created_at": "2025-09-11T12:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T13:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966110855809905017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1928525199928070144",
+          "start": 0,
+          "username": "QvErKpq2qO46196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966110855809905017",
+    "in_reply_to_user_id": "1928525199928070144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966108217819406489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QvErKpq2qO46196 加油加油我会想你的…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1966108217819406489",
+        "created_at": "2025-09-11T12:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T13:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966110855809905017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1928525199928070144",
+              "start": 0,
+              "username": "QvErKpq2qO46196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966110855809905017",
+        "in_reply_to_user_id": "1928525199928070144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966108217819406489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QvErKpq2qO46196 加油加油我会想你的…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928525199928070144",
+        "conversation_id": "1966108217819406489",
+        "created_at": "2025-09-11T11:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T12:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966108217819406489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966108217819406489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是我的意思是暂时不上了。我打错字了。最近真的准备开学了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 100,
+          "like_count": 1307,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1618
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T18:53:49.000Z",
+        "description": "单纯喜欢聊天 。嗯对。",
+        "id": "1928525199928070144",
+        "name": "安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928527801411682304/mdzXSuoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 38,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 486
+        },
+        "username": "QvErKpq2qO46196",
+        "verified": false
+      }
+    ]
+  }
+}

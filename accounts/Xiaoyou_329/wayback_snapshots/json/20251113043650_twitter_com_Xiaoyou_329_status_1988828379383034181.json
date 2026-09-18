@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1988563254633742654",
+    "created_at": "2025-11-13T04:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T05:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988828379383034181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905243767898316800",
+          "start": 0,
+          "username": "ttBratOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988828379383034181",
+    "in_reply_to_user_id": "1905243767898316800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988563254633742654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttBratOvO 哥哥就是世界上最有安全感的词…我不接受反驳…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1988563254633742654",
+        "created_at": "2025-11-13T04:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988828379383034181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905243767898316800",
+              "start": 0,
+              "username": "ttBratOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988828379383034181",
+        "in_reply_to_user_id": "1905243767898316800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988563254633742654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttBratOvO 哥哥就是世界上最有安全感的词…我不接受反驳…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905243767898316800",
+        "conversation_id": "1988563254633742654",
+        "created_at": "2025-11-12T11:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988563254633742654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988563254633742654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20389,
+          "like_count": 206,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我谈恋爱了的话一定要把对象叫哥哥，我是哥哥控"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6028,
+          "following_count": 148,
+          "like_count": 4271,
+          "listed_count": 6,
+          "media_count": 442,
+          "tweet_count": 3600
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T13:01:35.000Z",
+        "description": "有纯绿🚪 小猫2号@xiaoNAN080423",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "xiaoNAN080423"
+              }
+            ]
+          }
+        },
+        "id": "1905243767898316800",
+        "location": "喵喵",
+        "name": "kitten",
+        "pinned_tweet_id": "1980988765943538020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979982347488329729/nF2no135_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7443,
+          "following_count": 308,
+          "like_count": 9823,
+          "listed_count": 17,
+          "media_count": 349,
+          "tweet_count": 4487
+        },
+        "username": "ttBratOvO",
+        "verified": false
+      }
+    ]
+  }
+}

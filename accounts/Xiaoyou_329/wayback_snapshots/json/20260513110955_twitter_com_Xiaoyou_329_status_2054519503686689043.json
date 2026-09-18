@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2054437354698600656",
+    "created_at": "2026-05-13T11:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054519503686689043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748393516492062723",
+          "start": 0,
+          "username": "wnh1069848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054519503686689043",
+    "in_reply_to_user_id": "1748393516492062723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054475955360731153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnh1069848 啊啊啊笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2054437354698600656",
+        "created_at": "2026-05-13T11:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054519503686689043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748393516492062723",
+              "start": 0,
+              "username": "wnh1069848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054519503686689043",
+        "in_reply_to_user_id": "1748393516492062723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054475955360731153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnh1069848 啊啊啊笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748393516492062723",
+        "conversation_id": "2054437354698600656",
+        "created_at": "2026-05-13T08:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054475955360731153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054475955360731153",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054437354698600656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 喂喂喂房主我的麦很炸吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14614,
+          "following_count": 173,
+          "like_count": 7457,
+          "listed_count": 21,
+          "media_count": 840,
+          "tweet_count": 6556
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T17:14:45.000Z",
+        "description": "不要再说那些让我误以为我很重要的话了",
+        "id": "1748393516492062723",
+        "name": "温禾",
+        "pinned_tweet_id": "2022730164564885772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019804323136622592/4Lr-b9-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 10,
+          "like_count": 4550,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 188
+        },
+        "username": "wnh1069848",
+        "verified": false
+      }
+    ]
+  }
+}

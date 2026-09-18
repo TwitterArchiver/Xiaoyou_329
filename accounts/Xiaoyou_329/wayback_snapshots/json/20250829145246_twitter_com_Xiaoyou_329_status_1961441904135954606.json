@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961441892383506432"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961441385892253960",
+    "created_at": "2025-08-29T14:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T15:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961441904135954606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942095076932698112",
+          "start": 0,
+          "username": "kiko179352"
+        },
+        {
+          "end": 24,
+          "id": "1782384499848036352",
+          "start": 12,
+          "username": "Akirammt317"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aIzzdg1WbO",
+          "end": 59,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1961441904135954606/photo/1",
+          "media_key": "3_1961441892383506432",
+          "start": 36,
+          "url": "https://t.co/aIzzdg1WbO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961441904135954606",
+    "in_reply_to_user_id": "1942095076932698112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961441385892253960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiko179352 @Akirammt317 小贩熊我们喜欢你🥺🥺 https://t.co/aIzzdg1WbO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 765,
+        "media_key": "3_1961441892383506432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhxAksWwAAk_OG.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 1877449,
+        "height": 1080,
+        "media_key": "13_1961441041485271040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961441041485271040/img/5BWTYJjo295utWe8.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961441041485271040/vid/avc1/1280x720/4-t9NpNR5B8lBirG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961441041485271040/vid/avc1/640x360/iyhqt9YH2Ezy3pqs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961441041485271040/pl/WycrvYy-agYLxRea.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961441041485271040/vid/avc1/480x270/HGWRJI7FAD82dHnc.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961441041485271040/vid/avc1/1920x1080/ffrC53xPMCFPfLCi.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961441892383506432"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961441385892253960",
+        "created_at": "2025-08-29T14:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T15:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961441904135954606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942095076932698112",
+              "start": 0,
+              "username": "kiko179352"
+            },
+            {
+              "end": 24,
+              "id": "1782384499848036352",
+              "start": 12,
+              "username": "Akirammt317"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aIzzdg1WbO",
+              "end": 59,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1961441904135954606/photo/1",
+              "media_key": "3_1961441892383506432",
+              "start": 36,
+              "url": "https://t.co/aIzzdg1WbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961441904135954606",
+        "in_reply_to_user_id": "1942095076932698112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961441385892253960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiko179352 @Akirammt317 小贩熊我们喜欢你🥺🥺 https://t.co/aIzzdg1WbO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961441041485271040"
+          ]
+        },
+        "author_id": "1942095076932698112",
+        "conversation_id": "1961441385892253960",
+        "created_at": "2025-08-29T14:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T15:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961441385892253960"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "男喘"
+            },
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "男喘台本"
+            },
+            {
+              "end": 145,
+              "start": 140,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 150,
+              "start": 146,
+              "tag": "女性向"
+            },
+            {
+              "end": 155,
+              "start": 151,
+              "tag": "青受音"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1782384499848036352",
+              "start": 39,
+              "username": "Akirammt317"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRcFfXtAdU",
+              "end": 179,
+              "expanded_url": "https://x.com/kiko179352/status/1961441385892253960/video/1",
+              "media_key": "13_1961441041485271040",
+              "start": 156,
+              "url": "https://t.co/aRcFfXtAdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961441385892253960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【姐狗一爱】《临时恋人爱吃醋》\n七夕快乐哦～来吃口临时恋人的饭。\n\n台本指路：@Akirammt317 \n\n“姐姐，我比前任好用多了吧？姐姐，哪怕只是临时，你也是我的。”\n\n关键字：雨天/rough sex（掐脖子）/抱操后入/床上凶猛小狼狗床下拽拽小奶狗\n\n#男喘 #男喘台本 #手冲实录 #女性向 #青受音 https://t.co/aRcFfXtAdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 92,
+          "like_count": 802,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 785
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T05:35:41.000Z",
+        "description": "01♉｜欢迎私信找我聊天｜四爱是工作，一爱是生活｜匿名📭：https://t.co/ZslE3A7yVA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiko17935268245",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kiko17935268245",
+                "start": 29,
+                "url": "https://t.co/ZslE3A7yVA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiko179352.fanbox.cc",
+                "end": 23,
+                "expanded_url": "http://kiko179352.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/8xCuRGFOKR"
+              }
+            ]
+          }
+        },
+        "id": "1942095076932698112",
+        "name": "小贩熊（辣鸡版）",
+        "pinned_tweet_id": "1957455524376539631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945120829408231424/wqkRqAp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8054,
+          "following_count": 79,
+          "like_count": 3813,
+          "listed_count": 6,
+          "media_count": 91,
+          "tweet_count": 1309
+        },
+        "url": "https://t.co/8xCuRGFOKR",
+        "username": "kiko179352",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T12:22:47.000Z",
+        "description": "无情的台本产出机器ෆ未注明定制的台本均为公开本ෆ亮点可自取ෆ发布时@我即可 | 音声营业@nisobudaowo 重新出道请多多关心吧✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "nisobudaowo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akirammt3171",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akirammt3171",
+                "start": 0,
+                "url": "https://t.co/zkHn8Dv3xI"
+              }
+            ]
+          }
+        },
+        "id": "1782384499848036352",
+        "location": "厨艺评分2.8",
+        "name": "Akira是绿藻妹妹头໒꒱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789362137212854272/LshWmf0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9822,
+          "following_count": 312,
+          "like_count": 4334,
+          "listed_count": 35,
+          "media_count": 278,
+          "tweet_count": 2180
+        },
+        "url": "https://t.co/zkHn8Dv3xI",
+        "username": "Akirammt317",
+        "verified": false
+      }
+    ]
+  }
+}

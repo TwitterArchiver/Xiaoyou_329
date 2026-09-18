@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2055270998354919746",
+    "created_at": "2026-05-15T13:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055279002437497195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1996081074712276992",
+          "start": 0,
+          "username": "wnagklh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055279002437497195",
+    "in_reply_to_user_id": "1996081074712276992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055277856595562943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnagklh 我先炒了韭菜鸡蛋后放的饭…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2055270998354919746",
+        "created_at": "2026-05-15T13:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055279002437497195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1996081074712276992",
+              "start": 0,
+              "username": "wnagklh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055279002437497195",
+        "in_reply_to_user_id": "1996081074712276992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055277856595562943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnagklh 我先炒了韭菜鸡蛋后放的饭…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996081074712276992",
+        "conversation_id": "2055270998354919746",
+        "created_at": "2026-05-15T13:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055277856595562943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055277856595562943",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055270998354919746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 米饭水太多炒的时间太久了，炒的顺序也不对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14691,
+          "following_count": 173,
+          "like_count": 7471,
+          "listed_count": 20,
+          "media_count": 846,
+          "tweet_count": 6582
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T04:56:56.000Z",
+        "description": "为何哭泣.",
+        "id": "1996081074712276992",
+        "location": "浙江",
+        "name": "wnag",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053867359677620225/lv3s65HH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 248,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "wnagklh",
+        "verified": false
+      }
+    ]
+  }
+}

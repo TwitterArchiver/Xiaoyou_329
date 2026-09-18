@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2092544306477162728",
+    "created_at": "2026-08-26T13:09:38.000Z",
+    "display_text_range": [
+      11,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092600356152717808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922961555131596802",
+          "start": 0,
+          "username": "yucun2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092600356152717808",
+    "in_reply_to_user_id": "1922961555131596802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092593546260062573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yucun2006 啊啊啊啊啊啊啊啊你要气死我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2092544306477162728",
+        "created_at": "2026-08-26T13:09:38.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092600356152717808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1922961555131596802",
+              "start": 0,
+              "username": "yucun2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092600356152717808",
+        "in_reply_to_user_id": "1922961555131596802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092593546260062573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yucun2006 啊啊啊啊啊啊啊啊你要气死我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922961555131596802",
+        "conversation_id": "2092544306477162728",
+        "created_at": "2026-08-26T12:42:34.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092593546260062573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092593546260062573",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092544306477162728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 本质1500"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092600356152717808",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17325,
+          "following_count": 181,
+          "like_count": 7700,
+          "listed_count": 22,
+          "media_count": 1138,
+          "tweet_count": 7774
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-15T10:25:43.000Z",
+        "description": "",
+        "id": "1922961555131596802",
+        "is_identity_verified": false,
+        "location": "月球",
+        "most_recent_tweet_id": "2092594909002043750",
+        "name": "泪痛予村",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082907969751322624/rme5mLz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 33,
+          "like_count": 269,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 827
+        },
+        "url": "",
+        "username": "yucun2006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

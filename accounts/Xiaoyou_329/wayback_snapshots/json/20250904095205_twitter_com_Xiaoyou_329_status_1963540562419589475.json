@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1963538389950763100",
+    "created_at": "2025-09-04T09:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T10:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963540562419589475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717077833577791488",
+          "start": 0,
+          "username": "givemeqian888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963540562419589475",
+    "in_reply_to_user_id": "1717077833577791488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963538389950763100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@givemeqian888 接🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1963538389950763100",
+        "created_at": "2025-09-04T09:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T10:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963540562419589475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717077833577791488",
+              "start": 0,
+              "username": "givemeqian888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963540562419589475",
+        "in_reply_to_user_id": "1717077833577791488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963538389950763100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@givemeqian888 接🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717077833577791488",
+        "conversation_id": "1963538389950763100",
+        "created_at": "2025-09-04T09:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T10:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963538389950763100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963538389950763100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "外面下雨我一个人在宿舍睡的爽死了😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜ENFP｜当朋友圈发｜感谢关注｜梦想是去一次海边",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 100,
+          "like_count": 982,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1198
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T07:17:33.000Z",
+        "description": "吧啦你很有名～/infp/25小时在线/碎碎念/把X当只有一个人的朋友圈^_^可以叫我吧啦 👉👈请给我发小猫🐱/欢迎匿名提问https://t.co/w3lzSGgs3x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/balanala2",
+                "end": 85,
+                "expanded_url": "https://ngl.link/balanala2",
+                "start": 62,
+                "url": "https://t.co/w3lzSGgs3x"
+              }
+            ]
+          }
+        },
+        "id": "1717077833577791488",
+        "name": "balabala（day 52）",
+        "pinned_tweet_id": "1943191084005494922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911778956086263809/a0haeGb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 165,
+          "like_count": 3082,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1341
+        },
+        "username": "givemeqian888",
+        "verified": false
+      }
+    ]
+  }
+}

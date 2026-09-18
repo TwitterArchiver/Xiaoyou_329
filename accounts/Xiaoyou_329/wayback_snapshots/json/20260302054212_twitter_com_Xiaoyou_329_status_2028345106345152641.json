@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028108326354173973",
+    "created_at": "2026-03-02T05:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028345106345152641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1809307036498427904",
+          "start": 0,
+          "username": "wuyou0803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028345106345152641",
+    "in_reply_to_user_id": "1809307036498427904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028342010730655861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyou0803 那我纠结的这一切好像突然都没有意义了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028108326354173973",
+        "created_at": "2026-03-02T05:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028345106345152641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809307036498427904",
+              "start": 0,
+              "username": "wuyou0803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028345106345152641",
+        "in_reply_to_user_id": "1809307036498427904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028342010730655861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyou0803 那我纠结的这一切好像突然都没有意义了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809307036498427904",
+        "conversation_id": "2028108326354173973",
+        "created_at": "2026-03-02T05:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028342010730655861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028342010730655861",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028108326354173973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 被喜欢被爱不等于幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12740,
+          "following_count": 163,
+          "like_count": 6803,
+          "listed_count": 19,
+          "media_count": 704,
+          "tweet_count": 5661
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T19:23:21.000Z",
+        "description": "发财/不线下/我的叽叽喳喳小空间/喜欢就奖励/我的感受最大/我要心安",
+        "id": "1809307036498427904",
+        "name": "无忧",
+        "pinned_tweet_id": "1984452222479188160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016399398528548876/Nak62M42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 11,
+          "like_count": 1584,
+          "listed_count": 6,
+          "media_count": 147,
+          "tweet_count": 1464
+        },
+        "username": "wuyou0803",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2014536610038079658",
+    "created_at": "2026-01-23T04:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T05:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014560268655665503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2006283125979254784",
+          "start": 0,
+          "username": "zhufng168473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014560268655665503",
+    "in_reply_to_user_id": "2006283125979254784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014557851956715664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhufng168473 我去又不早说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2014536610038079658",
+        "created_at": "2026-01-23T04:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014560268655665503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2006283125979254784",
+              "start": 0,
+              "username": "zhufng168473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014560268655665503",
+        "in_reply_to_user_id": "2006283125979254784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014557851956715664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhufng168473 我去又不早说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006283125979254784",
+        "conversation_id": "2014536610038079658",
+        "created_at": "2026-01-23T04:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014557851956715664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014557851956715664",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014536610038079658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 其实叫小狗也最狠了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私 不回冒犯性问题｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9707,
+          "following_count": 155,
+          "like_count": 6273,
+          "listed_count": 14,
+          "media_count": 607,
+          "tweet_count": 5031
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T08:36:01.000Z",
+        "description": "",
+        "id": "2006283125979254784",
+        "name": "追风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006283337862909952/hMi0b9Zq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 46,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "username": "zhufng168473",
+        "verified": false
+      }
+    ]
+  }
+}

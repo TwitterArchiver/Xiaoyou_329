@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1983186438507348152",
+    "created_at": "2025-10-29T14:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T15:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983535921363648877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1035766902650363904",
+          "start": 0,
+          "username": "BoBoring1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983535921363648877",
+    "in_reply_to_user_id": "1035766902650363904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983186438507348152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoBoring1 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983186426985615360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WxjEfakAAIdkb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983186427052765184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WxjEvbMAAopNS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983186426989817859",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WxjEgasAMb5-e.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1983186438507348152",
+        "created_at": "2025-10-29T14:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983535921363648877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1035766902650363904",
+              "start": 0,
+              "username": "BoBoring1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983535921363648877",
+        "in_reply_to_user_id": "1035766902650363904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983186438507348152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoBoring1 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983186426985615360",
+            "3_1983186427052765184",
+            "3_1983186426989817859"
+          ]
+        },
+        "author_id": "1035766902650363904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1983186438507348152",
+        "created_at": "2025-10-28T14:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983186438507348152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJoP31q9dg",
+              "end": 62,
+              "expanded_url": "https://x.com/BoBoring1/status/1983186438507348152/photo/1",
+              "media_key": "3_1983186426985615360",
+              "start": 39,
+              "url": "https://t.co/nJoP31q9dg"
+            },
+            {
+              "display_url": "pic.x.com/nJoP31q9dg",
+              "end": 62,
+              "expanded_url": "https://x.com/BoBoring1/status/1983186438507348152/photo/1",
+              "media_key": "3_1983186427052765184",
+              "start": 39,
+              "url": "https://t.co/nJoP31q9dg"
+            },
+            {
+              "display_url": "pic.x.com/nJoP31q9dg",
+              "end": 62,
+              "expanded_url": "https://x.com/BoBoring1/status/1983186438507348152/photo/1",
+              "media_key": "3_1983186426989817859",
+              "start": 39,
+              "url": "https://t.co/nJoP31q9dg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983186438507348152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21401,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然又大了一岁，但每年都有朋友陪着一起过。谢谢朋友们的礼物和红包！爱你们！！ https://t.co/nJoP31q9dg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4670,
+          "following_count": 140,
+          "like_count": 3497,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 3160
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-01T05:50:47.000Z",
+        "description": "1、饭盒链接 🔗https://t.co/FxKmwNH4Sj 2、匿名问答🔗 https://t.co/lnnlnld0Vm 希望我爱的人健健康康，开开心心",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boboring1028.fanbox.cc",
+                "end": 31,
+                "expanded_url": "https://boboring1028.fanbox.cc/",
+                "start": 8,
+                "url": "https://t.co/FxKmwNH4Sj"
+              },
+              {
+                "display_url": "ngl.link/boboring1",
+                "end": 63,
+                "expanded_url": "https://ngl.link/boboring1",
+                "start": 40,
+                "url": "https://t.co/lnnlnld0Vm"
+              }
+            ]
+          }
+        },
+        "id": "1035766902650363904",
+        "location": "➕v128，过门槛接定制1min20元（带本），不带30元",
+        "name": "BoBoring",
+        "pinned_tweet_id": "1982828763693158874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979538476941938688/SGZZjWFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16282,
+          "following_count": 1573,
+          "like_count": 28222,
+          "listed_count": 44,
+          "media_count": 433,
+          "tweet_count": 3153
+        },
+        "username": "BoBoring1",
+        "verified": false
+      }
+    ]
+  }
+}

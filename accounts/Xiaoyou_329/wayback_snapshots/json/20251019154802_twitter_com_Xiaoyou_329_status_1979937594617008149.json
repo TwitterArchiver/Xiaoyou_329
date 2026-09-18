@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1979922860719104308",
+    "created_at": "2025-10-19T15:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T16:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979937594617008149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1079425800829431808",
+          "start": 0,
+          "username": "what01987062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979937594617008149",
+    "in_reply_to_user_id": "1079425800829431808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979930620823572899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@what01987062 不抽烟咋整！🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1979922860719104308",
+        "created_at": "2025-10-19T15:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T16:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979937594617008149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1079425800829431808",
+              "start": 0,
+              "username": "what01987062"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979937594617008149",
+        "in_reply_to_user_id": "1079425800829431808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979930620823572899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@what01987062 不抽烟咋整！🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079425800829431808",
+        "conversation_id": "1979922860719104308",
+        "created_at": "2025-10-19T15:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T16:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979930620823572899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979930620823572899",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979922860719104308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 买条华子给他就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3108,
+          "following_count": 135,
+          "like_count": 2978,
+          "listed_count": 3,
+          "media_count": 407,
+          "tweet_count": 2968
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-30T17:15:40.000Z",
+        "description": "",
+        "id": "1079425800829431808",
+        "name": "whatovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660854411588145152/XdzSO7ID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 507,
+          "like_count": 1891,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 608
+        },
+        "username": "what01987062",
+        "verified": false
+      }
+    ]
+  }
+}

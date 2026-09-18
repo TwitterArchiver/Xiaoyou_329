@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1959212300759601558",
+    "created_at": "2025-08-23T16:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T17:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959299590802252286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1946630800377860096",
+          "start": 0,
+          "username": "XingShizi94639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959299590802252286",
+    "in_reply_to_user_id": "1946630800377860096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959298974013071774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XingShizi94639 可以处 可以私信么么哒！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1959212300759601558",
+        "created_at": "2025-08-23T16:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T17:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959299590802252286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1946630800377860096",
+              "start": 0,
+              "username": "XingShizi94639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959299590802252286",
+        "in_reply_to_user_id": "1946630800377860096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959298974013071774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XingShizi94639 可以处 可以私信么么哒！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946630800377860096",
+        "conversation_id": "1959212300759601558",
+        "created_at": "2025-08-23T16:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T17:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959298974013071774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959298974013071774",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959212300759601558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 卧槽闺蜜又发照片勾引😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 73,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 561
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T17:59:03.000Z",
+        "description": "",
+        "id": "1946630800377860096",
+        "name": "星柿子（🍅大王梦女 大哥麻婆豆腐）",
+        "pinned_tweet_id": "1958581429090095145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946630997811863554/SSCrM9OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 203,
+          "like_count": 7100,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 3309
+        },
+        "username": "XingShizi94639",
+        "verified": false
+      }
+    ]
+  }
+}

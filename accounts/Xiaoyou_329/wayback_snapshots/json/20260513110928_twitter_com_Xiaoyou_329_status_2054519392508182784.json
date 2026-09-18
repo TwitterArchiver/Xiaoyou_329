@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2054519392508182784",
+    "created_at": "2026-05-13T11:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054519392508182784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "game.waimai.zone/ac/",
+          "end": 67,
+          "expanded_url": "http://game.waimai.zone/ac/",
+          "start": 44,
+          "status": 200,
+          "title": "朋友圈便携小空调",
+          "unwound_url": "http://game.waimai.zone/ac/",
+          "url": "https://t.co/DXUccPxVfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054519392508182784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "通知：\n由于气温上升，决定从今天起在推特中打开空调\n望周知，谢谢配合。\n已安装\n小空调：https://t.co/DXUccPxVfa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2054519392508182784",
+        "created_at": "2026-05-13T11:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054519392508182784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "game.waimai.zone/ac/",
+              "end": 67,
+              "expanded_url": "http://game.waimai.zone/ac/",
+              "start": 44,
+              "status": 200,
+              "title": "朋友圈便携小空调",
+              "unwound_url": "http://game.waimai.zone/ac/",
+              "url": "https://t.co/DXUccPxVfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054519392508182784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通知：\n由于气温上升，决定从今天起在推特中打开空调\n望周知，谢谢配合。\n已安装\n小空调：https://t.co/DXUccPxVfa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14614,
+          "following_count": 173,
+          "like_count": 7457,
+          "listed_count": 21,
+          "media_count": 840,
+          "tweet_count": 6555
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2054933017555251528",
+    "created_at": "2026-05-14T16:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T17:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054956291676926346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1595030908314169344",
+          "start": 0,
+          "username": "alen521feng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054956291676926346",
+    "in_reply_to_user_id": "1595030908314169344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054936555400339948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alen521feng 我请他。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2054933017555251528",
+        "created_at": "2026-05-14T16:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054956291676926346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1595030908314169344",
+              "start": 0,
+              "username": "alen521feng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054956291676926346",
+        "in_reply_to_user_id": "1595030908314169344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054936555400339948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alen521feng 我请他。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595030908314169344",
+        "conversation_id": "2054933017555251528",
+        "created_at": "2026-05-14T14:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054936555400339948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054936555400339948",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054933017555251528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 谁请谁...？😧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14642,
+          "following_count": 173,
+          "like_count": 7459,
+          "listed_count": 21,
+          "media_count": 841,
+          "tweet_count": 6566
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T12:26:28.000Z",
+        "description": "有人视我如珍宝，有人弃我如草芥...",
+        "id": "1595030908314169344",
+        "location": "🚪520/1314/5200/13140（其实写着玩的）",
+        "name": "布洛芬缓释胶囊",
+        "pinned_tweet_id": "2045184628290687240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044954767605297153/avdiCzZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 3197,
+          "like_count": 25050,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 3272
+        },
+        "username": "alen521feng",
+        "verified": false
+      }
+    ]
+  }
+}

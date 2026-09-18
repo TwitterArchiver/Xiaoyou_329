@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962480451752497555",
+    "created_at": "2025-09-01T11:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T12:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962481294291431666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957369817897619456",
+          "start": 0,
+          "username": "rourou109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962481294291431666",
+    "in_reply_to_user_id": "1957369817897619456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962480451752497555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rourou109 其实我之前也想买水晶来着！但是因为假货很多一直没有去买🫠…等我们番茄牛肉大王学会以后给我安利好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962480451752497555",
+        "created_at": "2025-09-01T11:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962481294291431666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957369817897619456",
+              "start": 0,
+              "username": "rourou109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962481294291431666",
+        "in_reply_to_user_id": "1957369817897619456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962480451752497555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rourou109 其实我之前也想买水晶来着！但是因为假货很多一直没有去买🫠…等我们番茄牛肉大王学会以后给我安利好不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957369817897619456",
+        "conversation_id": "1962480451752497555",
+        "created_at": "2025-09-01T11:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962480451752497555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962480451752497555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关们俺最近在学水晶串珠学会了送你们好不好 （很廉价的玩意 不要嫌弃好不好）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…｜梦想是去一次海边",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 101,
+          "like_count": 902,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1016
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T09:12:09.000Z",
+        "description": "我又变回了枯树 你成了另一棵树的春天",
+        "id": "1957369817897619456",
+        "location": "番茄大王国",
+        "name": "番茄牛肉大王",
+        "pinned_tweet_id": "1962052032992526646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962051089446125568/FkTe8jyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 91,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1127
+        },
+        "username": "rourou109",
+        "verified": false
+      }
+    ]
+  }
+}

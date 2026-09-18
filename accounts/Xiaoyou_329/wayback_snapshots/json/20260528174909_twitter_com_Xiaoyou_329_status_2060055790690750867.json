@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2060044709742133422",
+    "created_at": "2026-05-28T17:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060055790690750867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1808150860045901824",
+          "start": 0,
+          "username": "DOC0867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060055790690750867",
+    "in_reply_to_user_id": "1808150860045901824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060054419295650096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOC0867 因为大晚上我好无聊呀…我就这样听他叽里咕噜说话…然后他自己就不说话了 我就给他删了(´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2060044709742133422",
+        "created_at": "2026-05-28T17:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060055790690750867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1808150860045901824",
+              "start": 0,
+              "username": "DOC0867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060055790690750867",
+        "in_reply_to_user_id": "1808150860045901824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060054419295650096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOC0867 因为大晚上我好无聊呀…我就这样听他叽里咕噜说话…然后他自己就不说话了 我就给他删了(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808150860045901824",
+        "conversation_id": "2060044709742133422",
+        "created_at": "2026-05-28T17:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060054419295650096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060054419295650096",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060044709742133422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 这不删，神了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15225,
+          "following_count": 177,
+          "like_count": 7561,
+          "listed_count": 21,
+          "media_count": 866,
+          "tweet_count": 6696
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T14:50:10.000Z",
+        "description": "lost heart\n我觉得要尽量活着。。。",
+        "id": "1808150860045901824",
+        "location": "Heart",
+        "name": "枫飘",
+        "pinned_tweet_id": "2041125534361587831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808152247299461123/7kpQ_DJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 1332,
+          "like_count": 41503,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 6816
+        },
+        "username": "DOC0867",
+        "verified": false
+      }
+    ]
+  }
+}

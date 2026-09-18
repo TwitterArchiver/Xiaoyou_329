@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979976494987329536"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1979884324037222540",
+    "created_at": "2025-10-19T18:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T19:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979976506064371829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1921920906869497856",
+          "start": 0,
+          "username": "y_28_z_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/crmv5Cc77v",
+          "end": 35,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1979976506064371829/photo/1",
+          "media_key": "3_1979976494987329536",
+          "start": 12,
+          "url": "https://t.co/crmv5Cc77v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979976506064371829",
+    "in_reply_to_user_id": "1921920906869497856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979884324037222540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y_28_z_ 享受 https://t.co/crmv5Cc77v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1979976494987329536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3pKIb9XwAALsk1.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979884316302659584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3n2S7mWUAArAc4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979976494987329536"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979884324037222540",
+        "created_at": "2025-10-19T18:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T19:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979976506064371829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1921920906869497856",
+              "start": 0,
+              "username": "y_28_z_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/crmv5Cc77v",
+              "end": 35,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1979976506064371829/photo/1",
+              "media_key": "3_1979976494987329536",
+              "start": 12,
+              "url": "https://t.co/crmv5Cc77v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979976506064371829",
+        "in_reply_to_user_id": "1921920906869497856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979884324037222540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y_28_z_ 享受 https://t.co/crmv5Cc77v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979884316302659584"
+          ]
+        },
+        "author_id": "1921920906869497856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979884324037222540",
+        "created_at": "2025-10-19T12:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979884324037222540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCiiUgwE8w",
+              "end": 27,
+              "expanded_url": "https://x.com/y_28_z_/status/1979884324037222540/photo/1",
+              "media_key": "3_1979884316302659584",
+              "start": 4,
+              "url": "https://t.co/BCiiUgwE8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979884324037222540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁吃？ https://t.co/BCiiUgwE8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 136,
+          "like_count": 3000,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 2991
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T13:30:40.000Z",
+        "description": "关注看到就赞｜欢迎聊天｜可以加v｜不露脸不露隐私｜匿名➡️https://t.co/3FazKOiQ0L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9B%B6%E4%B…",
+                "end": 52,
+                "expanded_url": "https://ngl.link/%E9%9B%B6%E4%B8%8B",
+                "start": 29,
+                "url": "https://t.co/3FazKOiQ0L"
+              }
+            ]
+          }
+        },
+        "id": "1921920906869497856",
+        "name": "零 下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942560905998524420/PQX0937q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 77,
+          "like_count": 9058,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 777
+        },
+        "username": "y_28_z_",
+        "verified": false
+      }
+    ]
+  }
+}

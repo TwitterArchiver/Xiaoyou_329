@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1998976155865723160",
+    "created_at": "2025-12-11T04:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T05:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998976155865723160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1924196042293288960",
+          "start": 3,
+          "username": "me0vvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998976155865723160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998823118505414839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @me0vvo: 老公爸爸哥哥这三个称呼真的很扫 到了上头的时候我的使用方法就变成两两随机组合使用 希望有人能懂这个爽感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1998976155865723160",
+        "created_at": "2025-12-11T04:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998976155865723160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1924196042293288960",
+              "start": 3,
+              "username": "me0vvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998976155865723160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998823118505414839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @me0vvo: 老公爸爸哥哥这三个称呼真的很扫 到了上头的时候我的使用方法就变成两两随机组合使用 希望有人能懂这个爽感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924196042293288960",
+        "conversation_id": "1998823118505414839",
+        "created_at": "2025-12-10T18:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T19:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998823118505414839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998823118505414839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9187,
+          "like_count": 90,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "老公爸爸哥哥这三个称呼真的很扫 到了上头的时候我的使用方法就变成两两随机组合使用 希望有人能懂这个爽感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注祝你 天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8108,
+          "following_count": 152,
+          "like_count": 5636,
+          "listed_count": 8,
+          "media_count": 547,
+          "tweet_count": 4525
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T20:11:11.000Z",
+        "description": "",
+        "id": "1924196042293288960",
+        "name": "KiTi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924216727681871872/HITxGnw5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2546,
+          "following_count": 0,
+          "like_count": 1880,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 49
+        },
+        "username": "me0vvo",
+        "verified": false
+      }
+    ]
+  }
+}

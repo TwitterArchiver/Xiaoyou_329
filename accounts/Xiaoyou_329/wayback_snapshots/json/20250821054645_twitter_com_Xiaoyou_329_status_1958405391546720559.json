@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1958402718244229222",
+    "created_at": "2025-08-21T05:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T06:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958405391546720559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1951129956609937408",
+          "start": 0,
+          "username": "Miyagiizumi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958405391546720559",
+    "in_reply_to_user_id": "1951129956609937408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958402718244229222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyagiizumi4 我也想。我一直在哭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1958402718244229222",
+        "created_at": "2025-08-21T05:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T06:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958405391546720559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1951129956609937408",
+              "start": 0,
+              "username": "Miyagiizumi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958405391546720559",
+        "in_reply_to_user_id": "1951129956609937408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958402718244229222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyagiizumi4 我也想。我一直在哭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951129956609937408",
+        "conversation_id": "1958402718244229222",
+        "created_at": "2025-08-21T05:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T06:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958402718244229222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958402718244229222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难过到想去找前任复合"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 71,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 462
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T03:56:54.000Z",
+        "description": "前@Miyagiizumi0831 🔞音声 関東 🇨🇳 DM⭕️ 発情期♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "Miyagiizumi0831"
+              }
+            ]
+          }
+        },
+        "id": "1951129956609937408",
+        "location": "東京",
+        "name": "宮城いずみMiyagi4",
+        "pinned_tweet_id": "1951132511679160492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951131027172368385/Gcs_zWGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 41,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 75
+        },
+        "username": "Miyagiizumi4",
+        "verified": false
+      }
+    ]
+  }
+}

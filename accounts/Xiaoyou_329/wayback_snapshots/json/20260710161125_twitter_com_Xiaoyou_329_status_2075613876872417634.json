@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075613859268960257"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2075613876872417634",
+    "created_at": "2026-07-10T16:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075613876872417634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CzVVywhZWj",
+          "end": 57,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2075613876872417634/photo/1",
+          "media_key": "3_2075613859268960257",
+          "start": 34,
+          "url": "https://t.co/CzVVywhZWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075613876872417634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "mua…！是呀嘿嘿 尝试了新风格！🥰🥰我宣布现在你是天使投资人了！ https://t.co/CzVVywhZWj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_2075613859268960257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4PztSaoAEJ2vu.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075613859268960257"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2075613876872417634",
+        "created_at": "2026-07-10T16:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075613876872417634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CzVVywhZWj",
+              "end": 57,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2075613876872417634/photo/1",
+              "media_key": "3_2075613859268960257",
+              "start": 34,
+              "url": "https://t.co/CzVVywhZWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075613876872417634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mua…！是呀嘿嘿 尝试了新风格！🥰🥰我宣布现在你是天使投资人了！ https://t.co/CzVVywhZWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17233,
+          "following_count": 183,
+          "like_count": 7702,
+          "listed_count": 21,
+          "media_count": 954,
+          "tweet_count": 7332
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

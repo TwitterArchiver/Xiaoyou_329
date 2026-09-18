@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1964693137063911424"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1964693578493669861",
+    "created_at": "2025-09-07T14:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T15:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964693578493669861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IjfsBznIsd",
+          "end": 57,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1964693578493669861/video/1",
+          "media_key": "13_1964693137063911424",
+          "start": 34,
+          "url": "https://t.co/IjfsBznIsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964693578493669861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯对！谢谢你们和我玩！\n🐱是谁呀…我感觉应该是猜错了…对不起！！！ https://t.co/IjfsBznIsd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 104651,
+        "height": 1280,
+        "media_key": "13_1964693137063911424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964693137063911424/img/fKFSP01TUXnV4uB-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964693137063911424/vid/avc1/320x690/6Vg5pGbsYFH2oDQq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964693137063911424/vid/avc1/480x1036/johfOy8IeQkzCefE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964693137063911424/vid/avc1/592x1280/mDRvEso3FiTqfjJ8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964693137063911424/pl/9ASw4aKCQOFxfQmu.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964693137063911424"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1964693578493669861",
+        "created_at": "2025-09-07T14:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T15:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964693578493669861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IjfsBznIsd",
+              "end": 57,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1964693578493669861/video/1",
+              "media_key": "13_1964693137063911424",
+              "start": 34,
+              "url": "https://t.co/IjfsBznIsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964693578493669861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯对！谢谢你们和我玩！\n🐱是谁呀…我感觉应该是猜错了…对不起！！！ https://t.co/IjfsBznIsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 103,
+          "like_count": 1118,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 1372
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

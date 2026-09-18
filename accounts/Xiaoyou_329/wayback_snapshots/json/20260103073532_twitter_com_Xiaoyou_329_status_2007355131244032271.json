@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2007353355308544101",
+    "created_at": "2026-01-03T07:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T08:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007355131244032271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999063254015066112",
+          "start": 0,
+          "username": "wobuxingfuTAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007355131244032271",
+    "in_reply_to_user_id": "1999063254015066112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007355080245424157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobuxingfuTAT 我也是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2007353355308544101",
+        "created_at": "2026-01-03T07:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T08:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007355131244032271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999063254015066112",
+              "start": 0,
+              "username": "wobuxingfuTAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007355131244032271",
+        "in_reply_to_user_id": "1999063254015066112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007355080245424157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobuxingfuTAT 我也是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999063254015066112",
+        "conversation_id": "2007353355308544101",
+        "created_at": "2026-01-03T07:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T08:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007355080245424157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007355080245424157",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007354767660712389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 娥好喜欢。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8473,
+          "following_count": 155,
+          "like_count": 5888,
+          "listed_count": 9,
+          "media_count": 572,
+          "tweet_count": 4721
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T10:26:56.000Z",
+        "description": "07｜♒｜INFP｜主页只有碎碎念｜直fo会回有趣的｜sx没回就是没看到｜小元降临你手心^^｜匿名https://t.co/EU7uF81Wbd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ivblune1",
+                "end": 72,
+                "expanded_url": "https://ngl.link/ivblune1",
+                "start": 49,
+                "url": "https://t.co/EU7uF81Wbd"
+              }
+            ]
+          }
+        },
+        "id": "1999063254015066112",
+        "location": "4inluvwithme",
+        "name": "呆呆元",
+        "pinned_tweet_id": "2002443201282781342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004060507125219328/gSR0QdaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 49,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 726
+        },
+        "username": "wobuxingfuTAT",
+        "verified": false
+      }
+    ]
+  }
+}

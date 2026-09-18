@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961961927158218802",
+    "created_at": "2025-08-31T01:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T02:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961965349689073702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1924340032430850048",
+          "start": 0,
+          "username": "Key7055"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961965349689073702",
+    "in_reply_to_user_id": "1924340032430850048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961961927158218802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Key7055 我不同意开学。把我们key还回来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961961927158218802",
+        "created_at": "2025-08-31T01:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T02:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961965349689073702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1924340032430850048",
+              "start": 0,
+              "username": "Key7055"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961965349689073702",
+        "in_reply_to_user_id": "1924340032430850048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961961927158218802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Key7055 我不同意开学。把我们key还回来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924340032430850048",
+        "conversation_id": "1961961927158218802",
+        "created_at": "2025-08-31T01:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T02:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961961927158218802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961961927158218802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苦逼主播已经回学校了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注｜真的不卡泡不要私信了…",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 99,
+          "like_count": 855,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 904
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T05:44:03.000Z",
+        "description": "尝试男喘中 | 直男 | \ni人 | 酒蒙子 | 游戏宅 | 接各种配音/台本录制🚪52好友位\n 匿名📭https://t.co/46radQR6DN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/key61830",
+                "end": 75,
+                "expanded_url": "https://ngl.link/key61830",
+                "start": 52,
+                "url": "https://t.co/46radQR6DN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "key7055.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://key7055.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/9XIHlZe3Aw"
+              }
+            ]
+          }
+        },
+        "id": "1924340032430850048",
+        "location": "饭盒👉🏻",
+        "name": "Key",
+        "pinned_tweet_id": "1941148430661013767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924345091700707328/_RuBSH6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 18,
+          "like_count": 197,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/9XIHlZe3Aw",
+        "username": "Key7055",
+        "verified": false
+      }
+    ]
+  }
+}

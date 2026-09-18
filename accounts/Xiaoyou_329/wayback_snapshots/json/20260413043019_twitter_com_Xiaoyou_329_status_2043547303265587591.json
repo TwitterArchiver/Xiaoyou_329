@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2043516105659183360",
+    "created_at": "2026-04-13T04:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043547303265587591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677579915120525313",
+          "start": 0,
+          "username": "liangmi86063744"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043547303265587591",
+    "in_reply_to_user_id": "1677579915120525313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043544222897516807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangmi86063744 小曲…？TuT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2043516105659183360",
+        "created_at": "2026-04-13T04:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043547303265587591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1677579915120525313",
+              "start": 0,
+              "username": "liangmi86063744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043547303265587591",
+        "in_reply_to_user_id": "1677579915120525313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043544222897516807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangmi86063744 小曲…？TuT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677579915120525313",
+        "conversation_id": "2043516105659183360",
+        "created_at": "2026-04-13T04:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043544222897516807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043544222897516807",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043516105659183360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 好的小曲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13441,
+          "following_count": 162,
+          "like_count": 7437,
+          "listed_count": 19,
+          "media_count": 805,
+          "tweet_count": 6361
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T07:26:47.000Z",
+        "description": "",
+        "id": "1677579915120525313",
+        "name": "两面包夹芝士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042460593333088256/hJWN3J92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 505,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 649
+        },
+        "username": "liangmi86063744",
+        "verified": false
+      }
+    ]
+  }
+}

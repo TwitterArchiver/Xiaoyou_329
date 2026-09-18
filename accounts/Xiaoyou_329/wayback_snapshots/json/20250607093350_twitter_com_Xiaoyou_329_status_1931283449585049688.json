@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1930636355954180120",
+    "created_at": "2025-06-07T09:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T10:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931283449585049688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747245581159051264",
+          "start": 0,
+          "username": "qazwsxplmq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931283449585049688",
+    "in_reply_to_user_id": "1747245581159051264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930636355954180120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qazwsxplmq 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930636344071696385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsr_hqbaMAEboBd.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1930636355954180120",
+        "created_at": "2025-06-07T09:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T10:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931283449585049688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747245581159051264",
+              "start": 0,
+              "username": "qazwsxplmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931283449585049688",
+        "in_reply_to_user_id": "1747245581159051264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930636355954180120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qazwsxplmq 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930636344071696385"
+          ]
+        },
+        "author_id": "1747245581159051264",
+        "conversation_id": "1930636355954180120",
+        "created_at": "2025-06-05T14:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T15:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930636355954180120"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Thl6ngwnjN",
+              "end": 28,
+              "expanded_url": "https://x.com/qazwsxplmq/status/1930636355954180120/photo/1",
+              "media_key": "3_1930636344071696385",
+              "start": 5,
+              "url": "https://t.co/Thl6ngwnjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930636355954180120",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 482,
+          "impression_count": 214346,
+          "like_count": 10193,
+          "quote_count": 141,
+          "reply_count": 105,
+          "retweet_count": 576
+        },
+        "reply_settings": "everyone",
+        "text": "#wlw https://t.co/Thl6ngwnjN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 39,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 73
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T13:13:40.000Z",
+        "description": "no other account 🫘｜🍠同名",
+        "id": "1747245581159051264",
+        "name": "Suolalisix",
+        "pinned_tweet_id": "1930507612182954460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930212605060362243/bl6ogg-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 4,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "qazwsxplmq",
+        "verified": false
+      }
+    ]
+  }
+}

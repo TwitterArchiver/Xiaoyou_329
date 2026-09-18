@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938662653360005120"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1938531514590855617",
+    "created_at": "2025-06-27T18:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T19:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938662665552892049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851514661105254403",
+          "start": 0,
+          "username": "Peanut_2299"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rwamf0bP8g",
+          "end": 46,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1938662665552892049/photo/1",
+          "media_key": "3_1938662653360005120",
+          "start": 23,
+          "url": "https://t.co/rwamf0bP8g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938662665552892049",
+    "in_reply_to_user_id": "1851514661105254403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938531514590855617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Peanut_2299 只有1:16分钟吗 https://t.co/rwamf0bP8g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 987,
+        "media_key": "3_1938662653360005120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GueDaWjW4AAhXAH.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 76350,
+        "height": 960,
+        "media_key": "13_1938531371351490560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938531371351490560/img/IHwzYfV_L-ttyi5F.jpg",
+        "public_metrics": {
+          "view_count": 224
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938531371351490560/vid/avc1/320x426/_T8xJrVwJFxXqlmP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938531371351490560/vid/avc1/480x640/9m4jPrSjydmcehNW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938531371351490560/vid/avc1/720x960/gkC3eqNk7mfoGPOX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938531371351490560/pl/03LUzZ3s3-3l2UM4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938662653360005120"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1938531514590855617",
+        "created_at": "2025-06-27T18:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T19:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938662665552892049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851514661105254403",
+              "start": 0,
+              "username": "Peanut_2299"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rwamf0bP8g",
+              "end": 46,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1938662665552892049/photo/1",
+              "media_key": "3_1938662653360005120",
+              "start": 23,
+              "url": "https://t.co/rwamf0bP8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938662665552892049",
+        "in_reply_to_user_id": "1851514661105254403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938531514590855617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Peanut_2299 只有1:16分钟吗 https://t.co/rwamf0bP8g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938531371351490560"
+          ]
+        },
+        "author_id": "1851514661105254403",
+        "conversation_id": "1938531514590855617",
+        "created_at": "2025-06-27T09:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938531514590855617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "男喘"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "手冲实录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/96A9GRxtZc",
+              "end": 105,
+              "expanded_url": "https://x.com/Peanut_2299/status/1938531514590855617/video/1",
+              "media_key": "13_1938531371351490560",
+              "start": 82,
+              "url": "https://t.co/96A9GRxtZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938531514590855617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 656,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冲刺片段（纯喘版）\n\n为什么睡午觉前刷推  那么困睡着了都能给我in醒  趴着的我就这样跪起来冲了\n\nps：最近为什么总是戴着手串没摘就在冲\n\n#男喘 #手冲实录 https://t.co/96A9GRxtZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 49,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 154
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T06:41:17.000Z",
+        "description": "世路多崎 人海辽阔 匿名https://t.co/bvvTeNDxjC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finger71674",
+                "end": 35,
+                "expanded_url": "https://ngl.link/finger71674",
+                "start": 12,
+                "url": "https://t.co/bvvTeNDxjC"
+              }
+            ]
+          }
+        },
+        "id": "1851514661105254403",
+        "location": "everywhere",
+        "name": "Finger",
+        "pinned_tweet_id": "1938325857103499303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937675611369275393/BRDtbNZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 207,
+          "like_count": 5857,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 765
+        },
+        "username": "Peanut_2299",
+        "verified": false
+      }
+    ]
+  }
+}

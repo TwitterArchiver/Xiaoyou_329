@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999732278948200450"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1999732295993843971",
+    "created_at": "2025-12-13T06:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T07:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999732295993843971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lYy4PDpBTh",
+          "end": 46,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1999732295993843971/photo/1",
+          "media_key": "3_1999732278948200450",
+          "start": 23,
+          "url": "https://t.co/lYy4PDpBTh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999732295993843971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这两个超级好喝…和我心里火鸡面是一个地位了！ https://t.co/lYy4PDpBTh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999732278948200450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8B56aSXAAIkYqa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999732278948200450"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999732295993843971",
+        "created_at": "2025-12-13T06:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999732295993843971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYy4PDpBTh",
+              "end": 46,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1999732295993843971/photo/1",
+              "media_key": "3_1999732278948200450",
+              "start": 23,
+              "url": "https://t.co/lYy4PDpBTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999732295993843971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两个超级好喝…和我心里火鸡面是一个地位了！ https://t.co/lYy4PDpBTh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注祝你 天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8069,
+          "following_count": 151,
+          "like_count": 5686,
+          "listed_count": 8,
+          "media_count": 548,
+          "tweet_count": 4546
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2010586748628475991",
+    "created_at": "2026-01-12T08:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T09:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010629434781647168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1803674898314960896",
+          "start": 0,
+          "username": "ll132345796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010629434781647168",
+    "in_reply_to_user_id": "1803674898314960896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010599185880600637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ll132345796 嗯对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2010586748628475991",
+        "created_at": "2026-01-12T08:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T09:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010629434781647168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1803674898314960896",
+              "start": 0,
+              "username": "ll132345796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010629434781647168",
+        "in_reply_to_user_id": "1803674898314960896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010599185880600637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll132345796 嗯对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803674898314960896",
+        "conversation_id": "2010586748628475991",
+        "created_at": "2026-01-12T06:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T07:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010599185880600637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010599185880600637",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010586748628475991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 声音吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私 不回冒犯性的问题｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9434,
+          "following_count": 156,
+          "like_count": 6182,
+          "listed_count": 13,
+          "media_count": 570,
+          "tweet_count": 4862
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T06:23:14.000Z",
+        "description": "只是一个普通男生的日常碎碎念💦 /欢迎礼貌私信哦🌸 /然后就是祝大家天天开心呀✨ /有时写小狗日记偶尔读文/04/180/ENFP/是异性恋/可以叫我凉凉/世界和平就可以了/ @ttki28259752",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "ttki28259752"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xgll",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xgll",
+                "start": 0,
+                "url": "https://t.co/QqhxoIjXsG"
+              }
+            ]
+          }
+        },
+        "id": "1803674898314960896",
+        "name": "小狗凉凉（困了）",
+        "pinned_tweet_id": "1947693170558661048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004242441730510850/oq7ToMWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 519,
+          "like_count": 84253,
+          "listed_count": 9,
+          "media_count": 975,
+          "tweet_count": 10696
+        },
+        "url": "https://t.co/QqhxoIjXsG",
+        "username": "ll132345796",
+        "verified": false
+      }
+    ]
+  }
+}

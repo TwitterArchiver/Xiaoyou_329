@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1978983502294192590",
+    "created_at": "2025-10-17T14:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T15:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979189908364292319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644694688723779584",
+          "start": 0,
+          "username": "yunyuan0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979189908364292319",
+    "in_reply_to_user_id": "1644694688723779584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978983502294192590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyuan0122 都已经下雪了吗？！好羡慕…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7464,
+        "height": 720,
+        "media_key": "7_1978983463437901824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1978983463437901824/pu/img/UmNmMvQuNEYDixah.jpg",
+        "public_metrics": {
+          "view_count": 2264
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978983463437901824/pu/vid/avc1/480x270/Q6fixiaJwsJ0M6cF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978983463437901824/pu/vid/avc1/640x360/gavaBCowC1LCa1RP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978983463437901824/pu/vid/avc1/1280x720/i9g5GORUfhie0wjO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1978983463437901824/pu/pl/EXhBIaFgLE9Htaa6.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1978983502294192590",
+        "created_at": "2025-10-17T14:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979189908364292319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644694688723779584",
+              "start": 0,
+              "username": "yunyuan0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979189908364292319",
+        "in_reply_to_user_id": "1644694688723779584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978983502294192590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyuan0122 都已经下雪了吗？！好羡慕…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1978983463437901824"
+          ]
+        },
+        "author_id": "1644694688723779584",
+        "conversation_id": "1978983502294192590",
+        "created_at": "2025-10-17T00:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T01:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978983502294192590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XID7yQSAdj",
+              "end": 33,
+              "expanded_url": "https://x.com/yunyuan0122/status/1978983502294192590/video/1",
+              "media_key": "7_1978983463437901824",
+              "start": 10,
+              "url": "https://t.co/XID7yQSAdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978983502294192590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8034,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下雪和我的脑瓜顶！ https://t.co/XID7yQSAdj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2865,
+          "following_count": 131,
+          "like_count": 2885,
+          "listed_count": 3,
+          "media_count": 399,
+          "tweet_count": 2913
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T13:32:41.000Z",
+        "description": "［今日方知我是我］                                             『牛角包』是我的夜灯  绿推  \n后面台本放小号@yanyi0629/\n授权公开但仍需艾特/\n饭盒拿来存歌啦https://t.co/Rss6B004I0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yanyi0629"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yunyuan0122.fanbox.cc",
+                "end": 131,
+                "expanded_url": "https://yunyuan0122.fanbox.cc/",
+                "start": 108,
+                "url": "https://t.co/Rss6B004I0"
+              }
+            ]
+          }
+        },
+        "id": "1644694688723779584",
+        "location": "一个冬天",
+        "name": "予安🥐",
+        "pinned_tweet_id": "1963982521739166082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958862806876585984/RLT89Mje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 179,
+          "like_count": 33150,
+          "listed_count": 7,
+          "media_count": 572,
+          "tweet_count": 8391
+        },
+        "username": "yunyuan0122",
+        "verified": false
+      }
+    ]
+  }
+}

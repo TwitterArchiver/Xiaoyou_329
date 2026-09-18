@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1995713971114918334",
+    "created_at": "2025-12-02T12:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T13:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995837799338312064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1699158937474662402",
+          "start": 0,
+          "username": "xiaoshishi2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995837799338312064",
+    "in_reply_to_user_id": "1699158937474662402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995836437921738963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshishi2003 这种要病例条…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1995713971114918334",
+        "created_at": "2025-12-02T12:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995837799338312064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1699158937474662402",
+              "start": 0,
+              "username": "xiaoshishi2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995837799338312064",
+        "in_reply_to_user_id": "1699158937474662402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995836437921738963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshishi2003 这种要病例条…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699158937474662402",
+        "conversation_id": "1995713971114918334",
+        "created_at": "2025-12-02T12:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995836437921738963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995836437921738963",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995713971114918334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 装病请假回家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7832,
+          "following_count": 158,
+          "like_count": 5309,
+          "listed_count": 7,
+          "media_count": 553,
+          "tweet_count": 4398
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T20:34:07.000Z",
+        "description": "只做自己",
+        "id": "1699158937474662402",
+        "name": "Ayo青椒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995819714195718148/83gdV1wi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 26,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "xiaoshishi2003",
+        "verified": false
+      }
+    ]
+  }
+}

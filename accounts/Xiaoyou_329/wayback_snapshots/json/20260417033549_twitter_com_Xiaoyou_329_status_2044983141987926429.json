@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2044786772333445278",
+    "created_at": "2026-04-17T03:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T04:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044983141987926429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1924157094472843264",
+          "start": 0,
+          "username": "OiocOII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044983141987926429",
+    "in_reply_to_user_id": "1924157094472843264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044943635247206537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OiocOII 诶，其实倒也不完全是啊，我有的时候无聊就开始冲一发就硬冲，然后我很难过的时候我也去冲，因为我不知道我还能干啥，也没有人陪我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2044786772333445278",
+        "created_at": "2026-04-17T03:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044983141987926429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1924157094472843264",
+              "start": 0,
+              "username": "OiocOII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044983141987926429",
+        "in_reply_to_user_id": "1924157094472843264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044943635247206537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OiocOII 诶，其实倒也不完全是啊，我有的时候无聊就开始冲一发就硬冲，然后我很难过的时候我也去冲，因为我不知道我还能干啥，也没有人陪我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924157094472843264",
+        "conversation_id": "2044786772333445278",
+        "created_at": "2026-04-17T00:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T01:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044943635247206537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044943635247206537",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044786772333445278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 可是宝子，你不也是有性欲才会去卡泡滋味啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13448,
+          "following_count": 161,
+          "like_count": 7424,
+          "listed_count": 19,
+          "media_count": 804,
+          "tweet_count": 6369
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T17:36:24.000Z",
+        "description": "",
+        "id": "1924157094472843264",
+        "name": "天气",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966216400160309249/9hfA7HPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 48,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 149
+        },
+        "username": "OiocOII",
+        "verified": false
+      }
+    ]
+  }
+}

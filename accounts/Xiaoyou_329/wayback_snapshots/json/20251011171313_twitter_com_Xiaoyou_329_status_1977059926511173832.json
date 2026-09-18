@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1977059723510993068",
+    "created_at": "2025-10-11T17:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T18:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977059926511173832"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1977059926511173832",
+    "in_reply_to_user_id": "1906360034725961728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977059723510993068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "关评推广自辨 被骗概不负责"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1977059723510993068",
+        "created_at": "2025-10-11T17:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977059926511173832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977059926511173832",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977059723510993068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "关评推广自辨 被骗概不负责"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1977059723510993068",
+        "created_at": "2025-10-11T17:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977059723510993068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "t.me/Xiaoyou329666",
+              "end": 75,
+              "expanded_url": "https://t.me/Xiaoyou329666",
+              "start": 52,
+              "status": 200,
+              "title": "Telegram: Contact @Xiaoyou329666",
+              "unwound_url": "https://t.me/Xiaoyou329666",
+              "url": "https://t.co/R8akmBVuCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977059723510993068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "宝宝们想看福利视频 互动的准备了一些私密视频作为福利，\n分享完整原创性视频照片  看感觉可y\n私人电报：https://t.co/R8akmBVuCI\n暗号：Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜爱搞抽象的普通人 请别打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1975791841409966295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 131,
+          "like_count": 2667,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 2777
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

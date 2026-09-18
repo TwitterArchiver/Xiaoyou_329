@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2071161122695332023",
+    "created_at": "2026-06-28T11:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071188475114930468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052149782463012864",
+          "start": 0,
+          "username": "YxF1413355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071188475114930468",
+    "in_reply_to_user_id": "2052149782463012864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071175401045737577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YxF1413355 我不完全在乎会不会好，我其实更想知道为什么，如果我是生病了我就面对他，而不是一直乱想，家里人也无法理解让我一个劲责备我…去运动或者什么的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2071161122695332023",
+        "created_at": "2026-06-28T11:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071188475114930468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052149782463012864",
+              "start": 0,
+              "username": "YxF1413355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071188475114930468",
+        "in_reply_to_user_id": "2052149782463012864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071175401045737577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YxF1413355 我不完全在乎会不会好，我其实更想知道为什么，如果我是生病了我就面对他，而不是一直乱想，家里人也无法理解让我一个劲责备我…去运动或者什么的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052149782463012864",
+        "conversation_id": "2071161122695332023",
+        "created_at": "2026-06-28T10:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071175401045737577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071175401045737577",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071161122695332023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 想了下还是得补充一下，吃药有用，但是不能让你完全好。只能让你不好不坏的活着。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16819,
+          "following_count": 177,
+          "like_count": 7682,
+          "listed_count": 20,
+          "media_count": 874,
+          "tweet_count": 7046
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T22:13:47.000Z",
+        "description": "",
+        "id": "2052149782463012864",
+        "name": "披萨不准放大酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061427375565664256/LNjjaQJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "YxF1413355",
+        "verified": false
+      }
+    ]
+  }
+}

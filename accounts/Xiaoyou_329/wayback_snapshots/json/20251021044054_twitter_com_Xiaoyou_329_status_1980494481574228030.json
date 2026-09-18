@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1980353938156318933",
+    "created_at": "2025-10-21T04:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T05:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980494481574228030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1363658509619896321",
+          "start": 0,
+          "username": "NChcen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980494481574228030",
+    "in_reply_to_user_id": "1363658509619896321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980353938156318933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NChcen 这期看的我一直哭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1980353938156318933",
+        "created_at": "2025-10-21T04:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T05:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980494481574228030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1363658509619896321",
+              "start": 0,
+              "username": "NChcen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980494481574228030",
+        "in_reply_to_user_id": "1363658509619896321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980353938156318933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NChcen 这期看的我一直哭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363658509619896321",
+        "conversation_id": "1980353938156318933",
+        "created_at": "2025-10-20T19:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T20:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980353938156318933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980353938156318933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1091,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人互动的才叫好友圈，我这应该叫孤儿圈，每天自娱自乐觉得自己老有意思了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3109,
+          "following_count": 138,
+          "like_count": 3067,
+          "listed_count": 3,
+          "media_count": 416,
+          "tweet_count": 3036
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T01:15:11.000Z",
+        "description": "你们想干的事我都不干别问了略略略",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nchcen",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nchcen",
+                "start": 0,
+                "url": "https://t.co/xCCVUt7pJS"
+              }
+            ]
+          }
+        },
+        "id": "1363658509619896321",
+        "location": "🈚️🚪小孩子不懂事乱发的",
+        "name": "NoAndNo",
+        "pinned_tweet_id": "1972484309958418506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974809892654546945/Tja-g8SI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 92,
+          "like_count": 2345,
+          "listed_count": 9,
+          "media_count": 160,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/xCCVUt7pJS",
+        "username": "NChcen",
+        "verified": false
+      }
+    ]
+  }
+}

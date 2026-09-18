@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1973771651759354223",
+    "created_at": "2025-10-03T00:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T01:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973911352453575008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894531140733878272",
+          "start": 0,
+          "username": "fanbufan00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973911352453575008",
+    "in_reply_to_user_id": "1894531140733878272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973876809847747065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanbufan00 就是青年音 但是我想听那种中气很足 一听就是直男那种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1973771651759354223",
+        "created_at": "2025-10-03T00:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T01:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973911352453575008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894531140733878272",
+              "start": 0,
+              "username": "fanbufan00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973911352453575008",
+        "in_reply_to_user_id": "1894531140733878272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973876809847747065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanbufan00 就是青年音 但是我想听那种中气很足 一听就是直男那种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894531140733878272",
+        "conversation_id": "1973771651759354223",
+        "created_at": "2025-10-02T22:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T23:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973876809847747065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973876809847747065",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973771651759354223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 现在怎么又多了个青年直男音？不懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 127,
+          "like_count": 2236,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 2524
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T23:33:37.000Z",
+        "description": "1i=4i  Switch  00年  180cm    75kg                                             \n匿名箱：https://t.co/Vy8ECE4AMX\n                                \n小号不定时掉落凡自认为的自拍涩图",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fanbufan00",
+                "end": 106,
+                "expanded_url": "https://ngl.link/fanbufan00",
+                "start": 83,
+                "url": "https://t.co/Vy8ECE4AMX"
+              }
+            ]
+          }
+        },
+        "id": "1894531140733878272",
+        "name": "凡躁",
+        "pinned_tweet_id": "1970267497875272152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967634822517641216/A8dYZNr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 217,
+          "like_count": 9656,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 686
+        },
+        "username": "fanbufan00",
+        "verified": false
+      }
+    ]
+  }
+}

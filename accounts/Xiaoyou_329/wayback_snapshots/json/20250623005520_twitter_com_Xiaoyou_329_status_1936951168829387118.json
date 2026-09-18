@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1936774147876823126",
+    "created_at": "2025-06-23T00:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T01:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936951168829387118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680223572382429185",
+          "start": 0,
+          "username": "__huahuahua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936951168829387118",
+    "in_reply_to_user_id": "1680223572382429185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936803507610501438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__huahuahua 逃脱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1936774147876823126",
+        "created_at": "2025-06-23T00:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T01:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936951168829387118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680223572382429185",
+              "start": 0,
+              "username": "__huahuahua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936951168829387118",
+        "in_reply_to_user_id": "1680223572382429185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936803507610501438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__huahuahua 逃脱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680223572382429185",
+        "conversation_id": "1936774147876823126",
+        "created_at": "2025-06-22T15:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T16:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936803507610501438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936803507610501438",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936774147876823126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 蹲蹲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 45,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 101
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T14:31:41.000Z",
+        "description": "讨厌没礼貌的人 不爱回消息除非你很有趣or有好看的肌肉",
+        "id": "1680223572382429185",
+        "name": "h",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731690106849722369/iYOXfRNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 24,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 45
+        },
+        "username": "__huahuahua",
+        "verified": false
+      }
+    ]
+  }
+}

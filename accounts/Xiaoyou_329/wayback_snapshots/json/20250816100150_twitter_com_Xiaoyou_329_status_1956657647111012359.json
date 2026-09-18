@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1956655190162993395",
+    "created_at": "2025-08-16T10:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T11:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956657647111012359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955585373578600448",
+          "start": 0,
+          "username": "ybz1195822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956657647111012359",
+    "in_reply_to_user_id": "1955585373578600448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956656975800143990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ybz1195822 谢谢你…但是我被这个事情困扰很久了…陷入这个情绪我就很难好起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1956655190162993395",
+        "created_at": "2025-08-16T10:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T11:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956657647111012359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955585373578600448",
+              "start": 0,
+              "username": "ybz1195822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956657647111012359",
+        "in_reply_to_user_id": "1955585373578600448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956656975800143990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ybz1195822 谢谢你…但是我被这个事情困扰很久了…陷入这个情绪我就很难好起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955585373578600448",
+        "conversation_id": "1956655190162993395",
+        "created_at": "2025-08-16T09:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T10:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956656975800143990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956656975800143990",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956655190162993395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 有时候就在想，如果我能丑一点，也许我就遇见真爱了，感觉现在的人都是馋我的帅脸\n（开个玩笑，让你乐乐，开心开心）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)不约炮…会回私信…骚扰就算了除非你身材我真的很喜欢 喜欢发一些身材照…",
+        "id": "1906360034725961728",
+        "name": "一只小由饼",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 64,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 265
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T11:02:07.000Z",
+        "description": "",
+        "id": "1955585373578600448",
+        "location": "American ",
+        "name": "真爽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956045930798702596/dDvWXr0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "ybz1195822",
+        "verified": false
+      }
+    ]
+  }
+}

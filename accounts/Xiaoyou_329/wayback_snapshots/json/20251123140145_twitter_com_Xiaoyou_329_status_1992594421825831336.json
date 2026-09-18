@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1992591535054159978",
+    "created_at": "2025-11-23T14:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T15:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992594421825831336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845323058556567554",
+          "start": 0,
+          "username": "JM7NT1oUDH99807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992594421825831336",
+    "in_reply_to_user_id": "1845323058556567554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992594243060371703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JM7NT1oUDH99807 额！我朋友圈复制的文案。！我不行了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1992591535054159978",
+        "created_at": "2025-11-23T14:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992594421825831336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845323058556567554",
+              "start": 0,
+              "username": "JM7NT1oUDH99807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992594421825831336",
+        "in_reply_to_user_id": "1845323058556567554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992594243060371703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JM7NT1oUDH99807 额！我朋友圈复制的文案。！我不行了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845323058556567554",
+        "conversation_id": "1992591535054159978",
+        "created_at": "2025-11-23T14:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992594243060371703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992594243060371703",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992591535054159978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 反了吧，不应该是0/1吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7179,
+          "following_count": 152,
+          "like_count": 5026,
+          "listed_count": 5,
+          "media_count": 518,
+          "tweet_count": 4107
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T04:38:04.000Z",
+        "description": "就像能闭气一分钟的人在水下待了一分钟后想透出水面换气时被人强行按了下去一样窒息和压抑。",
+        "id": "1845323058556567554",
+        "location": "江苏",
+        "name": "自来也",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965209273878843392/OcrA0WVP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 278,
+          "like_count": 2132,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1042
+        },
+        "username": "JM7NT1oUDH99807",
+        "verified": false
+      }
+    ]
+  }
+}

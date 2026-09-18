@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2040396642013139427",
+    "created_at": "2026-04-04T11:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040396642013139427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shaoyunqing666…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/shaoyunqing666/status/2040315228114784404",
+          "start": 28,
+          "url": "https://t.co/BykRlP3WSG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040396642013139427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040315228114784404",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天就这样做梦。梦想是找一个社交孤儿类型的网恋对象。 https://t.co/BykRlP3WSG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2040396642013139427",
+        "created_at": "2026-04-04T11:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040396642013139427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shaoyunqing666…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/shaoyunqing666/status/2040315228114784404",
+              "start": 28,
+              "url": "https://t.co/BykRlP3WSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040396642013139427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040315228114784404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天就这样做梦。梦想是找一个社交孤儿类型的网恋对象。 https://t.co/BykRlP3WSG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030621111512391680",
+        "conversation_id": "2040195480412619166",
+        "created_at": "2026-04-04T06:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040315228114784404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1965931731988664320",
+              "start": 0,
+              "username": "sxspuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040315228114784404",
+        "in_reply_to_user_id": "1965931731988664320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040195480412619166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxspuppy 网恋应该是两个孤独的心抱团取暖...不是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13513,
+          "following_count": 164,
+          "like_count": 7378,
+          "listed_count": 20,
+          "media_count": 785,
+          "tweet_count": 6269
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T12:26:24.000Z",
+        "description": "拜托拜托，我想找友好的人聊天\n推文中的“她”是很多个不同的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qq1962192733.com",
+                "end": 23,
+                "expanded_url": "http://qq1962192733.com",
+                "start": 0,
+                "url": "https://t.co/Sr2qB1HEXY"
+              }
+            ]
+          }
+        },
+        "id": "2030621111512391680",
+        "name": "邵云清",
+        "pinned_tweet_id": "2035799792899743850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035793956848779264/7n2Mpuoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 40,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/Sr2qB1HEXY",
+        "username": "shaoyunqing666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2072900850645864647",
+    "created_at": "2026-07-03T09:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072979192942395809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2072196777785323521",
+          "start": 0,
+          "username": "ofxcby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072979192942395809",
+    "in_reply_to_user_id": "2072196777785323521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072967663639470508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ofxcby 我妈妈还好。我妈妈不介意这个。她叫我用完记得洗干净。。但是我姥爷年纪有点大了呀我好崩溃。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2072900850645864647",
+        "created_at": "2026-07-03T09:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072979192942395809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2072196777785323521",
+              "start": 0,
+              "username": "ofxcby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072979192942395809",
+        "in_reply_to_user_id": "2072196777785323521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072967663639470508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ofxcby 我妈妈还好。我妈妈不介意这个。她叫我用完记得洗干净。。但是我姥爷年纪有点大了呀我好崩溃。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072196777785323521",
+        "conversation_id": "2072900850645864647",
+        "created_at": "2026-07-03T08:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072967663639470508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072967663639470508",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072900850645864647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我妈昨天拿着我的小玩具问我这什么东西。我也好崩溃。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17007,
+          "following_count": 179,
+          "like_count": 7686,
+          "listed_count": 20,
+          "media_count": 897,
+          "tweet_count": 7143
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T05:54:18.000Z",
+        "description": "",
+        "id": "2072196777785323521",
+        "name": "让我感受你的泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072197323128713216/1T7EMIlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "ofxcby",
+        "verified": false
+      }
+    ]
+  }
+}

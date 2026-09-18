@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2061863198459039824",
+    "created_at": "2026-06-02T22:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T23:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061945260071395449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725957234654392320",
+          "start": 0,
+          "username": "chinaopk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061945260071395449",
+    "in_reply_to_user_id": "1725957234654392320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061869896280010871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chinaopk 申请前提是青受音。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2061863198459039824",
+        "created_at": "2026-06-02T22:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061945260071395449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725957234654392320",
+              "start": 0,
+              "username": "chinaopk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061945260071395449",
+        "in_reply_to_user_id": "1725957234654392320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061869896280010871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chinaopk 申请前提是青受音。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725957234654392320",
+        "conversation_id": "2061863198459039824",
+        "created_at": "2026-06-02T17:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061869896280010871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061869896280010871",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061863198459039824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 礼貌申请哥哥的位置"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15380,
+          "following_count": 177,
+          "like_count": 7570,
+          "listed_count": 20,
+          "media_count": 875,
+          "tweet_count": 6731
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T19:20:56.000Z",
+        "description": "焦虑患者",
+        "id": "1725957234654392320",
+        "name": "净",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808612711854411777/DMJVmAfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 10,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 304
+        },
+        "username": "chinaopk",
+        "verified": false
+      }
+    ]
+  }
+}

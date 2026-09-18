@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1996955071431561714",
+    "created_at": "2025-12-05T14:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T15:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996955071431561714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1906360034725961728",
+          "start": 3,
+          "username": "Xiaoyou_329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996955071431561714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994069759596359850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaoyou_329: 额啊啊啊我要说多少次我没有🚪没有🚪我刚才还发帖说自己没有🚪。我收🚪的时候咋没这么多人来问。那个8r是网上一个抽象文案。谢谢。别私信问我🚪多少了。喜欢我能不能直接不计回报的给我打钱投喂我。谢谢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996955071431561714",
+        "created_at": "2025-12-05T14:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T15:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996955071431561714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1906360034725961728",
+              "start": 3,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996955071431561714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994069759596359850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaoyou_329: 额啊啊啊我要说多少次我没有🚪没有🚪我刚才还发帖说自己没有🚪。我收🚪的时候咋没这么多人来问。那个8r是网上一个抽象文案。谢谢。别私信问我🚪多少了。喜欢我能不能直接不计回报的给我打钱投喂我。谢谢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1994069759596359850",
+        "created_at": "2025-11-27T15:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994069759596359850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994069759596359850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12574,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "额啊啊啊我要说多少次我没有🚪没有🚪我刚才还发帖说自己没有🚪。我收🚪的时候咋没这么多人来问。那个8r是网上一个抽象文案。谢谢。别私信问我🚪多少了。喜欢我能不能直接不计回报的给我打钱投喂我。谢谢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜感谢关注祝你 天天开心！｜诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8014,
+          "following_count": 157,
+          "like_count": 5495,
+          "listed_count": 8,
+          "media_count": 530,
+          "tweet_count": 4390
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1964986849593889236",
+    "created_at": "2025-09-08T09:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T10:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964987571987235202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1068461866576371714",
+          "start": 0,
+          "username": "Cherry_07_23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964987571987235202",
+    "in_reply_to_user_id": "1068461866576371714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964986849593889236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cherry_07_23 好厉害呀宝宝…！看起来好有力量感！俺们咪咪大王表情管理就这么厉害！就这么萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56833,
+        "height": 1280,
+        "media_key": "7_1964986660900233216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1964986660900233216/pu/img/LN3XacpZg2bX6xWl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964986660900233216/pu/vid/avc1/320x568/UuozuEW_by5d08DK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964986660900233216/pu/vid/avc1/480x852/TyJWz1mbCcZEOEoK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964986660900233216/pu/vid/avc1/720x1280/05oIjr7qgvKTPoOq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1964986660900233216/pu/pl/NmffSvQChoxWjQQB.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1964986849593889236",
+        "created_at": "2025-09-08T09:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T10:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964987571987235202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1068461866576371714",
+              "start": 0,
+              "username": "Cherry_07_23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964987571987235202",
+        "in_reply_to_user_id": "1068461866576371714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964986849593889236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cherry_07_23 好厉害呀宝宝…！看起来好有力量感！俺们咪咪大王表情管理就这么厉害！就这么萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1964986660900233216"
+          ]
+        },
+        "author_id": "1068461866576371714",
+        "conversation_id": "1964986849593889236",
+        "created_at": "2025-09-08T09:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T10:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964986849593889236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IyVHDhMHh7",
+              "end": 58,
+              "expanded_url": "https://x.com/Cherry_07_23/status/1964986849593889236/video/1",
+              "media_key": "7_1964986660900233216",
+              "start": 35,
+              "url": "https://t.co/IyVHDhMHh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964986849593889236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俺也想当richman啊！ 这个靴子真好看嘿嘿 腿看起来pang长！ https://t.co/IyVHDhMHh7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 104,
+          "like_count": 1173,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 1434
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-30T11:08:54.000Z",
+        "description": "碎碎碎碎念\n你会喜欢咪吗？",
+        "id": "1068461866576371714",
+        "location": "流浪中",
+        "name": "咪咪大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959641982633959424/fbphD5Lr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 142,
+          "like_count": 676,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 208
+        },
+        "username": "Cherry_07_23",
+        "verified": false
+      }
+    ]
+  }
+}

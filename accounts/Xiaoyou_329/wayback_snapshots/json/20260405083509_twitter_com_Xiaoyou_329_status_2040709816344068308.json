@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2040709733657550848"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2040709816344068308",
+    "created_at": "2026-04-05T08:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040709816344068308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nor0Bblf4o",
+          "end": 29,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2040709816344068308/video/1",
+          "media_key": "13_2040709733657550848",
+          "start": 6,
+          "url": "https://t.co/nor0Bblf4o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040709816344068308",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美猴王…！ https://t.co/nor0Bblf4o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3066,
+        "height": 960,
+        "media_key": "13_2040709733657550848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040709733657550848/img/tA1py2pb0-IpR_ns.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040709733657550848/vid/avc1/320x426/ZrO5wX5egjC31vHs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040709733657550848/vid/avc1/480x640/qaJZxZbHdWUI47zu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040709733657550848/vid/avc1/720x960/85nOqjMi8kkHldml.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040709733657550848/pl/Jiw-QOiiUGf7Qry3.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040709733657550848"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2040709816344068308",
+        "created_at": "2026-04-05T08:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040709816344068308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nor0Bblf4o",
+              "end": 29,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2040709816344068308/video/1",
+              "media_key": "13_2040709733657550848",
+              "start": 6,
+              "url": "https://t.co/nor0Bblf4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040709816344068308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美猴王…！ https://t.co/nor0Bblf4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13549,
+          "following_count": 163,
+          "like_count": 7378,
+          "listed_count": 20,
+          "media_count": 790,
+          "tweet_count": 6280
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2031238776127651861",
+    "created_at": "2026-03-10T10:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T11:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031311126193926608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1146977999222444034",
+          "start": 0,
+          "username": "ikors1264"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031311126193926608",
+    "in_reply_to_user_id": "1146977999222444034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031299744644149589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikors1264 我刷到这个副作用了。所以我问有没有一点体面的办法。TvT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2031238776127651861",
+        "created_at": "2026-03-10T10:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031311126193926608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1146977999222444034",
+              "start": 0,
+              "username": "ikors1264"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031311126193926608",
+        "in_reply_to_user_id": "1146977999222444034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031299744644149589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikors1264 我刷到这个副作用了。所以我问有没有一点体面的办法。TvT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1146977999222444034",
+        "conversation_id": "2031238776127651861",
+        "created_at": "2026-03-10T09:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T10:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031299744644149589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031299744644149589",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031238776127651861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 奥利司他吃下去你就不再是凡人，你要凝神静气注意好任何一个屁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13185,
+          "following_count": 162,
+          "like_count": 6995,
+          "listed_count": 19,
+          "media_count": 728,
+          "tweet_count": 5877
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-05T03:03:59.000Z",
+        "description": "",
+        "id": "1146977999222444034",
+        "name": "Edward1264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1318613281368535040/CK6kZSh1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 87,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 222
+        },
+        "username": "ikors1264",
+        "verified": false
+      }
+    ]
+  }
+}

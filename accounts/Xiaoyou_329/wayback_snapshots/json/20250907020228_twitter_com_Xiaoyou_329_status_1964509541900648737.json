@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964509515178512384"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1964506705536209283",
+    "created_at": "2025-09-07T02:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T03:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964509541900648737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904949484783841280",
+          "start": 0,
+          "username": "fuzhuovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YSLY68VfFK",
+          "end": 46,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1964509541900648737/photo/1",
+          "media_key": "3_1964509515178512384",
+          "start": 23,
+          "url": "https://t.co/YSLY68VfFK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964509541900648737",
+    "in_reply_to_user_id": "1904949484783841280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964506705536209283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuzhuovo 等待～我随时随地在等待～ https://t.co/YSLY68VfFK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_1964509515178512384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0NW_uIXEAAPAaD.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1457,
+        "media_key": "3_1964506698942644225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0NUby1aAAEACYr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964509515178512384"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1964506705536209283",
+        "created_at": "2025-09-07T02:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T03:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964509541900648737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904949484783841280",
+              "start": 0,
+              "username": "fuzhuovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSLY68VfFK",
+              "end": 46,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1964509541900648737/photo/1",
+              "media_key": "3_1964509515178512384",
+              "start": 23,
+              "url": "https://t.co/YSLY68VfFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964509541900648737",
+        "in_reply_to_user_id": "1904949484783841280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964506705536209283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuzhuovo 等待～我随时随地在等待～ https://t.co/YSLY68VfFK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964506698942644225"
+          ]
+        },
+        "author_id": "1904949484783841280",
+        "conversation_id": "1964506705536209283",
+        "created_at": "2025-09-07T01:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T02:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964506705536209283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufn4J9qdM3",
+              "end": 43,
+              "expanded_url": "https://x.com/fuzhuovo/status/1964506705536209283/photo/1",
+              "media_key": "3_1964506698942644225",
+              "start": 20,
+              "url": "https://t.co/ufn4J9qdM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964506705536209283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的饭已经做好了，但是下午6点放饭😼 https://t.co/ufn4J9qdM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 102,
+          "like_count": 1090,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1346
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T17:32:15.000Z",
+        "description": "男同点赞评论转发关注我的一辈子开不了张！！！\n🤗请叫我腐竹，谢谢你们喜欢我，台本中的角色终究不是我🫶请对我祛魅😌。台本纯享👉@fuzhuyami\n我是看黄男😼\n(po一下属性185/74.15/15.1，1iswitch＞4i）\n欢迎提问👉 https://t.co/WL2eFEN50Z",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fuzhuyami"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/flowerz28684",
+                "end": 144,
+                "expanded_url": "http://ngl.link/flowerz28684",
+                "start": 121,
+                "url": "https://t.co/WL2eFEN50Z"
+              }
+            ]
+          }
+        },
+        "id": "1904949484783841280",
+        "name": "😼腐竹大王",
+        "pinned_tweet_id": "1964272876808523819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962567126755221504/UpYzGaKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 672,
+          "like_count": 12394,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2513
+        },
+        "username": "fuzhuovo",
+        "verified": false
+      }
+    ]
+  }
+}

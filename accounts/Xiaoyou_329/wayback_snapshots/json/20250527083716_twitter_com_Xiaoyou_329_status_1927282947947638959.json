@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1927271527130542576",
+    "created_at": "2025-05-27T08:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T09:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927282947947638959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766791677598216192",
+          "start": 0,
+          "username": "bibabupaopO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927282947947638959",
+    "in_reply_to_user_id": "1766791677598216192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927271527130542576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibabupaopO 妈咪我想看…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1927271527130542576",
+        "created_at": "2025-05-27T08:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T09:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927282947947638959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766791677598216192",
+              "start": 0,
+              "username": "bibabupaopO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927282947947638959",
+        "in_reply_to_user_id": "1766791677598216192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927271527130542576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibabupaopO 妈咪我想看…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766791677598216192",
+        "conversation_id": "1927271527130542576",
+        "created_at": "2025-05-27T07:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T08:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927271527130542576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927271527130542576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 738,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实真的很想写一些人外哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 35,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 55
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T11:43:02.000Z",
+        "description": "随机生成⚠️乙女向⚠️小片段，骨科含量极高，一切仅是用来自娱自乐的恶俗幻想。内容🚫搬运🚫改写🚫扩写🚫道德审判，代入自己和梦角🆗，婉拒代入其他任何，赛博xp和现实没有任何联系望周知！其他平台没有号。",
+        "id": "1766791677598216192",
+        "name": "⑥77（🚫搬）",
+        "pinned_tweet_id": "1918640323049206266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926323453130420224/i6cwWU3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48561,
+          "following_count": 350,
+          "like_count": 214,
+          "listed_count": 31,
+          "media_count": 26,
+          "tweet_count": 1327
+        },
+        "username": "bibabupaopO",
+        "verified": false
+      }
+    ]
+  }
+}

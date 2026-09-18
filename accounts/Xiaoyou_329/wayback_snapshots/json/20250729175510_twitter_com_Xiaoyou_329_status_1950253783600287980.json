@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1949855170948423897",
+    "created_at": "2025-07-29T17:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T18:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950253783600287980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1081383751450537985",
+          "start": 0,
+          "username": "kanqilaibushuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950253783600287980",
+    "in_reply_to_user_id": "1081383751450537985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950193808546660762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanqilaibushuai 🥺😖！抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1949855170948423897",
+        "created_at": "2025-07-29T17:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T18:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950253783600287980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1081383751450537985",
+              "start": 0,
+              "username": "kanqilaibushuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950253783600287980",
+        "in_reply_to_user_id": "1081383751450537985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950193808546660762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanqilaibushuai 🥺😖！抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1081383751450537985",
+        "conversation_id": "1949855170948423897",
+        "created_at": "2025-07-29T13:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T14:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950193808546660762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950193808546660762",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950190032934797544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 61,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 205
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T02:55:52.000Z",
+        "description": "想我了就把手伸下去 告诉自己这是最后一次 （ 本子是本子，我是我 “你所爱的男性角色其实都是女性作者的灵魂”     ，，匿名提问：https://t.co/u6WkPhXYqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanqilaibushuai",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kanqilaibushuai",
+                "start": 66,
+                "url": "https://t.co/u6WkPhXYqG"
+              }
+            ]
+          }
+        },
+        "id": "1081383751450537985",
+        "location": "小孩那桌",
+        "name": "老浣熊",
+        "pinned_tweet_id": "1822551190820811052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630593808311398400/OfFYhzBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32224,
+          "following_count": 206,
+          "like_count": 16340,
+          "listed_count": 69,
+          "media_count": 322,
+          "tweet_count": 7496
+        },
+        "username": "kanqilaibushuai",
+        "verified": false
+      }
+    ]
+  }
+}

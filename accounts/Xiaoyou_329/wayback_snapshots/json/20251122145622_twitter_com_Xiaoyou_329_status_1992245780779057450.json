@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1992195002684870946",
+    "created_at": "2025-11-22T14:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T15:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992245780779057450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1342451285769945089",
+          "start": 0,
+          "username": "AugustRbin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992245780779057450",
+    "in_reply_to_user_id": "1342451285769945089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992243547337322668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AugustRbin 因为我已经刷到很多声音好听的河南人了蒽对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1992195002684870946",
+        "created_at": "2025-11-22T14:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992245780779057450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1342451285769945089",
+              "start": 0,
+              "username": "AugustRbin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992245780779057450",
+        "in_reply_to_user_id": "1342451285769945089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992243547337322668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AugustRbin 因为我已经刷到很多声音好听的河南人了蒽对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342451285769945089",
+        "conversation_id": "1992195002684870946",
+        "created_at": "2025-11-22T14:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992243547337322668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992243547337322668",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992195002684870946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 为什么要找我们河南的，ps：可以一起王者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7170,
+          "following_count": 152,
+          "like_count": 4939,
+          "listed_count": 5,
+          "media_count": 507,
+          "tweet_count": 4033
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-25T12:45:28.000Z",
+        "description": "努力努力再努力",
+        "id": "1342451285769945089",
+        "location": "Henan",
+        "name": "明月",
+        "pinned_tweet_id": "1810550876244992433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1387948991178940416/uRx0pDWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 391,
+          "like_count": 110,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 71
+        },
+        "username": "AugustRbin",
+        "verified": false
+      }
+    ]
+  }
+}

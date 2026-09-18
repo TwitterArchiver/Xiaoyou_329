@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1970512275158245585",
+    "created_at": "2025-09-25T10:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T11:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971154888156655847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1731670068189114368",
+          "start": 0,
+          "username": "Ride_0209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971154888156655847",
+    "in_reply_to_user_id": "1731670068189114368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970512275158245585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ride_0209 宝宝你咋这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1970512125945880589",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1iqVpyaoA0UHw2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1970512275158245585",
+        "created_at": "2025-09-25T10:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T11:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971154888156655847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1731670068189114368",
+              "start": 0,
+              "username": "Ride_0209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971154888156655847",
+        "in_reply_to_user_id": "1731670068189114368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970512275158245585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ride_0209 宝宝你咋这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970512125945880589"
+          ]
+        },
+        "author_id": "1731670068189114368",
+        "conversation_id": "1970512275158245585",
+        "created_at": "2025-09-23T15:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T16:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970512275158245585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIsMI5tfZc",
+              "end": 23,
+              "expanded_url": "https://x.com/Oori_Tvv/status/1970512275158245585/photo/1",
+              "media_key": "3_1970512125945880589",
+              "start": 0,
+              "url": "https://t.co/NIsMI5tfZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970512275158245585",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NIsMI5tfZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 122,
+          "like_count": 1935,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 2319
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "喜歡聰明的人。EN/JP/CN｜尖酸刻薄｜不鍵政｜DM無視｜ENTP-T｜ボカロ｜精神疾患｜負能量爆表｜阿斯伯格｜低素質｜重度憂鬱｜重度焦慮｜輕躁狂｜精分｜討口子｜玻璃心｜低齡兒｜自殘｜賣慘｜ADHD｜生性不討喜｜",
+        "id": "1731670068189114368",
+        "location": "東京 新宿区",
+        "name": "理德",
+        "pinned_tweet_id": "1967636798655565988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970126883414257664/v6DRMaGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 570,
+          "like_count": 60480,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 6315
+        },
+        "username": "Ride_0209",
+        "verified": false
+      }
+    ]
+  }
+}

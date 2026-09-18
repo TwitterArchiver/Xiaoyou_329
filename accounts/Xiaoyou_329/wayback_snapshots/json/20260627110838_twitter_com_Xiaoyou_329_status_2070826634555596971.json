@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070806417121141033",
+    "created_at": "2026-06-27T11:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070826634555596971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1729076818337316864",
+          "start": 0,
+          "username": "Sat_is_my_mummy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070826634555596971",
+    "in_reply_to_user_id": "1729076818337316864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070816443365826965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sat_is_my_mummy 我不太会穿搭呀…我朋友一直吐槽我是小学生穿搭…但是这样穿好舒服呀！短袖和长裤（≧∇≦）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070806417121141033",
+        "created_at": "2026-06-27T11:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070826634555596971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1729076818337316864",
+              "start": 0,
+              "username": "Sat_is_my_mummy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070826634555596971",
+        "in_reply_to_user_id": "1729076818337316864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070816443365826965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sat_is_my_mummy 我不太会穿搭呀…我朋友一直吐槽我是小学生穿搭…但是这样穿好舒服呀！短袖和长裤（≧∇≦）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729076818337316864",
+        "conversation_id": "2070806417121141033",
+        "created_at": "2026-06-27T10:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070816443365826965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070816443365826965",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070806417121141033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 主播穿得好小孩子的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15802,
+          "following_count": 178,
+          "like_count": 7680,
+          "listed_count": 20,
+          "media_count": 866,
+          "tweet_count": 6993
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T09:57:08.000Z",
+        "description": "库存的王😎✌当朋友圈发\n无门不出任何物品不收任何钱财不用这个号赚钱\n高p次抛脸，线下查无此人。\n关注&有礼貌的会回。",
+        "id": "1729076818337316864",
+        "location": "moon",
+        "name": "袜子一直在摸我的脚",
+        "pinned_tweet_id": "2013679902378402267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058571413544747008/onpPHEi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14923,
+          "following_count": 473,
+          "like_count": 6261,
+          "listed_count": 38,
+          "media_count": 201,
+          "tweet_count": 1324
+        },
+        "url": "",
+        "username": "Sat_is_my_mummy",
+        "verified": false
+      }
+    ]
+  }
+}

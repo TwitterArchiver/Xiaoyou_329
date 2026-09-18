@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957816115788492800"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957814167924273393",
+    "created_at": "2025-08-19T14:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T15:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957816122897575940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1951129956609937408",
+          "start": 0,
+          "username": "Miyagiizumi4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XITvf2nEhe",
+          "end": 163,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1957816122897575940/photo/1",
+          "media_key": "3_1957816115788492800",
+          "start": 140,
+          "url": "https://t.co/XITvf2nEhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957816122897575940",
+    "in_reply_to_user_id": "1951129956609937408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957814167924273393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyagiizumi4 救命吧宝宝我要一直缠着你。我想了半天的漂亮话发现最漂亮的是你🤓☝️宝宝感觉最近我们之间的关系有点冷了，你说话能稍微一点吗？这样应该会重新热起来！🥺我一定要谈到一个像你一样的宝宝呀，就算是猪我也认了🙀我不行了，我已经被这个视频迷得晕头转向了。快哉快哉！ https://t.co/XITvf2nEhe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_1957816115788492800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyuPYmUbsAAzhXF.jpg",
+        "width": 1136
+      },
+      {
+        "duration_ms": 20603,
+        "height": 590,
+        "media_key": "13_1957814089885052930",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957814089885052930/img/WtCQVsLavJsNzgJr.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957814089885052930/vid/avc1/584x270/YKrTIzgQ3t6q_D0v.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957814089885052930/vid/avc1/780x360/k_21Bkoii4K0PrLO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957814089885052930/vid/avc1/1280x590/6mF0b4DlI0xMoWg5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957814089885052930/pl/7myBmhDEW0nl2TKw.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957816115788492800"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1957814167924273393",
+        "created_at": "2025-08-19T14:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T15:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957816122897575940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1951129956609937408",
+              "start": 0,
+              "username": "Miyagiizumi4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XITvf2nEhe",
+              "end": 163,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1957816122897575940/photo/1",
+              "media_key": "3_1957816115788492800",
+              "start": 140,
+              "url": "https://t.co/XITvf2nEhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957816122897575940",
+        "in_reply_to_user_id": "1951129956609937408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957814167924273393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyagiizumi4 救命吧宝宝我要一直缠着你。我想了半天的漂亮话发现最漂亮的是你🤓☝️宝宝感觉最近我们之间的关系有点冷了，你说话能稍微一点吗？这样应该会重新热起来！🥺我一定要谈到一个像你一样的宝宝呀，就算是猪我也认了🙀我不行了，我已经被这个视频迷得晕头转向了。快哉快哉！ https://t.co/XITvf2nEhe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957814089885052930"
+          ]
+        },
+        "author_id": "1951129956609937408",
+        "conversation_id": "1957814167924273393",
+        "created_at": "2025-08-19T14:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T15:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957814167924273393"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男喘"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "1i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/StQYxjbqIP",
+              "end": 47,
+              "expanded_url": "https://x.com/Miyagiizumi4/status/1957814167924273393/video/1",
+              "media_key": "13_1957814089885052930",
+              "start": 24,
+              "url": "https://t.co/StQYxjbqIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957814167924273393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男喘青年音但是不是猪真的很抱歉\n#男喘 #1i https://t.co/StQYxjbqIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)当朋友圈发…不约炮…喜欢发一些身材照…我是双性恋",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 72,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 373
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T03:56:54.000Z",
+        "description": "前@Miyagiizumi0831 🔞音声 関東 🇨🇳 DM⭕️ 発情期♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "Miyagiizumi0831"
+              }
+            ]
+          }
+        },
+        "id": "1951129956609937408",
+        "location": "東京",
+        "name": "宮城いずみMiyagi4",
+        "pinned_tweet_id": "1951132511679160492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951131027172368385/Gcs_zWGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 43,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 75
+        },
+        "username": "Miyagiizumi4",
+        "verified": false
+      }
+    ]
+  }
+}

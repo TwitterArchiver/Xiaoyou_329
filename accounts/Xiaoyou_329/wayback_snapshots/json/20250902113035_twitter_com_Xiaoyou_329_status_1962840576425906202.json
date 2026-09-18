@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962840566799986688"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962793122255249787",
+    "created_at": "2025-09-02T11:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T12:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962840576425906202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938475214016548867",
+          "start": 0,
+          "username": "Mlsw_official"
+        },
+        {
+          "end": 25,
+          "id": "1229453490537107457",
+          "start": 15,
+          "username": "HnrBB2nai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TLBUb2MmVA",
+          "end": 77,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1962840576425906202/photo/1",
+          "media_key": "3_1962840566799986688",
+          "start": 54,
+          "url": "https://t.co/TLBUb2MmVA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962840576425906202",
+    "in_reply_to_user_id": "1938475214016548867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962793122255249787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mlsw_official @HnrBB2nai 就是这股直男味…爽！！！天然水你快转过去(｡･ω･｡) https://t.co/TLBUb2MmVA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_1962840566799986688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1pGI7W8AAPcc5.jpg",
+        "width": 689
+      },
+      {
+        "duration_ms": 83666,
+        "height": 720,
+        "media_key": "13_1962792961361747969",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962792961361747969/img/CbH8Z9C6_aLI0m7f.jpg",
+        "public_metrics": {
+          "view_count": 136
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962792961361747969/vid/avc1/342x270/BPc7P7lVIiUuelHH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962792961361747969/vid/avc1/456x360/oAr6bw7M1zgRpQVg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962792961361747969/vid/avc1/914x720/ZmhzmSIRcG7Jy-tR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962792961361747969/pl/Kmt4ijMUCoxD_dvT.m3u8"
+          }
+        ],
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962840566799986688"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962793122255249787",
+        "created_at": "2025-09-02T11:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T12:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962840576425906202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938475214016548867",
+              "start": 0,
+              "username": "Mlsw_official"
+            },
+            {
+              "end": 25,
+              "id": "1229453490537107457",
+              "start": 15,
+              "username": "HnrBB2nai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TLBUb2MmVA",
+              "end": 77,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1962840576425906202/photo/1",
+              "media_key": "3_1962840566799986688",
+              "start": 54,
+              "url": "https://t.co/TLBUb2MmVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962840576425906202",
+        "in_reply_to_user_id": "1938475214016548867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962793122255249787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mlsw_official @HnrBB2nai 就是这股直男味…爽！！！天然水你快转过去(｡･ω･｡) https://t.co/TLBUb2MmVA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962792961361747969"
+          ]
+        },
+        "author_id": "1938475214016548867",
+        "conversation_id": "1962793122255249787",
+        "created_at": "2025-09-02T08:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962793122255249787"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "4i"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "小狗男"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "男m"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "男喘"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "青年音"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1229453490537107457",
+              "start": 5,
+              "username": "HnrBB2nai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYi2uW6nL8",
+              "end": 62,
+              "expanded_url": "https://x.com/Mlsw_official/status/1962793122255249787/video/1",
+              "media_key": "13_1962792961361747969",
+              "start": 39,
+              "url": "https://t.co/XYi2uW6nL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962793122255249787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 410,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "台本老师：@HnrBB2nai \n#4i #小狗男 #男m #男喘 #青年音 https://t.co/XYi2uW6nL8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…｜梦想是去一次海边",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 99,
+          "like_count": 922,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1073
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T05:51:33.000Z",
+        "description": "叫我小水就好/男/03/偶尔搞黄/抽象/介意请双取 喜欢请投喂(｡ì _ í｡) 接陪各种游戏陪🥣陪聊（娱乐为主 匿名在https://t.co/pkQ4cm8rG0 防丢@M1sw_official_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "M1sw_official_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mindlikestillw…",
+                "end": 83,
+                "expanded_url": "https://ngl.link/mindlikestillwater",
+                "start": 60,
+                "url": "https://t.co/pkQ4cm8rG0"
+              }
+            ]
+          }
+        },
+        "id": "1938475214016548867",
+        "location": "🚪30",
+        "name": "忧郁天然水（day2",
+        "pinned_tweet_id": "1959967484431450615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956406002229866499/MyN0rM1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 782,
+          "like_count": 21751,
+          "listed_count": 3,
+          "media_count": 153,
+          "tweet_count": 1847
+        },
+        "username": "Mlsw_official",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-17T17:12:19.000Z",
+        "description": "录本请务❗️必❗️经过我的同意❗️说明哪本❗️❗️短打自取❗️本子🚫二改二传续写 丨黄色创作请勿带入现实❗️｜暂时不接定制❗️不接❗️定制❗️丨翘屁股顶尖爱好者｜日常屁话在这里发@CptBupeipei丨推广自辩❗️丨搬运这辈子发不了财❗️❗️ https://t.co/KTkbp6EMhg匿名信箱🫡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "CptBupeipei"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hnrbb2nai",
+                "end": 146,
+                "expanded_url": "https://ngl.link/hnrbb2nai",
+                "start": 123,
+                "url": "https://t.co/KTkbp6EMhg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hnrbbernai.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://hnrbbernai.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/3uZHD3McJk"
+              }
+            ]
+          }
+        },
+        "id": "1229453490537107457",
+        "name": "人间杀爸客（有猫版）",
+        "pinned_tweet_id": "1951359502504358046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950068769885462528/Z5noQeeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86663,
+          "following_count": 341,
+          "like_count": 6051,
+          "listed_count": 115,
+          "media_count": 515,
+          "tweet_count": 11142
+        },
+        "url": "https://t.co/3uZHD3McJk",
+        "username": "HnrBB2nai",
+        "verified": false
+      }
+    ]
+  }
+}

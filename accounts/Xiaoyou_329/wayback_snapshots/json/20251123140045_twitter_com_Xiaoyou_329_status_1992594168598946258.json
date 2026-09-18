@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992594159421788160"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1992593857197019569",
+    "created_at": "2025-11-23T14:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T15:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992594168598946258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540688104968712193",
+          "start": 0,
+          "username": "xiangchishaokao"
+        },
+        {
+          "end": 33,
+          "id": "1037738137731166210",
+          "start": 17,
+          "username": "AijazAh28698172"
+        },
+        {
+          "end": 46,
+          "id": "1694976545000214528",
+          "start": 34,
+          "username": "ningmengtai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ouN5sYKXjp",
+          "end": 79,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1992594168598946258/photo/1",
+          "media_key": "3_1992594159421788160",
+          "start": 56,
+          "url": "https://t.co/ouN5sYKXjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992594168598946258",
+    "in_reply_to_user_id": "1540688104968712193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992593857197019569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangchishaokao @AijazAh28698172 @ningmengtai 老公。请多放饭… https://t.co/ouN5sYKXjp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_1992594159421788160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cd1K3akAASlxF.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 1567500,
+        "height": 480,
+        "media_key": "13_1992593681157881857",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992593681157881857/img/rzOGvBEZpLKgHdek.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992593681157881857/vid/avc1/320x320/aNlPFVlkwcOFujFh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992593681157881857/vid/avc1/480x480/XaLxh6ZcDjPnkB70.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992593681157881857/pl/3xhDzXvhDnUgfCyl.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992594159421788160"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1992593857197019569",
+        "created_at": "2025-11-23T14:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992594168598946258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540688104968712193",
+              "start": 0,
+              "username": "xiangchishaokao"
+            },
+            {
+              "end": 33,
+              "id": "1037738137731166210",
+              "start": 17,
+              "username": "AijazAh28698172"
+            },
+            {
+              "end": 46,
+              "id": "1694976545000214528",
+              "start": 34,
+              "username": "ningmengtai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ouN5sYKXjp",
+              "end": 79,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1992594168598946258/photo/1",
+              "media_key": "3_1992594159421788160",
+              "start": 56,
+              "url": "https://t.co/ouN5sYKXjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992594168598946258",
+        "in_reply_to_user_id": "1540688104968712193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992593857197019569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangchishaokao @AijazAh28698172 @ningmengtai 老公。请多放饭… https://t.co/ouN5sYKXjp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992593681157881857"
+          ]
+        },
+        "author_id": "1540688104968712193",
+        "conversation_id": "1992593857197019569",
+        "created_at": "2025-11-23T13:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992593857197019569"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "男喘"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "一爱"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "粗口"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1037738137731166210",
+              "start": 55,
+              "username": "AijazAh28698172"
+            },
+            {
+              "end": 86,
+              "id": "1694976545000214528",
+              "start": 74,
+              "username": "ningmengtai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sx3UV8C83X",
+              "end": 123,
+              "expanded_url": "https://x.com/xiangchishaokao/status/1992593857197019569/video/1",
+              "media_key": "13_1992593681157881857",
+              "start": 100,
+              "url": "https://t.co/Sx3UV8C83X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992593857197019569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[一爱]赐我沉沦\n\n看着你坐在他对面笑意盈盈翻涌的愤怒之下\n是连“你会离开我”的想象都无法面对的恐惧。\n\n定制@AijazAh28698172\n文本@ningmengtai \n#男喘 #一爱 #粗口 https://t.co/Sx3UV8C83X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7179,
+          "following_count": 152,
+          "like_count": 5025,
+          "listed_count": 5,
+          "media_count": 518,
+          "tweet_count": 4106
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T13:27:37.000Z",
+        "description": "分享音频还有我跟小猫的一些日常碎片 作品合集在 https://t.co/qcY8fGpkNS   推广自辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wushi.fanbox.cc",
+                "end": 47,
+                "expanded_url": "https://wushi.fanbox.cc/",
+                "start": 24,
+                "url": "https://t.co/qcY8fGpkNS"
+              }
+            ]
+          }
+        },
+        "id": "1540688104968712193",
+        "location": "🚪88",
+        "name": "无事",
+        "pinned_tweet_id": "1831246662872003038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765768997138800640/kCb5VNZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73302,
+          "following_count": 92,
+          "like_count": 4420,
+          "listed_count": 155,
+          "media_count": 535,
+          "tweet_count": 3496
+        },
+        "username": "xiangchishaokao",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-06T16:23:47.000Z",
+        "description": "",
+        "id": "1037738137731166210",
+        "location": "九龍城, 香港",
+        "name": "Mortis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982744488020738048/-JGt0mrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "AijazAh28698172",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T07:34:56.000Z",
+        "description": "本体dom，台本娘，主4i的，约本/录本请看置顶并私信，看本🔍“台本”。欢迎互动，有想看的可以私信，有灵感的可能会写。\n癫癫的一个刻薄嘴贱小女孩\n跟肖自在绝赞热恋进行中🥰肖叔 嬷一下 嘿 嬷一下\n（初代灭龙魔导士版",
+        "id": "1694976545000214528",
+        "name": "柠檬（古埃及掌管黎明卿睡衣的神",
+        "pinned_tweet_id": "1786082833791930516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694979827235946496/jyPvpNTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6562,
+          "following_count": 460,
+          "like_count": 22644,
+          "listed_count": 19,
+          "media_count": 131,
+          "tweet_count": 1823
+        },
+        "username": "ningmengtai",
+        "verified": false
+      }
+    ]
+  }
+}

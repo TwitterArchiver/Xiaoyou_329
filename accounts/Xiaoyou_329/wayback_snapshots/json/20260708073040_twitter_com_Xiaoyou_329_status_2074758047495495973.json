@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074758029254492160",
+        "3_2074758029250289664"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2074758047495495973",
+    "created_at": "2026-07-08T07:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074758047495495973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pbcBp37efs",
+          "end": 84,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2074758047495495973/photo/1",
+          "media_key": "3_2074758029254492160",
+          "start": 61,
+          "url": "https://t.co/pbcBp37efs"
+        },
+        {
+          "display_url": "pic.x.com/pbcBp37efs",
+          "end": 84,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2074758047495495973/photo/1",
+          "media_key": "3_2074758029250289664",
+          "start": 61,
+          "url": "https://t.co/pbcBp37efs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074758047495495973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁来帮我选一下鞋子呀…\n不要太在意这个背景好吧，，，因为呢，我房间的镜子碎三四个了…我不想买了，所以只能用客厅的镜子了… https://t.co/pbcBp37efs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074758029254492160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsFb2CagAAhN5U.jpg",
+        "width": 1937
+      },
+      {
+        "height": 1520,
+        "media_key": "3_2074758029250289664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsFb2BaYAAKm8x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074758029254492160",
+            "3_2074758029250289664"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2074758047495495973",
+        "created_at": "2026-07-08T07:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074758047495495973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbcBp37efs",
+              "end": 84,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2074758047495495973/photo/1",
+              "media_key": "3_2074758029254492160",
+              "start": 61,
+              "url": "https://t.co/pbcBp37efs"
+            },
+            {
+              "display_url": "pic.x.com/pbcBp37efs",
+              "end": 84,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2074758047495495973/photo/1",
+              "media_key": "3_2074758029250289664",
+              "start": 61,
+              "url": "https://t.co/pbcBp37efs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074758047495495973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来帮我选一下鞋子呀…\n不要太在意这个背景好吧，，，因为呢，我房间的镜子碎三四个了…我不想买了，所以只能用客厅的镜子了… https://t.co/pbcBp37efs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17036,
+          "following_count": 185,
+          "like_count": 7695,
+          "listed_count": 20,
+          "media_count": 929,
+          "tweet_count": 7248
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

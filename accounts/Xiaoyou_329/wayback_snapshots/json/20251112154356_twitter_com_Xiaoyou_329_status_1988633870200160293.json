@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988633862688194560"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1988633870200160293",
+    "created_at": "2025-11-12T15:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T16:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988633870200160293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qmhtImGflF",
+          "end": 28,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1988633870200160293/photo/1",
+          "media_key": "3_1988633862688194560",
+          "start": 5,
+          "url": "https://t.co/qmhtImGflF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988633870200160293",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 108,
+      "like_count": 7,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不好玩。 https://t.co/qmhtImGflF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988633870200160293].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988633870200160293",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988633870200160293"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1988633862688194560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kL9j3XwAAyyaN.jpg",
+        "width": 768
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5793,
+          "following_count": 148,
+          "like_count": 4252,
+          "listed_count": 4,
+          "media_count": 441,
+          "tweet_count": 3587
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

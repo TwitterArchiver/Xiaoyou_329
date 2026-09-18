@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1986719178808496230",
+    "created_at": "2025-11-07T13:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T14:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986790908734431624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1223794078782914560",
+          "start": 0,
+          "username": "LiJiaChaobot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986790908734431624",
+    "in_reply_to_user_id": "1223794078782914560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986790645810561460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiJiaChaobot 太诡异了救命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1986719178808496230",
+        "created_at": "2025-11-07T13:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986790908734431624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1223794078782914560",
+              "start": 0,
+              "username": "LiJiaChaobot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986790908734431624",
+        "in_reply_to_user_id": "1223794078782914560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986790645810561460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiJiaChaobot 太诡异了救命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223794078782914560",
+        "conversation_id": "1986719178808496230",
+        "created_at": "2025-11-07T13:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986790645810561460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lijiachaobot/s…",
+              "end": 37,
+              "expanded_url": "https://x.com/lijiachaobot/status/1874072287542206932?s=46&t=m4MkRckqSY_bqzSgZgzEDQ",
+              "start": 14,
+              "url": "https://t.co/cro7kXMlmR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986790645810561460",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874072287542206932",
+            "type": "quoted"
+          },
+          {
+            "id": "1986719178808496230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 🤓https://t.co/cro7kXMlmR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5052,
+          "following_count": 144,
+          "like_count": 3951,
+          "listed_count": 4,
+          "media_count": 424,
+          "tweet_count": 3382
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T02:23:48.000Z",
+        "description": "一只萌豚/会屏蔽来路不明或锁推的账户/包学家/打心怪/迫真中立壬🤓/やるんだな 今ここで",
+        "id": "1223794078782914560",
+        "location": "萌豚國",
+        "name": "DUCK萌豚",
+        "pinned_tweet_id": "1225756288912461824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788784174402600960/joPMOZGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 2264,
+          "like_count": 689558,
+          "listed_count": 20,
+          "media_count": 8350,
+          "tweet_count": 82593
+        },
+        "username": "LiJiaChaobot",
+        "verified": false
+      }
+    ]
+  }
+}

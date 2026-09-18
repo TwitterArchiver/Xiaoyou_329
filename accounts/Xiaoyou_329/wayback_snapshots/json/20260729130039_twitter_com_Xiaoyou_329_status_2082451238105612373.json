@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2082106956614144067",
+    "created_at": "2026-07-29T13:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082451238105612373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1609121859265761281",
+          "start": 0,
+          "username": "pomi_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082451238105612373",
+    "in_reply_to_user_id": "1609121859265761281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082106956614144067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pomi_ovo 看完这两个称呼我感觉好酥糊呀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2082106956614144067",
+        "created_at": "2026-07-29T13:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082451238105612373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1609121859265761281",
+              "start": 0,
+              "username": "pomi_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082451238105612373",
+        "in_reply_to_user_id": "1609121859265761281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082106956614144067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pomi_ovo 看完这两个称呼我感觉好酥糊呀…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609121859265761281",
+        "conversation_id": "2082106956614144067",
+        "created_at": "2026-07-28T14:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082106956614144067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082106956614144067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 30192,
+          "like_count": 238,
+          "quote_count": 5,
+          "reply_count": 57,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你们不觉得乖女儿还有小女儿这种词很色情吗（指情侣之间调情）最适合我这种巨婴的称呼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17687,
+          "following_count": 188,
+          "like_count": 7685,
+          "listed_count": 22,
+          "media_count": 1033,
+          "tweet_count": 7586
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-31T09:39:06.000Z",
+        "description": "只一个喜欢ddlg的小女孩\n正常聊天讨论有趣事情的人类需要我回关的私一下我呀   yp的聊骚的滚呀",
+        "id": "1609121859265761281",
+        "name": "pomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972621621073776640/uRAOJtj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 153,
+          "like_count": 181,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "pomi_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

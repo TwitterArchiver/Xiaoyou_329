@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2058456116678529395",
+    "created_at": "2026-05-24T09:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058473083623948298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1047051835486482432",
+          "start": 0,
+          "username": "123690lmhlovel1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058473083623948298",
+    "in_reply_to_user_id": "1047051835486482432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058470674684068085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123690lmhlovel1 牛逼。我要真这么瘦就好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2058456116678529395",
+        "created_at": "2026-05-24T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058473083623948298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1047051835486482432",
+              "start": 0,
+              "username": "123690lmhlovel1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058473083623948298",
+        "in_reply_to_user_id": "1047051835486482432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058470674684068085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123690lmhlovel1 牛逼。我要真这么瘦就好了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1047051835486482432",
+        "conversation_id": "2058456116678529395",
+        "created_at": "2026-05-24T08:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058470674684068085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058470674684068085",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058469807255884176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 尊嘟假嘟，看着像168，110૮ ・ﻌ・ა"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15120,
+          "following_count": 174,
+          "like_count": 7590,
+          "listed_count": 21,
+          "media_count": 853,
+          "tweet_count": 6644
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-02T09:13:05.000Z",
+        "description": "",
+        "id": "1047051835486482432",
+        "location": "Guangdong",
+        "name": "slein",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035668926856941568/zQtr6MqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 91,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 101
+        },
+        "username": "123690lmhlovel1",
+        "verified": false
+      }
+    ]
+  }
+}

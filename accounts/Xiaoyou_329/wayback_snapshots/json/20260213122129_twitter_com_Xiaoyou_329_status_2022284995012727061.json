@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2022283090945523893",
+    "created_at": "2026-02-13T12:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T13:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022284995012727061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582289665524396032",
+          "start": 0,
+          "username": "Luk85129You"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022284995012727061",
+    "in_reply_to_user_id": "1582289665524396032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022284644008526212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luk85129You 手冲一整天 我要和我电子男友亲亲爱爱的！嗯对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022283090945523893",
+        "created_at": "2026-02-13T12:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022284995012727061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582289665524396032",
+              "start": 0,
+              "username": "Luk85129You"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022284995012727061",
+        "in_reply_to_user_id": "1582289665524396032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022284644008526212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luk85129You 手冲一整天 我要和我电子男友亲亲爱爱的！嗯对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582289665524396032",
+        "conversation_id": "2022283090945523893",
+        "created_at": "2026-02-13T12:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022284644008526212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022284644008526212",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022283090945523893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 明天情人节怎么过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12090,
+          "following_count": 161,
+          "like_count": 6583,
+          "listed_count": 19,
+          "media_count": 652,
+          "tweet_count": 5384
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-18T08:37:22.000Z",
+        "description": "04｜mlys🇲🇾｜S｜入股不亏｜此男极度媚粉｜啥都懂点 您伟大的电子男友电子好友",
+        "id": "1582289665524396032",
+        "name": "7s",
+        "pinned_tweet_id": "2017240054251540628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020714861102329856/vB6YoYbC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 28,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 114
+        },
+        "username": "Luk85129You",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957320217702301771",
+    "created_at": "2025-08-18T05:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T06:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957320217702301771"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "男喘"
+        },
+        {
+          "end": 122,
+          "start": 118,
+          "tag": "青年音"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917927232905052160",
+          "start": 3,
+          "username": "Xy000812"
+        },
+        {
+          "end": 39,
+          "id": "1449437445649358851",
+          "start": 29,
+          "username": "Lololi666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/iZM",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/iZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957320217702301771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952772041310126222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xy000812: 《摘下助听器的后果》\n台本老师@Lololi666 \n\n有听力障碍的她和男朋友发生小争执，故意把助听器摘下\n\n明明已经不生气了，还是想看他着急哄人的样子\n\n被发现后，不止助听器拿不回来，人也失陷了\n\n#男喘 #青年音 https://t.co/iZM…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1957320217702301771].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1957320217702301771",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1957320217702301771"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 961291,
+        "height": 480,
+        "media_key": "13_1952771195465809922",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952771195465809922/img/RUgrAhbsV0AvLStC.jpg",
+        "public_metrics": {
+          "view_count": 47987
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952771195465809922/vid/avc1/270x270/6K4ZnaVU6NRi3nix.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952771195465809922/vid/avc1/360x360/m8v_qbj4OhP8EFyf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952771195465809922/vid/avc1/482x480/yV3x72eopgfks0E-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952771195465809922/pl/YaPrp-Y6PWvY8F3E.m3u8?v=910"
+          }
+        ],
+        "width": 482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952771195465809922"
+          ]
+        },
+        "author_id": "1917927232905052160",
+        "conversation_id": "1952772041310126222",
+        "created_at": "2025-08-05T16:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T17:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952772041310126222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "男喘"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "青年音"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1449437445649358851",
+              "start": 15,
+              "username": "Lololi666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZMu3qidia",
+              "end": 132,
+              "expanded_url": "https://x.com/Xy000812/status/1952772041310126222/video/1",
+              "media_key": "13_1952771195465809922",
+              "start": 109,
+              "url": "https://t.co/iZMu3qidia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952772041310126222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 417,
+          "impression_count": 141320,
+          "like_count": 1394,
+          "quote_count": 14,
+          "reply_count": 87,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "《摘下助听器的后果》\n台本老师@Lololi666 \n\n有听力障碍的她和男朋友发生小争执，故意把助听器摘下\n\n明明已经不生气了，还是想看他着急哄人的样子\n\n被发现后，不止助听器拿不回来，人也失陷了\n\n#男喘 #青年音 https://t.co/iZMu3qidia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)不约炮…会回私信…骚扰就算了除非你身材我真的很喜欢 喜欢发一些身材照…",
+        "id": "1906360034725961728",
+        "name": "一只小由饼",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 65,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 300
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T13:01:16.000Z",
+        "description": "日常@Shadow000812/没有🚪 饭盒https://t.co/j520Y6mJtk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Shadow000812"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xuanyuan9527.fanbox.cc",
+                "end": 45,
+                "expanded_url": "https://xuanyuan9527.fanbox.cc",
+                "start": 22,
+                "url": "https://t.co/j520Y6mJtk"
+              }
+            ]
+          }
+        },
+        "id": "1917927232905052160",
+        "name": "许愿",
+        "pinned_tweet_id": "1920857425625616848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919327449453842432/OQUGgc_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97701,
+          "following_count": 27,
+          "like_count": 74,
+          "listed_count": 108,
+          "media_count": 132,
+          "tweet_count": 214
+        },
+        "username": "Xy000812",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T18:10:00.000Z",
+        "description": "录制请阅读置顶｜勿将台本代入现实｜1i 4i都写｜禁二改二传｜@caibaixiao333｜https://t.co/Zt0fnk098G",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "caibaixiao333"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lololi6661",
+                "end": 69,
+                "expanded_url": "https://ngl.link/lololi6661",
+                "start": 46,
+                "url": "https://t.co/Zt0fnk098G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaobaicai.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://xiaobaicai.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/nmOzXwqr6T"
+              }
+            ]
+          }
+        },
+        "id": "1449437445649358851",
+        "name": "小白菜",
+        "pinned_tweet_id": "1923020033929716048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938128506208325634/eHurFm2V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114399,
+          "following_count": 182,
+          "like_count": 36403,
+          "listed_count": 171,
+          "media_count": 639,
+          "tweet_count": 19573
+        },
+        "url": "https://t.co/nmOzXwqr6T",
+        "username": "Lololi666",
+        "verified": false
+      }
+    ]
+  }
+}

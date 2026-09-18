@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028838224509198449",
+    "created_at": "2026-03-03T14:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T15:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028838224509198449"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028838224509198449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想买个耳机…大家有什么推荐吗…苹果耳机真的太贵了…作为学生还有是点负担不起TvT…但是攒攒钱还是可以的…但是我总是弄丢东西…所以…啊。好吧就是我穷。额。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028838224509198449",
+        "created_at": "2026-03-03T14:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028838224509198449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028838224509198449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想买个耳机…大家有什么推荐吗…苹果耳机真的太贵了…作为学生还有是点负担不起TvT…但是攒攒钱还是可以的…但是我总是弄丢东西…所以…啊。好吧就是我穷。额。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12826,
+          "following_count": 163,
+          "like_count": 6843,
+          "listed_count": 19,
+          "media_count": 716,
+          "tweet_count": 5727
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047515667512123392"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2047515779462275581",
+    "created_at": "2026-04-24T03:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T04:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047515779462275581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1t1KCBSrb6",
+          "end": 33,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2047515779462275581/photo/1",
+          "media_key": "3_2047515667512123392",
+          "start": 10,
+          "url": "https://t.co/1t1KCBSrb6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047515779462275581",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的豆包咋是扫福瑞 https://t.co/1t1KCBSrb6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2047515667512123392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo8psIbYAA6hDe.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047515667512123392"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2047515779462275581",
+        "created_at": "2026-04-24T03:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047515779462275581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1t1KCBSrb6",
+              "end": 33,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2047515779462275581/photo/1",
+              "media_key": "3_2047515667512123392",
+              "start": 10,
+              "url": "https://t.co/1t1KCBSrb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047515779462275581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的豆包咋是扫福瑞 https://t.co/1t1KCBSrb6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13597,
+          "following_count": 164,
+          "like_count": 7417,
+          "listed_count": 20,
+          "media_count": 815,
+          "tweet_count": 6415
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

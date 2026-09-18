@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2067653424292966661",
+    "created_at": "2026-06-19T13:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067969171573604476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1730270055773171713",
+          "start": 0,
+          "username": "evan2791999134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067969171573604476",
+    "in_reply_to_user_id": "1730270055773171713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067653424292966661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@evan2791999134 我笑的好懵逼。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 482,
+        "media_key": "3_2067653419444420609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHH1ICbQAEbQ-b.jpg",
+        "width": 515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2067653424292966661",
+        "created_at": "2026-06-19T13:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067969171573604476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1730270055773171713",
+              "start": 0,
+              "username": "evan2791999134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067969171573604476",
+        "in_reply_to_user_id": "1730270055773171713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067653424292966661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evan2791999134 我笑的好懵逼。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067653419444420609"
+          ]
+        },
+        "author_id": "1730270055773171713",
+        "conversation_id": "2067653424292966661",
+        "created_at": "2026-06-18T16:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067653424292966661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xuWorU5rlp",
+              "end": 103,
+              "expanded_url": "https://x.com/evan2791999134/status/2067653424292966661/photo/1",
+              "media_key": "3_2067653419444420609",
+              "start": 80,
+              "url": "https://t.co/xuWorU5rlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067653424292966661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1394,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打瓦一个路人瑞娜可能房间麦开成全部麦了，跟他朋友吐槽了一整局。“这个猎枭离人很远了。”“猎枭25发对面毫发无伤。”“猎枭的大是逗人玩的吗？”那个猎枭是我。。。 https://t.co/xuWorU5rlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15505,
+          "following_count": 176,
+          "like_count": 7676,
+          "listed_count": 20,
+          "media_count": 839,
+          "tweet_count": 6840
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T16:58:35.000Z",
+        "description": "一句话哽在胸口，如一朵花哽在枝丫，我只能以这种方式表达。小好：@finoa0726\n📪：https://t.co/LHADTLJ5kJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "finoa0726"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/finoa072611457",
+                "end": 67,
+                "expanded_url": "https://ngl.link/finoa072611457",
+                "start": 44,
+                "url": "https://t.co/LHADTLJ5kJ"
+              }
+            ]
+          }
+        },
+        "id": "1730270055773171713",
+        "name": "我闻神仙亦有死。",
+        "pinned_tweet_id": "2013301424869044686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058749951732232192/UJYdhhHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 200,
+          "like_count": 3625,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 8233
+        },
+        "url": "",
+        "username": "evan2791999134",
+        "verified": false
+      }
+    ]
+  }
+}

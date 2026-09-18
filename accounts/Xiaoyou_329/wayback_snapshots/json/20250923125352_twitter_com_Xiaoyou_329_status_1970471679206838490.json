@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1970471095393546463",
+    "created_at": "2025-09-23T12:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T13:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970471679206838490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1035766902650363904",
+          "start": 0,
+          "username": "BoBoring1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970471679206838490",
+    "in_reply_to_user_id": "1035766902650363904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970471095393546463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoBoring1 清洁阿姨学会了真正的幼儿心理学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1970471095393546463",
+        "created_at": "2025-09-23T12:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T13:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970471679206838490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1035766902650363904",
+              "start": 0,
+              "username": "BoBoring1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970471679206838490",
+        "in_reply_to_user_id": "1035766902650363904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970471095393546463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoBoring1 清洁阿姨学会了真正的幼儿心理学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1035766902650363904",
+        "conversation_id": "1970471095393546463",
+        "created_at": "2025-09-23T12:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T13:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970471095393546463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970471095393546463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "健身房清洁阿姨的一句小伙子蛮壮，让我为她扛完了今天需要换的所有桶装水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1969401174278201363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 120,
+          "like_count": 1830,
+          "listed_count": 1,
+          "media_count": 343,
+          "tweet_count": 2224
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-01T05:50:47.000Z",
+        "description": "1、饭盒链接 🔗https://t.co/FxKmwNHCHR 2、匿名问答🔗 https://t.co/lnnlnldyKU 希望我爱的人健健康康，开开心心",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boboring1028.fanbox.cc",
+                "end": 31,
+                "expanded_url": "https://boboring1028.fanbox.cc/",
+                "start": 8,
+                "url": "https://t.co/FxKmwNHCHR"
+              },
+              {
+                "display_url": "ngl.link/boboring1",
+                "end": 63,
+                "expanded_url": "https://ngl.link/boboring1",
+                "start": 40,
+                "url": "https://t.co/lnnlnldyKU"
+              }
+            ]
+          }
+        },
+        "id": "1035766902650363904",
+        "location": "➕v99，过门槛接定制1min20元（带本），不带30元",
+        "name": "BoBoring",
+        "pinned_tweet_id": "1831310996545405229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968158938039455748/FGbGLx5L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16254,
+          "following_count": 1424,
+          "like_count": 24701,
+          "listed_count": 42,
+          "media_count": 433,
+          "tweet_count": 3050
+        },
+        "username": "BoBoring1",
+        "verified": false
+      }
+    ]
+  }
+}

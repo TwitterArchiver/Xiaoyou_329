@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1995490307102900544",
+    "created_at": "2025-12-01T13:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T14:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995491565226332358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1922877729353195520",
+          "start": 0,
+          "username": "xiamii43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995491565226332358",
+    "in_reply_to_user_id": "1922877729353195520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995491245188338072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiamii43 嗝。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1995490307102900544",
+        "created_at": "2025-12-01T13:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995491565226332358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922877729353195520",
+              "start": 0,
+              "username": "xiamii43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995491565226332358",
+        "in_reply_to_user_id": "1922877729353195520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995491245188338072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiamii43 嗝。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922877729353195520",
+        "conversation_id": "1995490307102900544",
+        "created_at": "2025-12-01T13:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995491245188338072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995491245188338072",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995490307102900544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 嗝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7831,
+          "following_count": 157,
+          "like_count": 5261,
+          "listed_count": 7,
+          "media_count": 551,
+          "tweet_count": 4358
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T04:52:42.000Z",
+        "description": "4i1i 手控 点赞就是喜欢你 现生认出我了不许贴脸。贴脸你妈炸了。。双取自由 天天开心^ω^",
+        "id": "1922877729353195520",
+        "location": "🚪88/188/1888 ^ω^ ",
+        "name": "小虾神",
+        "pinned_tweet_id": "1957844803514974326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989376482133614592/YM4csMI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 130,
+          "like_count": 1834,
+          "listed_count": 11,
+          "media_count": 83,
+          "tweet_count": 1449
+        },
+        "username": "xiamii43",
+        "verified": false
+      }
+    ]
+  }
+}

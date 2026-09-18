@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2023269459339719053",
+    "created_at": "2026-02-16T08:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T09:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023316087333355633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2022753435142230016",
+          "start": 0,
+          "username": "kl75444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023316087333355633",
+    "in_reply_to_user_id": "2022753435142230016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023315011062607945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kl75444 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2023269459339719053",
+        "created_at": "2026-02-16T08:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023316087333355633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2022753435142230016",
+              "start": 0,
+              "username": "kl75444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023316087333355633",
+        "in_reply_to_user_id": "2022753435142230016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023315011062607945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kl75444 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022753435142230016",
+        "conversation_id": "2023269459339719053",
+        "created_at": "2026-02-16T08:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023315011062607945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023315011062607945",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023310315044196783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 这也是电子ntr吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12103,
+          "following_count": 160,
+          "like_count": 6695,
+          "listed_count": 19,
+          "media_count": 666,
+          "tweet_count": 5494
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T19:23:06.000Z",
+        "description": "",
+        "id": "2022753435142230016",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022769343130669057/26q1vN9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 168
+        },
+        "username": "kl75444",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2058943075712708754",
+    "created_at": "2026-05-25T16:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058946846975045880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1566301653778649088",
+          "start": 0,
+          "username": "SDhjcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058946846975045880",
+    "in_reply_to_user_id": "1566301653778649088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058943834047070370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SDhjcn 好呀！谢谢你小宝宝qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2058943075712708754",
+        "created_at": "2026-05-25T16:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058946846975045880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1566301653778649088",
+              "start": 0,
+              "username": "SDhjcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058946846975045880",
+        "in_reply_to_user_id": "1566301653778649088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058943834047070370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SDhjcn 好呀！谢谢你小宝宝qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566301653778649088",
+        "conversation_id": "2058943075712708754",
+        "created_at": "2026-05-25T16:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058943834047070370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058943834047070370",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058943681382801419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 好呀！！等你发新的我捧场一下ovo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15196,
+          "following_count": 176,
+          "like_count": 7540,
+          "listed_count": 21,
+          "media_count": 854,
+          "tweet_count": 6657
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T05:46:51.000Z",
+        "description": "不是青受音青年音别私信我 不卡泡",
+        "id": "1566301653778649088",
+        "name": "哥哥控",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027339200069353472/ywvlkape_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 11,
+          "like_count": 4875,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "username": "SDhjcn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096541961142624256"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2096541983129174087",
+    "created_at": "2026-09-06T10:12:15.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096541983129174087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/40MU3zwzKq",
+          "end": 32,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2096541983129174087/photo/1",
+          "media_key": "3_2096541961142624256",
+          "start": 9,
+          "url": "https://t.co/40MU3zwzKq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096541983129174087",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096541961142624256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好舒服 耍起耍起 https://t.co/40MU3zwzKq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1519,
+        "media_key": "3_2096541961142624256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhpzkKbYAAb6ov.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096541961142624256"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096541983129174087",
+        "created_at": "2026-09-06T10:12:15.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096541983129174087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/40MU3zwzKq",
+              "end": 32,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2096541983129174087/photo/1",
+              "media_key": "3_2096541961142624256",
+              "start": 9,
+              "url": "https://t.co/40MU3zwzKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096541983129174087",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096541961142624256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好舒服 耍起耍起 https://t.co/40MU3zwzKq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096541983129174087",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17373,
+          "following_count": 176,
+          "like_count": 7733,
+          "listed_count": 21,
+          "media_count": 1172,
+          "tweet_count": 7894
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

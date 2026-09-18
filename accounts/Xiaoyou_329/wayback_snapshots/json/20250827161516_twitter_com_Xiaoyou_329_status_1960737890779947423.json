@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960737593181790638",
+    "created_at": "2025-08-27T16:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T17:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960737890779947423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705758552395255808",
+          "start": 0,
+          "username": "04lizzz1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960737890779947423",
+    "in_reply_to_user_id": "1705758552395255808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960737593181790638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04lizzz1121 我也是…我有厌蠢症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960737593181790638",
+        "created_at": "2025-08-27T16:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960737890779947423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705758552395255808",
+              "start": 0,
+              "username": "04lizzz1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960737890779947423",
+        "in_reply_to_user_id": "1705758552395255808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960737593181790638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04lizzz1121 我也是…我有厌蠢症"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705758552395255808",
+        "conversation_id": "1960737593181790638",
+        "created_at": "2025-08-27T16:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960737593181790638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960737593181790638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无法跟听不懂话的人沟通"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 87,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 676
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T01:38:32.000Z",
+        "description": "自用蜂鸟VPN:https://t.co/AZIF9uaX6m\n全是废话/可以互关/有🚪/不当陪聊",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=u1B1Yd4Q",
+                "start": 8,
+                "url": "https://t.co/AZIF9uaX6m"
+              }
+            ]
+          }
+        },
+        "id": "1705758552395255808",
+        "location": "wony✩oung",
+        "name": "sion",
+        "pinned_tweet_id": "1959292689989726310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960353600867368963/inpwn3-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 999,
+          "like_count": 8313,
+          "listed_count": 2,
+          "media_count": 1220,
+          "tweet_count": 11613
+        },
+        "username": "04lizzz1121",
+        "verified": false
+      }
+    ]
+  }
+}

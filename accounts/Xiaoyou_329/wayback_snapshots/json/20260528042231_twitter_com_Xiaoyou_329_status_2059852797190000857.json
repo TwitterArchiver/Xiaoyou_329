@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2059848657319698583",
+    "created_at": "2026-05-28T04:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059852797190000857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059680759867404288",
+          "start": 0,
+          "username": "ysfnsy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059852797190000857",
+    "in_reply_to_user_id": "2059680759867404288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059851104956080269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysfnsy7 你想的还怪美的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_2059851102309482496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYPqftagAA0snK.jpg",
+        "width": 476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2059848657319698583",
+        "created_at": "2026-05-28T04:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059852797190000857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059680759867404288",
+              "start": 0,
+              "username": "ysfnsy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059852797190000857",
+        "in_reply_to_user_id": "2059680759867404288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059851104956080269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysfnsy7 你想的还怪美的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059851102309482496"
+          ]
+        },
+        "author_id": "2059680759867404288",
+        "conversation_id": "2059848657319698583",
+        "created_at": "2026-05-28T04:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059851104956080269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OhuU2Mc2bu",
+              "end": 39,
+              "expanded_url": "https://x.com/ysfnsy7/status/2059851104956080269/photo/1",
+              "media_key": "3_2059851102309482496",
+              "start": 16,
+              "url": "https://t.co/OhuU2Mc2bu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059851104956080269",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059848657319698583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 听听 https://t.co/OhuU2Mc2bu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15213,
+          "following_count": 174,
+          "like_count": 7550,
+          "listed_count": 21,
+          "media_count": 861,
+          "tweet_count": 6683
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T17:00:56.000Z",
+        "description": "",
+        "id": "2059680759867404288",
+        "name": "鹤归时起雾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059682246295195648/dOLI1rCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "ysfnsy7",
+        "verified": false
+      }
+    ]
+  }
+}

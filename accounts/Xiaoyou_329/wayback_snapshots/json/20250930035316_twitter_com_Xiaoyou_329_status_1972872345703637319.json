@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1972681225820066026",
+    "created_at": "2025-09-30T03:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T04:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972872345703637319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1951924850148380672",
+          "start": 0,
+          "username": "JJZLL66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972872345703637319",
+    "in_reply_to_user_id": "1951924850148380672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972681225820066026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JJZLL66 糙汉这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1972681225820066026",
+        "created_at": "2025-09-30T03:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T04:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972872345703637319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1951924850148380672",
+              "start": 0,
+              "username": "JJZLL66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972872345703637319",
+        "in_reply_to_user_id": "1951924850148380672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972681225820066026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JJZLL66 糙汉这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951924850148380672",
+        "conversation_id": "1972681225820066026",
+        "created_at": "2025-09-29T15:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T16:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972681225820066026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972681225820066026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放假回家喽.但是回去要掰棒子😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "location": "🚪88纯绿",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 124,
+          "like_count": 2152,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 2459
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T08:35:42.000Z",
+        "description": "infp|白羊|正太音|想做男喘因为声音难听而放弃.没学会ps.放弃成为粉牛黄推.现在在努力出道成为歌手.匿名|https://t.co/yiDUqMbiAV|",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjzll66",
+                "end": 79,
+                "expanded_url": "https://ngl.link/jjzll66",
+                "start": 56,
+                "url": "https://t.co/yiDUqMbiAV"
+              }
+            ]
+          }
+        },
+        "id": "1951924850148380672",
+        "name": "紫罗兰.",
+        "pinned_tweet_id": "1956367715805073777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955145753623732224/nd7Qqu4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 148,
+          "like_count": 2551,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 392
+        },
+        "username": "JJZLL66",
+        "verified": false
+      }
+    ]
+  }
+}

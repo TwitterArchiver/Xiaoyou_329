@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2027720776795759036",
+    "created_at": "2026-02-28T18:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T19:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027818902819115129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1881269620713381888",
+          "start": 0,
+          "username": "xkyy886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027818902819115129",
+    "in_reply_to_user_id": "1881269620713381888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027809509645947266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xkyy886 这啥雷霆味道？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2027720776795759036",
+        "created_at": "2026-02-28T18:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T19:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027818902819115129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1881269620713381888",
+              "start": 0,
+              "username": "xkyy886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027818902819115129",
+        "in_reply_to_user_id": "1881269620713381888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027809509645947266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xkyy886 这啥雷霆味道？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881269620713381888",
+        "conversation_id": "2027720776795759036",
+        "created_at": "2026-02-28T18:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T19:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027809509645947266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027809509645947266",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027720776795759036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 你想想有一个男的在用多巴胺分泌的尿液插你的b里 散发的那种味道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12738,
+          "following_count": 162,
+          "like_count": 6790,
+          "listed_count": 19,
+          "media_count": 699,
+          "tweet_count": 5624
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T09:16:54.000Z",
+        "description": "",
+        "id": "1881269620713381888",
+        "location": "专注于带给M窒息的体验",
+        "name": "Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881269746081083392/-ZCWtPnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 23,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "xkyy886",
+        "verified": false
+      }
+    ]
+  }
+}

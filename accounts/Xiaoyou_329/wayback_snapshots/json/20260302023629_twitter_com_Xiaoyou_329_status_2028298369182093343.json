@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028167207730208858",
+    "created_at": "2026-03-02T02:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T03:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028298369182093343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1562347756508758016",
+          "start": 0,
+          "username": "linchen90309482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028298369182093343",
+    "in_reply_to_user_id": "1562347756508758016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028190603541184915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linchen90309482 天蝎男更是气死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028167207730208858",
+        "created_at": "2026-03-02T02:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028298369182093343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1562347756508758016",
+              "start": 0,
+              "username": "linchen90309482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028298369182093343",
+        "in_reply_to_user_id": "1562347756508758016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028190603541184915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linchen90309482 天蝎男更是气死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562347756508758016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Scorpio",
+              "id": "1138888237630386177",
+              "name": "Scorpio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Scorpio",
+              "id": "1138888237630386177",
+              "name": "Scorpio"
+            }
+          }
+        ],
+        "conversation_id": "2028167207730208858",
+        "created_at": "2026-03-01T19:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T20:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028190603541184915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028190603541184915",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028167207730208858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 天蝎男恨不恨？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12737,
+          "following_count": 163,
+          "like_count": 6792,
+          "listed_count": 20,
+          "media_count": 705,
+          "tweet_count": 5655
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T07:55:14.000Z",
+        "description": "03 180/150 年后增肌",
+        "id": "1562347756508758016",
+        "name": "KZ.",
+        "pinned_tweet_id": "1604826929005096960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026517797745078273/-M9upxAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 583,
+          "like_count": 612,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 1301
+        },
+        "username": "linchen90309482",
+        "verified": false
+      }
+    ]
+  }
+}

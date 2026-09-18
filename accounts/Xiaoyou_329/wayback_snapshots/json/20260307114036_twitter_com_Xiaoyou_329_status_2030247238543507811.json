@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2029969254997709014",
+    "created_at": "2026-03-07T11:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T12:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030247238543507811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1832473387064815619",
+          "start": 0,
+          "username": "ptrlxy00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030247238543507811",
+    "in_reply_to_user_id": "1832473387064815619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030245969112252761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ptrlxy00 好！！谢谢宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2029969254997709014",
+        "created_at": "2026-03-07T11:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030247238543507811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1832473387064815619",
+              "start": 0,
+              "username": "ptrlxy00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030247238543507811",
+        "in_reply_to_user_id": "1832473387064815619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030245969112252761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ptrlxy00 好！！谢谢宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832473387064815619",
+        "conversation_id": "2029969254997709014",
+        "created_at": "2026-03-07T11:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030245969112252761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030245969112252761",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029969254997709014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 NARS和纪梵希的粉饼一点都不卡！而且很耐用！我是超级大干皮来着（还被种草了E大饼打算用完这两个试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13016,
+          "following_count": 162,
+          "like_count": 6921,
+          "listed_count": 19,
+          "media_count": 723,
+          "tweet_count": 5806
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T17:38:07.000Z",
+        "description": "我不是个好丈夫 不是个好父亲 也不是个好儿子 那又怎样呢 我是一个女孩子",
+        "id": "1832473387064815619",
+        "name": "好运降琳",
+        "pinned_tweet_id": "1841201481455964254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833366968277340168/BF7aDzfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 17,
+          "like_count": 115,
+          "listed_count": 8,
+          "media_count": 61,
+          "tweet_count": 146
+        },
+        "username": "ptrlxy00",
+        "verified": false
+      }
+    ]
+  }
+}

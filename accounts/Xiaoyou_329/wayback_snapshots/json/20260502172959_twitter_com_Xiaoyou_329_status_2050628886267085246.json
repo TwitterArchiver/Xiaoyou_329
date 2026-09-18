@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2050626964927754350",
+    "created_at": "2026-05-02T17:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050628886267085246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027057274276270080",
+          "start": 0,
+          "username": "zzrg294085"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050628886267085246",
+    "in_reply_to_user_id": "2027057274276270080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050628120966033462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzrg294085 我的法我要和你连"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2050626964927754350",
+        "created_at": "2026-05-02T17:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050628886267085246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027057274276270080",
+              "start": 0,
+              "username": "zzrg294085"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050628886267085246",
+        "in_reply_to_user_id": "2027057274276270080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050628120966033462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzrg294085 我的法我要和你连"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027057274276270080",
+        "conversation_id": "2050626964927754350",
+        "created_at": "2026-05-02T17:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050628120966033462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050628120966033462",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050626964927754350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 盾山音连不连"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14255,
+          "following_count": 164,
+          "like_count": 7417,
+          "listed_count": 21,
+          "media_count": 824,
+          "tweet_count": 6471
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T16:25:05.000Z",
+        "description": "我操，牛福呀兄弟，可以可以。我靠，我直接祝你那个一一得一，二二得四，三三得九，四四十六，五五二十五，六六三十六，七七四十九，八八六十四，九九八十一好吧，我直接祝你，然后十一一百好吧",
+        "id": "2027057274276270080",
+        "name": "zz(#^.^#）",
+        "pinned_tweet_id": "2028562949712060614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044790941761028096/osIjNVJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 149,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "zzrg294085",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1979174362092601621",
+    "created_at": "2025-10-17T13:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T14:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979180714454335938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1852747591773282304",
+          "start": 0,
+          "username": "yiuchu489316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979180714454335938",
+    "in_reply_to_user_id": "1852747591773282304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979177174646075638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiuchu489316 谢谢！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13159,
+        "height": 1278,
+        "media_key": "7_1979177145210445824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1979177145210445824/pu/img/RVE53_M1c4UtqZ5a.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979177145210445824/pu/vid/avc1/320x692/koEt6w2JLuQPs8oP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979177145210445824/pu/vid/avc1/480x1038/cEjepC2gh_vpaReD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979177145210445824/pu/vid/avc1/590x1278/ltnRbyZYtuue9D6G.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1979177145210445824/pu/pl/H0Enj2uP8FTEPPCH.m3u8?tag=12"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1979174362092601621",
+        "created_at": "2025-10-17T13:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979180714454335938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852747591773282304",
+              "start": 0,
+              "username": "yiuchu489316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979180714454335938",
+        "in_reply_to_user_id": "1852747591773282304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979177174646075638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiuchu489316 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1979177145210445824"
+          ]
+        },
+        "author_id": "1852747591773282304",
+        "conversation_id": "1979174362092601621",
+        "created_at": "2025-10-17T13:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979177174646075638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaT35kiVes",
+              "end": 36,
+              "expanded_url": "https://x.com/yiuchu489316/status/1979177174646075638/video/1",
+              "media_key": "7_1979177145210445824",
+              "start": 13,
+              "url": "https://t.co/PaT35kiVes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979177174646075638",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979174362092601621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 https://t.co/PaT35kiVes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 131,
+          "like_count": 2884,
+          "listed_count": 3,
+          "media_count": 398,
+          "tweet_count": 2906
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T16:20:37.000Z",
+        "description": "22y / 181 北部的騎車可以揪  超愛h3r3\n喜歡偶爾打拳當休閒 | 長頭髮但不聽團  \n比較沒在用推，不是假帳號感恩\n偷偷視煎所有人。    比較少在聊天  尷尬不是故意的      可以吵我",
+        "id": "1852747591773282304",
+        "location": "台灣",
+        "name": "波波澄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942790505298853888/ULi2OWcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 45,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 73
+        },
+        "username": "yiuchu489316",
+        "verified": false
+      }
+    ]
+  }
+}

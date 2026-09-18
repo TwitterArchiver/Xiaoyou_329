@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2095854081550041147",
+    "created_at": "2026-09-04T13:40:50.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T14:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095869700584431927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662293480486621184",
+          "start": 0,
+          "username": "dofees166639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095869700584431927",
+    "in_reply_to_user_id": "1662293480486621184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095856424647901557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dofees166639 omg。我好像是会睡觉踢被子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2095854081550041147",
+        "created_at": "2026-09-04T13:40:50.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095869700584431927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1662293480486621184",
+              "start": 0,
+              "username": "dofees166639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095869700584431927",
+        "in_reply_to_user_id": "1662293480486621184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095856424647901557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dofees166639 omg。我好像是会睡觉踢被子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293480486621184",
+        "conversation_id": "2095854081550041147",
+        "created_at": "2026-09-04T12:48:05.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095856424647901557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095856424647901557",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095854081550041147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 大概掀被子了吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095869700584431927",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17356,
+          "following_count": 173,
+          "like_count": 7715,
+          "listed_count": 21,
+          "media_count": 1165,
+          "tweet_count": 7866
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-27T03:04:14.000Z",
+        "description": "是一个像薄荷叶一样的人\n忙碌。。。\n可以叫我薄荷叶\n代表されるのはごたえがないですね。\n話をはっきりさせることが大切にされています。\nJ'apprends le français et j'espère atteindre le niveau B2.",
+        "id": "1662293480486621184",
+        "is_identity_verified": false,
+        "location": "Ginowan-shi, Okinawa",
+        "most_recent_tweet_id": "2095859335029289459",
+        "name": "暮棠月",
+        "pinned_tweet_id": "2033841500724072659",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662293480486621184/1719482176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004538362838089729/fwbMWls0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 3556,
+          "like_count": 138489,
+          "listed_count": 3,
+          "media_count": 445,
+          "tweet_count": 9693
+        },
+        "url": "",
+        "username": "dofees166639",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

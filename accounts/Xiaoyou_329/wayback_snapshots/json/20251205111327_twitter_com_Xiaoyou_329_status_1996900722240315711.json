@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1996899082384916914",
+    "created_at": "2025-12-05T11:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T12:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996900722240315711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745396254446862336",
+          "start": 0,
+          "username": "Bread_ka0723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996900722240315711",
+    "in_reply_to_user_id": "1745396254446862336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996899082384916914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Bread_ka0723 怎么这么萌？！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21800,
+        "height": 720,
+        "media_key": "13_1996899016232390656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996899016232390656/img/WfcNdNNsp2hbrzdY.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996899016232390656/vid/avc1/302x270/mlZ__jMSFSWJBQN-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996899016232390656/vid/avc1/404x360/Iehz7we4N2cErOg9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996899016232390656/vid/avc1/810x720/Q3L4n8BnamEPjU7u.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996899016232390656/pl/xgJHyOX2XAQbOcx4.m3u8"
+          }
+        ],
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996899082384916914",
+        "created_at": "2025-12-05T11:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T12:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996900722240315711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745396254446862336",
+              "start": 0,
+              "username": "Bread_ka0723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996900722240315711",
+        "in_reply_to_user_id": "1745396254446862336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996899082384916914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Bread_ka0723 怎么这么萌？！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996899016232390656"
+          ]
+        },
+        "author_id": "1745396254446862336",
+        "conversation_id": "1996899082384916914",
+        "created_at": "2025-12-05T11:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T12:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996899082384916914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tT4nqaZmSS",
+              "end": 30,
+              "expanded_url": "https://x.com/Bread_ka0723/status/1996899082384916914/video/1",
+              "media_key": "13_1996899016232390656",
+              "start": 7,
+              "url": "https://t.co/tT4nqaZmSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996899082384916914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "猫的皮下是我 https://t.co/tT4nqaZmSS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜感谢关注祝你 天天开心！｜诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8006,
+          "following_count": 157,
+          "like_count": 5485,
+          "listed_count": 8,
+          "media_count": 531,
+          "tweet_count": 4383
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T10:45:03.000Z",
+        "description": "我不知道 骚扰我的都赔钱",
+        "id": "1745396254446862336",
+        "location": "纯绿🚪99",
+        "name": "面包小ka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993642070964334592/ouo9qLgS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 131,
+          "like_count": 3357,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 2028
+        },
+        "username": "Bread_ka0723",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1996451087486959884",
+    "created_at": "2025-12-04T05:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T06:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996451087486959884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/temptasiannsfw…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/temptasiannsfw/status/1970652979742060966",
+          "start": 13,
+          "url": "https://t.co/fwhpleiHgu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996451087486959884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970652979742060966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一定要这么做一次好不！ https://t.co/fwhpleiHgu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 114433,
+        "height": 720,
+        "media_key": "7_1663165185010577411",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1663165185010577411/pu/img/NH0sPQrx9SW9FTDM.jpg",
+        "public_metrics": {
+          "view_count": 1151448
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1663165185010577411/pu/vid/360x270/X9X7mnFvS9knjfg5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1663165185010577411/pu/vid/480x360/feETZ51K3lYtJZba.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1663165185010577411/pu/vid/960x720/uFu9ns1zsnHIinOA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1663165185010577411/pu/pl/AXTkttkGnlZjhVbO.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996451087486959884",
+        "created_at": "2025-12-04T05:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T06:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996451087486959884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/temptasiannsfw…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/temptasiannsfw/status/1970652979742060966",
+              "start": 13,
+              "url": "https://t.co/fwhpleiHgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996451087486959884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970652979742060966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一定要这么做一次好不！ https://t.co/fwhpleiHgu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1663165185010577411"
+          ],
+          "media_source_tweet_id": [
+            "1663165261124624384"
+          ]
+        },
+        "author_id": "1881053392543399936",
+        "conversation_id": "1970652979742060966",
+        "created_at": "2025-09-24T00:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T01:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970652979742060966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VcGoRuWfPu",
+              "end": 23,
+              "expanded_url": "https://x.com/OvO__yy/status/1663165261124624384/video/1",
+              "media_key": "7_1663165185010577411",
+              "start": 0,
+              "url": "https://t.co/VcGoRuWfPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970652979742060966",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4053,
+          "impression_count": 230627,
+          "like_count": 5531,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 484
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VcGoRuWfPu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7888,
+          "following_count": 156,
+          "like_count": 5394,
+          "listed_count": 8,
+          "media_count": 525,
+          "tweet_count": 4341
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T18:57:42.000Z",
+        "description": "NSFW, I do not own this content. DM for more credit! Check underneath the post to see where it is posted from! No minors! DM 4 Promo.",
+        "id": "1881053392543399936",
+        "name": "temptasian (+18)",
+        "pinned_tweet_id": "1996100888499278135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881054371019964416/YTZQGrJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135237,
+          "following_count": 8,
+          "like_count": 9,
+          "listed_count": 246,
+          "media_count": 601,
+          "tweet_count": 548
+        },
+        "username": "temptasiannsfw",
+        "verified": false
+      }
+    ]
+  }
+}

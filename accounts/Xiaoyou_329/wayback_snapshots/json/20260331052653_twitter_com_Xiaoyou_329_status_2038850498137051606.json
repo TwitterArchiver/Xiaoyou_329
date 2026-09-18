@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2038850498137051606",
+    "created_at": "2026-03-31T05:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T06:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038850498137051606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pearl0812lucky…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/pearl0812lucky/status/2038439614403518603",
+          "start": 34,
+          "url": "https://t.co/2wKZgX5sNv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038850498137051606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038439614403518603",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好绝望啊。我老师天天问我未来想干啥，我今天下午还要去他办公室说。 https://t.co/2wKZgX5sNv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2038850498137051606",
+        "created_at": "2026-03-31T05:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038850498137051606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2038439614403518603",
+              "start": 34,
+              "url": "https://t.co/2wKZgX5sNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038850498137051606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038439614403518603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好绝望啊。我老师天天问我未来想干啥，我今天下午还要去他办公室说。 https://t.co/2wKZgX5sNv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2038439614403518603",
+        "created_at": "2026-03-30T02:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038439614403518603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038439614403518603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 107404,
+          "like_count": 2492,
+          "quote_count": 21,
+          "reply_count": 45,
+          "retweet_count": 239
+        },
+        "reply_settings": "everyone",
+        "text": "如果我生在小马利亚就好了，只需要回头看一眼屁股，就知道这辈子该干什么，而不是整天思考未来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13359,
+          "following_count": 163,
+          "like_count": 7341,
+          "listed_count": 20,
+          "media_count": 779,
+          "tweet_count": 6230
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 53,
+          "like_count": 5352,
+          "listed_count": 6,
+          "media_count": 126,
+          "tweet_count": 1238
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

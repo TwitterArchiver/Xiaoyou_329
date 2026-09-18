@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007667432475803648"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2007667452713513137",
+    "created_at": "2026-01-04T04:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T05:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007667452713513137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h7zwqdsSbi",
+          "end": 30,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2007667452713513137/photo/1",
+          "media_key": "3_2007667432475803648",
+          "start": 7,
+          "url": "https://t.co/h7zwqdsSbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007667452713513137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药费积攒中… https://t.co/h7zwqdsSbi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2007667432475803648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9yq5IvXQAARFCE.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007667432475803648"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2007667452713513137",
+        "created_at": "2026-01-04T04:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T05:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007667452713513137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h7zwqdsSbi",
+              "end": 30,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2007667452713513137/photo/1",
+              "media_key": "3_2007667432475803648",
+              "start": 7,
+              "url": "https://t.co/h7zwqdsSbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007667452713513137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药费积攒中… https://t.co/h7zwqdsSbi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8691,
+          "following_count": 154,
+          "like_count": 5950,
+          "listed_count": 10,
+          "media_count": 574,
+          "tweet_count": 4755
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

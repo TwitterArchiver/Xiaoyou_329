@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1994785795551670675",
+    "created_at": "2025-11-29T15:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994786180307849536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874895356452130816",
+          "start": 0,
+          "username": "newkitty412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994786180307849536",
+    "in_reply_to_user_id": "1874895356452130816",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994785795551670675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newkitty412 1、2、3、4、5…100"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1994785795551670675",
+        "created_at": "2025-11-29T15:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994786180307849536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874895356452130816",
+              "start": 0,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994786180307849536",
+        "in_reply_to_user_id": "1874895356452130816",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994785795551670675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newkitty412 1、2、3、4、5…100"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874895356452130816",
+        "conversation_id": "1994785795551670675",
+        "created_at": "2025-11-29T15:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994785795551670675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994785795551670675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我命令所有人！现在！扇自己的屁股一百下！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7772,
+          "following_count": 157,
+          "like_count": 5194,
+          "listed_count": 7,
+          "media_count": 541,
+          "tweet_count": 4293
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "置顶推广自辩 ❗❗| 抽象毁一辈子 | 说胡话的小号@yeeeyme0688 | 自用vpn➡️https://t.co/Pwcci2PkyA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "yeeeyme0688"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 71,
+                "expanded_url": "https://cmespeed.com/#/register?code=R9BuoZgK",
+                "start": 48,
+                "url": "https://t.co/Pwcci2PkyA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oinml",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oinml",
+                "start": 0,
+                "url": "https://t.co/5ZgSd7Ojrl"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "location": "🚪 ",
+        "name": "活着真豆不容易",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969336716940230656/aNawclHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5064,
+          "following_count": 296,
+          "like_count": 10104,
+          "listed_count": 11,
+          "media_count": 132,
+          "tweet_count": 3265
+        },
+        "url": "https://t.co/5ZgSd7Ojrl",
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

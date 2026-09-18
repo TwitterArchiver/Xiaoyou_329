@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2045470466681491648",
+    "created_at": "2026-04-18T17:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045555858852213176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014738703881474048",
+          "start": 0,
+          "username": "AngieHidal49073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045555858852213176",
+    "in_reply_to_user_id": "2014738703881474048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045529503922061461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngieHidal49073 我是双啊也可能是泛吧 我之前谈过女朋友 我觉得男生女生或者是其他都无所谓呀 只要我喜欢 生理上的那些都不是问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2045470466681491648",
+        "created_at": "2026-04-18T17:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045555858852213176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014738703881474048",
+              "start": 0,
+              "username": "AngieHidal49073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045555858852213176",
+        "in_reply_to_user_id": "2014738703881474048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045529503922061461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngieHidal49073 我是双啊也可能是泛吧 我之前谈过女朋友 我觉得男生女生或者是其他都无所谓呀 只要我喜欢 生理上的那些都不是问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014738703881474048",
+        "conversation_id": "2045470466681491648",
+        "created_at": "2026-04-18T15:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045529503922061461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045529503922061461",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045470466681491648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 所以你真的喜欢女生还是说说而已啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13490,
+          "following_count": 162,
+          "like_count": 7435,
+          "listed_count": 19,
+          "media_count": 808,
+          "tweet_count": 6381
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T16:35:37.000Z",
+        "description": "没病走两步",
+        "id": "2014738703881474048",
+        "name": "天不显我才",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025876796563238912/TKXVdK7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 128,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 207
+        },
+        "username": "AngieHidal49073",
+        "verified": false
+      }
+    ]
+  }
+}

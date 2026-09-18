@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2042053171145830534",
+    "created_at": "2026-04-09T11:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042202692395630675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851514661105254403",
+          "start": 0,
+          "username": "Finger_999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042202692395630675",
+    "in_reply_to_user_id": "1851514661105254403",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042053171145830534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Finger_999 有1必扣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2042053171145830534",
+        "created_at": "2026-04-09T11:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042202692395630675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851514661105254403",
+              "start": 0,
+              "username": "Finger_999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042202692395630675",
+        "in_reply_to_user_id": "1851514661105254403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042053171145830534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Finger_999 有1必扣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851514661105254403",
+        "conversation_id": "2042053171145830534",
+        "created_at": "2026-04-09T01:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042053171145830534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042053171145830534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "承认吧 你也为哥的极品青年音沉迷吧 小东西 扣1送喘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13587,
+          "following_count": 160,
+          "like_count": 7456,
+          "listed_count": 20,
+          "media_count": 800,
+          "tweet_count": 6350
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T06:41:17.000Z",
+        "description": "男婊子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finger71674",
+                "end": 23,
+                "expanded_url": "https://ngl.link/finger71674",
+                "start": 0,
+                "url": "https://t.co/bvvTeNDxjC"
+              }
+            ]
+          }
+        },
+        "id": "1851514661105254403",
+        "location": "桂",
+        "name": "Finger",
+        "pinned_tweet_id": "1948132634821120363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034729512626475008/VPcbjmBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 227,
+          "like_count": 6756,
+          "listed_count": 6,
+          "media_count": 28,
+          "tweet_count": 1852
+        },
+        "url": "https://t.co/bvvTeNDxjC",
+        "username": "Finger_999",
+        "verified": false
+      }
+    ]
+  }
+}

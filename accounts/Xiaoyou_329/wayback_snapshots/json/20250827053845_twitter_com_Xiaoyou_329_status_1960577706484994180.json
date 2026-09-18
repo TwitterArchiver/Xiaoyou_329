@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960359025356181545",
+    "created_at": "2025-08-27T05:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T06:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960577706484994180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1864946257481158656",
+          "start": 0,
+          "username": "Ash1nzou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960577706484994180",
+    "in_reply_to_user_id": "1864946257481158656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960359025356181545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ash1nzou 刃你的生活像喜剧！好搞笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960359025356181545",
+        "created_at": "2025-08-27T05:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960577706484994180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1864946257481158656",
+              "start": 0,
+              "username": "Ash1nzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960577706484994180",
+        "in_reply_to_user_id": "1864946257481158656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960359025356181545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ash1nzou 刃你的生活像喜剧！好搞笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864946257481158656",
+        "conversation_id": "1960359025356181545",
+        "created_at": "2025-08-26T15:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960359025356181545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960359025356181545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4369,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隔壁大学这招实在是太阴了，拿个音响对着我们宿舍楼放《跳楼机》。我在厕所尿尿呢给配上bgm了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 84,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 647
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T08:13:43.000Z",
+        "description": "恶人脸/虚伪肥宅/真实垃圾/精神病患/社会边缘人士－记录号@Thirdshinzou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "Thirdshinzou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ash1nzou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ash1nzou",
+                "start": 0,
+                "url": "https://t.co/qPDE4JNKvH"
+              }
+            ]
+          }
+        },
+        "id": "1864946257481158656",
+        "location": "提问箱",
+        "name": "饮冰的刃",
+        "pinned_tweet_id": "1945938034144505875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864946632820953092/_edfRZMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6086,
+          "following_count": 222,
+          "like_count": 22990,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 4386
+        },
+        "url": "https://t.co/qPDE4JNKvH",
+        "username": "Ash1nzou",
+        "verified": true
+      }
+    ]
+  }
+}

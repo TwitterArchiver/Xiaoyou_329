@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961697167095291906",
+    "created_at": "2025-08-30T08:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T09:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961711740741153026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650384670629199872",
+          "start": 0,
+          "username": "ling_fuyunhai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961711740741153026",
+    "in_reply_to_user_id": "1650384670629199872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961697167095291906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ling_fuyunhai 躲到厕所里玩推。我就这样偷偷摸摸。老师不让在班里玩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961697167095291906",
+        "created_at": "2025-08-30T08:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T09:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961711740741153026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650384670629199872",
+              "start": 0,
+              "username": "ling_fuyunhai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961711740741153026",
+        "in_reply_to_user_id": "1650384670629199872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961697167095291906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ling_fuyunhai 躲到厕所里玩推。我就这样偷偷摸摸。老师不让在班里玩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650384670629199872",
+        "conversation_id": "1961697167095291906",
+        "created_at": "2025-08-30T07:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T08:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961697167095291906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "浮雲霛’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1dRJZ…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1dRJZawDNyNGB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1961697209533304832/xkaelqOL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1961697209533304832/xkaelqOL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 我有一元五角现金",
+              "unwound_url": "https://twitter.com/i/spaces/1dRJZawDNyNGB/peek",
+              "url": "https://t.co/CpRDzXAuTZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961697167095291906",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CpRDzXAuTZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 97,
+          "like_count": 838,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 856
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T06:22:34.000Z",
+        "description": "enfj生活一团糟",
+        "id": "1650384670629199872",
+        "location": "☔",
+        "name": "浮雲霛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652171540245663745/vYLTFTKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 83,
+          "like_count": 2652,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 508
+        },
+        "username": "ling_fuyunhai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2030254676449628658",
+    "created_at": "2026-03-08T04:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T05:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030495220001833246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1734749345889787904",
+          "start": 0,
+          "username": "strawberry67866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030495220001833246",
+    "in_reply_to_user_id": "1906360034725961728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030494487957438506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strawberry67866 唉哎也不是我不想搞。是我感觉被调好诡异。我心里上有点接受不了。但是我做不了s我说不出来那种话。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2030254676449628658",
+        "created_at": "2026-03-08T04:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T05:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030495220001833246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1734749345889787904",
+              "start": 0,
+              "username": "strawberry67866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030495220001833246",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030494487957438506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strawberry67866 唉哎也不是我不想搞。是我感觉被调好诡异。我心里上有点接受不了。但是我做不了s我说不出来那种话。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2030254676449628658",
+        "created_at": "2026-03-08T04:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T05:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030494487957438506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1734749345889787904",
+              "start": 0,
+              "username": "strawberry67866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030494487957438506",
+        "in_reply_to_user_id": "1734749345889787904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030493577277792259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strawberry67866 因为我和他认识是打游戏。我感觉他就是一直在试探我的底线。我不想搞SM啊。我没接触过我感觉好诡异。我感觉他一直在挑衅我。不是在调情吧。我靠呀。他好贱一直在挑衅我骂他。骂了以后他还那样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13040,
+          "following_count": 162,
+          "like_count": 6930,
+          "listed_count": 19,
+          "media_count": 725,
+          "tweet_count": 5824
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T01:37:44.000Z",
+        "description": "童颜萝莉s  北京✈️洛杉矶 Switch双属性 05，45kg",
+        "id": "1734749345889787904",
+        "name": "Str",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762388309823696896/xkmXL4Vu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 445,
+          "like_count": 7511,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 527
+        },
+        "username": "strawberry67866",
+        "verified": false
+      }
+    ]
+  }
+}

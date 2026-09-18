@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1958928480164618409",
+    "created_at": "2025-08-22T16:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T17:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958930696551969095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1373218113991274496",
+          "start": 0,
+          "username": "KyokoOoo__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958930696551969095",
+    "in_reply_to_user_id": "1373218113991274496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958930367060353283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KyokoOoo__ 我的指甲太短了。过年的时候我做美甲问能不能建构她说不行。啊啊啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1958928480164618409",
+        "created_at": "2025-08-22T16:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T17:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958930696551969095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1373218113991274496",
+              "start": 0,
+              "username": "KyokoOoo__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958930696551969095",
+        "in_reply_to_user_id": "1373218113991274496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958930367060353283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyokoOoo__ 我的指甲太短了。过年的时候我做美甲问能不能建构她说不行。啊啊啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373218113991274496",
+        "conversation_id": "1958928480164618409",
+        "created_at": "2025-08-22T16:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T17:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958930367060353283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958930367060353283",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958928480164618409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 做美甲！厚建构的那种，不要贴饰品，这样咬也咬不动掰也掰不动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 72,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 531
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-20T10:22:17.000Z",
+        "description": "什么都会说一点",
+        "id": "1373218113991274496",
+        "location": "苦夏",
+        "name": "𝕽𝖎𝖓𝖌𝖔",
+        "pinned_tweet_id": "1936057773298762230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956042040153890816/3fOv8b8k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 317,
+          "like_count": 4243,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 463
+        },
+        "username": "KyokoOoo__",
+        "verified": false
+      }
+    ]
+  }
+}

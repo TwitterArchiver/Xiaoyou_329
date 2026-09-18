@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1960259462855643324",
+    "created_at": "2025-08-27T05:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T06:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960577194675040623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1864946257481158656",
+          "start": 0,
+          "username": "Ash1nzou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960577194675040623",
+    "in_reply_to_user_id": "1864946257481158656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960259462855643324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ash1nzou 小学拿百度查资料的时候点到黄片网站了我妈刚好进我房间了 然后二话没说给手机拿走了以后给我买了个步步高从此直到初中我都一直在用步步高（ ;  ; ）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1960259462855643324",
+        "created_at": "2025-08-27T05:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960577194675040623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1864946257481158656",
+              "start": 0,
+              "username": "Ash1nzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960577194675040623",
+        "in_reply_to_user_id": "1864946257481158656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960259462855643324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ash1nzou 小学拿百度查资料的时候点到黄片网站了我妈刚好进我房间了 然后二话没说给手机拿走了以后给我买了个步步高从此直到初中我都一直在用步步高（ ;  ; ）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864946257481158656",
+        "conversation_id": "1960259462855643324",
+        "created_at": "2025-08-26T08:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960259462855643324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960259462855643324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "迄今为止，我仍旧没听闻过比给亲妈发黄片更尴尬的事。\n\n初中的夏夜承载了太多荒诞的故事，在回忆里少年们总是肆意地挥霍着青春。\n\n初一那年，王者荣耀横空出世，宛如病毒传播般很快在人群中风靡。正值对新鲜事物充满兴趣的年纪，这款游戏走进了我们的视野。排位，熟练度等字眼逐渐替代了成绩和名誉在心目中的地位。\n\n在一个稀疏平常的周末夜晚，屋外的蝉一如既往地喧嚣着。几个少年瘫软在沙发上，沉浸于空调和游戏带来的闲暇时刻。\n华丽地技能衔接，行云流水地身法，全然投身于激烈的游戏对局当中。\n\n恰在此刻一记电话打破了焦灼的战局。\n\n电话那头是打野的母亲，声音带着斥责“你干啥呢？赶紧给我死回来！”\n\n一声咒骂驱散了火热的氛围，余下的只有面面相聚的几人以及降到冰点的气氛。\n\n心怀着疑惑，我们相伴他回到家中\n\n他母亲打开和他的QQ聊天对话框，映入眼帘的是不堪入目的黄色链接“性感女教师在线裸聊，反差护士制服诱惑”\n\n这时他才回忆起自己之前色意熏心误点了黄色链接\n\n他的母亲并没有轻信听他的解释，而是说\n\n“我他妈一脚给你卷出去！”\n\n我们不敢出声，但是实在是憋不住。\n\n但这不是最难绷的，事后他找回账号才发现。链接不仅发给了母亲，还发给了班任和喜欢他的女生以及众多列表。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16792,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迄今为止，我仍旧没听闻过比给亲妈发黄片更尴尬的事。\n\n初中的夏夜承载了太多荒诞的故事，在回忆里少年们总是肆意地挥霍着青春。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 84,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 646
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T08:13:43.000Z",
+        "description": "恶人脸/虚伪肥宅/真实垃圾/精神病患/社会边缘人士－记录号@Thirdshinzou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "Thirdshinzou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ash1nzou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ash1nzou",
+                "start": 0,
+                "url": "https://t.co/qPDE4JNKvH"
+              }
+            ]
+          }
+        },
+        "id": "1864946257481158656",
+        "location": "提问箱",
+        "name": "饮冰的刃",
+        "pinned_tweet_id": "1945938034144505875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864946632820953092/_edfRZMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6086,
+          "following_count": 222,
+          "like_count": 22990,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 4386
+        },
+        "url": "https://t.co/qPDE4JNKvH",
+        "username": "Ash1nzou",
+        "verified": true
+      }
+    ]
+  }
+}

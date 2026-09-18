@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1978364918664482863",
+    "created_at": "2025-10-15T08:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T09:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978375112744194367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1887783952796307456",
+          "start": 0,
+          "username": "Juo135"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978375112744194367",
+    "in_reply_to_user_id": "1887783952796307456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978368404286218719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Juo135 我现在还是初恋。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1978364918664482863",
+        "created_at": "2025-10-15T08:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T09:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978375112744194367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1887783952796307456",
+              "start": 0,
+              "username": "Juo135"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978375112744194367",
+        "in_reply_to_user_id": "1887783952796307456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978368404286218719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Juo135 我现在还是初恋。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887783952796307456",
+        "conversation_id": "1978364918664482863",
+        "created_at": "2025-10-15T07:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T08:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978368404286218719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978368404286218719",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978364918664482863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 割你前任的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "爱搞抽象的普通人 请别打探我的隐私",
+        "name": "小由",
+        "pinned_tweet_id": "1977603268218868197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 129,
+          "like_count": 2813,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 2855
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T08:42:32.000Z",
+        "description": "长发，男的，性取向女，switch",
+        "id": "1887783952796307456",
+        "name": "派瑞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976589448893865984/qrm2yq6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 154,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "username": "Juo135",
+        "verified": false
+      }
+    ]
+  }
+}

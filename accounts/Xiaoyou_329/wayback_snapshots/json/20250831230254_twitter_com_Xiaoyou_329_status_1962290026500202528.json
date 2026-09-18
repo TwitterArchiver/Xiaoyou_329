@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962290017809670146"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962290026500202528",
+    "created_at": "2025-08-31T23:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T00:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962290026500202528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AQJ4uSgklA",
+          "end": 44,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1962290026500202528/photo/1",
+          "media_key": "3_1962290017809670146",
+          "start": 21,
+          "url": "https://t.co/AQJ4uSgklA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962290026500202528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早上好各位 谢谢大家晚上安慰我 谢谢你们 https://t.co/AQJ4uSgklA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1085,
+        "media_key": "3_1962290017809670146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzt0X-HXIAIuzA8.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962290017809670146"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962290026500202528",
+        "created_at": "2025-08-31T23:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T00:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962290026500202528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQJ4uSgklA",
+              "end": 44,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1962290026500202528/photo/1",
+              "media_key": "3_1962290017809670146",
+              "start": 21,
+              "url": "https://t.co/AQJ4uSgklA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962290026500202528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好各位 谢谢大家晚上安慰我 谢谢你们 https://t.co/AQJ4uSgklA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 100,
+          "like_count": 885,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1021
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

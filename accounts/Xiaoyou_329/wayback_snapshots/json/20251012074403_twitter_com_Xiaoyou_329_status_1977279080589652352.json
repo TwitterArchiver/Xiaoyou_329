@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1977268877563474005",
+    "created_at": "2025-10-12T07:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T08:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977279080589652352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883775568275267584",
+          "start": 0,
+          "username": "kwiiii634737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977279080589652352",
+    "in_reply_to_user_id": "1883775568275267584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977268877563474005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwiiii634737 我靠 接。我的相册需要这2t。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1977268877563474005",
+        "created_at": "2025-10-12T07:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977279080589652352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883775568275267584",
+              "start": 0,
+              "username": "kwiiii634737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977279080589652352",
+        "in_reply_to_user_id": "1883775568275267584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977268877563474005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwiiii634737 我靠 接。我的相册需要这2t。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883775568275267584",
+        "conversation_id": "1977268877563474005",
+        "created_at": "2025-10-12T07:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977268877563474005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977268877563474005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我iCloud突然变成2t了啊…没有付款和订阅记录也没有家庭组🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "爱搞抽象的普通人 请别打探我的隐私",
+        "name": "小由",
+        "pinned_tweet_id": "1977059723510993068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 129,
+          "like_count": 2695,
+          "listed_count": 2,
+          "media_count": 385,
+          "tweet_count": 2797
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T07:14:39.000Z",
+        "description": "可以叫我苗苗！1i/4i预备役 高强度冲浪选手 欢迎找我聊天🥺👐🏻 https://t.co/OBoNNuqw6Y匿名问问题！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kwi634737",
+                "end": 57,
+                "expanded_url": "https://ngl.link/kwi634737",
+                "start": 34,
+                "url": "https://t.co/OBoNNuqw6Y"
+              }
+            ]
+          }
+        },
+        "id": "1883775568275267584",
+        "name": "无暇赴死",
+        "pinned_tweet_id": "1914723417808626028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885357625392717828/PusI2NKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1608,
+          "like_count": 9296,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 4665
+        },
+        "username": "kwiiii634737",
+        "verified": false
+      }
+    ]
+  }
+}

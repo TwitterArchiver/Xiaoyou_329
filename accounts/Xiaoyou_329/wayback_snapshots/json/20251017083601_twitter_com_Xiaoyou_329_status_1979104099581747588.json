@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979104086994694144"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1979104099581747588",
+    "created_at": "2025-10-17T08:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T09:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979104099581747588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dq4rmhI67U",
+          "end": 65,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1979104099581747588/photo/1",
+          "media_key": "3_1979104086994694144",
+          "start": 42,
+          "url": "https://t.co/Dq4rmhI67U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979104099581747588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真不活了。家里所有东西都不是我自己洗。我现在应该想怎么和家里人解释救命。🚬救命。 https://t.co/Dq4rmhI67U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979104086994694144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3cwrm7XsAAvzbN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979104086994694144"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1979104099581747588",
+        "created_at": "2025-10-17T08:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979104099581747588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dq4rmhI67U",
+              "end": 65,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1979104099581747588/photo/1",
+              "media_key": "3_1979104086994694144",
+              "start": 42,
+              "url": "https://t.co/Dq4rmhI67U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979104099581747588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真不活了。家里所有东西都不是我自己洗。我现在应该想怎么和家里人解释救命。🚬救命。 https://t.co/Dq4rmhI67U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2702,
+          "following_count": 131,
+          "like_count": 2875,
+          "listed_count": 3,
+          "media_count": 397,
+          "tweet_count": 2896
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028058185324704106",
+    "created_at": "2026-03-01T10:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T11:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028058185324704106"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028058185324704106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真怀疑自己是不是有帕金森。有的时候胳膊会莫名其妙痛 使不上劲 一直抖。就是不是我控制的感觉好诡异。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028058185324704106",
+        "created_at": "2026-03-01T10:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028058185324704106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028058185324704106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真怀疑自己是不是有帕金森。有的时候胳膊会莫名其妙痛 使不上劲 一直抖。就是不是我控制的感觉好诡异。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12726,
+          "following_count": 164,
+          "like_count": 6788,
+          "listed_count": 19,
+          "media_count": 701,
+          "tweet_count": 5637
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

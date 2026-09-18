@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075592101484720128"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2075592133587927261",
+    "created_at": "2026-07-10T14:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075592133587927261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qk5EmVFSmu",
+          "end": 64,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2075592133587927261/video/1",
+          "media_key": "13_2075592101484720128",
+          "start": 41,
+          "url": "https://t.co/qk5EmVFSmu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075592133587927261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我朋友说她给我拍的有股人妻味。\n不过。那个啥。我可能拉了有百分之一千的瘦肩吧…！ https://t.co/qk5EmVFSmu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4900,
+        "height": 1280,
+        "media_key": "13_2075592101484720128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075592101484720128/img/4wXrSBGMA3pALO1q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075592101484720128/vid/avc1/320x568/MsBAmXAi3Fodf5nW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075592101484720128/vid/avc1/480x852/ujuE9d4JMzeLdxD5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075592101484720128/vid/avc1/720x1280/VBeA6T6F32z5a_Jx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075592101484720128/pl/94GpmEl4vgxor62f.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075592101484720128"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2075592133587927261",
+        "created_at": "2026-07-10T14:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075592133587927261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qk5EmVFSmu",
+              "end": 64,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2075592133587927261/video/1",
+              "media_key": "13_2075592101484720128",
+              "start": 41,
+              "url": "https://t.co/qk5EmVFSmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075592133587927261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我朋友说她给我拍的有股人妻味。\n不过。那个啥。我可能拉了有百分之一千的瘦肩吧…！ https://t.co/qk5EmVFSmu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17207,
+          "following_count": 183,
+          "like_count": 7701,
+          "listed_count": 21,
+          "media_count": 953,
+          "tweet_count": 7329
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

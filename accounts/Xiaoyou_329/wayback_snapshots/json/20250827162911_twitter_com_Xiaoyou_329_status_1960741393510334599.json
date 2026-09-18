@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960741377475592193"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960712622191391124",
+    "created_at": "2025-08-27T16:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T17:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960741393510334599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1839552202446106624",
+          "start": 0,
+          "username": "xing20106"
+        },
+        {
+          "end": 20,
+          "id": "1490941014030561283",
+          "start": 11,
+          "username": "redaizhu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YTyKCI1U81",
+          "end": 92,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1960741393510334599/photo/1",
+          "media_key": "3_1960741377475592193",
+          "start": 69,
+          "url": "https://t.co/YTyKCI1U81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960741393510334599",
+    "in_reply_to_user_id": "1839552202446106624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960712622191391124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xing20106 @redaizhu 我操。好喜欢星老师…太美味了……给我性欲听出来了…但是我现在有美甲我一直在哭😭。。。太诱人了… https://t.co/YTyKCI1U81"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_1960741377475592193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXz5PTXwAEJCbx.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 167291,
+        "height": 720,
+        "media_key": "13_1960712357690118145",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960712357690118145/img/g6nVDnB8e3m1KKa9.jpg",
+        "public_metrics": {
+          "view_count": 968
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960712357690118145/vid/avc1/272x270/11kk9j40yX3XM4-c.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960712357690118145/vid/avc1/362x360/6SGHpYAD24D0Dy4V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960712357690118145/vid/avc1/726x720/c-_uYvw8LSwz2lPS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960712357690118145/pl/LoMrBCp9mWPJnH0H.m3u8"
+          }
+        ],
+        "width": 726
+      },
+      {
+        "duration_ms": 150666,
+        "height": 722,
+        "media_key": "13_1960712357631414273",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960712357631414273/img/afgvtd7EgioqhNWm.jpg",
+        "public_metrics": {
+          "view_count": 147
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960712357631414273/vid/avc1/320x320/idevf9S0YcDNXmGz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960712357631414273/vid/avc1/480x480/6LsbUjA7XVci8QTv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960712357631414273/vid/avc1/720x722/1yblyjr9ZuDqPlUz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960712357631414273/pl/mEJ9I368lWo67XbZ.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 135625,
+        "height": 720,
+        "media_key": "13_1960712357648207872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960712357648207872/img/2gPDI_tATrEQk436.jpg",
+        "public_metrics": {
+          "view_count": 129
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960712357648207872/vid/avc1/326x270/HuFqyrlOoV19J-Vt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960712357648207872/vid/avc1/434x360/csotz2w-29I0Lzp3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960712357648207872/vid/avc1/870x720/bcnmxqY9s6bVZdDO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960712357648207872/pl/H2LgiAuUxDV_-Wch.m3u8"
+          }
+        ],
+        "width": 870
+      },
+      {
+        "duration_ms": 143125,
+        "height": 720,
+        "media_key": "13_1960712357686001665",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960712357686001665/img/NT0xs5vt1O2Eteod.jpg",
+        "public_metrics": {
+          "view_count": 98
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960712357686001665/vid/avc1/368x270/4A0lR2vpw9sHhFr5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960712357686001665/vid/avc1/492x360/CQP68u6F-PmwrE0g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960712357686001665/vid/avc1/984x720/xL-f9CqLtl5NcZQv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960712357686001665/pl/2cnQu6WOQvPsHu0W.m3u8"
+          }
+        ],
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960741377475592193"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960712622191391124",
+        "created_at": "2025-08-27T16:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960741393510334599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839552202446106624",
+              "start": 0,
+              "username": "xing20106"
+            },
+            {
+              "end": 20,
+              "id": "1490941014030561283",
+              "start": 11,
+              "username": "redaizhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YTyKCI1U81",
+              "end": 92,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1960741393510334599/photo/1",
+              "media_key": "3_1960741377475592193",
+              "start": 69,
+              "url": "https://t.co/YTyKCI1U81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960741393510334599",
+        "in_reply_to_user_id": "1839552202446106624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960712622191391124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xing20106 @redaizhu 我操。好喜欢星老师…太美味了……给我性欲听出来了…但是我现在有美甲我一直在哭😭。。。太诱人了… https://t.co/YTyKCI1U81"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960712357690118145",
+            "13_1960712357631414273",
+            "13_1960712357648207872",
+            "13_1960712357686001665"
+          ]
+        },
+        "author_id": "1839552202446106624",
+        "conversation_id": "1960712622191391124",
+        "created_at": "2025-08-27T14:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T15:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960712622191391124"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男喘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1490941014030561283",
+              "start": 9,
+              "username": "redaizhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUMxSHpPtM",
+              "end": 47,
+              "expanded_url": "https://x.com/xing20106/status/1960712622191391124/video/1",
+              "media_key": "13_1960712357690118145",
+              "start": 24,
+              "url": "https://t.co/TUMxSHpPtM"
+            },
+            {
+              "display_url": "pic.x.com/TUMxSHpPtM",
+              "end": 47,
+              "expanded_url": "https://x.com/xing20106/status/1960712622191391124/video/1",
+              "media_key": "13_1960712357631414273",
+              "start": 24,
+              "url": "https://t.co/TUMxSHpPtM"
+            },
+            {
+              "display_url": "pic.x.com/TUMxSHpPtM",
+              "end": 47,
+              "expanded_url": "https://x.com/xing20106/status/1960712622191391124/video/1",
+              "media_key": "13_1960712357648207872",
+              "start": 24,
+              "url": "https://t.co/TUMxSHpPtM"
+            },
+            {
+              "display_url": "pic.x.com/TUMxSHpPtM",
+              "end": 47,
+              "expanded_url": "https://x.com/xing20106/status/1960712622191391124/video/1",
+              "media_key": "13_1960712357686001665",
+              "start": 24,
+              "url": "https://t.co/TUMxSHpPtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960712622191391124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3596,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "短打\n\n台本老师：@redaizhu \n#男喘 https://t.co/TUMxSHpPtM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 87,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 680
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T06:26:45.000Z",
+        "description": "饭盒：https://t.co/6Ui5Rxi46B 匿名信：https://t.co/sUm7wG148S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xingxing634.fanbox.cc",
+                "end": 26,
+                "expanded_url": "https://xingxing634.fanbox.cc/",
+                "start": 3,
+                "url": "https://t.co/6Ui5Rxi46B"
+              },
+              {
+                "display_url": "ngl.link/xing06102",
+                "end": 54,
+                "expanded_url": "https://ngl.link/xing06102",
+                "start": 31,
+                "url": "https://t.co/sUm7wG148S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xing20106?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/xing20106?s=21",
+                "start": 0,
+                "url": "https://t.co/i2wTASQw2n"
+              }
+            ]
+          }
+        },
+        "id": "1839552202446106624",
+        "name": "散落的星✨",
+        "pinned_tweet_id": "1953819591928430900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919418177429135360/k5WRpxPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11891,
+          "following_count": 22,
+          "like_count": 788,
+          "listed_count": 21,
+          "media_count": 119,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/i2wTASQw2n",
+        "username": "xing20106",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-08T06:50:26.000Z",
+        "description": "不喜欢屏蔽就好了    祝大家天天开心啦   生活小号  @kaixinyao0987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "kaixinyao0987"
+              }
+            ]
+          }
+        },
+        "id": "1490941014030561283",
+        "name": "热带猪🌙",
+        "pinned_tweet_id": "1855990819347698041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875558956464271365/jS3Awz6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40024,
+          "following_count": 110,
+          "like_count": 32036,
+          "listed_count": 53,
+          "media_count": 1889,
+          "tweet_count": 5501
+        },
+        "username": "redaizhu",
+        "verified": false
+      }
+    ]
+  }
+}

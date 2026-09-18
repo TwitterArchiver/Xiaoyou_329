@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2006714183757476203",
+    "created_at": "2026-01-01T16:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T17:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006758395689517102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779125982945054720",
+          "start": 0,
+          "username": "OvO_uuuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006758395689517102",
+    "in_reply_to_user_id": "1779125982945054720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006757786823365070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO_uuuo 每次我就这样苦苦隐忍。害怕我朋友被我吓跑😭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2006714183757476203",
+        "created_at": "2026-01-01T16:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006758395689517102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779125982945054720",
+              "start": 0,
+              "username": "OvO_uuuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006758395689517102",
+        "in_reply_to_user_id": "1779125982945054720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006757786823365070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO_uuuo 每次我就这样苦苦隐忍。害怕我朋友被我吓跑😭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779125982945054720",
+        "conversation_id": "2006714183757476203",
+        "created_at": "2026-01-01T16:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006757786823365070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006757786823365070",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006714183757476203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 卧槽我也是 特别特别的恶俗但是不敢说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8016,
+          "following_count": 154,
+          "like_count": 5810,
+          "listed_count": 8,
+          "media_count": 559,
+          "tweet_count": 4665
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T12:34:37.000Z",
+        "description": "INFP🤍喜欢可爱的人",
+        "id": "1779125982945054720",
+        "name": "茉莉",
+        "pinned_tweet_id": "1981649810110472257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005883511983718400/IZ3uFRrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 44,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 119
+        },
+        "username": "OvO_uuuo",
+        "verified": false
+      }
+    ]
+  }
+}

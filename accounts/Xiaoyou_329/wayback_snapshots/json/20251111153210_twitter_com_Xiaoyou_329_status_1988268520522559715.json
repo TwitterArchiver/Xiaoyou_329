@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1988268422770159616"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1988268520522559715",
+    "created_at": "2025-11-11T15:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T16:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988268520522559715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fVRB9xcEas",
+          "end": 55,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1988268520522559715/video/1",
+          "media_key": "13_1988268422770159616",
+          "start": 32,
+          "url": "https://t.co/fVRB9xcEas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988268520522559715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁家喇叭跑出来了。\n其实后面还有一段很激烈的…但是我没录上…🫠 https://t.co/fVRB9xcEas"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15005,
+        "height": 1280,
+        "media_key": "13_1988268422770159616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988268422770159616/img/068aLC2IioVMsG2l.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988268422770159616/vid/avc1/320x690/XXzENdXChGfiD3FX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988268422770159616/vid/avc1/480x1036/AmWR4-l_7kdZecAH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988268422770159616/vid/avc1/592x1280/VgPYVOwL0bqRaMaj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988268422770159616/pl/d3czYTojaqOiImom.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988268422770159616"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1988268520522559715",
+        "created_at": "2025-11-11T15:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988268520522559715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVRB9xcEas",
+              "end": 55,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1988268520522559715/video/1",
+              "media_key": "13_1988268422770159616",
+              "start": 32,
+              "url": "https://t.co/fVRB9xcEas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988268520522559715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁家喇叭跑出来了。\n其实后面还有一段很激烈的…但是我没录上…🫠 https://t.co/fVRB9xcEas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5058,
+          "following_count": 147,
+          "like_count": 4182,
+          "listed_count": 4,
+          "media_count": 438,
+          "tweet_count": 3536
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

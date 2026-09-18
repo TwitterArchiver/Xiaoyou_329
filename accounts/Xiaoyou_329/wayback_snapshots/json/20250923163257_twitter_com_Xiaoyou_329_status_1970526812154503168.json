@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1970353211610644741",
+    "created_at": "2025-09-23T16:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T17:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970526812154503168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823744395746881536",
+          "start": 0,
+          "username": "tangzhouxu4177"
+        },
+        {
+          "end": 26,
+          "id": "1824078057629466624",
+          "start": 16,
+          "username": "Code_6823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970526812154503168",
+    "in_reply_to_user_id": "1823744395746881536",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970526199823901151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangzhouxu4177 @Code_6823"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1970353211610644741",
+        "created_at": "2025-09-23T16:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T17:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970526812154503168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823744395746881536",
+              "start": 0,
+              "username": "tangzhouxu4177"
+            },
+            {
+              "end": 26,
+              "id": "1824078057629466624",
+              "start": 16,
+              "username": "Code_6823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970526812154503168",
+        "in_reply_to_user_id": "1823744395746881536",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970526199823901151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangzhouxu4177 @Code_6823"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823744395746881536",
+        "conversation_id": "1970353211610644741",
+        "created_at": "2025-09-23T16:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T17:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970526199823901151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970526199823901151",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970353211610644741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 他素哪个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1969401174278201363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 120,
+          "like_count": 1832,
+          "listed_count": 1,
+          "media_count": 343,
+          "tweet_count": 2237
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T15:32:13.000Z",
+        "description": "泥嚎 少管我",
+        "id": "1823744395746881536",
+        "location": "百慕大",
+        "name": "冰淇淋",
+        "pinned_tweet_id": "1955720070904340803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829010431421386752/PmxqWDNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 73,
+          "like_count": 649,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 356
+        },
+        "username": "tangzhouxu4177",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T13:38:03.000Z",
+        "description": "新人男🚢 6823报道，🚪108（工作忙，暂时只能聊天，没有其他服务） 自用vpn🔗 https://t.co/drqFqzC3WD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 66,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=du9FmlxV",
+                "start": 43,
+                "url": "https://t.co/drqFqzC3WD"
+              }
+            ]
+          }
+        },
+        "id": "1824078057629466624",
+        "location": "接了点广告挣钱（搓搓手",
+        "name": "6823（男喘",
+        "pinned_tweet_id": "1852291844081623299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824078335917346817/kkCLTGmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11451,
+          "following_count": 44,
+          "like_count": 136,
+          "listed_count": 31,
+          "media_count": 75,
+          "tweet_count": 319
+        },
+        "username": "Code_6823",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965417081681141760"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1965414825812787498",
+    "created_at": "2025-09-09T14:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T15:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965417103034564898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612854174714302466",
+          "start": 0,
+          "username": "gu87734192"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rg3o0u0Idt",
+          "end": 51,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1965417103034564898/photo/1",
+          "media_key": "3_1965417081681141760",
+          "start": 28,
+          "url": "https://t.co/rg3o0u0Idt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965417103034564898",
+    "in_reply_to_user_id": "1612854174714302466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965414825812787498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu87734192 可以的 那我要一直来陪你好不好 https://t.co/rg3o0u0Idt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_1965417081681141760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0aQbC0W4AAJFfs.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965417081681141760"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1965414825812787498",
+        "created_at": "2025-09-09T14:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T15:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965417103034564898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612854174714302466",
+              "start": 0,
+              "username": "gu87734192"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rg3o0u0Idt",
+              "end": 51,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1965417103034564898/photo/1",
+              "media_key": "3_1965417081681141760",
+              "start": 28,
+              "url": "https://t.co/rg3o0u0Idt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965417103034564898",
+        "in_reply_to_user_id": "1612854174714302466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965414825812787498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu87734192 可以的 那我要一直来陪你好不好 https://t.co/rg3o0u0Idt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612854174714302466",
+        "conversation_id": "1965414825812787498",
+        "created_at": "2025-09-09T13:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965414825812787498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "念’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ZkKz…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1ZkKzZagmgeKv",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 念’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1ZkKzZagmgeKv/peek",
+              "url": "https://t.co/2YiFnLSCdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965414825812787498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2YiFnLSCdy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 106,
+          "like_count": 1235,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 1533
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:49:50.000Z",
+        "description": "接定制 加v有🚪66\n接陪🥣\n抖音 21943386284\n匿名箱:  https://t.co/feCyxvpgDl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gu8773419221",
+                "end": 59,
+                "expanded_url": "https://ngl.link/gu8773419221",
+                "start": 36,
+                "url": "https://t.co/feCyxvpgDl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gu87734192.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://gu87734192.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/HjWcbeecYw"
+              }
+            ]
+          }
+        },
+        "id": "1612854174714302466",
+        "location": "河南",
+        "name": "念",
+        "pinned_tweet_id": "1878996127103803653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766545216583196672/aC28okYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21583,
+          "following_count": 42,
+          "like_count": 1147,
+          "listed_count": 38,
+          "media_count": 177,
+          "tweet_count": 1538
+        },
+        "url": "https://t.co/HjWcbeecYw",
+        "username": "gu87734192",
+        "verified": false
+      }
+    ]
+  }
+}

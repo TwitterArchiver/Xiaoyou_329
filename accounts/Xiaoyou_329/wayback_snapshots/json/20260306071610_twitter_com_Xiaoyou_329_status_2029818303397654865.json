@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2029754428472053866",
+    "created_at": "2026-03-06T07:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029818303397654865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984355153420697601",
+          "start": 0,
+          "username": "xi_bu47856"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029818303397654865",
+    "in_reply_to_user_id": "1984355153420697601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029817761032196529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xi_bu47856 牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2029754428472053866",
+        "created_at": "2026-03-06T07:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029818303397654865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984355153420697601",
+              "start": 0,
+              "username": "xi_bu47856"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029818303397654865",
+        "in_reply_to_user_id": "1984355153420697601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029817761032196529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xi_bu47856 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984355153420697601",
+        "conversation_id": "2029754428472053866",
+        "created_at": "2026-03-06T07:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029817761032196529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029817761032196529",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029816767598698520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 这俺自己打的，不代打"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12979,
+          "following_count": 162,
+          "like_count": 6886,
+          "listed_count": 19,
+          "media_count": 720,
+          "tweet_count": 5776
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T20:22:04.000Z",
+        "description": "纯爱玩，别吵死",
+        "id": "1984355153420697601",
+        "name": "嘻嘻不嘻嘻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999184670207221760/mJUTnwmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 2,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 86
+        },
+        "username": "xi_bu47856",
+        "verified": false
+      }
+    ]
+  }
+}

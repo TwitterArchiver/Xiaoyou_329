@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1937427290650243195",
+    "created_at": "2025-06-24T11:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T12:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937474921694921175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1760463222392643584",
+          "start": 0,
+          "username": "mosswind777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937474921694921175",
+    "in_reply_to_user_id": "1760463222392643584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937427290650243195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mosswind777 姐姐你好美…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_1937427287638704128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMf2mnagAA39Q4.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1937427290650243195",
+        "created_at": "2025-06-24T11:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T12:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937474921694921175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1760463222392643584",
+              "start": 0,
+              "username": "mosswind777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937474921694921175",
+        "in_reply_to_user_id": "1760463222392643584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937427290650243195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mosswind777 姐姐你好美…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937427287638704128"
+          ]
+        },
+        "author_id": "1760463222392643584",
+        "conversation_id": "1937427290650243195",
+        "created_at": "2025-06-24T08:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T09:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937427290650243195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YBZpChCn29",
+              "end": 31,
+              "expanded_url": "https://x.com/mosswind777/status/1937427290650243195/photo/1",
+              "media_key": "3_1937427287638704128",
+              "start": 8,
+              "url": "https://t.co/YBZpChCn29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937427290650243195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会闪闪发光💖 https://t.co/YBZpChCn29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 47,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 123
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T00:35:35.000Z",
+        "description": "今日份美女加载完毕🔗",
+        "id": "1760463222392643584",
+        "location": "喝着美式，在别人的生活里演自己",
+        "name": "七🤍七",
+        "pinned_tweet_id": "1937409597930909706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931264719312347136/uZnvzIlG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 100,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 214
+        },
+        "username": "mosswind777",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009646670816956416"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2009646784792928337",
+    "created_at": "2026-01-09T15:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T16:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009646784792928337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u62UJhE1yJ",
+          "end": 54,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2009646784792928337/video/1",
+          "media_key": "13_2009646670816956416",
+          "start": 31,
+          "url": "https://t.co/u62UJhE1yJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009646784792928337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爽哭了吧。嗯对就是。我一直在哭！\n这期嗓子依旧是堪比破铜锣。 https://t.co/u62UJhE1yJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12723,
+        "height": 1280,
+        "media_key": "13_2009646670816956416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009646670816956416/img/GNJaLn1g7H2BOiDs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009646670816956416/vid/avc1/320x690/1NDa8Kq9z5BUTGTu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009646670816956416/vid/avc1/480x1036/8yTk__Lh6GBmdGs_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009646670816956416/vid/avc1/592x1280/sF-fp7TYsciZhxL5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009646670816956416/pl/3VBYkfNiLgpoIspU.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009646670816956416"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2009646784792928337",
+        "created_at": "2026-01-09T15:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T16:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009646784792928337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u62UJhE1yJ",
+              "end": 54,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2009646784792928337/video/1",
+              "media_key": "13_2009646670816956416",
+              "start": 31,
+              "url": "https://t.co/u62UJhE1yJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009646784792928337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽哭了吧。嗯对就是。我一直在哭！\n这期嗓子依旧是堪比破铜锣。 https://t.co/u62UJhE1yJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 谢谢你愿意留下来了解我 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8722,
+          "following_count": 155,
+          "like_count": 6072,
+          "listed_count": 10,
+          "media_count": 576,
+          "tweet_count": 4848
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2024326695491113271",
+    "created_at": "2026-02-19T16:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024520651617325423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1808150860045901824",
+          "start": 0,
+          "username": "DOC0867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024520651617325423",
+    "in_reply_to_user_id": "1808150860045901824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024520486361890864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOC0867 感谢安利！我去看一下这个游戏…&gt;_&lt;…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2024326695491113271",
+        "created_at": "2026-02-19T16:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024520651617325423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1808150860045901824",
+              "start": 0,
+              "username": "DOC0867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024520651617325423",
+        "in_reply_to_user_id": "1808150860045901824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024520486361890864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOC0867 感谢安利！我去看一下这个游戏…&gt;_&lt;…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808150860045901824",
+        "conversation_id": "2024326695491113271",
+        "created_at": "2026-02-19T16:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024520486361890864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024520486361890864",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024326695491113271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 要不来打怪猎吧。。。玩个笛子奶队友得了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024073032029950059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12192,
+          "following_count": 160,
+          "like_count": 6770,
+          "listed_count": 19,
+          "media_count": 684,
+          "tweet_count": 5568
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T14:50:10.000Z",
+        "description": "lost heart\n我觉得要尽量活着。。。",
+        "id": "1808150860045901824",
+        "location": "Heart",
+        "name": "枫飘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808152247299461123/7kpQ_DJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 1047,
+          "like_count": 32136,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 5143
+        },
+        "username": "DOC0867",
+        "verified": false
+      }
+    ]
+  }
+}

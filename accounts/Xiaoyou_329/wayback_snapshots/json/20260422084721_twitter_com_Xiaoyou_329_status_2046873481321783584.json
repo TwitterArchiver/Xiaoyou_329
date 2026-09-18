@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046873398110982144"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2046873481321783584",
+    "created_at": "2026-04-22T08:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T09:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046873481321783584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yl9OUFKcu9",
+          "end": 33,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2046873481321783584/video/1",
+          "media_key": "13_2046873398110982144",
+          "start": 10,
+          "url": "https://t.co/yl9OUFKcu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046873481321783584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全网最爱撒娇之人… https://t.co/yl9OUFKcu9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12981,
+        "height": 1280,
+        "media_key": "13_2046873398110982144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046873398110982144/img/PsLGUvofTtEWrmWC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046873398110982144/vid/avc1/320x690/ecX3ymUhqwg-4e5y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046873398110982144/vid/avc1/480x1036/ZsolnnCNjYPwGojM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046873398110982144/vid/avc1/592x1280/NPUpwa5qa28x2uE0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046873398110982144/pl/Nh111BlTDOh9q8WO.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046873398110982144"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2046873481321783584",
+        "created_at": "2026-04-22T08:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046873481321783584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yl9OUFKcu9",
+              "end": 33,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2046873481321783584/video/1",
+              "media_key": "13_2046873398110982144",
+              "start": 10,
+              "url": "https://t.co/yl9OUFKcu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046873481321783584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全网最爱撒娇之人… https://t.co/yl9OUFKcu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13438,
+          "following_count": 164,
+          "like_count": 7423,
+          "listed_count": 20,
+          "media_count": 812,
+          "tweet_count": 6394
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

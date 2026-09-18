@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2062046911859962246",
+    "created_at": "2026-06-03T08:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062095936386646193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595607428120203267",
+          "start": 0,
+          "username": "xiaodaoOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062095936386646193",
+    "in_reply_to_user_id": "1595607428120203267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062049777630503153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaodaoOvO 你想的还怪美的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2062046911859962246",
+        "created_at": "2026-06-03T08:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062095936386646193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595607428120203267",
+              "start": 0,
+              "username": "xiaodaoOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062095936386646193",
+        "in_reply_to_user_id": "1595607428120203267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062049777630503153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaodaoOvO 你想的还怪美的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595607428120203267",
+        "conversation_id": "2062046911859962246",
+        "created_at": "2026-06-03T05:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062049777630503153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062049777630503153",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062046911859962246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15383,
+          "following_count": 176,
+          "like_count": 7572,
+          "listed_count": 20,
+          "media_count": 875,
+          "tweet_count": 6741
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T02:37:20.000Z",
+        "description": "悲伤人类",
+        "id": "1595607428120203267",
+        "name": "Rrrr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060385513694281729/5Lbhi9sF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 650,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 65
+        },
+        "username": "xiaodaoOvO",
+        "verified": false
+      }
+    ]
+  }
+}

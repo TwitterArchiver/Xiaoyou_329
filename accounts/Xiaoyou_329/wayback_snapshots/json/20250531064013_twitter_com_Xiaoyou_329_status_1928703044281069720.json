@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1928699212247544308",
+    "created_at": "2025-05-31T06:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T07:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928703044281069720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1843034922690510848",
+          "start": 0,
+          "username": "PlasticLove18_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928703044281069720",
+    "in_reply_to_user_id": "1843034922690510848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928699212247544308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PlasticLove18_ 我接受不了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1928699212247544308",
+        "created_at": "2025-05-31T06:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T07:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928703044281069720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1843034922690510848",
+              "start": 0,
+              "username": "PlasticLove18_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928703044281069720",
+        "in_reply_to_user_id": "1843034922690510848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928699212247544308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlasticLove18_ 我接受不了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843034922690510848",
+        "conversation_id": "1928699212247544308",
+        "created_at": "2025-05-31T06:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T07:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928699212247544308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928699212247544308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1163,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "号主疑似离世 永久停更 感谢喜欢\n不用吊唁 和0个人熟\n造谣的下来之后头割掉给我当痰盂用\n此条为定时自动发送"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 66
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T21:05:51.000Z",
+        "description": "宝宝们身体健康天天开心 失联请找小号@rain_alltheway",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "rain_alltheway"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "plasticlove18.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://plasticlove18.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/Y6mvudPBbN"
+              }
+            ]
+          }
+        },
+        "id": "1843034922690510848",
+        "location": "骨科医院",
+        "name": "牙牙健康白又壮",
+        "pinned_tweet_id": "1923382557254484435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887848484134612992/HHP0SHqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64519,
+          "following_count": 45,
+          "like_count": 2505,
+          "listed_count": 51,
+          "media_count": 242,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/Y6mvudPBbN",
+        "username": "PlasticLove18_",
+        "verified": false
+      }
+    ]
+  }
+}

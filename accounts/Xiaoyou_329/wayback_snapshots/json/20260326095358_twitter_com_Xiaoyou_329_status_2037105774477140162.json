@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2037105774477140162",
+    "created_at": "2026-03-26T09:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037105774477140162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xingxing1dfb4h…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/xingxing1dfb4h/status/2036847788064231561",
+          "start": 37,
+          "url": "https://t.co/0hh2Cz4mjT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037105774477140162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036847788064231561",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有这样的青受音。我不得劲。能不能别卡完我就跑路了。其实我还挺难过的。 https://t.co/0hh2Cz4mjT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2037105774477140162",
+        "created_at": "2026-03-26T09:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037105774477140162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xingxing1dfb4h…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/xingxing1dfb4h/status/2036847788064231561",
+              "start": 37,
+              "url": "https://t.co/0hh2Cz4mjT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037105774477140162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036847788064231561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有这样的青受音。我不得劲。能不能别卡完我就跑路了。其实我还挺难过的。 https://t.co/0hh2Cz4mjT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891128275667505152",
+        "conversation_id": "2036847788064231561",
+        "created_at": "2026-03-25T16:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036847788064231561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036847788064231561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10635,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又想要固卡了。没事聊聊天搞搞暧昧卡卡泡的极品青年。。。好想要TvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13376,
+          "following_count": 167,
+          "like_count": 7260,
+          "listed_count": 20,
+          "media_count": 774,
+          "tweet_count": 6196
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-16T14:11:45.000Z",
+        "description": "",
+        "id": "1891128275667505152",
+        "name": "Yuuuui",
+        "pinned_tweet_id": "1924189469428814009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022732787170840576/hFVGMRGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 92,
+          "like_count": 4263,
+          "listed_count": 5,
+          "media_count": 128,
+          "tweet_count": 3614
+        },
+        "username": "xingxing1dfb4h",
+        "verified": false
+      }
+    ]
+  }
+}

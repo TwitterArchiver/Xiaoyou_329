@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1977236620190314761",
+    "created_at": "2025-10-12T10:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T11:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977325094260355443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883775568275267584",
+          "start": 0,
+          "username": "kwiiii634737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977325094260355443",
+    "in_reply_to_user_id": "1883775568275267584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977304150007586972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwiiii634737 苗苗你就没有好用的电脑吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1977236620190314761",
+        "created_at": "2025-10-12T10:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T11:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977325094260355443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883775568275267584",
+              "start": 0,
+              "username": "kwiiii634737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977325094260355443",
+        "in_reply_to_user_id": "1883775568275267584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977304150007586972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwiiii634737 苗苗你就没有好用的电脑吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883775568275267584",
+        "conversation_id": "1977236620190314761",
+        "created_at": "2025-10-12T09:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T10:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977304150007586972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977304150007586972",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977236620190314761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 然后换了拯救者 三年因为接口坏了换了两次主板…现在接口又坏了我好恨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "爱搞抽象的普通人 请别打探我的隐私",
+        "name": "小由",
+        "pinned_tweet_id": "1977059723510993068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 129,
+          "like_count": 2720,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 2808
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T07:14:39.000Z",
+        "description": "可以叫我苗苗！1i/4i预备役 高强度冲浪选手 欢迎找我聊天🥺👐🏻 https://t.co/OBoNNuqw6Y匿名问问题！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kwi634737",
+                "end": 57,
+                "expanded_url": "https://ngl.link/kwi634737",
+                "start": 34,
+                "url": "https://t.co/OBoNNuqw6Y"
+              }
+            ]
+          }
+        },
+        "id": "1883775568275267584",
+        "name": "无暇赴死",
+        "pinned_tweet_id": "1914723417808626028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885357625392717828/PusI2NKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1607,
+          "like_count": 9303,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 4670
+        },
+        "username": "kwiiii634737",
+        "verified": false
+      }
+    ]
+  }
+}

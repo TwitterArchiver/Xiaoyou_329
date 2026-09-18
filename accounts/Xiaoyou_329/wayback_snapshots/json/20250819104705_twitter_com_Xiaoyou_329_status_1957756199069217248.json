@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957756183793553408"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957710474218467433",
+    "created_at": "2025-08-19T10:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T11:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957756199069217248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937191223313465346",
+          "start": 0,
+          "username": "MoKong54748"
+        },
+        {
+          "end": 22,
+          "id": "1490941014030561283",
+          "start": 13,
+          "username": "redaizhu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5IFFUPOcbM",
+          "end": 64,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1957756199069217248/photo/1",
+          "media_key": "3_1957756183793553408",
+          "start": 41,
+          "url": "https://t.co/5IFFUPOcbM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957756199069217248",
+    "in_reply_to_user_id": "1937191223313465346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957710474218467433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoKong54748 @redaizhu 好喜欢你的声音。我会一直缠着你的。 https://t.co/5IFFUPOcbM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_1957756183793553408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytY4GPW0AAn3o3.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 167933,
+        "height": 960,
+        "media_key": "13_1957710154537005058",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957710154537005058/img/JQZdNu9Gm6rtJcto.jpg",
+        "public_metrics": {
+          "view_count": 283
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957710154537005058/vid/avc1/320x426/CEuHGGVUkpSrwARe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957710154537005058/vid/avc1/480x640/_nu8vwH4S28WOibY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957710154537005058/vid/avc1/720x960/x8jzt7XyibLaldRN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957710154537005058/pl/0G0D2HKm71E3wRIR.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957756183793553408"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1957710474218467433",
+        "created_at": "2025-08-19T10:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T11:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957756199069217248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937191223313465346",
+              "start": 0,
+              "username": "MoKong54748"
+            },
+            {
+              "end": 22,
+              "id": "1490941014030561283",
+              "start": 13,
+              "username": "redaizhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5IFFUPOcbM",
+              "end": 64,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1957756199069217248/photo/1",
+              "media_key": "3_1957756183793553408",
+              "start": 41,
+              "url": "https://t.co/5IFFUPOcbM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957756199069217248",
+        "in_reply_to_user_id": "1937191223313465346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957710474218467433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoKong54748 @redaizhu 好喜欢你的声音。我会一直缠着你的。 https://t.co/5IFFUPOcbM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957710154537005058"
+          ]
+        },
+        "author_id": "1937191223313465346",
+        "conversation_id": "1957710474218467433",
+        "created_at": "2025-08-19T07:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T08:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957710474218467433"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男喘"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "青叔音"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "女性向"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1490941014030561283",
+              "start": 4,
+              "username": "redaizhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qPqgxZS2U",
+              "end": 52,
+              "expanded_url": "https://x.com/MoKong54748/status/1957710474218467433/video/1",
+              "media_key": "13_1957710154537005058",
+              "start": 29,
+              "url": "https://t.co/2qPqgxZS2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957710474218467433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 689,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台本老师@redaizhu \n#男喘 #青叔音 #女性向 https://t.co/2qPqgxZS2U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)当朋友圈发…不约炮…会回私信…骚扰就算了除非你身材我真的很喜欢 喜欢发一些身材照…我是双性恋",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 70,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 366
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T16:49:32.000Z",
+        "description": "接陪玩陪聊 没有🚪 也没福利 想加就加",
+        "id": "1937191223313465346",
+        "location": "哈尔滨",
+        "name": "宇",
+        "pinned_tweet_id": "1953396256857813435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945653669405290496/s32b-8uD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5124,
+          "following_count": 30,
+          "like_count": 25,
+          "listed_count": 9,
+          "media_count": 19,
+          "tweet_count": 201
+        },
+        "username": "MoKong54748",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T06:50:26.000Z",
+        "description": "不喜欢屏蔽就好了    祝大家天天开心啦   生活小号  @kaixinyao0987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "kaixinyao0987"
+              }
+            ]
+          }
+        },
+        "id": "1490941014030561283",
+        "name": "热带猪🌙",
+        "pinned_tweet_id": "1855990819347698041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875558956464271365/jS3Awz6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37167,
+          "following_count": 110,
+          "like_count": 32107,
+          "listed_count": 50,
+          "media_count": 1883,
+          "tweet_count": 5495
+        },
+        "username": "redaizhu",
+        "verified": false
+      }
+    ]
+  }
+}

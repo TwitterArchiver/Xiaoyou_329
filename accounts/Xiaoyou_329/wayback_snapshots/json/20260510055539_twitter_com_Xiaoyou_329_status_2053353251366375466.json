@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2053122133434286350",
+    "created_at": "2026-05-10T05:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053353251366375466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917804398824022016",
+          "start": 0,
+          "username": "lne_li19885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053353251366375466",
+    "in_reply_to_user_id": "1917804398824022016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053122133434286350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lne_li19885 语擦女皮上谈一个皮下谈一个 最后不喜欢哪个就说我们谈的是皮上呀😳😳😳依旧免责声明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2053122133434286350",
+        "created_at": "2026-05-10T05:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053353251366375466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917804398824022016",
+              "start": 0,
+              "username": "lne_li19885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053353251366375466",
+        "in_reply_to_user_id": "1917804398824022016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053122133434286350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lne_li19885 语擦女皮上谈一个皮下谈一个 最后不喜欢哪个就说我们谈的是皮上呀😳😳😳依旧免责声明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917804398824022016",
+        "conversation_id": "2053122133434286350",
+        "created_at": "2026-05-09T14:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053122133434286350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053122133434286350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 23541,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有女朋友玩语擦是不是精神病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14643,
+          "following_count": 168,
+          "like_count": 7452,
+          "listed_count": 21,
+          "media_count": 844,
+          "tweet_count": 6548
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T04:53:03.000Z",
+        "description": "🤍ྀི⁃ ⩊ ⁃ 纯0 喜欢女生 男的勿扰",
+        "id": "1917804398824022016",
+        "name": "Painkiller",
+        "pinned_tweet_id": "2043610651600290210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029979417678860288/Ii2ARh4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 142,
+          "like_count": 2191,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 919
+        },
+        "username": "lne_li19885",
+        "verified": false
+      }
+    ]
+  }
+}

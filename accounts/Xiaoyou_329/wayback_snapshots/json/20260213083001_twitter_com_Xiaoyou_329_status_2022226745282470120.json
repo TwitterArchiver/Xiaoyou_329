@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2022226745282470120",
+    "created_at": "2026-02-13T08:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T09:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022226745282470120"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyou_329/st…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/xiaoyou_329/status/2022223336433234265",
+          "start": 130,
+          "url": "https://t.co/DgO4C0sMGL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022226745282470120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022223336433234265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实她对我挺好的。我们在一起最幸福的时候是24年八月\n那段时间我和她天天一起玩迷你世界 但是她总拉着她朋友一起 她们说话我插不上\n天天晚上打电话到天亮 都怪她从那个时候我就特别喜欢打电话了\n然后就是每天等她睡醒的时候也很幸福\n唉。明明是她求了我那么多次和好。 https://t.co/DgO4C0sMGL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022226745282470120",
+        "created_at": "2026-02-13T08:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022226745282470120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyou_329/st…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/xiaoyou_329/status/2022223336433234265",
+              "start": 130,
+              "url": "https://t.co/DgO4C0sMGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022226745282470120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022223336433234265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实她对我挺好的。我们在一起最幸福的时候是24年八月\n那段时间我和她天天一起玩迷你世界 但是她总拉着她朋友一起 她们说话我插不上\n天天晚上打电话到天亮 都怪她从那个时候我就特别喜欢打电话了\n然后就是每天等她睡醒的时候也很幸福\n唉。明明是她求了我那么多次和好。 https://t.co/DgO4C0sMGL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022223336433234265",
+        "created_at": "2026-02-13T08:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022223336433234265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022223336433234265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉。我微博发了那么多伤感文案全是为了一个精神出轨我还网爆我疯狂骂我婊子的一个女孩。我想不通我咋这么贱。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12090,
+          "following_count": 161,
+          "like_count": 6578,
+          "listed_count": 19,
+          "media_count": 651,
+          "tweet_count": 5378
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

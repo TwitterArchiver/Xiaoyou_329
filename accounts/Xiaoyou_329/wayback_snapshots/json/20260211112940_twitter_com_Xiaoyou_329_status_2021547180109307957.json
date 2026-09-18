@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2021540159632642173",
+    "created_at": "2026-02-11T11:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T12:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021547180109307957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688138166098939904",
+          "start": 0,
+          "username": "woshibendan911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021547180109307957",
+    "in_reply_to_user_id": "1688138166098939904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021541680441438384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshibendan911 我也做不到。好无力。但是起码这样我还能留在对方身边TuT一点点痛 痛到最后就麻木 不在乎了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2021540159632642173",
+        "created_at": "2026-02-11T11:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021547180109307957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688138166098939904",
+              "start": 0,
+              "username": "woshibendan911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021547180109307957",
+        "in_reply_to_user_id": "1688138166098939904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021541680441438384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshibendan911 我也做不到。好无力。但是起码这样我还能留在对方身边TuT一点点痛 痛到最后就麻木 不在乎了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688138166098939904",
+        "conversation_id": "2021540159632642173",
+        "created_at": "2026-02-11T11:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021541680441438384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021541680441438384",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021540159632642173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 确实很难成为朋友了，至少我做不到平静的对待对方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2021453869860184443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12090,
+          "following_count": 161,
+          "like_count": 6494,
+          "listed_count": 19,
+          "media_count": 645,
+          "tweet_count": 5343
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T10:41:23.000Z",
+        "description": "偶尔有窃窃私语的声音，然后又归于平静",
+        "id": "1688138166098939904",
+        "name": "坏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850929193762369536/Y_136anH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 48,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 593
+        },
+        "username": "woshibendan911",
+        "verified": false
+      }
+    ]
+  }
+}

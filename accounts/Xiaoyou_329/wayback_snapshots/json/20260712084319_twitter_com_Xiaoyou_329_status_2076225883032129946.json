@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2076199753302548670",
+    "created_at": "2026-07-12T08:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076225883032129946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1495943207955226628",
+          "start": 0,
+          "username": "aling040509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076225883032129946",
+    "in_reply_to_user_id": "1495943207955226628",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076207643375599729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aling040509 特别长的美甲啦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2076199753302548670",
+        "created_at": "2026-07-12T08:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076225883032129946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1495943207955226628",
+              "start": 0,
+              "username": "aling040509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076225883032129946",
+        "in_reply_to_user_id": "1495943207955226628",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076207643375599729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aling040509 特别长的美甲啦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495943207955226628",
+        "conversation_id": "2076199753302548670",
+        "created_at": "2026-07-12T07:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076207643375599729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076207643375599729",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076199753302548670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 宝宝话要说完整！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17300,
+          "following_count": 181,
+          "like_count": 7702,
+          "listed_count": 21,
+          "media_count": 963,
+          "tweet_count": 7384
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T02:07:14.000Z",
+        "description": "x不经常看，微信公开号qqz050909，南京周边，希望你有礼貌，又多金哟～身高160体重92成功减了2斤哦~！",
+        "id": "1495943207955226628",
+        "location": "南京",
+        "name": "南京扬州小才女biu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496803578799071233/rwyXcIsu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 17,
+          "like_count": 46,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "aling040509",
+        "verified": false
+      }
+    ]
+  }
+}

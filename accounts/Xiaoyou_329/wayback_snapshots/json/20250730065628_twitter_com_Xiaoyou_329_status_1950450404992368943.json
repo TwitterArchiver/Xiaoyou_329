@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1950450306262716416"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1950450404992368943",
+    "created_at": "2025-07-30T06:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950450404992368943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2J3QQEFPpD",
+          "end": 43,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1950450404992368943/video/1",
+          "media_key": "13_1950450306262716416",
+          "start": 20,
+          "url": "https://t.co/2J3QQEFPpD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950450404992368943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "汩汩叽叽。实际上忍得嘴唇都快咬烂了吧。 https://t.co/2J3QQEFPpD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26260,
+        "height": 1280,
+        "media_key": "13_1950450306262716416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950450306262716416/img/WsHYouz0b-dgdB0m.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950450306262716416/vid/avc1/320x690/UsFqnahqvwXLg9Ec.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950450306262716416/vid/avc1/480x1036/2NFTa-ZjM7qHVABE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950450306262716416/vid/avc1/592x1280/LfN6x6zv1L-yaI3U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950450306262716416/pl/1E-mCyYFMdNJ2a_b.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950450306262716416"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1950450404992368943",
+        "created_at": "2025-07-30T06:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950450404992368943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2J3QQEFPpD",
+              "end": 43,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1950450404992368943/video/1",
+              "media_key": "13_1950450306262716416",
+              "start": 20,
+              "url": "https://t.co/2J3QQEFPpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950450404992368943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汩汩叽叽。实际上忍得嘴唇都快咬烂了吧。 https://t.co/2J3QQEFPpD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 61,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 209
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

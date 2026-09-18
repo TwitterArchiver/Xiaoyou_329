@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967557601820098876",
+    "created_at": "2025-09-15T12:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T13:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967568663604838663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1932473903408160768",
+          "start": 0,
+          "username": "ivblune1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967568663604838663",
+    "in_reply_to_user_id": "1932473903408160768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967564029129568499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivblune1 是呀嘿嘿(｡･ω･｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967557601820098876",
+        "created_at": "2025-09-15T12:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T13:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967568663604838663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932473903408160768",
+              "start": 0,
+              "username": "ivblune1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967568663604838663",
+        "in_reply_to_user_id": "1932473903408160768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967564029129568499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivblune1 是呀嘿嘿(｡･ω･｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932473903408160768",
+        "conversation_id": "1967557601820098876",
+        "created_at": "2025-09-15T12:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T13:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967564029129568499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967564029129568499",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967557601820098876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 笨宝宝换头像啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1967249281976594683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 109,
+          "like_count": 1477,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 1827
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T16:24:29.000Z",
+        "description": "恭喜你发现了全世界最可爱的小博主啦",
+        "id": "1932473903408160768",
+        "name": "4ever",
+        "pinned_tweet_id": "1959599334380732680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959594952452894720/RjwZkk_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 188,
+          "like_count": 500,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1373
+        },
+        "username": "ivblune1",
+        "verified": false
+      }
+    ]
+  }
+}

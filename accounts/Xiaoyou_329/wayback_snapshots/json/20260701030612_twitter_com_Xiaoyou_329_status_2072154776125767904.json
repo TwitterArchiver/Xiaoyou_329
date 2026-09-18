@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2072153620569796687",
+    "created_at": "2026-07-01T03:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072154776125767904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1366799341436821506",
+          "start": 0,
+          "username": "OrOSmE2kVUdx7yL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072154776125767904",
+    "in_reply_to_user_id": "1366799341436821506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072154239158342120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrOSmE2kVUdx7yL 唉好伤心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2072153620569796687",
+        "created_at": "2026-07-01T03:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072154776125767904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1366799341436821506",
+              "start": 0,
+              "username": "OrOSmE2kVUdx7yL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072154776125767904",
+        "in_reply_to_user_id": "1366799341436821506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072154239158342120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrOSmE2kVUdx7yL 唉好伤心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366799341436821506",
+        "conversation_id": "2072153620569796687",
+        "created_at": "2026-07-01T03:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072154239158342120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072154239158342120",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072153620569796687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 人都少了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17019,
+          "following_count": 177,
+          "like_count": 7684,
+          "listed_count": 20,
+          "media_count": 881,
+          "tweet_count": 7084
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T17:15:39.000Z",
+        "description": "猎奇",
+        "id": "1366799341436821506",
+        "location": "西安",
+        "name": "活着丶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1366802495947739138/jVZ9hbae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 214,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "OrOSmE2kVUdx7yL",
+        "verified": false
+      }
+    ]
+  }
+}

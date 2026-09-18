@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2018314170924494982",
+    "created_at": "2026-02-02T13:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T14:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018317583187862005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1823559022051774464",
+          "start": 0,
+          "username": "aaaa29408659804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018317583187862005",
+    "in_reply_to_user_id": "1823559022051774464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018316108634485214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaa29408659804 🌚。我就是间接性抽风。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2018314170924494982",
+        "created_at": "2026-02-02T13:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T14:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018317583187862005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1823559022051774464",
+              "start": 0,
+              "username": "aaaa29408659804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018317583187862005",
+        "in_reply_to_user_id": "1823559022051774464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018316108634485214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaa29408659804 🌚。我就是间接性抽风。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823559022051774464",
+        "conversation_id": "2018314170924494982",
+        "created_at": "2026-02-02T13:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T14:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018316108634485214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018316108634485214",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018314170924494982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 怎么不跟前暧昧继续聊天了🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11546,
+          "following_count": 157,
+          "like_count": 6266,
+          "listed_count": 16,
+          "media_count": 620,
+          "tweet_count": 5152
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T03:15:40.000Z",
+        "description": "见识更多的风景，认识更有趣的人",
+        "id": "1823559022051774464",
+        "name": "小文文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827119956649242624/9GbFhtSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 339,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 642
+        },
+        "username": "aaaa29408659804",
+        "verified": false
+      }
+    ]
+  }
+}

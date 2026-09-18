@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067512635441201152",
+        "3_2067512635365748736"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2067512745524896206",
+    "created_at": "2026-06-18T07:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067512745524896206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tmU2pa0qC6",
+          "end": 40,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2067512745524896206/video/1",
+          "media_key": "13_2067512635441201152",
+          "start": 17,
+          "url": "https://t.co/tmU2pa0qC6"
+        },
+        {
+          "display_url": "pic.x.com/tmU2pa0qC6",
+          "end": 40,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2067512745524896206/video/1",
+          "media_key": "3_2067512635365748736",
+          "start": 17,
+          "url": "https://t.co/tmU2pa0qC6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067512745524896206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好小橘 你的山竹不可以放这里… https://t.co/tmU2pa0qC6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7700,
+        "height": 960,
+        "media_key": "13_2067512635441201152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067512635441201152/img/4B6zDwgXB0MVwJNt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067512635441201152/vid/avc1/320x426/kSOMLpESeL-yuNIT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067512635441201152/vid/avc1/480x640/WrxdglC3O2BRbjdm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067512635441201152/vid/avc1/720x960/aGDfnYYJQSdhNgfX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067512635441201152/pl/S_DEJojLmrNQAeXR.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067512635365748736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFHyaebcAANr-0.jpg",
+        "width": 1804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067512635441201152",
+            "3_2067512635365748736"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2067512745524896206",
+        "created_at": "2026-06-18T07:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067512745524896206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmU2pa0qC6",
+              "end": 40,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2067512745524896206/video/1",
+              "media_key": "13_2067512635441201152",
+              "start": 17,
+              "url": "https://t.co/tmU2pa0qC6"
+            },
+            {
+              "display_url": "pic.x.com/tmU2pa0qC6",
+              "end": 40,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2067512745524896206/video/1",
+              "media_key": "3_2067512635365748736",
+              "start": 17,
+              "url": "https://t.co/tmU2pa0qC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067512745524896206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好小橘 你的山竹不可以放这里… https://t.co/tmU2pa0qC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15512,
+          "following_count": 176,
+          "like_count": 7682,
+          "listed_count": 20,
+          "media_count": 835,
+          "tweet_count": 6825
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

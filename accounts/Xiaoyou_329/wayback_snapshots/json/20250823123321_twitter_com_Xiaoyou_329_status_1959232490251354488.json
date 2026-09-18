@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959232479476248577"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1959229879574241669",
+    "created_at": "2025-08-23T12:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T13:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959232490251354488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1874085758488690688",
+          "start": 0,
+          "username": "pyh996"
+        },
+        {
+          "end": 21,
+          "id": "1504076555269689346",
+          "start": 8,
+          "username": "Chi2KouDanTa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wkFXhQs0za",
+          "end": 50,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1959232490251354488/photo/1",
+          "media_key": "3_1959232479476248577",
+          "start": 27,
+          "url": "https://t.co/wkFXhQs0za"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959232490251354488",
+    "in_reply_to_user_id": "1874085758488690688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959229879574241669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyh996 @Chi2KouDanTa 小亦过来 https://t.co/wkFXhQs0za"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 182,
+        "media_key": "3_1959232479476248577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzCXj0OW8AEbOME.jpg",
+        "width": 564
+      },
+      {
+        "duration_ms": 1110083,
+        "height": 1280,
+        "media_key": "13_1959227925074747392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959227925074747392/img/dG8FfGJbiLEeg7aw.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959227925074747392/vid/avc1/320x580/g0tE-XpWI4f4lgp7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959227925074747392/vid/avc1/480x872/80jIcDBa3el-0N4n.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959227925074747392/vid/avc1/704x1280/doNQBkmrF-JMaDgs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959227925074747392/pl/HSQAH-XsrxmlIsFt.m3u8"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959232479476248577"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1959229879574241669",
+        "created_at": "2025-08-23T12:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T13:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959232490251354488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1874085758488690688",
+              "start": 0,
+              "username": "pyh996"
+            },
+            {
+              "end": 21,
+              "id": "1504076555269689346",
+              "start": 8,
+              "username": "Chi2KouDanTa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkFXhQs0za",
+              "end": 50,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1959232490251354488/photo/1",
+              "media_key": "3_1959232479476248577",
+              "start": 27,
+              "url": "https://t.co/wkFXhQs0za"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959232490251354488",
+        "in_reply_to_user_id": "1874085758488690688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959229879574241669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyh996 @Chi2KouDanTa 小亦过来 https://t.co/wkFXhQs0za"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959227925074747392"
+          ]
+        },
+        "author_id": "1874085758488690688",
+        "conversation_id": "1959229879574241669",
+        "created_at": "2025-08-23T12:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T13:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959229879574241669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "青年"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "男喘"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "女性向"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "温青"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "青受"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "舔舔"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "亲亲"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "一爱"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "短打"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "女性向"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "纯喘"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "手冲"
+            },
+            {
+              "end": 154,
+              "start": 149,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "反差"
+            },
+            {
+              "end": 164,
+              "start": 159,
+              "tag": "温柔少年"
+            },
+            {
+              "end": 168,
+              "start": 165,
+              "tag": "姐狗"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 90,
+              "id": "1504076555269689346",
+              "start": 77,
+              "username": "Chi2KouDanTa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L70wFHdrI4",
+              "end": 192,
+              "expanded_url": "https://x.com/pyh996/status/1959229879574241669/video/1",
+              "media_key": "13_1959227925074747392",
+              "start": 169,
+              "url": "https://t.co/L70wFHdrI4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959229879574241669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《姐姐的小狗》\n\n“姐姐，好喜欢姐姐啊，我想一直一直和姐姐在一起，永远永远都不分开”\n“小狗会汪汪叫，那我也会啊，汪汪，我就是姐姐的小狗~”\n\n台本老师：@Chi2KouDanTa \n\n#青年 #男喘 #女性向 #温青 #青受 #小狗日记 #舔舔 #亲亲 #一爱 #短打 #女性向 #纯喘 #手冲 #手冲实录 #反差 #温柔少年 #姐狗 https://t.co/L70wFHdrI4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 71,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 547
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T13:31:37.000Z",
+        "description": "02 178 140 平平无奇的小死宅 随便读一下 手机录音机直录 萝卜青菜各有所爱 我的匿名信箱https://t.co/SKQUto1JRu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pyh996",
+                "end": 72,
+                "expanded_url": "https://ngl.link/pyh996",
+                "start": 49,
+                "url": "https://t.co/SKQUto1JRu"
+              }
+            ]
+          }
+        },
+        "id": "1874085758488690688",
+        "location": "🚪1/6/18/30/68 没有区别全充王者助我v10",
+        "name": "小亦",
+        "pinned_tweet_id": "1946623340061323361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941875269200994304/U63b45r0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 176,
+          "like_count": 3018,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 792
+        },
+        "username": "pyh996",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T12:46:31.000Z",
+        "description": "叫我蛋挞就好 | dom | 不聊h | 不约不线下 | 不搞推推恋 | 没有🚪| 只和熟人加v | 青年音&小狗男重度依赖 | 另一个我@Mskqiufangguo | 只过熟人 | 短打自取发布艾特我就好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Mskqiufangguo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chikoudanta",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chikoudanta",
+                "start": 0,
+                "url": "https://t.co/Uz4fAADGdN"
+              }
+            ]
+          }
+        },
+        "id": "1504076555269689346",
+        "location": "非专业台本娘 产量极低 只写自己想写的",
+        "name": "吃两口蛋挞",
+        "pinned_tweet_id": "1957401051851825286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949984389095473152/JVi0lB75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 151,
+          "like_count": 5427,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1237
+        },
+        "url": "https://t.co/Uz4fAADGdN",
+        "username": "Chi2KouDanTa",
+        "verified": false
+      }
+    ]
+  }
+}

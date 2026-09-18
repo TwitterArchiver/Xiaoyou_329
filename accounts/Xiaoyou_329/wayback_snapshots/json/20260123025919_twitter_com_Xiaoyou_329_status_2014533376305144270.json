@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2014376741104464144",
+    "created_at": "2026-01-23T02:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T03:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014533376305144270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1932440598637662208",
+          "start": 0,
+          "username": "li_xiao72441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014533376305144270",
+    "in_reply_to_user_id": "1932440598637662208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014517555042648357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li_xiao72441 我去不早说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2014376741104464144",
+        "created_at": "2026-01-23T02:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T03:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014533376305144270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1932440598637662208",
+              "start": 0,
+              "username": "li_xiao72441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014533376305144270",
+        "in_reply_to_user_id": "1932440598637662208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014517555042648357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li_xiao72441 我去不早说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932440598637662208",
+        "conversation_id": "2014376741104464144",
+        "created_at": "2026-01-23T01:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T02:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014517555042648357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014517555042648357",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014376741104464144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 这种男生等不爱了之后骂的最狠了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私 不回冒犯性问题｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9711,
+          "following_count": 155,
+          "like_count": 6271,
+          "listed_count": 16,
+          "media_count": 606,
+          "tweet_count": 5027
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T14:12:08.000Z",
+        "description": "🚪52  不定期掉落福利，88送小程序控制福利  只收口令，有时会回私信，只和肌肉男闲聊",
+        "id": "1932440598637662208",
+        "name": "兽奶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932440714073223168/5JsoB4eA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 70,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 169
+        },
+        "username": "li_xiao72441",
+        "verified": false
+      }
+    ]
+  }
+}

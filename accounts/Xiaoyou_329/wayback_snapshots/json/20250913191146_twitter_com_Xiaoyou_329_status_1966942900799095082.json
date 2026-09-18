@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1966924999266365676",
+    "created_at": "2025-09-13T19:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T20:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966942900799095082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1478921478355644416",
+          "start": 0,
+          "username": "lh17272"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966942900799095082",
+    "in_reply_to_user_id": "1478921478355644416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966924999266365676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lh17272 姐姐好好休息 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1966924999266365676",
+        "created_at": "2025-09-13T19:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T20:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966942900799095082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1478921478355644416",
+              "start": 0,
+              "username": "lh17272"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966942900799095082",
+        "in_reply_to_user_id": "1478921478355644416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966924999266365676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lh17272 姐姐好好休息 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478921478355644416",
+        "conversation_id": "1966924999266365676",
+        "created_at": "2025-09-13T18:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T19:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966924999266365676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/spaces/1PlKQ…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1PlKQOlOXYDJE",
+              "images": [
+                {
+                  "height": 1139,
+                  "url": "https://pbs.twimg.com/news_img/1966925015661899779/cz2_7Kqo?format=jpg&name=orig",
+                  "width": 2156
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966925015661899779/cz2_7Kqo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://twitter.com/i/spaces/1PlKQOlOXYDJE/peek",
+              "url": "https://t.co/FcUH4sLeJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966924999266365676",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FcUH4sLeJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 105,
+          "like_count": 1409,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1702
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T02:49:55.000Z",
+        "description": "",
+        "id": "1478921478355644416",
+        "name": "猪仔煲捞面",
+        "pinned_tweet_id": "1965970934394925472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925875438502526976/EBMRMpcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 295,
+          "like_count": 1483,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 276
+        },
+        "username": "lh17272",
+        "verified": false
+      }
+    ]
+  }
+}

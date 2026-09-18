@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2066216103941190121",
+    "created_at": "2026-06-15T03:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066368853861621946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840993285172838404",
+          "start": 0,
+          "username": "Su2uyaZZZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyou_329/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/xiaoyou_329/status/2061085946351919436",
+          "start": 31,
+          "url": "https://t.co/WAJefTCwjD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066368853861621946",
+    "in_reply_to_user_id": "1840993285172838404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061085946351919436",
+        "type": "quoted"
+      },
+      {
+        "id": "2066364957458092353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Su2uyaZZZ 一看就没有好好看我的推。罚你复习课件。 https://t.co/WAJefTCwjD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061085922033283072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpyudpaMAA9ETz.jpg",
+        "width": 1063
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061085922079526912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpyud0b0AAPsjM.jpg",
+        "width": 1057
+      },
+      {
+        "height": 1219,
+        "media_key": "3_2061085922050158593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpyudtbsAEBu1J.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2066216103941190121",
+        "created_at": "2026-06-15T03:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066368853861621946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840993285172838404",
+              "start": 0,
+              "username": "Su2uyaZZZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyou_329/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/xiaoyou_329/status/2061085946351919436",
+              "start": 31,
+              "url": "https://t.co/WAJefTCwjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066368853861621946",
+        "in_reply_to_user_id": "1840993285172838404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061085946351919436",
+            "type": "quoted"
+          },
+          {
+            "id": "2066364957458092353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Su2uyaZZZ 一看就没有好好看我的推。罚你复习课件。 https://t.co/WAJefTCwjD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061085922033283072",
+            "3_2061085922079526912",
+            "3_2061085922050158593"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2061085946351919436",
+        "created_at": "2026-05-31T14:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061085946351919436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SwGRMGgvBK",
+              "end": 126,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2061085946351919436/photo/1",
+              "media_key": "3_2061085922033283072",
+              "start": 103,
+              "url": "https://t.co/SwGRMGgvBK"
+            },
+            {
+              "display_url": "pic.x.com/SwGRMGgvBK",
+              "end": 126,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2061085946351919436/photo/1",
+              "media_key": "3_2061085922079526912",
+              "start": 103,
+              "url": "https://t.co/SwGRMGgvBK"
+            },
+            {
+              "display_url": "pic.x.com/SwGRMGgvBK",
+              "end": 126,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2061085946351919436/photo/1",
+              "media_key": "3_2061085922050158593",
+              "start": 103,
+              "url": "https://t.co/SwGRMGgvBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061085946351919436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16235,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人给我投喂都清楚以下好不好。有能力并且喜欢我的再给我投喂。我不是出售关于我的任何你换不来我的任何。顶到头说可以买来我的开心。\n最后我把钱已经还给他了。好吧。吃一堑长一智。我不会再心软乱给人联系方式了。 https://t.co/SwGRMGgvBK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840993285172838404",
+        "conversation_id": "2066216103941190121",
+        "created_at": "2026-06-15T03:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066364957458092353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066364957458092353",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066216103941190121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 怎么拥有老师的微信我好难过我好想哭……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15519,
+          "following_count": 175,
+          "like_count": 7652,
+          "listed_count": 20,
+          "media_count": 817,
+          "tweet_count": 6776
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T05:53:06.000Z",
+        "description": "It’s MyGo!!!!!",
+        "id": "1840993285172838404",
+        "name": "Su2uya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040519576061198336/YDBY_1Br_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 176,
+          "like_count": 2223,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 125
+        },
+        "username": "Su2uyaZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

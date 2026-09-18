@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1999298498165113267",
+    "created_at": "2025-12-12T02:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T03:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999304743081115991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1797479157594763265",
+          "start": 0,
+          "username": "TICCNINE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999304743081115991",
+    "in_reply_to_user_id": "1797479157594763265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999300640825311335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TICCNINE 你说什么。我有点没听懂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1999298498165113267",
+        "created_at": "2025-12-12T02:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T03:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999304743081115991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1797479157594763265",
+              "start": 0,
+              "username": "TICCNINE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999304743081115991",
+        "in_reply_to_user_id": "1797479157594763265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999300640825311335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TICCNINE 你说什么。我有点没听懂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797479157594763265",
+        "conversation_id": "1999298498165113267",
+        "created_at": "2025-12-12T02:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T03:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999300640825311335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1999300640825311335",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999298498165113267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 不是姐们，看一上午你发的推我就好累啊😫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注祝你 天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8103,
+          "following_count": 153,
+          "like_count": 5655,
+          "listed_count": 8,
+          "media_count": 551,
+          "tweet_count": 4542
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T04:03:36.000Z",
+        "description": "❤️🏀🖥🎥🎙",
+        "id": "1797479157594763265",
+        "name": "The biggest failure of The 21st century",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941904924951896065/k1Cjwarp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 171,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 400
+        },
+        "username": "TICCNINE",
+        "verified": false
+      }
+    ]
+  }
+}

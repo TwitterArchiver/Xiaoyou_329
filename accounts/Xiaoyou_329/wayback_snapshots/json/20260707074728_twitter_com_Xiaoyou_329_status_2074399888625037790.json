@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2074334015360999747",
+    "created_at": "2026-07-07T07:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074399888625037790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1948212165711908864",
+          "start": 0,
+          "username": "77withRin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074399888625037790",
+    "in_reply_to_user_id": "1948212165711908864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074392845503680832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77withRin 谢谢你呀小宝宝！（≧∇≦）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2074334015360999747",
+        "created_at": "2026-07-07T07:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074399888625037790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1948212165711908864",
+              "start": 0,
+              "username": "77withRin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074399888625037790",
+        "in_reply_to_user_id": "1948212165711908864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074392845503680832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77withRin 谢谢你呀小宝宝！（≧∇≦）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948212165711908864",
+        "conversation_id": "2074334015360999747",
+        "created_at": "2026-07-07T07:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074392845503680832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074392845503680832",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074334015360999747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 好漂亮好可爱眼睛圆圆的好呆萌呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16994,
+          "following_count": 184,
+          "like_count": 7696,
+          "listed_count": 20,
+          "media_count": 920,
+          "tweet_count": 7214
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T02:42:48.000Z",
+        "description": "💗世界充满爱与粉红色💗",
+        "id": "1948212165711908864",
+        "location": "未知",
+        "name": "Knight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029953476592291845/Oz9rR1-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 78,
+          "like_count": 1246,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "77withRin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073372375773818880"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2073372386595135797",
+    "created_at": "2026-07-04T11:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073372386595135797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AvShBqCJN4",
+          "end": 162,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2073372386595135797/photo/1",
+          "media_key": "3_2073372375773818880",
+          "start": 139,
+          "url": "https://t.co/AvShBqCJN4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073372386595135797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刷到别人小时候带银镯子，我就想起来其实我一直是没有的，问家人，他们就说“没必要”\n后来我朋友买了个银镯子，我吵着闹着也要来了一个，有一段做的像竹子，上面还有平安锁样式的铃铛，只是有点可惜后来某次和妈妈吵架的时候的铃铛被她打掉了，一直也没有去修复\n\n好可惜，我很喜欢热闹的东西… https://t.co/AvShBqCJN4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1269,
+        "media_key": "3_2073372375773818880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYZMMkbMAAVKal.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073372375773818880"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2073372386595135797",
+        "created_at": "2026-07-04T11:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073372386595135797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AvShBqCJN4",
+              "end": 162,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2073372386595135797/photo/1",
+              "media_key": "3_2073372375773818880",
+              "start": 139,
+              "url": "https://t.co/AvShBqCJN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073372386595135797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到别人小时候带银镯子，我就想起来其实我一直是没有的，问家人，他们就说“没必要”\n后来我朋友买了个银镯子，我吵着闹着也要来了一个，有一段做的像竹子，上面还有平安锁样式的铃铛，只是有点可惜后来某次和妈妈吵架的时候的铃铛被她打掉了，一直也没有去修复\n\n好可惜，我很喜欢热闹的东西… https://t.co/AvShBqCJN4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17013,
+          "following_count": 182,
+          "like_count": 7679,
+          "listed_count": 20,
+          "media_count": 899,
+          "tweet_count": 7150
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

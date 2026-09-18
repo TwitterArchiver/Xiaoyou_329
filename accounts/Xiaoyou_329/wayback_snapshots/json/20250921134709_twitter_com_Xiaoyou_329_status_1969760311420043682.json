@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1969751240499499307",
+    "created_at": "2025-09-21T13:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969760311420043682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947634203358543873",
+          "start": 0,
+          "username": "uxehNv2zpB70937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969760311420043682",
+    "in_reply_to_user_id": "1947634203358543873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969751240499499307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uxehNv2zpB70937 我要cpdd吧就是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1969751240499499307",
+        "created_at": "2025-09-21T13:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969760311420043682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947634203358543873",
+              "start": 0,
+              "username": "uxehNv2zpB70937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969760311420043682",
+        "in_reply_to_user_id": "1947634203358543873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969751240499499307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uxehNv2zpB70937 我要cpdd吧就是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947634203358543873",
+        "conversation_id": "1969751240499499307",
+        "created_at": "2025-09-21T13:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969751240499499307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "岁星’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1vAxR…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1vAxRQeLmkqJl",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1969751282916483072/IV9c6axO?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1969751282916483072/IV9c6axO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 快来和我聊天吧",
+              "unwound_url": "https://twitter.com/i/spaces/1vAxRQeLmkqJl/peek",
+              "url": "https://t.co/uWDKSL6Vu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969751240499499307",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uWDKSL6Vu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1965820788399026273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 119,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 2108
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T12:26:11.000Z",
+        "description": "瞎玩瞎聊瞎看和一些想法 ｜老忘记点赞（介意的宝宝可以和我说捏 ｜🚬可能黄色废话和评论比较多（介意的宝宝可以取关我捏 我不是很在意互关｜应该不会出现裸露身体照片（哪天忍不住了再说🤗",
+        "id": "1947634203358543873",
+        "name": "岁星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955658680114044928/OlfF5_8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 152,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1238
+        },
+        "username": "uxehNv2zpB70937",
+        "verified": false
+      }
+    ]
+  }
+}

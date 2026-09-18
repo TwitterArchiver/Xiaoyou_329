@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028438824410579351",
+    "created_at": "2026-03-02T11:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T12:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028438824410579351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1455934423614963716",
+          "start": 3,
+          "username": "jack26116326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028438824410579351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028408885405684166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jack26116326: 好嘛，没关系，你哭没关系。我陪你去散步好不好，你不用太打扮。我带你去你最喜欢的那家餐厅好不好，吃饭之前让你先拍照。我抱抱你好不好，稍微紧一些。眼泪是弱酸性，腐蚀掉外壳，留下比较脆弱的你。脆弱也没关系，焦虑烦躁委屈敏感，咬我，掐我，让我说一千遍…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028438824410579351",
+        "created_at": "2026-03-02T11:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028438824410579351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1455934423614963716",
+              "start": 3,
+              "username": "jack26116326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028438824410579351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028408885405684166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jack26116326: 好嘛，没关系，你哭没关系。我陪你去散步好不好，你不用太打扮。我带你去你最喜欢的那家餐厅好不好，吃饭之前让你先拍照。我抱抱你好不好，稍微紧一些。眼泪是弱酸性，腐蚀掉外壳，留下比较脆弱的你。脆弱也没关系，焦虑烦躁委屈敏感，咬我，掐我，让我说一千遍…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455934423614963716",
+        "conversation_id": "2028408885405684166",
+        "created_at": "2026-03-02T09:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028408885405684166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028408885405684166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1223,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "好嘛，没关系，你哭没关系。我陪你去散步好不好，你不用太打扮。我带你去你最喜欢的那家餐厅好不好，吃饭之前让你先拍照。我抱抱你好不好，稍微紧一些。眼泪是弱酸性，腐蚀掉外壳，留下比较脆弱的你。脆弱也没关系，焦虑烦躁委屈敏感，咬我，掐我，让我说一千遍我爱你，要我一直陪着你，都可以。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12789,
+          "following_count": 164,
+          "like_count": 6821,
+          "listed_count": 19,
+          "media_count": 710,
+          "tweet_count": 5698
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:26:38.000Z",
+        "description": "我要杀了所有骗我的人",
+        "id": "1455934423614963716",
+        "name": "xkkk",
+        "pinned_tweet_id": "2024760498252894681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024114539537760256/mdQyfzCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 47,
+          "like_count": 1047,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 414
+        },
+        "username": "jack26116326",
+        "verified": false
+      }
+    ]
+  }
+}

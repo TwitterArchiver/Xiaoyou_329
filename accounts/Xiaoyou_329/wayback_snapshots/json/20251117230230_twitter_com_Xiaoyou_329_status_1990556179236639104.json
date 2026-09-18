@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1990556179236639104",
+    "created_at": "2025-11-17T23:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T00:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990556179236639104"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990556179236639104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "过两天小由可能就因为和家里人吵架所以被停掉生活费。。。我不知道到底要干什么。吵架吵得莫名其妙的。早上没睡着过来给我一顿骂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1990556179236639104",
+        "created_at": "2025-11-17T23:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T00:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990556179236639104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990556179236639104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过两天小由可能就因为和家里人吵架所以被停掉生活费。。。我不知道到底要干什么。吵架吵得莫名其妙的。早上没睡着过来给我一顿骂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜家妻善妒@Yuevli ｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 45,
+                "username": "Yuevli"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6739,
+          "following_count": 152,
+          "like_count": 4614,
+          "listed_count": 5,
+          "media_count": 474,
+          "tweet_count": 3816
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2050630461618266151",
+    "created_at": "2026-05-02T17:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050630461618266151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoshu_yy33/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/xiaoshu_yy33/status/2050548645435752509",
+          "start": 39,
+          "url": "https://t.co/cSCO6zQrcP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050630461618266151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050548645435752509",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯对！我特别喜欢那种哒哒哒的声音但是因为自己一直咬指甲…🥲所以我贴甲片总掉… https://t.co/cSCO6zQrcP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2050630461618266151",
+        "created_at": "2026-05-02T17:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050630461618266151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoshu_yy33/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/xiaoshu_yy33/status/2050548645435752509",
+              "start": 39,
+              "url": "https://t.co/cSCO6zQrcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050630461618266151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050548645435752509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯对！我特别喜欢那种哒哒哒的声音但是因为自己一直咬指甲…🥲所以我贴甲片总掉… https://t.co/cSCO6zQrcP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922650331454058496",
+        "conversation_id": "2050548645435752509",
+        "created_at": "2026-05-02T12:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050548645435752509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050548645435752509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 16274,
+          "like_count": 399,
+          "quote_count": 5,
+          "reply_count": 95,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉长美甲拍在手机屏幕哒哒哒的声音的性感程度 不亚于高跟鞋落地  多了几分氛围感和精致感 谁懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14254,
+          "following_count": 164,
+          "like_count": 7418,
+          "listed_count": 21,
+          "media_count": 824,
+          "tweet_count": 6472
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T13:49:05.000Z",
+        "description": "🏳️‍⚧️",
+        "id": "1922650331454058496",
+        "name": "解树",
+        "pinned_tweet_id": "2042901608154173812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035963160201682944/pGyF7dTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2998,
+          "following_count": 15,
+          "like_count": 535,
+          "listed_count": 15,
+          "media_count": 110,
+          "tweet_count": 765
+        },
+        "username": "xiaoshu_yy33",
+        "verified": false
+      }
+    ]
+  }
+}

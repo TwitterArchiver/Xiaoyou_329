@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1997953945990582284",
+    "created_at": "2025-12-08T09:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T10:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997969056570441857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1886810489717690368",
+          "start": 0,
+          "username": "QuQkuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997969056570441857",
+    "in_reply_to_user_id": "1886810489717690368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997953945990582284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuQkuu 到底怎么样才能改掉这种性格吧。唉哎。我因为这种性格伤害了好多爱我的人。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1997953945990582284",
+        "created_at": "2025-12-08T09:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997969056570441857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1886810489717690368",
+              "start": 0,
+              "username": "QuQkuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997969056570441857",
+        "in_reply_to_user_id": "1886810489717690368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997953945990582284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuQkuu 到底怎么样才能改掉这种性格吧。唉哎。我因为这种性格伤害了好多爱我的人。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886810489717690368",
+        "conversation_id": "1997953945990582284",
+        "created_at": "2025-12-08T08:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T09:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997953945990582284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997953945990582284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 511,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前特别自卑，觉得自己不好看，谈恋爱也是，总是推开人，因为觉得自己哪里都不好，这点我也不明白为什么。我总是用推开一个人来证明他喜欢我，唉这点我真的…至今没有办法解决。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜讨厌我就屏蔽我 喜欢我就投喂我｜无🚪｜感谢关注祝你 天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8059,
+          "following_count": 158,
+          "like_count": 5569,
+          "listed_count": 8,
+          "media_count": 537,
+          "tweet_count": 4455
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T16:14:21.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2837967340",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2837967340",
+                "start": 0,
+                "url": "https://t.co/uBcTvJQpQ4"
+              }
+            ]
+          }
+        },
+        "id": "1886810489717690368",
+        "name": "我想喵喵觉",
+        "pinned_tweet_id": "1995725240425464222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995828978775719936/BP1-SZGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 117,
+          "like_count": 1758,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/uBcTvJQpQ4",
+        "username": "QuQkuu",
+        "verified": false
+      }
+    ]
+  }
+}

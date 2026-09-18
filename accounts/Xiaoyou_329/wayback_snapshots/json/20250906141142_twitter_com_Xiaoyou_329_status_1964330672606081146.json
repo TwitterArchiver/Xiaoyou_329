@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1964330375754449311",
+    "created_at": "2025-09-06T14:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T15:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964330672606081146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942095076932698112",
+          "start": 0,
+          "username": "kiko179352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964330672606081146",
+    "in_reply_to_user_id": "1942095076932698112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964330375754449311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiko179352 666还有互动环节"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1007583,
+        "height": 1920,
+        "media_key": "13_1964329069929226240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964329069929226240/img/A7Jy79Uj-9L-umC_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964329069929226240/vid/avc1/320x320/hPWaIXJngLUFaYFb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964329069929226240/pl/dD6krwOv_Eh1D_kG.m3u8"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964329069929226240/vid/avc1/720x720/_NXGwFBaw5IESlJQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964329069929226240/vid/avc1/540x540/aWkUPFxYFQOCJv7g.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964329069929226240/vid/avc1/1080x1080/NSAZ9GjtMI6YXjT9.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1964330375754449311",
+        "created_at": "2025-09-06T14:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964330672606081146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942095076932698112",
+              "start": 0,
+              "username": "kiko179352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964330672606081146",
+        "in_reply_to_user_id": "1942095076932698112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964330375754449311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiko179352 666还有互动环节"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964329069929226240"
+          ]
+        },
+        "author_id": "1942095076932698112",
+        "conversation_id": "1964330375754449311",
+        "created_at": "2025-09-06T14:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964330375754449311"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "男喘"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "女性向"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "青受音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8D8YU2Dwed",
+              "end": 101,
+              "expanded_url": "https://x.com/kiko179352/status/1964330375754449311/video/1",
+              "media_key": "13_1964329069929226240",
+              "start": 78,
+              "url": "https://t.co/8D8YU2Dwed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964330375754449311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【手冲实录】\n被青椒攻击炎症被迫禁欲\n恢复后的首次手冲🥵🥵\n依旧是长长的手冲实录\n屏幕前的家人们觉得我能禁欲吗？\n\n#男喘 #手冲实录 #女性向 #青受音 https://t.co/8D8YU2Dwed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 102,
+          "like_count": 1079,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1330
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T05:35:41.000Z",
+        "description": "01♉｜欢迎私信找我聊天｜四爱是工作，一爱是生活｜匿名📭：https://t.co/ZslE3A7yVA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiko17935268245",
+                "end": 52,
+                "expanded_url": "https://ngl.link/kiko17935268245",
+                "start": 29,
+                "url": "https://t.co/ZslE3A7yVA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiko179352.fanbox.cc",
+                "end": 23,
+                "expanded_url": "http://kiko179352.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/8xCuRGFOKR"
+              }
+            ]
+          }
+        },
+        "id": "1942095076932698112",
+        "name": "小贩熊（化茧成蝶版）",
+        "pinned_tweet_id": "1961804842747547874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945120829408231424/wqkRqAp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9268,
+          "following_count": 81,
+          "like_count": 4727,
+          "listed_count": 8,
+          "media_count": 103,
+          "tweet_count": 1569
+        },
+        "url": "https://t.co/8xCuRGFOKR",
+        "username": "kiko179352",
+        "verified": false
+      }
+    ]
+  }
+}

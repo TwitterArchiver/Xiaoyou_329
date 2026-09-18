@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2053894465329270841",
+    "created_at": "2026-05-12T09:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T10:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054128704650121268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1912573016380436483",
+          "start": 0,
+          "username": "ymeatuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054128704650121268",
+    "in_reply_to_user_id": "1912573016380436483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053894465329270841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ymeatuna 我的加拿大哥哥呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2053894465329270841",
+        "created_at": "2026-05-12T09:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054128704650121268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1912573016380436483",
+              "start": 0,
+              "username": "ymeatuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054128704650121268",
+        "in_reply_to_user_id": "1912573016380436483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053894465329270841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ymeatuna 我的加拿大哥哥呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912573016380436483",
+        "conversation_id": "2053894465329270841",
+        "created_at": "2026-05-11T17:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053894465329270841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053894465329270841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 30656,
+          "like_count": 213,
+          "quote_count": 1,
+          "reply_count": 114,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "和很久不见的朋友打视频，她瘦了三十多斤，我问咋做到的\n她说网恋了个美国留子，过一个月要奔现了\n我：？？来个加拿大哥哥联系方式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14624,
+          "following_count": 172,
+          "like_count": 7460,
+          "listed_count": 21,
+          "media_count": 842,
+          "tweet_count": 6553
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T18:25:25.000Z",
+        "description": "此账号发表的所有言论，意在取悦自己，并通过文字或图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你怀了我的孩子\n防走丢@Ju1eppp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "Ju1eppp"
+              }
+            ]
+          }
+        },
+        "id": "1912573016380436483",
+        "location": "万达广场",
+        "name": "水腥味",
+        "pinned_tweet_id": "2028873446277427365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023754795828293632/lLkkKNvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 104,
+          "like_count": 1092,
+          "listed_count": 5,
+          "media_count": 427,
+          "tweet_count": 3193
+        },
+        "username": "ymeatuna",
+        "verified": false
+      }
+    ]
+  }
+}

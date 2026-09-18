@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002672298856247296"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2002672314752889244",
+    "created_at": "2025-12-21T09:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T10:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002672314752889244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sheu6S5VNV",
+          "end": 39,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2002672314752889244/photo/1",
+          "media_key": "3_2002672298856247296",
+          "start": 16,
+          "url": "https://t.co/Sheu6S5VNV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002672314752889244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的文凭是由苹果输入法决定的。 https://t.co/Sheu6S5VNV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1838,
+        "media_key": "3_2002672298856247296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rr2F7XcAAMjTI.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002672298856247296"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2002672314752889244",
+        "created_at": "2025-12-21T09:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T10:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002672314752889244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sheu6S5VNV",
+              "end": 39,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2002672314752889244/photo/1",
+              "media_key": "3_2002672298856247296",
+              "start": 16,
+              "url": "https://t.co/Sheu6S5VNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002672314752889244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的文凭是由苹果输入法决定的。 https://t.co/Sheu6S5VNV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8081,
+          "following_count": 154,
+          "like_count": 5826,
+          "listed_count": 8,
+          "media_count": 570,
+          "tweet_count": 4686
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

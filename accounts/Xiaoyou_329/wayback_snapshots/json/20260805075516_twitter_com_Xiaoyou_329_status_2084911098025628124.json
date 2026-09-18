@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084911089133752320",
+        "3_2084911089142120448"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2084911098025628124",
+    "created_at": "2026-08-05T07:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084911098025628124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mgGambLush",
+          "end": 34,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2084911098025628124/photo/1",
+          "media_key": "3_2084911089133752320",
+          "start": 11,
+          "url": "https://t.co/mgGambLush"
+        },
+        {
+          "display_url": "pic.x.com/mgGambLush",
+          "end": 34,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2084911098025628124/photo/1",
+          "media_key": "3_2084911089142120448",
+          "start": 11,
+          "url": "https://t.co/mgGambLush"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084911098025628124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我终于回家了😭三次… https://t.co/mgGambLush"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084911089133752320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8XltgXEAA7Bsf.jpg",
+        "width": 947
+      },
+      {
+        "height": 1067,
+        "media_key": "3_2084911089142120448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8XltiWwAAdTh6.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084911089133752320",
+            "3_2084911089142120448"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2084911098025628124",
+        "created_at": "2026-08-05T07:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084911098025628124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgGambLush",
+              "end": 34,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2084911098025628124/photo/1",
+              "media_key": "3_2084911089133752320",
+              "start": 11,
+              "url": "https://t.co/mgGambLush"
+            },
+            {
+              "display_url": "pic.x.com/mgGambLush",
+              "end": 34,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2084911098025628124/photo/1",
+              "media_key": "3_2084911089142120448",
+              "start": 11,
+              "url": "https://t.co/mgGambLush"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084911098025628124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我终于回家了😭三次… https://t.co/mgGambLush"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17640,
+          "following_count": 0,
+          "like_count": 7677,
+          "listed_count": 22,
+          "media_count": 1092,
+          "tweet_count": 7664
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

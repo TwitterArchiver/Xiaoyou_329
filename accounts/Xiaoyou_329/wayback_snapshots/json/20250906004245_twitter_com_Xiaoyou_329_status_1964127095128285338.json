@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1964101128112705770",
+    "created_at": "2025-09-06T00:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T01:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964127095128285338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "989693594955993088",
+          "start": 0,
+          "username": "Mel0nR1nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964127095128285338",
+    "in_reply_to_user_id": "989693594955993088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964101128112705770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mel0nR1nd 我的作息掰了一个暑假没有回来。回学校没几天被掰正了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1964101128112705770",
+        "created_at": "2025-09-06T00:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T01:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964127095128285338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "989693594955993088",
+              "start": 0,
+              "username": "Mel0nR1nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964127095128285338",
+        "in_reply_to_user_id": "989693594955993088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964101128112705770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mel0nR1nd 我的作息掰了一个暑假没有回来。回学校没几天被掰正了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "989693594955993088",
+        "conversation_id": "1964101128112705770",
+        "created_at": "2025-09-05T22:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T23:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964101128112705770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一颗柿子’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1dRJZ…",
+              "end": 27,
+              "expanded_url": "https://x.com/i/spaces/1dRJZaWbEaaGB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1964101129698234368/Auh87Ehu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1964101129698234368/Auh87Ehu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 4,
+              "status": 200,
+              "title": "Happening now: 自习室",
+              "unwound_url": "https://twitter.com/i/spaces/1dRJZaWbEaaGB/peek",
+              "url": "https://t.co/my9EsyquZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964101128112705770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自习室 https://t.co/my9EsyquZX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 101,
+          "like_count": 1041,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1270
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-27T02:31:55.000Z",
+        "description": "ENTP/天蝎/时差/录点东西 感谢关注/有喜欢的本可以艾特我 录的不好的地方欢迎指正 匿名箱: https://t.co/TTXJMVzcBu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mel0nr1nd",
+                "end": 72,
+                "expanded_url": "https://ngl.link/mel0nr1nd",
+                "start": 49,
+                "url": "https://t.co/TTXJMVzcBu"
+              }
+            ]
+          }
+        },
+        "id": "989693594955993088",
+        "name": "一颗柿子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957013033441763328/ivSWWlXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 171,
+          "like_count": 326,
+          "listed_count": 5,
+          "media_count": 38,
+          "tweet_count": 378
+        },
+        "username": "Mel0nR1nd",
+        "verified": true
+      }
+    ]
+  }
+}

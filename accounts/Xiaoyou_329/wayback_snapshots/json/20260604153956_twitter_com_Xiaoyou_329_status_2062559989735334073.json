@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2062556169731023227",
+    "created_at": "2026-06-04T15:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062559989735334073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1293569751311159296",
+          "start": 0,
+          "username": "yuxiang64820726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062559989735334073",
+    "in_reply_to_user_id": "1293569751311159296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062556581972357270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuxiang64820726 推特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2062556169731023227",
+        "created_at": "2026-06-04T15:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062559989735334073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1293569751311159296",
+              "start": 0,
+              "username": "yuxiang64820726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062559989735334073",
+        "in_reply_to_user_id": "1293569751311159296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062556581972357270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuxiang64820726 推特"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293569751311159296",
+        "conversation_id": "2062556169731023227",
+        "created_at": "2026-06-04T15:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062556581972357270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062556581972357270",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062556169731023227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 小号在哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15433,
+          "following_count": 176,
+          "like_count": 7587,
+          "listed_count": 20,
+          "media_count": 877,
+          "tweet_count": 6774
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-12T15:27:35.000Z",
+        "description": "",
+        "id": "1293569751311159296",
+        "name": "yuxiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1293572157545553921/Yneg3Y4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 805,
+          "like_count": 1366,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 711
+        },
+        "username": "yuxiang64820726",
+        "verified": false
+      }
+    ]
+  }
+}

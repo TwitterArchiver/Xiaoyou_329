@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986809073216487424"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1986806754928414821",
+    "created_at": "2025-11-07T14:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T15:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986809077985321186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874895356452130816",
+          "start": 0,
+          "username": "newkitty412"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZfkPg5Hsbz",
+          "end": 41,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1986809077985321186/photo/1",
+          "media_key": "3_1986809073216487424",
+          "start": 18,
+          "url": "https://t.co/ZfkPg5Hsbz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986809077985321186",
+    "in_reply_to_user_id": "1874895356452130816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986806754928414821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newkitty412 有1必扣 https://t.co/ZfkPg5Hsbz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 159,
+        "media_key": "3_1986809073216487424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KQU1WXgAAoAXC.jpg",
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986809073216487424"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1986806754928414821",
+        "created_at": "2025-11-07T14:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986809077985321186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874895356452130816",
+              "start": 0,
+              "username": "newkitty412"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZfkPg5Hsbz",
+              "end": 41,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1986809077985321186/photo/1",
+              "media_key": "3_1986809073216487424",
+              "start": 18,
+              "url": "https://t.co/ZfkPg5Hsbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986809077985321186",
+        "in_reply_to_user_id": "1874895356452130816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986806754928414821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newkitty412 有1必扣 https://t.co/ZfkPg5Hsbz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874895356452130816",
+        "conversation_id": "1986806754928414821",
+        "created_at": "2025-11-07T14:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986806754928414821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986806754928414821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我三千fo的时候就抽奖线下草粉 限定3k个名额 要参加的扣1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5052,
+          "following_count": 144,
+          "like_count": 3959,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 3391
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "置顶推广自辩 | 文案都可以拿走 | 给我打赏的就是爷 自用vpn👉 https://t.co/Pwcci2OMJ2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 58,
+                "expanded_url": "https://cmespeed.com/#/register?code=R9BuoZgK",
+                "start": 35,
+                "url": "https://t.co/Pwcci2OMJ2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oinml",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oinml",
+                "start": 0,
+                "url": "https://t.co/5ZgSd7NLBN"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "location": "🚪52/88  匿名信箱：",
+        "name": "活着真豆不容易",
+        "pinned_tweet_id": "1986438882720948638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969336716940230656/aNawclHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2950,
+          "following_count": 298,
+          "like_count": 8236,
+          "listed_count": 7,
+          "media_count": 98,
+          "tweet_count": 2850
+        },
+        "url": "https://t.co/5ZgSd7NLBN",
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

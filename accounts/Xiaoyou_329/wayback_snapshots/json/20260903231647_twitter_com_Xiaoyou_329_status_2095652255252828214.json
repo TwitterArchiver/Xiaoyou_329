@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2095547714914209908",
+    "created_at": "2026-09-03T23:16:47.000Z",
+    "display_text_range": [
+      8,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T00:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095652255252828214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1954111156098150400",
+          "start": 0,
+          "username": "_Riiou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095652255252828214",
+    "in_reply_to_user_id": "1954111156098150400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095597730295087428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Riiou 谢谢你呀宝宝TuT你好温柔呀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2095547714914209908",
+        "created_at": "2026-09-03T23:16:47.000Z",
+        "display_text_range": [
+          8,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T00:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095652255252828214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1954111156098150400",
+              "start": 0,
+              "username": "_Riiou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095652255252828214",
+        "in_reply_to_user_id": "1954111156098150400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095597730295087428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Riiou 谢谢你呀宝宝TuT你好温柔呀…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954111156098150400",
+        "conversation_id": "2095547714914209908",
+        "created_at": "2026-09-03T19:40:07.000Z",
+        "display_text_range": [
+          13,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T20:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095597730295087428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095597730295087428",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095547714914209908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 宝宝可以通过其他方式美化履历 第一学历是比较重要但也不等于人生完蛋呀 人生容错率很大的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095652255252828214",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17357,
+          "following_count": 175,
+          "like_count": 7712,
+          "listed_count": 22,
+          "media_count": 1163,
+          "tweet_count": 7860
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-09T09:23:28.000Z",
+        "description": "＝绒｜自我理想世界的文艺女\n第二个我@_Sonowe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "_Sonowe"
+              }
+            ]
+          }
+        },
+        "id": "1954111156098150400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095601033930215815",
+        "name": "泪落在裙上晕成碎花",
+        "pinned_tweet_id": "2012373472887160949",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954111156098150400/1774291702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080346455882297344/JkTwifTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 90,
+          "like_count": 6668,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 2224
+        },
+        "url": "",
+        "username": "_Riiou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

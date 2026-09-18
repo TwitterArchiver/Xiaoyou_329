@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070850051753361576",
+    "created_at": "2026-06-27T13:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070860546975691183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662293480486621184",
+          "start": 0,
+          "username": "dofees166639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070860546975691183",
+    "in_reply_to_user_id": "1662293480486621184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070856520045326481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dofees166639 对不起我知道你的好意，我很想说我现实的事情去反驳你，但我觉得这会伤害到我们彼此。对不起呀。但是现在的我无论如何都相信不了也听不下去这段话…很感谢你…很感谢你对我说这些…很感谢你在我的身边…对不起呀。对不起我做不到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070850051753361576",
+        "created_at": "2026-06-27T13:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070860546975691183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1662293480486621184",
+              "start": 0,
+              "username": "dofees166639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070860546975691183",
+        "in_reply_to_user_id": "1662293480486621184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070856520045326481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dofees166639 对不起我知道你的好意，我很想说我现实的事情去反驳你，但我觉得这会伤害到我们彼此。对不起呀。但是现在的我无论如何都相信不了也听不下去这段话…很感谢你…很感谢你对我说这些…很感谢你在我的身边…对不起呀。对不起我做不到。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293480486621184",
+        "conversation_id": "2070850051753361576",
+        "created_at": "2026-06-27T13:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070856520045326481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070856520045326481",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070855852882534670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 遇到太多让你觉得自己不够好的事情，所以你才会把它当成事实。这只能说明你一直活在一个很苛刻的环境里啊，不代表客观事实如此啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15932,
+          "following_count": 178,
+          "like_count": 7681,
+          "listed_count": 20,
+          "media_count": 869,
+          "tweet_count": 7016
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:04:14.000Z",
+        "description": "是一个像薄荷叶一样的人\n忙碌。。。\n可以叫我薄荷叶\n代表されるのはごたえがないですね。\n話をはっきりさせることが大切にされています。\nJ'apprends le français et j'espère atteindre le niveau B2.",
+        "id": "1662293480486621184",
+        "location": "Ginowan-shi, Okinawa",
+        "name": "暮棠月",
+        "pinned_tweet_id": "2033841500724072659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004538362838089729/fwbMWls0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 3579,
+          "like_count": 110404,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 7236
+        },
+        "url": "",
+        "username": "dofees166639",
+        "verified": false
+      }
+    ]
+  }
+}

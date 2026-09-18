@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1983562268769161335",
+    "created_at": "2025-10-30T04:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983757655253360799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874895356452130816",
+          "start": 0,
+          "username": "newkitty412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983757655253360799",
+    "in_reply_to_user_id": "1874895356452130816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983562268769161335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newkitty412 就是…！如果不一直说话我会觉得很尴尬 而且很担心是不是对方不喜欢我什么什么 我就一直一直在说话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1983562268769161335",
+        "created_at": "2025-10-30T04:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983757655253360799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874895356452130816",
+              "start": 0,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983757655253360799",
+        "in_reply_to_user_id": "1874895356452130816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983562268769161335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newkitty412 就是…！如果不一直说话我会觉得很尴尬 而且很担心是不是对方不喜欢我什么什么 我就一直一直在说话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874895356452130816",
+        "conversation_id": "1983562268769161335",
+        "created_at": "2025-10-29T15:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983562268769161335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983562268769161335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2321,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别看我在网上话多吧其实线下话更多。我接受不了相处时空气安静5秒以上，会感觉到无法呼吸，然后一直没话找话，还怕对方被我吓到。遇到同频的人我真的会喜欢的不得了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 143,
+          "like_count": 3532,
+          "listed_count": 5,
+          "media_count": 407,
+          "tweet_count": 3175
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "爱发点乱七八糟的 对你没兴趣不陪聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oinml",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oinml",
+                "start": 0,
+                "url": "https://t.co/5ZgSd7NLBN"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "location": "链接是提问箱",
+        "name": "活着真豆不容易",
+        "pinned_tweet_id": "1983029220935905527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969336716940230656/aNawclHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 303,
+          "like_count": 7848,
+          "listed_count": 6,
+          "media_count": 109,
+          "tweet_count": 2718
+        },
+        "url": "https://t.co/5ZgSd7NLBN",
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

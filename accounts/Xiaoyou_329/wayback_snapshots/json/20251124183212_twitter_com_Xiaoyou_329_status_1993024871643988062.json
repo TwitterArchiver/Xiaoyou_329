@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1993022886358270408",
+    "created_at": "2025-11-24T18:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T19:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993024871643988062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747291885100744704",
+          "start": 0,
+          "username": "gracexiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993024871643988062",
+    "in_reply_to_user_id": "1747291885100744704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993022886358270408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gracexiya 我笑的不行了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1993022886358270408",
+        "created_at": "2025-11-24T18:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T19:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993024871643988062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747291885100744704",
+              "start": 0,
+              "username": "gracexiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993024871643988062",
+        "in_reply_to_user_id": "1747291885100744704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993022886358270408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gracexiya 我笑的不行了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747291885100744704",
+        "conversation_id": "1993022886358270408",
+        "created_at": "2025-11-24T18:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T19:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993022886358270408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993022886358270408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 87,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定挂这头像一天 \n感觉会筛掉一批看黄男 ☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7189,
+          "following_count": 154,
+          "like_count": 5072,
+          "listed_count": 5,
+          "media_count": 522,
+          "tweet_count": 4149
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T16:17:30.000Z",
+        "description": "失眠好烦\n不聊骚 \n有对象\n话很多\n成分复杂\n别关注我\n匿名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/grace51066",
+                "end": 23,
+                "expanded_url": "https://ngl.link/grace51066",
+                "start": 0,
+                "url": "https://t.co/TuMWnxWHw6"
+              }
+            ]
+          }
+        },
+        "id": "1747291885100744704",
+        "name": "桉",
+        "pinned_tweet_id": "1920696799951511581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993019955064041472/HPslSLjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5642,
+          "following_count": 1,
+          "like_count": 12817,
+          "listed_count": 13,
+          "media_count": 294,
+          "tweet_count": 2981
+        },
+        "url": "https://t.co/TuMWnxWHw6",
+        "username": "gracexiya",
+        "verified": false
+      }
+    ]
+  }
+}

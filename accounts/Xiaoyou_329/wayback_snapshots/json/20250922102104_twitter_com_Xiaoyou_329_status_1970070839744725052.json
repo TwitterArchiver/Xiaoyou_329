@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1970054221165973737",
+    "created_at": "2025-09-22T10:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T11:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970070839744725052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783821997618974720",
+          "start": 0,
+          "username": "wonhee_xingnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970070839744725052",
+    "in_reply_to_user_id": "1783821997618974720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970054221165973737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wonhee_xingnu 夸我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1970054215671365632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1cJ3xFaQAA2b95.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1970054221165973737",
+        "created_at": "2025-09-22T10:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T11:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970070839744725052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1783821997618974720",
+              "start": 0,
+              "username": "wonhee_xingnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970070839744725052",
+        "in_reply_to_user_id": "1783821997618974720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970054221165973737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonhee_xingnu 夸我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970054215671365632"
+          ]
+        },
+        "author_id": "1783821997618974720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1970054221165973737",
+        "created_at": "2025-09-22T09:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T10:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970054221165973737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1968275016203767808/0qu5Z3z8?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1968275016203767808/0qu5Z3z8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/t1AHD6a6Ob"
+            },
+            {
+              "display_url": "pic.x.com/fdDXiusVTD",
+              "end": 64,
+              "expanded_url": "https://x.com/wonhee_xingnu/status/1970054221165973737/photo/1",
+              "media_key": "3_1970054215671365632",
+              "start": 41,
+              "url": "https://t.co/fdDXiusVTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970054221165973737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/t1AHD6a6Ob https://t.co/fdDXiusVTD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1965820788399026273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 120,
+          "like_count": 1768,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 2159
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:34:49.000Z",
+        "description": "泪",
+        "id": "1783821997618974720",
+        "location": "爱与罪同罚",
+        "name": "痛",
+        "pinned_tweet_id": "1967236694866022826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967216721221365760/EmjHA5t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 38,
+          "like_count": 805,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 195
+        },
+        "username": "wonhee_xingnu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975548229799284736"
+      ],
+      "media_source_tweet_id": [
+        "1975548241774313662"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2007466546856140833",
+    "created_at": "2026-01-03T14:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T15:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007466546856140833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1906360034725961728",
+          "start": 3,
+          "username": "Xiaoyou_329"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E9hk5938yy",
+          "end": 45,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1975548241774313662/photo/1",
+          "media_key": "3_1975548229799284736",
+          "start": 22,
+          "url": "https://t.co/E9hk5938yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007466546856140833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975548241774313662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaoyou_329: 好翘好圆 https://t.co/E9hk5938yy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007466546856140833].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007466546856140833",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007466546856140833"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1418,
+        "media_key": "3_1975548229799284736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qOpenWkAAwXO8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975548229799284736"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1975548241774313662",
+        "created_at": "2025-10-07T13:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975548241774313662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9hk5938yy",
+              "end": 28,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1975548241774313662/photo/1",
+              "media_key": "3_1975548229799284736",
+              "start": 5,
+              "url": "https://t.co/E9hk5938yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975548241774313662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 103072,
+          "like_count": 740,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "好翘好圆 https://t.co/E9hk5938yy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8565,
+          "following_count": 154,
+          "like_count": 5922,
+          "listed_count": 10,
+          "media_count": 578,
+          "tweet_count": 4744
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1956277592706662624",
+    "created_at": "2025-08-15T08:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T09:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956278981218402355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851514661105254403",
+          "start": 0,
+          "username": "Finger_999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956278981218402355",
+    "in_reply_to_user_id": "1851514661105254403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956277592706662624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Finger_999 好q弹🌚？其实这个角度看着好长我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 104750,
+        "height": 1270,
+        "media_key": "13_1956277324862906370",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1956277324862906370/img/Htb2qSbYwphtFFdA.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956277324862906370/vid/avc1/320x564/QTQRP8fIEyDs2DYb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956277324862906370/vid/avc1/480x846/tPpjWVGQe5pj11KV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956277324862906370/vid/avc1/720x1270/-dwmAiS7ijmPKIrJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1956277324862906370/pl/GkMNdzl-qQlQXjc_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1956277592706662624",
+        "created_at": "2025-08-15T08:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T09:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956278981218402355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851514661105254403",
+              "start": 0,
+              "username": "Finger_999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956278981218402355",
+        "in_reply_to_user_id": "1851514661105254403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956277592706662624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Finger_999 好q弹🌚？其实这个角度看着好长我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956277324862906370"
+          ]
+        },
+        "author_id": "1851514661105254403",
+        "conversation_id": "1956277592706662624",
+        "created_at": "2025-08-15T08:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T09:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956277592706662624"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "男喘"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "手冲实录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZRO7dc3xq",
+              "end": 114,
+              "expanded_url": "https://x.com/Finger_999/status/1956277592706662624/video/1",
+              "media_key": "13_1956277324862906370",
+              "start": 91,
+              "url": "https://t.co/3ZRO7dc3xq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956277592706662624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷袭\n好久没更新了 来个大的\n（是手冲视频 慎点）\n还有我到底在胡言乱语什么\n如果不喜欢这个款的话 那我以后只录音吧\n打不上敏感 自制了一个 正片20s以后开始\n#男喘 #手冲实录 https://t.co/3ZRO7dc3xq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 73,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 242
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T06:41:17.000Z",
+        "description": "亡命之徒无路可退",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finger71674",
+                "end": 23,
+                "expanded_url": "https://ngl.link/finger71674",
+                "start": 0,
+                "url": "https://t.co/bvvTeNDxjC"
+              }
+            ]
+          }
+        },
+        "id": "1851514661105254403",
+        "location": "桂",
+        "name": "Finger",
+        "pinned_tweet_id": "1941076906402803814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937675611369275393/BRDtbNZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 189,
+          "like_count": 6832,
+          "listed_count": 4,
+          "media_count": 61,
+          "tweet_count": 1271
+        },
+        "url": "https://t.co/bvvTeNDxjC",
+        "username": "Finger_999",
+        "verified": false
+      }
+    ]
+  }
+}

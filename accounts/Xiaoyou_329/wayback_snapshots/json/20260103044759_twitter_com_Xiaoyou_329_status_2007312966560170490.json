@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2007312966560170490",
+    "created_at": "2026-01-03T04:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T05:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007312966560170490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1961727243887296512",
+          "start": 3,
+          "username": "yiyi_02014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007312966560170490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007039657490743721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yiyi_02014: 我真的特别喜欢无病呻吟！有病了更是不得了！我一直嚎，我的心理素质跟烤棉花糖的芯儿一样软弱，谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2007312966560170490",
+        "created_at": "2026-01-03T04:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T05:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007312966560170490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1961727243887296512",
+              "start": 3,
+              "username": "yiyi_02014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007312966560170490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007039657490743721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yiyi_02014: 我真的特别喜欢无病呻吟！有病了更是不得了！我一直嚎，我的心理素质跟烤棉花糖的芯儿一样软弱，谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961727243887296512",
+        "conversation_id": "2007039657490743721",
+        "created_at": "2026-01-02T10:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007039657490743721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007039657490743721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7388,
+          "like_count": 124,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我真的特别喜欢无病呻吟！有病了更是不得了！我一直嚎，我的心理素质跟烤棉花糖的芯儿一样软弱，谢谢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8426,
+          "following_count": 154,
+          "like_count": 5853,
+          "listed_count": 9,
+          "media_count": 570,
+          "tweet_count": 4704
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T09:47:21.000Z",
+        "description": "梦到啥发啥｜可以叫我小猫｜不谈不线下｜谢谢喜欢｜废话很多｜纯绿🚪88 不收口令｜没有陪你聊天的义务｜骂我的你全家升天啦｜置顶推广自辩｜废话小号：https://t.co/HJO0U2Vd6D",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/xiaomaomiQuQ",
+                "end": 95,
+                "expanded_url": "https://x.com/xiaomaomiQuQ",
+                "start": 72,
+                "url": "https://t.co/HJO0U2Vd6D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiyi_02014",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yiyi_02014",
+                "start": 0,
+                "url": "https://t.co/YL2kayjyDK"
+              }
+            ]
+          }
+        },
+        "id": "1961727243887296512",
+        "location": "猫窝",
+        "name": "cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004437969520787456/NT0tlVqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 238,
+          "like_count": 24401,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 3157
+        },
+        "url": "https://t.co/YL2kayjyDK",
+        "username": "yiyi_02014",
+        "verified": false
+      }
+    ]
+  }
+}

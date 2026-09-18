@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2021870568849506483",
+    "created_at": "2026-02-12T09:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T10:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021883653542830241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582289665524396032",
+          "start": 0,
+          "username": "Luk85129You"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021883653542830241",
+    "in_reply_to_user_id": "1582289665524396032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021883455974617128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luk85129You 你那里太远了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2021870568849506483",
+        "created_at": "2026-02-12T09:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021883653542830241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582289665524396032",
+              "start": 0,
+              "username": "Luk85129You"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021883653542830241",
+        "in_reply_to_user_id": "1582289665524396032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021883455974617128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luk85129You 你那里太远了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582289665524396032",
+        "conversation_id": "2021870568849506483",
+        "created_at": "2026-02-12T09:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021883455974617128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021883455974617128",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021870568849506483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我这里刚好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2018262383047700927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12083,
+          "following_count": 161,
+          "like_count": 6526,
+          "listed_count": 19,
+          "media_count": 649,
+          "tweet_count": 5360
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-18T08:37:22.000Z",
+        "description": "04｜mlys🇲🇾｜S｜入股不亏｜此男极度媚粉｜啥都懂点 您伟大的电子男友电子好友",
+        "id": "1582289665524396032",
+        "name": "7s",
+        "pinned_tweet_id": "2017240054251540628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020714861102329856/vB6YoYbC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 27,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 93
+        },
+        "username": "Luk85129You",
+        "verified": false
+      }
+    ]
+  }
+}

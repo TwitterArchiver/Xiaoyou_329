@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2060353613936185556",
+    "created_at": "2026-05-29T13:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060356961967956177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1797864227316584448",
+          "start": 0,
+          "username": "chen009131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060356961967956177",
+    "in_reply_to_user_id": "1797864227316584448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060354083140370878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen009131 嗯对就这样宣传我谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2060353613936185556",
+        "created_at": "2026-05-29T13:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060356961967956177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1797864227316584448",
+              "start": 0,
+              "username": "chen009131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060356961967956177",
+        "in_reply_to_user_id": "1797864227316584448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060354083140370878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen009131 嗯对就这样宣传我谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797864227316584448",
+        "conversation_id": "2060353613936185556",
+        "created_at": "2026-05-29T13:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060354083140370878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060354083140370878",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060353613936185556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 微胖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15280,
+          "following_count": 177,
+          "like_count": 7561,
+          "listed_count": 21,
+          "media_count": 866,
+          "tweet_count": 6700
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T05:33:37.000Z",
+        "description": "",
+        "id": "1797864227316584448",
+        "name": "just",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798007856584634368/UMJjKqgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 144,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 131
+        },
+        "username": "chen009131",
+        "verified": false
+      }
+    ]
+  }
+}

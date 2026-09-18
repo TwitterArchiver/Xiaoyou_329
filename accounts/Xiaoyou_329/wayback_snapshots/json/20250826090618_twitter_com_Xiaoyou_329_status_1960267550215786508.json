@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960208184326680885",
+    "created_at": "2025-08-26T09:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T10:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960267550215786508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1387311832025616386",
+          "start": 0,
+          "username": "Jw2C5JFyphJSXgl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960267550215786508",
+    "in_reply_to_user_id": "1387311832025616386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960267446410961294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jw2C5JFyphJSXgl 好好休息哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960208184326680885",
+        "created_at": "2025-08-26T09:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T10:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960267550215786508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1387311832025616386",
+              "start": 0,
+              "username": "Jw2C5JFyphJSXgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960267550215786508",
+        "in_reply_to_user_id": "1387311832025616386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960267446410961294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jw2C5JFyphJSXgl 好好休息哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387311832025616386",
+        "conversation_id": "1960208184326680885",
+        "created_at": "2025-08-26T09:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T10:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960267446410961294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960267446410961294",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960267297785872647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 小由宝宝🥰抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 74,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 629
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T07:44:57.000Z",
+        "description": "https://t.co/DE0wrdHKQ3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wsmwsm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wsmwsm",
+                "start": 0,
+                "url": "https://t.co/DE0wrdHKQ3"
+              }
+            ]
+          }
+        },
+        "id": "1387311832025616386",
+        "name": "小巴黎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957059040007331840/M1BGAZ0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 26,
+          "like_count": 2602,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 299
+        },
+        "username": "Jw2C5JFyphJSXgl",
+        "verified": false
+      }
+    ]
+  }
+}

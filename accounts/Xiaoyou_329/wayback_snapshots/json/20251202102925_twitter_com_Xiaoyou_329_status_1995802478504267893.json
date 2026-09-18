@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1995787411394117925",
+    "created_at": "2025-12-02T10:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T11:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995802478504267893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1983280506964979716",
+          "start": 0,
+          "username": "Tiantian0140"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995802478504267893",
+    "in_reply_to_user_id": "1983280506964979716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995801946301579740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiantian0140 我去！小由这期也是好起来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1995787411394117925",
+        "created_at": "2025-12-02T10:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995802478504267893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1983280506964979716",
+              "start": 0,
+              "username": "Tiantian0140"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995802478504267893",
+        "in_reply_to_user_id": "1983280506964979716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995801946301579740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiantian0140 我去！小由这期也是好起来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983280506964979716",
+        "conversation_id": "1995787411394117925",
+        "created_at": "2025-12-02T10:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995801946301579740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995801946301579740",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995787411394117925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 拍拍小由 主页上常看到你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7832,
+          "following_count": 158,
+          "like_count": 5290,
+          "listed_count": 7,
+          "media_count": 552,
+          "tweet_count": 4388
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T21:11:56.000Z",
+        "description": "纯爱天下第一｜Switch偏Dom｜素质交流🫰",
+        "id": "1983280506964979716",
+        "name": "天际线",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983294851849564162/kqAg-RwA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "Tiantian0140",
+        "verified": false
+      }
+    ]
+  }
+}

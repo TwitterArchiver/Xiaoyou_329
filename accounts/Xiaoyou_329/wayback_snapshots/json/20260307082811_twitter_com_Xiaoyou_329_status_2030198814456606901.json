@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2029969254997709014",
+    "created_at": "2026-03-07T08:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T09:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030198814456606901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1640719825646546944",
+          "start": 0,
+          "username": "xxx9180321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030198814456606901",
+    "in_reply_to_user_id": "1640719825646546944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030193667932311910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx9180321 好呀！谢谢宝宝！mua！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2029969254997709014",
+        "created_at": "2026-03-07T08:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030198814456606901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1640719825646546944",
+              "start": 0,
+              "username": "xxx9180321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030198814456606901",
+        "in_reply_to_user_id": "1640719825646546944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030193667932311910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx9180321 好呀！谢谢宝宝！mua！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640719825646546944",
+        "conversation_id": "2029969254997709014",
+        "created_at": "2026-03-07T08:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030193667932311910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030193667932311910",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029969254997709014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 如果资金比较充足的话，我挺推荐rc的粉饼的，粉底液我个人用雅诗兰黛的那个沁水还有zelens age的那款粉底液，遮瑕踩堂的那个( ̀⌄ ́)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13002,
+          "following_count": 162,
+          "like_count": 6911,
+          "listed_count": 19,
+          "media_count": 721,
+          "tweet_count": 5795
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T14:17:52.000Z",
+        "description": "分享跟男朋友的美丽生活仅此而已^ ^/不加微信不聊天不看私信/我会双取不熟🈚️互动不喜的人/不礼貌互关^ ^小号@oooo298380",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "oooo298380"
+              }
+            ]
+          }
+        },
+        "id": "1640719825646546944",
+        "location": "嗯哼",
+        "name": "喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911859034384154624/B8iN5gkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 135,
+          "like_count": 1171,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 86
+        },
+        "username": "xxx9180321",
+        "verified": false
+      }
+    ]
+  }
+}

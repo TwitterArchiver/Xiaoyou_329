@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1985321310818312434",
+    "created_at": "2025-11-03T12:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T13:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985323322918228259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1269093325660774402",
+          "start": 0,
+          "username": "kelebabe7171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985323322918228259",
+    "in_reply_to_user_id": "1269093325660774402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985322094662676873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kelebabe7171 雪碧你九点半开个sps好不好…我感觉我自己开的话好尴尬🙀🙀🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1985321310818312434",
+        "created_at": "2025-11-03T12:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985323322918228259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1269093325660774402",
+              "start": 0,
+              "username": "kelebabe7171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985323322918228259",
+        "in_reply_to_user_id": "1269093325660774402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985322094662676873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kelebabe7171 雪碧你九点半开个sps好不好…我感觉我自己开的话好尴尬🙀🙀🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1269093325660774402",
+        "conversation_id": "1985321310818312434",
+        "created_at": "2025-11-03T12:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985322094662676873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985322094662676873",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985321310818312434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 快开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1981690322745970734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4696,
+          "following_count": 146,
+          "like_count": 3757,
+          "listed_count": 5,
+          "media_count": 415,
+          "tweet_count": 3256
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-06T02:26:51.000Z",
+        "description": "#男喘 业余男喘，switch",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "男喘"
+              }
+            ]
+          }
+        },
+        "id": "1269093325660774402",
+        "location": "无🚪",
+        "name": "雪碧",
+        "pinned_tweet_id": "1966760409655861425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962115996569030656/ptnIopbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 183,
+          "like_count": 221,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 337
+        },
+        "username": "kelebabe7171",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076343918971744256"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2076343936944398515",
+    "created_at": "2026-07-12T16:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076343936944398515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7jGsqfsls7",
+          "end": 67,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2076343936944398515/photo/1",
+          "media_key": "3_2076343918971744256",
+          "start": 44,
+          "url": "https://t.co/7jGsqfsls7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076343936944398515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "台风天出去挂壁也只有我和我朋友了。便利店空调吹的我头疼。。喝了一点我又全身痒好崩溃呀。 https://t.co/7jGsqfsls7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076343918971744256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCnyxnacAAlHU-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076343918971744256"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2076343936944398515",
+        "created_at": "2026-07-12T16:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076343936944398515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jGsqfsls7",
+              "end": 67,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2076343936944398515/photo/1",
+              "media_key": "3_2076343918971744256",
+              "start": 44,
+              "url": "https://t.co/7jGsqfsls7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076343936944398515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台风天出去挂壁也只有我和我朋友了。便利店空调吹的我头疼。。喝了一点我又全身痒好崩溃呀。 https://t.co/7jGsqfsls7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17304,
+          "following_count": 181,
+          "like_count": 7702,
+          "listed_count": 21,
+          "media_count": 969,
+          "tweet_count": 7396
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

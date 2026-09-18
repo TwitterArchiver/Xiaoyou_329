@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2072371513907658967",
+    "created_at": "2026-07-01T17:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072373630420586586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2003433396358549504",
+          "start": 0,
+          "username": "dove121380"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072373630420586586",
+    "in_reply_to_user_id": "2003433396358549504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072372063382474771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dove121380 可是呢。我根本没有发你怎么会找到…但是呢我知道你喜欢我了ba！摸摸头！(⸝⸝&gt; ૩ヾ(-`ω´-）\n笑死我了吧 我不知道这个小宝宝到底什么时候存的我赞赏码！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2072371513907658967",
+        "created_at": "2026-07-01T17:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072373630420586586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2003433396358549504",
+              "start": 0,
+              "username": "dove121380"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072373630420586586",
+        "in_reply_to_user_id": "2003433396358549504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072372063382474771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dove121380 可是呢。我根本没有发你怎么会找到…但是呢我知道你喜欢我了ba！摸摸头！(⸝⸝&gt; ૩ヾ(-`ω´-）\n笑死我了吧 我不知道这个小宝宝到底什么时候存的我赞赏码！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003433396358549504",
+        "conversation_id": "2072371513907658967",
+        "created_at": "2026-07-01T17:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072372063382474771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072372063382474771",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072371513907658967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 找不到你的赞赏码我就这样急哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17013,
+          "following_count": 178,
+          "like_count": 7683,
+          "listed_count": 20,
+          "media_count": 886,
+          "tweet_count": 7106
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T11:52:12.000Z",
+        "description": "",
+        "id": "2003433396358549504",
+        "name": "鸽子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008067581861830656/F515wWuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 54,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "dove121380",
+        "verified": false
+      }
+    ]
+  }
+}

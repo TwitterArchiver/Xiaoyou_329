@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073498098022895616"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2073498107632046211",
+    "created_at": "2026-07-04T20:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T21:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073498107632046211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jI1ycDaI3l",
+          "end": 90,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2073498107632046211/photo/1",
+          "media_key": "3_2073498098022895616",
+          "start": 67,
+          "url": "https://t.co/jI1ycDaI3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073498107632046211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不出意外…七号过后的某天你们可以看见我在梧桐大道朋友帮我出片吧 嗯对！或者南京的其他地方\n小由你终于要解锁外景了吗！好感动…好欣慰！ https://t.co/jI1ycDaI3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2073498098022895616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaLiMcaUAAmyVb.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073498098022895616"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2073498107632046211",
+        "created_at": "2026-07-04T20:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073498107632046211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jI1ycDaI3l",
+              "end": 90,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2073498107632046211/photo/1",
+              "media_key": "3_2073498098022895616",
+              "start": 67,
+              "url": "https://t.co/jI1ycDaI3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073498107632046211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不出意外…七号过后的某天你们可以看见我在梧桐大道朋友帮我出片吧 嗯对！或者南京的其他地方\n小由你终于要解锁外景了吗！好感动…好欣慰！ https://t.co/jI1ycDaI3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17005,
+          "following_count": 183,
+          "like_count": 7684,
+          "listed_count": 20,
+          "media_count": 905,
+          "tweet_count": 7163
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

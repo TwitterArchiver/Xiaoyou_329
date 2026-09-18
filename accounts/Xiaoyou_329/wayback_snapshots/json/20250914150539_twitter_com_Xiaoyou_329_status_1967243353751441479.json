@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967229130124190131",
+    "created_at": "2025-09-14T15:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T16:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967243353751441479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1964776906018230272",
+          "start": 0,
+          "username": "Gaoshouxiaofu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967243353751441479",
+    "in_reply_to_user_id": "1964776906018230272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967243193197769034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gaoshouxiaofu 唉…！你什么意思！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967229130124190131",
+        "created_at": "2025-09-14T15:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T16:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967243353751441479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1964776906018230272",
+              "start": 0,
+              "username": "Gaoshouxiaofu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967243353751441479",
+        "in_reply_to_user_id": "1964776906018230272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967243193197769034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gaoshouxiaofu 唉…！你什么意思！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964776906018230272",
+        "conversation_id": "1967229130124190131",
+        "created_at": "2025-09-14T15:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T16:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967243193197769034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967243193197769034",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967242956370477429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 给我吧 你别用了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 110,
+          "like_count": 1451,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 1790
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T19:45:05.000Z",
+        "description": "这才是我真正的朋友圈｜喜欢碎碎念🥹｜infp 170/88｜1i4i｜🚪520｜你们要我回关可以跟我说吗 要不然我分不清是不是真人｜剩下的我想到啥加啥吧",
+        "id": "1964776906018230272",
+        "location": "5.2km",
+        "name": "糕手小福",
+        "pinned_tweet_id": "1965079635596836905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964779179473514496/bRiQhyMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 152,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 892
+        },
+        "username": "Gaoshouxiaofu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2053707397969879347",
+    "created_at": "2026-05-11T05:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053707397969879347"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053707397969879347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人真老了。最近手冲的受不了了就会一直乱叫。乱喊。那个我。最近卡泡有超过十分钟的吗。我结束了让人家自己去玩。我就这样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2053707397969879347",
+        "created_at": "2026-05-11T05:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053707397969879347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053707397969879347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人真老了。最近手冲的受不了了就会一直乱叫。乱喊。那个我。最近卡泡有超过十分钟的吗。我结束了让人家自己去玩。我就这样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14634,
+          "following_count": 172,
+          "like_count": 7459,
+          "listed_count": 21,
+          "media_count": 843,
+          "tweet_count": 6543
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

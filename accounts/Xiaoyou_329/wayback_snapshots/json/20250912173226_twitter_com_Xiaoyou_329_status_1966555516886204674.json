@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966555505498771456"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1966544081389047911",
+    "created_at": "2025-09-12T17:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T18:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966555516886204674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1874085758488690688",
+          "start": 0,
+          "username": "pyh996"
+        },
+        {
+          "end": 17,
+          "id": "1635317165397278721",
+          "start": 8,
+          "username": "Awo_tuzi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tOCZVrg1op",
+          "end": 75,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1966555516886204674/photo/1",
+          "media_key": "3_1966555505498771456",
+          "start": 52,
+          "url": "https://t.co/tOCZVrg1op"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966555516886204674",
+    "in_reply_to_user_id": "1874085758488690688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966544081389047911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyh996 @Awo_tuzi 受不了了…小亦你萌死了…宝宝你什么时候更长长的饭🥺…萌死了萌死了… https://t.co/tOCZVrg1op"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_1966555505498771456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qb0CBX0AADkjO.jpg",
+        "width": 1064
+      },
+      {
+        "duration_ms": 75125,
+        "height": 720,
+        "media_key": "13_1966543925369581568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966543925369581568/img/MGm58Xw9xHexI3wa.jpg",
+        "public_metrics": {
+          "view_count": 77
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966543925369581568/vid/avc1/398x270/q7El9hDCz_OPkqDW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966543925369581568/vid/avc1/532x360/CrSX2c4fArZiRfS3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966543925369581568/vid/avc1/1066x720/MXbh51YA-OJEOxl9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966543925369581568/pl/Jo3GT_QhvQEhNB2h.m3u8"
+          }
+        ],
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966555505498771456"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1966544081389047911",
+        "created_at": "2025-09-12T17:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T18:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966555516886204674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1874085758488690688",
+              "start": 0,
+              "username": "pyh996"
+            },
+            {
+              "end": 17,
+              "id": "1635317165397278721",
+              "start": 8,
+              "username": "Awo_tuzi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOCZVrg1op",
+              "end": 75,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1966555516886204674/photo/1",
+              "media_key": "3_1966555505498771456",
+              "start": 52,
+              "url": "https://t.co/tOCZVrg1op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966555516886204674",
+        "in_reply_to_user_id": "1874085758488690688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966544081389047911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyh996 @Awo_tuzi 受不了了…小亦你萌死了…宝宝你什么时候更长长的饭🥺…萌死了萌死了… https://t.co/tOCZVrg1op"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966543925369581568"
+          ]
+        },
+        "author_id": "1874085758488690688",
+        "conversation_id": "1966544081389047911",
+        "created_at": "2025-09-12T16:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T17:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966544081389047911"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "男喘"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "女性向"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "温青"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "青受"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "舔舔"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "亲亲"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "一爱"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "短打"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "女性向"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "纯喘"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "手冲"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "反差"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "温柔少年"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1635317165397278721",
+              "start": 16,
+              "username": "Awo_tuzi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZaRwt4C94",
+              "end": 120,
+              "expanded_url": "https://x.com/pyh996/status/1966544081389047911/video/1",
+              "media_key": "13_1966543925369581568",
+              "start": 97,
+              "url": "https://t.co/fZaRwt4C94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966544081389047911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 116,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“老婆…你看它…”\n\n台本老师：@Awo_tuzi \n\n #男喘 #女性向 #温青 #青受 #小狗日记 #舔舔 #亲亲 #一爱 #短打 #女性向 #纯喘 #手冲 #手冲实录 #反差 #温柔少年 https://t.co/fZaRwt4C94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 102,
+          "like_count": 1361,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1652
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T13:31:37.000Z",
+        "description": "平平无奇的小死宅 新人随便读一下 经常发短打，偶尔发长的 手机录音机直录 萝卜青菜各有所爱 评论私信都会回的，请多多给我发，我的匿名信箱https://t.co/SKQUto1JRu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pyh996",
+                "end": 91,
+                "expanded_url": "https://ngl.link/pyh996",
+                "start": 68,
+                "url": "https://t.co/SKQUto1JRu"
+              }
+            ]
+          }
+        },
+        "id": "1874085758488690688",
+        "location": "🚪1/6/18/30/68 没有区别全充王者助我v10",
+        "name": "小亦",
+        "pinned_tweet_id": "1961332308612636737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941875269200994304/U63b45r0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 204,
+          "like_count": 3492,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 921
+        },
+        "username": "pyh996",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T16:29:43.000Z",
+        "description": "哇哦大家好我是兔子｜陆续更新本本｜短打自取 录本私信 请询问要录哪本 发布时艾特我（短打也一样需要艾特）｜整理好的饭 @Tuzi_0323｜日常叨叨@Y_tuzi ｜匿名箱：https://t.co/oFAVWanaCF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "Tuzi_0323"
+              },
+              {
+                "end": 81,
+                "start": 74,
+                "username": "Y_tuzi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tuzi77628",
+                "end": 110,
+                "expanded_url": "https://ngl.link/tuzi77628",
+                "start": 87,
+                "url": "https://t.co/oFAVWanaCF"
+              }
+            ]
+          }
+        },
+        "id": "1635317165397278721",
+        "name": "不吃兔子了哼",
+        "pinned_tweet_id": "1966448505028784451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932371816242425856/Io8sCntv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14778,
+          "following_count": 30,
+          "like_count": 735,
+          "listed_count": 19,
+          "media_count": 156,
+          "tweet_count": 572
+        },
+        "username": "Awo_tuzi",
+        "verified": false
+      }
+    ]
+  }
+}

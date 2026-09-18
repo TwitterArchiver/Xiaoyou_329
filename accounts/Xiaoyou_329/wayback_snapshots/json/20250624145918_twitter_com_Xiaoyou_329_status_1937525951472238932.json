@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937525939774128128"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1937525951472238932",
+    "created_at": "2025-06-24T14:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T15:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937525951472238932"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "随笔"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1r1sPbIcMo",
+          "end": 54,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1937525951472238932/photo/1",
+          "media_key": "3_1937525939774128128",
+          "start": 31,
+          "url": "https://t.co/1r1sPbIcMo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937525951472238932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看了那么多随笔 我自己也来试试好了…自己动手丰衣足食😋#随笔 https://t.co/1r1sPbIcMo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_1937525939774128128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuN5k6dXgAAfFS0.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937525939774128128"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1937525951472238932",
+        "created_at": "2025-06-24T14:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T15:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937525951472238932"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "随笔"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1r1sPbIcMo",
+              "end": 54,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1937525951472238932/photo/1",
+              "media_key": "3_1937525939774128128",
+              "start": 31,
+              "url": "https://t.co/1r1sPbIcMo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937525951472238932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了那么多随笔 我自己也来试试好了…自己动手丰衣足食😋#随笔 https://t.co/1r1sPbIcMo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 47,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 125
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

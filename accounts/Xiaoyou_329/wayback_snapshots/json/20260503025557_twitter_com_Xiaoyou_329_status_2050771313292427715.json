@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2050562572706005063",
+    "created_at": "2026-05-03T02:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T03:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050771313292427715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1165517774011154433",
+          "start": 0,
+          "username": "haoxiangchirou6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050771313292427715",
+    "in_reply_to_user_id": "1165517774011154433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050770504878076157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haoxiangchirou6 好！谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2050562572706005063",
+        "created_at": "2026-05-03T02:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050771313292427715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1165517774011154433",
+              "start": 0,
+              "username": "haoxiangchirou6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050771313292427715",
+        "in_reply_to_user_id": "1165517774011154433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050770504878076157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haoxiangchirou6 好！谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165517774011154433",
+        "conversation_id": "2050562572706005063",
+        "created_at": "2026-05-03T02:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050770504878076157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050770504878076157",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050562572706005063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 不要把他人得到的当成自己失去的…不断想着这句话心里会慢慢变好！（摸摸小宝）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14306,
+          "following_count": 166,
+          "like_count": 7430,
+          "listed_count": 21,
+          "media_count": 827,
+          "tweet_count": 6486
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T06:54:53.000Z",
+        "description": "很色。很可爱。请先看置顶/无🚪不线下 不聊骚",
+        "id": "1165517774011154433",
+        "name": "深夜开车小孩",
+        "pinned_tweet_id": "1987239749837578359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988911551315591168/6xPEEslw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 106,
+          "like_count": 1065,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 162
+        },
+        "username": "haoxiangchirou6",
+        "verified": false
+      }
+    ]
+  }
+}

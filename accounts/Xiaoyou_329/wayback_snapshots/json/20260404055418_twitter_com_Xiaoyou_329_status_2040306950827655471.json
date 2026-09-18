@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2040063261903556833",
+    "created_at": "2026-04-04T05:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T06:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040306950827655471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029363222890070016",
+          "start": 0,
+          "username": "yujihuixiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040306950827655471",
+    "in_reply_to_user_id": "2029363222890070016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040306178438390116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yujihuixiang 其实中间没打电话因为是在ipad上接的缘故这个电话是之前的不知道怎么卡下来的，电话就是我说要把他删了他还说别磨磨唧唧的别扯。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2040063261903556833",
+        "created_at": "2026-04-04T05:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040306950827655471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029363222890070016",
+              "start": 0,
+              "username": "yujihuixiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040306950827655471",
+        "in_reply_to_user_id": "2029363222890070016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040306178438390116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yujihuixiang 其实中间没打电话因为是在ipad上接的缘故这个电话是之前的不知道怎么卡下来的，电话就是我说要把他删了他还说别磨磨唧唧的别扯。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029363222890070016",
+        "conversation_id": "2040063261903556833",
+        "created_at": "2026-04-04T05:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040306178438390116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040306178438390116",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040063261903556833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 等等。中间这半小时电话是在说什么…虽然妹子我心疼你，但是为什么有点带感…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13457,
+          "following_count": 165,
+          "like_count": 7375,
+          "listed_count": 20,
+          "media_count": 785,
+          "tweet_count": 6265
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T01:09:48.000Z",
+        "description": "浅尝辄止 是命运对我的仁慈\n异国enfj碎碎念/想发什么发什么/不需要投喂和ddlg｜只跟感兴趣的人聊天💬\n别对我有要求",
+        "id": "2029363222890070016",
+        "location": "你心里",
+        "name": "过季雪",
+        "pinned_tweet_id": "2036486742333940188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040013905666383872/XFVQv59b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 86,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 138
+        },
+        "username": "yujihuixiang",
+        "verified": false
+      }
+    ]
+  }
+}

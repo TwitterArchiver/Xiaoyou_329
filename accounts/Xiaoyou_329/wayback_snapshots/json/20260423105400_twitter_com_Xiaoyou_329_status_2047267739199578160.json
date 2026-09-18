@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047267691850072064"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2047267739199578160",
+    "created_at": "2026-04-23T10:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047267739199578160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/95vr6USGii",
+          "end": 33,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2047267739199578160/photo/1",
+          "media_key": "3_2047267691850072064",
+          "start": 10,
+          "url": "https://t.co/95vr6USGii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047267739199578160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的钱包不用活了。 https://t.co/95vr6USGii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047267691850072064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlbHmzbgAA_NGp.jpg",
+        "width": 527
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047267691850072064"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2047267739199578160",
+        "created_at": "2026-04-23T10:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047267739199578160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95vr6USGii",
+              "end": 33,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2047267739199578160/photo/1",
+              "media_key": "3_2047267691850072064",
+              "start": 10,
+              "url": "https://t.co/95vr6USGii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047267739199578160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的钱包不用活了。 https://t.co/95vr6USGii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13570,
+          "following_count": 164,
+          "like_count": 7433,
+          "listed_count": 20,
+          "media_count": 824,
+          "tweet_count": 6422
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

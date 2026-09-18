@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1995762146177941997",
+    "created_at": "2025-12-02T12:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T13:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995835517641130127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824455257453387777",
+          "start": 0,
+          "username": "happyalldayyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995835517641130127",
+    "in_reply_to_user_id": "1824455257453387777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995762146177941997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@happyalldayyyy 我去！不早说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1995762146177941997",
+        "created_at": "2025-12-02T12:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995835517641130127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824455257453387777",
+              "start": 0,
+              "username": "happyalldayyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995835517641130127",
+        "in_reply_to_user_id": "1824455257453387777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995762146177941997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@happyalldayyyy 我去！不早说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824455257453387777",
+        "conversation_id": "1995762146177941997",
+        "created_at": "2025-12-02T07:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T08:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995762146177941997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995762146177941997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2841,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "视奸别人账号的时候记住不要对别人账号占有欲太强！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7832,
+          "following_count": 158,
+          "like_count": 5309,
+          "listed_count": 7,
+          "media_count": 553,
+          "tweet_count": 4397
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T14:37:09.000Z",
+        "description": "另一个我 @friedchichen_推广自辨❕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "friedchichen_"
+              }
+            ]
+          }
+        },
+        "id": "1824455257453387777",
+        "location": "🚪188",
+        "name": "饥饿蛋炒饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897278084060987392/vlkDiSnc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14336,
+          "following_count": 300,
+          "like_count": 29885,
+          "listed_count": 38,
+          "media_count": 301,
+          "tweet_count": 4616
+        },
+        "username": "happyalldayyyy",
+        "verified": false
+      }
+    ]
+  }
+}

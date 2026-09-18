@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2055270998354919746",
+    "created_at": "2026-05-15T13:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055279204519080224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887019946145959936",
+          "start": 0,
+          "username": "YanShi279137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055279204519080224",
+    "in_reply_to_user_id": "1887019946145959936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055273041542942898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YanShi279137 这个米软软的…非常软烂…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2055270998354919746",
+        "created_at": "2026-05-15T13:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055279204519080224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887019946145959936",
+              "start": 0,
+              "username": "YanShi279137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055279204519080224",
+        "in_reply_to_user_id": "1887019946145959936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055273041542942898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YanShi279137 这个米软软的…非常软烂…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887019946145959936",
+        "conversation_id": "2055270998354919746",
+        "created_at": "2026-05-15T13:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055273041542942898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055273041542942898",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055270998354919746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 米饭是不是下锅的时候就已经结块很硬了，如果是这样的话建议先用工具敲散敲碎，或者米饭单独加点水闷一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14691,
+          "following_count": 173,
+          "like_count": 7471,
+          "listed_count": 20,
+          "media_count": 846,
+          "tweet_count": 6584
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T06:06:51.000Z",
+        "description": "活下去",
+        "id": "1887019946145959936",
+        "name": "solongadele8867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952262319511355392/ev3biYdk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 2241,
+          "like_count": 786,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 100
+        },
+        "username": "YanShi279137",
+        "verified": false
+      }
+    ]
+  }
+}

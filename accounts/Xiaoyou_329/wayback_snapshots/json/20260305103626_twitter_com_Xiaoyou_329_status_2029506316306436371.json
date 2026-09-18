@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2029504377665552635",
+    "created_at": "2026-03-05T10:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T11:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029506316306436371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816042391604015104",
+          "start": 0,
+          "username": "tao1865453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029506316306436371",
+    "in_reply_to_user_id": "1816042391604015104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029504377665552635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tao1865453 我也要！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12833,
+        "height": 720,
+        "media_key": "13_2029504315761860608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029504315761860608/img/-2wTXGxg85p9iRZb.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029504315761860608/vid/avc1/480x270/FXKlFvQqnkXpZTYx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029504315761860608/vid/avc1/640x360/Gn5k6oMPVbDnR2pr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029504315761860608/vid/avc1/1280x720/PDsS1QRcm61NcCrV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029504315761860608/pl/5w1PJ2vL82PiANUe.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2029504377665552635",
+        "created_at": "2026-03-05T10:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029506316306436371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816042391604015104",
+              "start": 0,
+              "username": "tao1865453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029506316306436371",
+        "in_reply_to_user_id": "1816042391604015104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029504377665552635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tao1865453 我也要！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029504315761860608"
+          ]
+        },
+        "author_id": "1816042391604015104",
+        "conversation_id": "2029504377665552635",
+        "created_at": "2026-03-05T10:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029504377665552635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkwNA493X1",
+              "end": 26,
+              "expanded_url": "https://x.com/tao1865453/status/2029504377665552635/video/1",
+              "media_key": "13_2029504315761860608",
+              "start": 3,
+              "url": "https://t.co/AkwNA493X1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029504377665552635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "捏捏 https://t.co/AkwNA493X1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12956,
+          "following_count": 162,
+          "like_count": 6867,
+          "listed_count": 19,
+          "media_count": 715,
+          "tweet_count": 5748
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T09:27:10.000Z",
+        "description": "07 双鱼 我有厌蠢症^ω^｜置顶推广自辨",
+        "id": "1816042391604015104",
+        "location": "🚪288/520",
+        "name": "玩具",
+        "pinned_tweet_id": "2028852683990532416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000592635984277504/gwkJf5pq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21868,
+          "following_count": 383,
+          "like_count": 17054,
+          "listed_count": 21,
+          "media_count": 223,
+          "tweet_count": 7077
+        },
+        "username": "tao1865453",
+        "verified": false
+      }
+    ]
+  }
+}

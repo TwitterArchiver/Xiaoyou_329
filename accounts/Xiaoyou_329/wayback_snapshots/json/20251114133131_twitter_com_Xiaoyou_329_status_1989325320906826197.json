@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1975466587596755208",
+    "created_at": "2025-11-14T13:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T14:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989325320906826197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1556189392217452544",
+          "start": 0,
+          "username": "Yukiii_1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989325320906826197",
+    "in_reply_to_user_id": "1556189392217452544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975466587596755208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukiii_1127 咋这么美萌吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1975466580428660738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2pEY3AbIAI3CRY.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1975466587596755208",
+        "created_at": "2025-11-14T13:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989325320906826197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556189392217452544",
+              "start": 0,
+              "username": "Yukiii_1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989325320906826197",
+        "in_reply_to_user_id": "1556189392217452544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975466587596755208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukiii_1127 咋这么美萌吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975466580428660738"
+          ]
+        },
+        "author_id": "1556189392217452544",
+        "conversation_id": "1975466587596755208",
+        "created_at": "2025-10-07T07:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T08:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975466587596755208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CD0KZh9km4",
+              "end": 36,
+              "expanded_url": "https://x.com/Yukiii_1127/status/1975466587596755208/photo/1",
+              "media_key": "3_1975466580428660738",
+              "start": 13,
+              "url": "https://t.co/CD0KZh9km4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975466587596755208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3571,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪ꉂ ᳐`ᗜ´  ᳐ฅ୭ https://t.co/CD0KZh9km4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6221,
+          "following_count": 149,
+          "like_count": 4360,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 3666
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T08:04:09.000Z",
+        "description": "喜欢一切向往自由的事物૮꒰ྀི⸝⸝ɞ̴̶̷ ·̫ ‹⸝⸝꒱ྀི                              @AmorFati1127 过眼熟经常互动的互关^ ^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "AmorFati1127"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki_71456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki_71456",
+                "start": 0,
+                "url": "https://t.co/Ofphpv663b"
+              }
+            ]
+          }
+        },
+        "id": "1556189392217452544",
+        "location": "世界没我照样转",
+        "name": "悲伤Yuki",
+        "pinned_tweet_id": "1975466587596755208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967566591668920320/0pBl2GQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 186,
+          "like_count": 2250,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/Ofphpv663b",
+        "username": "Yukiii_1127",
+        "verified": false
+      }
+    ]
+  }
+}

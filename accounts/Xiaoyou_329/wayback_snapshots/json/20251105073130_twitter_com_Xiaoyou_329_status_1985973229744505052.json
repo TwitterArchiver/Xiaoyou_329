@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1985973205480210432"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1985973229744505052",
+    "created_at": "2025-11-05T07:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T08:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985973229744505052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TanAJFk9iD",
+          "end": 34,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1985973229744505052/video/1",
+          "media_key": "13_1985973205480210432",
+          "start": 11,
+          "url": "https://t.co/TanAJFk9iD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985973229744505052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "农村孩子使上城里货了 https://t.co/TanAJFk9iD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1033,
+        "height": 480,
+        "media_key": "13_1985973205480210432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985973205480210432/img/m2OzHWBe21_HVZre.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985973205480210432/vid/avc1/480x270/Ky1-jfa7ke-W76wK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985973205480210432/vid/avc1/640x360/6h93aS40as3c7UI8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985973205480210432/vid/avc1/854x480/L8tLH9TJ5cljiz6z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985973205480210432/pl/X1yk7irz-PhkYBjv.m3u8"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985973205480210432"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1985973229744505052",
+        "created_at": "2025-11-05T07:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T08:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985973229744505052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TanAJFk9iD",
+              "end": 34,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1985973229744505052/video/1",
+              "media_key": "13_1985973205480210432",
+              "start": 11,
+              "url": "https://t.co/TanAJFk9iD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985973229744505052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "农村孩子使上城里货了 https://t.co/TanAJFk9iD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1985354277674479915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4761,
+          "following_count": 147,
+          "like_count": 3809,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 3314
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

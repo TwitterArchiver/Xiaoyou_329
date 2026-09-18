@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996525215510085632",
+        "3_1996525215501746176"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1996525224163193195",
+    "created_at": "2025-12-04T10:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T11:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996525224163193195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mPUx217oHJ",
+          "end": 45,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1996525224163193195/photo/1",
+          "media_key": "3_1996525215510085632",
+          "start": 22,
+          "url": "https://t.co/mPUx217oHJ"
+        },
+        {
+          "display_url": "pic.x.com/mPUx217oHJ",
+          "end": 45,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1996525224163193195/photo/1",
+          "media_key": "3_1996525215501746176",
+          "start": 22,
+          "url": "https://t.co/mPUx217oHJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996525224163193195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我快崩溃了。贱货你太恶心了。恶心恶心恶心。 https://t.co/mPUx217oHJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996525215510085632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UVGv-WwAAvjMO.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996525215501746176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UVGv8XgAAmvXh.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996525215510085632",
+            "3_1996525215501746176"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996525224163193195",
+        "created_at": "2025-12-04T10:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996525224163193195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mPUx217oHJ",
+              "end": 45,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1996525224163193195/photo/1",
+              "media_key": "3_1996525215510085632",
+              "start": 22,
+              "url": "https://t.co/mPUx217oHJ"
+            },
+            {
+              "display_url": "pic.x.com/mPUx217oHJ",
+              "end": 45,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1996525224163193195/photo/1",
+              "media_key": "3_1996525215501746176",
+              "start": 22,
+              "url": "https://t.co/mPUx217oHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996525224163193195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我快崩溃了。贱货你太恶心了。恶心恶心恶心。 https://t.co/mPUx217oHJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7907,
+          "following_count": 157,
+          "like_count": 5398,
+          "listed_count": 8,
+          "media_count": 524,
+          "tweet_count": 4347
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

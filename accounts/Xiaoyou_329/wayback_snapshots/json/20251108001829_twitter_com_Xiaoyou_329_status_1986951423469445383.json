@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1986847029440713182",
+    "created_at": "2025-11-08T00:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T01:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986951423469445383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783821997618974720",
+          "start": 0,
+          "username": "wonhee_xingnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986951423469445383",
+    "in_reply_to_user_id": "1783821997618974720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986847029440713182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wonhee_xingnu 对 就这样宣传我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1986847029440713182",
+        "created_at": "2025-11-08T00:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T01:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986951423469445383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1783821997618974720",
+              "start": 0,
+              "username": "wonhee_xingnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986951423469445383",
+        "in_reply_to_user_id": "1783821997618974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986847029440713182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonhee_xingnu 对 就这样宣传我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783821997618974720",
+        "conversation_id": "1986847029440713182",
+        "created_at": "2025-11-07T17:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986847029440713182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986847029440713182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1191,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的关注就是最屌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5064,
+          "following_count": 144,
+          "like_count": 3961,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 3395
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:34:49.000Z",
+        "description": "离痛苦远远的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%AA",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%AA",
+                "start": 0,
+                "url": "https://t.co/59LsGYo5qx"
+              }
+            ]
+          }
+        },
+        "id": "1783821997618974720",
+        "location": "爱与罪同罚",
+        "name": "痛痛",
+        "pinned_tweet_id": "1973693105556873342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967216721221365760/EmjHA5t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 18,
+          "like_count": 1272,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/59LsGYo5qx",
+        "username": "wonhee_xingnu",
+        "verified": false
+      }
+    ]
+  }
+}

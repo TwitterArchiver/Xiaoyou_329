@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1956235082915832294",
+    "created_at": "2025-08-15T06:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T07:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956235082915832294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909266536604512256",
+          "start": 3,
+          "username": "xun404214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956235082915832294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955733198455103962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xun404214: 我只是说话比较下流，其实我是还没亲过嘴的纯情小女孩一枚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1956235082915832294",
+        "created_at": "2025-08-15T06:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T07:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956235082915832294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909266536604512256",
+              "start": 3,
+              "username": "xun404214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956235082915832294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955733198455103962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xun404214: 我只是说话比较下流，其实我是还没亲过嘴的纯情小女孩一枚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909266536604512256",
+        "conversation_id": "1955733198455103962",
+        "created_at": "2025-08-13T20:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T21:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955733198455103962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955733198455103962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26108,
+          "like_count": 234,
+          "quote_count": 9,
+          "reply_count": 33,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "我只是说话比较下流，其实我是还没亲过嘴的纯情小女孩一枚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 73,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 234
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T15:26:40.000Z",
+        "description": "🌈les|dom|废话多                                                                              \n匿名：https://t.co/3j6KWyZ66a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuan4042141",
+                "end": 117,
+                "expanded_url": "https://ngl.link/xuan4042141",
+                "start": 94,
+                "url": "https://t.co/3j6KWyZ66a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=GWox8dxy",
+                "start": 0,
+                "url": "https://t.co/R67J3Fznun"
+              }
+            ]
+          }
+        },
+        "id": "1909266536604512256",
+        "location": "自用蜂鸟VPN↓ 🚪88/188/288 纯绿",
+        "name": "玄",
+        "pinned_tweet_id": "1936322251802263719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943262925742891008/0PJntZ6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8598,
+          "following_count": 216,
+          "like_count": 3467,
+          "listed_count": 3,
+          "media_count": 630,
+          "tweet_count": 7388
+        },
+        "url": "https://t.co/R67J3Fznun",
+        "username": "xun404214",
+        "verified": false
+      }
+    ]
+  }
+}

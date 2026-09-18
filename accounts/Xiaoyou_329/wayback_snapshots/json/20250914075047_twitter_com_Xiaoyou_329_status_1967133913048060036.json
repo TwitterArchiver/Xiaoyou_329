@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967102009712238930",
+    "created_at": "2025-09-14T07:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T08:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967133913048060036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650384670629199872",
+          "start": 0,
+          "username": "ling_fuyunhai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967133913048060036",
+    "in_reply_to_user_id": "1650384670629199872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967102009712238930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ling_fuyunhai 笑死我了我第一个剧本杀 就是演疯子 我一直在笑啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967102009712238930",
+        "created_at": "2025-09-14T07:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T08:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967133913048060036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650384670629199872",
+              "start": 0,
+              "username": "ling_fuyunhai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967133913048060036",
+        "in_reply_to_user_id": "1650384670629199872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967102009712238930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ling_fuyunhai 笑死我了我第一个剧本杀 就是演疯子 我一直在笑啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650384670629199872",
+        "conversation_id": "1967102009712238930",
+        "created_at": "2025-09-14T05:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967102009712238930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "浮雲霛’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ZkJz…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1ZkJzZzPlaoJv",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1967102011910090753/lz8ktPzg?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1967102011910090753/lz8ktPzg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 瓦",
+              "unwound_url": "https://twitter.com/i/spaces/1ZkJzZzPlaoJv/peek",
+              "url": "https://t.co/biNgS3sSPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967102009712238930",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/biNgS3sSPp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 107,
+          "like_count": 1430,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 1769
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T06:22:34.000Z",
+        "description": "enfj生活一团糟\n我喜欢讲故事 能让大家睡着是一件幸福的事",
+        "id": "1650384670629199872",
+        "location": "☔",
+        "name": "浮雲霛",
+        "pinned_tweet_id": "1963671173293908342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652171540245663745/vYLTFTKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 111,
+          "like_count": 5280,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 830
+        },
+        "username": "ling_fuyunhai",
+        "verified": false
+      }
+    ]
+  }
+}

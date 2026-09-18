@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1964197487062999087",
+    "created_at": "2025-09-06T05:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T06:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964199832353906751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946927130501120000",
+          "start": 0,
+          "username": "Xiaowu__111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964199832353906751",
+    "in_reply_to_user_id": "1946927130501120000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964197487062999087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaowu__111 小五老师我感觉你最近状态也不太好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1964197487062999087",
+        "created_at": "2025-09-06T05:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964199832353906751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946927130501120000",
+              "start": 0,
+              "username": "Xiaowu__111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964199832353906751",
+        "in_reply_to_user_id": "1946927130501120000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964197487062999087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaowu__111 小五老师我感觉你最近状态也不太好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946927130501120000",
+        "conversation_id": "1964197487062999087",
+        "created_at": "2025-09-06T05:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964197487062999087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/spaces/1YpKk…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1YpKkkrLobVKj",
+              "images": [
+                {
+                  "height": 1139,
+                  "url": "https://pbs.twimg.com/news_img/1964197502258917376/vS791ShD?format=jpg&name=orig",
+                  "width": 2156
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1964197502258917376/vS791ShD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://twitter.com/i/spaces/1YpKkkrLobVKj/peek",
+              "url": "https://t.co/mcz0eXtdAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964197487062999087",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mcz0eXtdAy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 101,
+          "like_count": 1045,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1276
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T13:36:32.000Z",
+        "description": "选择性接陪🥣 （陪聊/哄睡 没有卡）我只是一个爱玩抽象的普通人 不要对我带滤镜   新人男喘 暂时无🚪   不加V",
+        "id": "1946927130501120000",
+        "name": "小五",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948800124420775936/KiLLLXii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 40,
+          "like_count": 372,
+          "listed_count": 8,
+          "media_count": 56,
+          "tweet_count": 271
+        },
+        "username": "Xiaowu__111",
+        "verified": false
+      }
+    ]
+  }
+}

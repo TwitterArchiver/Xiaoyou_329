@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1937132888962822268",
+    "created_at": "2025-06-23T15:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T16:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937166140570050659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612854174714302466",
+          "start": 0,
+          "username": "gu87734192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937166140570050659",
+    "in_reply_to_user_id": "1612854174714302466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937132888962822268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu87734192 私信了 为什么说其实这条暗示的不是我。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6166,
+        "height": 720,
+        "media_key": "7_1937132875251372032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1937132875251372032/pu/img/nIcAeczyTcXBHDIw.jpg",
+        "public_metrics": {
+          "view_count": 320
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937132875251372032/pu/vid/avc1/320x320/jx2Bs_hGHRKEoUGe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937132875251372032/pu/vid/avc1/540x540/sLtZJ_H6dsbrVDwP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937132875251372032/pu/vid/avc1/720x720/wcmIVI0LoGcLWsQb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1937132875251372032/pu/pl/H33_nE8wt2jDjOjM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1937132888962822268",
+        "created_at": "2025-06-23T15:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T16:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937166140570050659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612854174714302466",
+              "start": 0,
+              "username": "gu87734192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937166140570050659",
+        "in_reply_to_user_id": "1612854174714302466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937132888962822268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu87734192 私信了 为什么说其实这条暗示的不是我。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1937132875251372032"
+          ]
+        },
+        "author_id": "1612854174714302466",
+        "conversation_id": "1937132888962822268",
+        "created_at": "2025-06-23T12:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T13:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937132888962822268"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "配音"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "青年音"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "录音"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "清水"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y08RpwJUBv",
+              "end": 60,
+              "expanded_url": "https://x.com/gu87734192/status/1937132888962822268/video/1",
+              "media_key": "7_1937132875251372032",
+              "start": 37,
+              "url": "https://t.co/Y08RpwJUBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937132888962822268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1117,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你可以不那么受欢迎吗，我也想和你玩🥺\n#配音  #青年音 #录音 ＃清水 https://t.co/Y08RpwJUBv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 47,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 113
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:49:50.000Z",
+        "description": "接定制 加v有🚪66\n接陪🥣\n抖音 21943386284\n匿名箱:  https://t.co/feCyxvpgDl\n自用喵叽加速器 高速 稳定 强推：https://t.co/LkGaa7s2XN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gu8773419221",
+                "end": 59,
+                "expanded_url": "https://ngl.link/gu8773419221",
+                "start": 36,
+                "url": "https://t.co/feCyxvpgDl"
+              },
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 100,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=MCRkRBkO",
+                "start": 77,
+                "url": "https://t.co/LkGaa7s2XN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gu87734192.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://gu87734192.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/HjWcbeecYw"
+              }
+            ]
+          }
+        },
+        "id": "1612854174714302466",
+        "location": "河南",
+        "name": "念",
+        "pinned_tweet_id": "1878996127103803653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766545216583196672/aC28okYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19624,
+          "following_count": 73,
+          "like_count": 1139,
+          "listed_count": 31,
+          "media_count": 287,
+          "tweet_count": 1416
+        },
+        "url": "https://t.co/HjWcbeecYw",
+        "username": "gu87734192",
+        "verified": false
+      }
+    ]
+  }
+}

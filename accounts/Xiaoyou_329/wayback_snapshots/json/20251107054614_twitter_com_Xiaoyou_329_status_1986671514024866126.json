@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1986479329858232707",
+    "created_at": "2025-11-07T05:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T06:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986671514024866126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766791677598216192",
+          "start": 0,
+          "username": "OBibabupaop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986671514024866126",
+    "in_reply_to_user_id": "1766791677598216192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986479329858232707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OBibabupaop 恭迎677大王…！依旧美味至极 妈咪咋这么会写骨科吧🥺🤲我将一直追随…！\n此哥就是如此坏的恰到好处😋😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2017,
+        "media_key": "3_1986479320676831232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FkataaEAAzFSZ.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1418,
+        "media_key": "3_1986479320689479680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FkatdbEAAIZKp.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1986479329858232707",
+        "created_at": "2025-11-07T05:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986671514024866126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766791677598216192",
+              "start": 0,
+              "username": "OBibabupaop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986671514024866126",
+        "in_reply_to_user_id": "1766791677598216192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986479329858232707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OBibabupaop 恭迎677大王…！依旧美味至极 妈咪咋这么会写骨科吧🥺🤲我将一直追随…！\n此哥就是如此坏的恰到好处😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986479320676831232",
+            "3_1986479320689479680"
+          ]
+        },
+        "author_id": "1766791677598216192",
+        "conversation_id": "1986479329858232707",
+        "created_at": "2025-11-06T17:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T18:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986479329858232707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XUx1l2p35W",
+              "end": 34,
+              "expanded_url": "https://x.com/OBibabupaop/status/1986479329858232707/photo/1",
+              "media_key": "3_1986479320676831232",
+              "start": 11,
+              "url": "https://t.co/XUx1l2p35W"
+            },
+            {
+              "display_url": "pic.x.com/XUx1l2p35W",
+              "end": 34,
+              "expanded_url": "https://x.com/OBibabupaop/status/1986479329858232707/photo/1",
+              "media_key": "3_1986479320689479680",
+              "start": 11,
+              "url": "https://t.co/XUx1l2p35W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986479329858232707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 6477,
+          "like_count": 334,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "677携带骨科回归！ https://t.co/XUx1l2p35W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5054,
+          "following_count": 142,
+          "like_count": 3889,
+          "listed_count": 4,
+          "media_count": 416,
+          "tweet_count": 3348
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T11:43:02.000Z",
+        "description": "随机生成一点乙女向R18虚构短篇，本质自娱自乐，仅供18岁以上成年人基于幻想自愿阅读。 ⚠️内容纯属虚构，不鼓励任何现实行为，请勿代入现实。 严禁截图、搬运、存档、AI训练使用。 本人仅此一号，其他平台无任何账号。 进入即视为已成年并接受全部阅读风险。",
+        "id": "1766791677598216192",
+        "name": "@77（🚫搬运）",
+        "pinned_tweet_id": "1967517373734564335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926323453130420224/i6cwWU3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78853,
+          "following_count": 368,
+          "like_count": 237,
+          "listed_count": 59,
+          "media_count": 46,
+          "tweet_count": 1825
+        },
+        "username": "OBibabupaop",
+        "verified": false
+      }
+    ]
+  }
+}

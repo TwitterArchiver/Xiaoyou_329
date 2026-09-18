@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2095854081550041147",
+    "created_at": "2026-09-04T13:40:34.000Z",
+    "display_text_range": [
+      12,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T14:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095869634259861868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816042391604015104",
+          "start": 0,
+          "username": "tao1865453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095869634259861868",
+    "in_reply_to_user_id": "1816042391604015104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095854909996556438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tao1865453 我不知道唉∑(°口°๑)！！！但有可能是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2095854081550041147",
+        "created_at": "2026-09-04T13:40:34.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095869634259861868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816042391604015104",
+              "start": 0,
+              "username": "tao1865453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095869634259861868",
+        "in_reply_to_user_id": "1816042391604015104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095854909996556438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tao1865453 我不知道唉∑(°口°๑)！！！但有可能是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816042391604015104",
+        "conversation_id": "2095854081550041147",
+        "created_at": "2026-09-04T12:42:04.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095854909996556438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095854909996556438",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095854081550041147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 着凉了嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095869634259861868",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17356,
+          "following_count": 173,
+          "like_count": 7715,
+          "listed_count": 21,
+          "media_count": 1165,
+          "tweet_count": 7865
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-24T09:27:10.000Z",
+        "description": "一个游戏奴｜喜欢有礼貌的人˙₊Ი- ω -𐑼·⋆\n小@tao07158",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "tao07158"
+              }
+            ]
+          }
+        },
+        "id": "1816042391604015104",
+        "is_identity_verified": false,
+        "location": "🚪",
+        "most_recent_tweet_id": "2095866413781315610",
+        "name": "玩具",
+        "pinned_tweet_id": "2093696478690906387",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816042391604015104/1764582544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000592635984277504/gwkJf5pq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31132,
+          "following_count": 224,
+          "like_count": 16287,
+          "listed_count": 34,
+          "media_count": 164,
+          "tweet_count": 7305
+        },
+        "url": "",
+        "username": "tao1865453",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

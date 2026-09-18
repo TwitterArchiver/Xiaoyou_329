@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2031211762062709217",
+    "created_at": "2026-03-10T05:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T06:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031233689196118295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1832473387064815619",
+          "start": 0,
+          "username": "ptrlxy00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031233689196118295",
+    "in_reply_to_user_id": "1832473387064815619",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031232422034157952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ptrlxy00 😶‍🌫️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2031211762062709217",
+        "created_at": "2026-03-10T05:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031233689196118295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1832473387064815619",
+              "start": 0,
+              "username": "ptrlxy00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031233689196118295",
+        "in_reply_to_user_id": "1832473387064815619",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031232422034157952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ptrlxy00 😶‍🌫️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832473387064815619",
+        "conversation_id": "2031211762062709217",
+        "created_at": "2026-03-10T04:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T05:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031232422034157952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031232422034157952",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031211762062709217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 好讨厌这种把人当工具…真的能有性欲吗 不说多真心实意但是最起码有点尊重走点点心吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13131,
+          "following_count": 162,
+          "like_count": 6975,
+          "listed_count": 19,
+          "media_count": 729,
+          "tweet_count": 5867
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T17:38:07.000Z",
+        "description": "我不是个好丈夫 不是个好父亲 也不是个好儿子 那又怎样呢 我是一个女孩子",
+        "id": "1832473387064815619",
+        "name": "好运降琳",
+        "pinned_tweet_id": "1841201481455964254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833366968277340168/BF7aDzfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2823,
+          "following_count": 17,
+          "like_count": 117,
+          "listed_count": 8,
+          "media_count": 61,
+          "tweet_count": 154
+        },
+        "username": "ptrlxy00",
+        "verified": false
+      }
+    ]
+  }
+}

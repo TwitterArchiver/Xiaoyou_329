@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082930375391588352"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082930390633709943",
+    "created_at": "2026-07-30T20:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T21:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082930390633709943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gUN9kRpttH",
+          "end": 47,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2082930390633709943/photo/1",
+          "media_key": "3_2082930375391588352",
+          "start": 24,
+          "url": "https://t.co/gUN9kRpttH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082930390633709943",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在火热朋友思考要不要去看。反正我笑的很懵逼呀 https://t.co/gUN9kRpttH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2082930375391588352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOgOI_0WMAAxt5r.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082930375391588352"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082930390633709943",
+        "created_at": "2026-07-30T20:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082930390633709943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUN9kRpttH",
+              "end": 47,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2082930390633709943/photo/1",
+              "media_key": "3_2082930375391588352",
+              "start": 24,
+              "url": "https://t.co/gUN9kRpttH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082930390633709943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在火热朋友思考要不要去看。反正我笑的很懵逼呀 https://t.co/gUN9kRpttH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17697,
+          "following_count": 189,
+          "like_count": 7692,
+          "listed_count": 22,
+          "media_count": 1090,
+          "tweet_count": 7660
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

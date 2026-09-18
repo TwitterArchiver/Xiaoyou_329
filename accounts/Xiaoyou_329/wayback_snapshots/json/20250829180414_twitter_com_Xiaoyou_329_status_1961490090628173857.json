@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961480617322746341",
+    "created_at": "2025-08-29T18:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T19:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961490090628173857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957369817897619456",
+          "start": 0,
+          "username": "rourou109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961490090628173857",
+    "in_reply_to_user_id": "1957369817897619456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961489258390151304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rourou109 好好休息宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961480617322746341",
+        "created_at": "2025-08-29T18:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T19:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961490090628173857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957369817897619456",
+              "start": 0,
+              "username": "rourou109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961490090628173857",
+        "in_reply_to_user_id": "1957369817897619456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961489258390151304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rourou109 好好休息宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957369817897619456",
+        "conversation_id": "1961480617322746341",
+        "created_at": "2025-08-29T18:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T19:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961489258390151304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961489258390151304",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961480617322746341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 哎呀是谁有五天的病假是我呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 95,
+          "like_count": 821,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 829
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T09:12:09.000Z",
+        "description": "有些人啥时候才能明白别人的生活关你屁事",
+        "id": "1957369817897619456",
+        "location": "番茄大王国",
+        "name": "番茄来噜ʕっ•ᴥ•ʔっ🍅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961489808876081156/RX0B5w84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 66,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 846
+        },
+        "username": "rourou109",
+        "verified": false
+      }
+    ]
+  }
+}

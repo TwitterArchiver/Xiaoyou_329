@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1993290125179232576",
+    "created_at": "2025-11-25T12:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T13:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993293103076458974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1794389416972316674",
+          "start": 0,
+          "username": "ovo_yuuzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993293103076458974",
+    "in_reply_to_user_id": "1794389416972316674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993290125179232576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovo_yuuzi 喜欢你！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14040,
+        "height": 834,
+        "media_key": "13_1993290055679721474",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993290055679721474/img/B4fC9kA3KuVxhqYk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993290055679721474/vid/avc1/320x370/lOiBHG98RFYl7EMH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993290055679721474/vid/avc1/480x556/5avsmMcT0C5wg2Nh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993290055679721474/vid/avc1/720x834/O9MchoWFN8Blh2Up.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993290055679721474/pl/D8eaa6n5UEoB10ck.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1993290125179232576",
+        "created_at": "2025-11-25T12:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993293103076458974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1794389416972316674",
+              "start": 0,
+              "username": "ovo_yuuzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993293103076458974",
+        "in_reply_to_user_id": "1794389416972316674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993290125179232576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovo_yuuzi 喜欢你！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993290055679721474"
+          ]
+        },
+        "author_id": "1794389416972316674",
+        "conversation_id": "1993290125179232576",
+        "created_at": "2025-11-25T12:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993290125179232576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FPHyLrDEbY",
+              "end": 32,
+              "expanded_url": "https://x.com/ovo_yuuzi/status/1993290125179232576/video/1",
+              "media_key": "13_1993290055679721474",
+              "start": 9,
+              "url": "https://t.co/FPHyLrDEbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993290125179232576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再多喜欢我一点… https://t.co/FPHyLrDEbY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7168,
+          "following_count": 154,
+          "like_count": 5091,
+          "listed_count": 4,
+          "media_count": 522,
+          "tweet_count": 4165
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T15:26:03.000Z",
+        "description": "美乐蒂就是最屌的",
+        "id": "1794389416972316674",
+        "location": "攻击力不够的一律视为调情",
+        "name": "我想操你才找你的ovo",
+        "pinned_tweet_id": "1972104025220014542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992222875047346176/0bzGvFTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 160,
+          "like_count": 694,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 983
+        },
+        "username": "ovo_yuuzi",
+        "verified": false
+      }
+    ]
+  }
+}

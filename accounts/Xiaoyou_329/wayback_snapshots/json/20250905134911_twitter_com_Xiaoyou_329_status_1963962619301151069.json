@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1963962522374914536",
+    "created_at": "2025-09-05T13:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T14:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963962619301151069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947634203358543873",
+          "start": 0,
+          "username": "uxehNv2zpB70937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963962619301151069",
+    "in_reply_to_user_id": "1947634203358543873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963962522374914536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uxehNv2zpB70937 萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963962509456785408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0FlfzBbQAAv75u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1963962522374914536",
+        "created_at": "2025-09-05T13:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T14:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963962619301151069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947634203358543873",
+              "start": 0,
+              "username": "uxehNv2zpB70937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963962619301151069",
+        "in_reply_to_user_id": "1947634203358543873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963962522374914536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uxehNv2zpB70937 萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963962509456785408"
+          ]
+        },
+        "author_id": "1947634203358543873",
+        "conversation_id": "1963962522374914536",
+        "created_at": "2025-09-05T13:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T14:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963962522374914536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vtirb6Rb97",
+              "end": 34,
+              "expanded_url": "https://x.com/uxehNv2zpB70937/status/1963962522374914536/photo/1",
+              "media_key": "3_1963962509456785408",
+              "start": 11,
+              "url": "https://t.co/vtirb6Rb97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963962522374914536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兔子也在低头看手机😋 https://t.co/vtirb6Rb97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜当朋友圈发｜感谢关注｜",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 102,
+          "like_count": 1034,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1261
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T12:26:11.000Z",
+        "description": "瞎玩瞎聊瞎看和一些想法 ｜老忘记点赞（介意的宝宝可以和我说捏 ｜🚬可能黄色废话和评论比较多（介意的宝宝可以取关我捏 我不是很在意互关｜应该不会出现裸露身体照片（哪天忍不住了再说🤗",
+        "id": "1947634203358543873",
+        "name": "岁星",
+        "pinned_tweet_id": "1962850986965557703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955658680114044928/OlfF5_8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 104,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 815
+        },
+        "username": "uxehNv2zpB70937",
+        "verified": false
+      }
+    ]
+  }
+}

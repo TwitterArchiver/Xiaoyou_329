@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1974828533441798621",
+    "created_at": "2025-10-05T14:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T15:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974838317616140429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783821997618974720",
+          "start": 0,
+          "username": "wonhee_xingnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974838317616140429",
+    "in_reply_to_user_id": "1783821997618974720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974828533441798621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wonhee_xingnu 小丘唱歌还是一如既往的好听"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40453,
+        "height": 1280,
+        "media_key": "13_1974828409768546304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974828409768546304/img/lE5vA6ZsVJQ2XckN.jpg",
+        "public_metrics": {
+          "view_count": 64
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974828409768546304/vid/avc1/320x694/TjxrjTSWFqa_vk7N.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974828409768546304/vid/avc1/480x1040/UZ0jZwFIgDPjACxG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974828409768546304/vid/avc1/590x1280/HFh2xlqFLbWIQfdW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974828409768546304/pl/H5__fj3fhGzdBs_h.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1974828533441798621",
+        "created_at": "2025-10-05T14:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T15:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974838317616140429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1783821997618974720",
+              "start": 0,
+              "username": "wonhee_xingnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974838317616140429",
+        "in_reply_to_user_id": "1783821997618974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974828533441798621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonhee_xingnu 小丘唱歌还是一如既往的好听"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974828409768546304"
+          ]
+        },
+        "author_id": "1783821997618974720",
+        "conversation_id": "1974828533441798621",
+        "created_at": "2025-10-05T13:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T14:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974828533441798621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7VMA7lkcMA",
+              "end": 28,
+              "expanded_url": "https://x.com/wonhee_xingnu/status/1974828533441798621/video/1",
+              "media_key": "13_1974828409768546304",
+              "start": 5,
+              "url": "https://t.co/7VMA7lkcMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974828533441798621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不会唱 https://t.co/7VMA7lkcMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜挺爱搞抽象的一普通人｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 129,
+          "like_count": 2346,
+          "listed_count": 1,
+          "media_count": 390,
+          "tweet_count": 2628
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:34:49.000Z",
+        "description": "泪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%AA",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%AA",
+                "start": 0,
+                "url": "https://t.co/59LsGYoDg5"
+              }
+            ]
+          }
+        },
+        "id": "1783821997618974720",
+        "location": "爱与罪同罚",
+        "name": "痛",
+        "pinned_tweet_id": "1973693105556873342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967216721221365760/EmjHA5t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 26,
+          "like_count": 1183,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/59LsGYoDg5",
+        "username": "wonhee_xingnu",
+        "verified": false
+      }
+    ]
+  }
+}

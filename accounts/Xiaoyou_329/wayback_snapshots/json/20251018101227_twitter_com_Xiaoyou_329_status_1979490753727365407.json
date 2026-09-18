@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1979489742019567867",
+    "created_at": "2025-10-18T10:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T11:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979490753727365407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1383670682056155145",
+          "start": 0,
+          "username": "mhhhchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979490753727365407",
+    "in_reply_to_user_id": "1383670682056155145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979489742019567867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhhhchu 注意安全！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1979489742019567867",
+        "created_at": "2025-10-18T10:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T11:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979490753727365407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1383670682056155145",
+              "start": 0,
+              "username": "mhhhchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979490753727365407",
+        "in_reply_to_user_id": "1383670682056155145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979489742019567867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhhhchu 注意安全！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383670682056155145",
+        "conversation_id": "1979489742019567867",
+        "created_at": "2025-10-18T10:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T11:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979489742019567867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979489742019567867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我今天早上被地震摇醒\n但零个警报…？ 我在梦游吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 134,
+          "like_count": 2920,
+          "listed_count": 3,
+          "media_count": 404,
+          "tweet_count": 2945
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-18T06:36:28.000Z",
+        "description": "女的！🍞🪼繁简ok 可以叫我鸭鸭！每天都爱碎碎念( ⌯᷄ ·̫ ⌯᷅ก )/诡秘 @ttttttxu /https://t.co/UlVGyKDkm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "ttttttxu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mchuuu28",
+                "end": 75,
+                "expanded_url": "https://ngl.link/mchuuu28",
+                "start": 52,
+                "url": "https://t.co/UlVGyKDkm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/aoi.ya",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/aoi.ya",
+                "start": 0,
+                "url": "https://t.co/eeqk7868QI"
+              }
+            ]
+          }
+        },
+        "id": "1383670682056155145",
+        "name": "鸭（妻子三婚）",
+        "pinned_tweet_id": "1975389510130409915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945841869214085120/WweKUMIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 438,
+          "like_count": 26536,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 3129
+        },
+        "url": "https://t.co/eeqk7868QI",
+        "username": "mhhhchu",
+        "verified": false
+      }
+    ]
+  }
+}

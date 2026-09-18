@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2092224056569323626",
+    "created_at": "2026-08-25T14:55:38.000Z",
+    "display_text_range": [
+      17,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092264646841405792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995497695201693696",
+          "start": 0,
+          "username": "MauriZalic22579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092264646841405792",
+    "in_reply_to_user_id": "1995497695201693696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092259367643193710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MauriZalic22579 蟹老板的最爱…小钱钱…～(￣∇￣)～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2092224056569323626",
+        "created_at": "2026-08-25T14:55:38.000Z",
+        "display_text_range": [
+          17,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092264646841405792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995497695201693696",
+              "start": 0,
+              "username": "MauriZalic22579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092264646841405792",
+        "in_reply_to_user_id": "1995497695201693696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092259367643193710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MauriZalic22579 蟹老板的最爱…小钱钱…～(￣∇￣)～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995497695201693696",
+        "conversation_id": "2092224056569323626",
+        "created_at": "2026-08-25T14:34:40.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092259367643193710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092259367643193710",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092224056569323626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 胡萝卜是什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092264646841405792",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17339,
+          "following_count": 181,
+          "like_count": 7698,
+          "listed_count": 22,
+          "media_count": 1136,
+          "tweet_count": 7765
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-01T14:18:35.000Z",
+        "description": "鱼哭了水知道，奶龙哭了所有人都要知道",
+        "id": "1995497695201693696",
+        "is_identity_verified": false,
+        "location": "0.5km",
+        "most_recent_tweet_id": "2092259367643193710",
+        "name": "^x^",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995497695201693696/1783449417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089396024016314368/bSI-8G3d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 707,
+          "like_count": 5523,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "MauriZalic22579",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

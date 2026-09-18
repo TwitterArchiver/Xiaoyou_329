@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057834033778962432"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2057834050073829487",
+    "created_at": "2026-05-22T14:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057834050073829487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VF6jbIRbJA",
+          "end": 69,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2057834050073829487/photo/1",
+          "media_key": "3_2057834033778962432",
+          "start": 46,
+          "url": "https://t.co/VF6jbIRbJA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057834050073829487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打一把输两把啥意思！我他妈不玩了。就没有会开节奏的打野。也没有跟我团的打野。臭打野臭打野。 https://t.co/VF6jbIRbJA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1127,
+        "media_key": "3_2057834033778962432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7lJp4asAAtUuT.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057834033778962432"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2057834050073829487",
+        "created_at": "2026-05-22T14:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057834050073829487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VF6jbIRbJA",
+              "end": 69,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2057834050073829487/photo/1",
+              "media_key": "3_2057834033778962432",
+              "start": 46,
+              "url": "https://t.co/VF6jbIRbJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057834050073829487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打一把输两把啥意思！我他妈不玩了。就没有会开节奏的打野。也没有跟我团的打野。臭打野臭打野。 https://t.co/VF6jbIRbJA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15027,
+          "following_count": 175,
+          "like_count": 7539,
+          "listed_count": 21,
+          "media_count": 850,
+          "tweet_count": 6611
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

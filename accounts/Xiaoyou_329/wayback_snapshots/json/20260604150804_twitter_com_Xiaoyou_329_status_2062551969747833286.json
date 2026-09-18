@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2062468039036260654",
+    "created_at": "2026-06-04T15:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062551969747833286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058568995994042368",
+          "start": 0,
+          "username": "Silence112244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062551969747833286",
+    "in_reply_to_user_id": "2058568995994042368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062545407063085257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Silence112244 啊啊啊笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2062468039036260654",
+        "created_at": "2026-06-04T15:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062551969747833286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058568995994042368",
+              "start": 0,
+              "username": "Silence112244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062551969747833286",
+        "in_reply_to_user_id": "2058568995994042368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062545407063085257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Silence112244 啊啊啊笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058568995994042368",
+        "conversation_id": "2062468039036260654",
+        "created_at": "2026-06-04T14:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062545407063085257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062545407063085257",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062468039036260654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 裸考藏不住手机怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15430,
+          "following_count": 176,
+          "like_count": 7586,
+          "listed_count": 20,
+          "media_count": 877,
+          "tweet_count": 6770
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T15:22:28.000Z",
+        "description": "心平能愈三千疾",
+        "id": "2058568995994042368",
+        "name": "仇人太多你是誰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058569550241869824/9fFaVbhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "Silence112244",
+        "verified": false
+      }
+    ]
+  }
+}

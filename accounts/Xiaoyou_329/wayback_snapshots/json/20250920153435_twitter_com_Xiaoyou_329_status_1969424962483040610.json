@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969424951976292352"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1969424962483040610",
+    "created_at": "2025-09-20T15:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T16:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969424962483040610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZqMV5Qpmb2",
+          "end": 158,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1969424962483040610/photo/1",
+          "media_key": "3_1969424951976292352",
+          "start": 135,
+          "url": "https://t.co/ZqMV5Qpmb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969424962483040610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我真的很容易自卑，有的朋友真的经常会锐评我，然后我就会自我调侃，但是心里还是会很难受，我有一个朋友就是他就是经常觉得我的声音很难听，每次都说我的声音很恶心，不管是我夹着不夹着又或者说很平淡的…其实我就是会有一点不舒服…长久下来其实就会想问自己是不是声音真的很难听… https://t.co/ZqMV5Qpmb2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_1969424951976292352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1TNjzJWcAACe3V.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969424951976292352"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1969424962483040610",
+        "created_at": "2025-09-20T15:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T16:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969424962483040610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZqMV5Qpmb2",
+              "end": 158,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1969424962483040610/photo/1",
+              "media_key": "3_1969424951976292352",
+              "start": 135,
+              "url": "https://t.co/ZqMV5Qpmb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969424962483040610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我真的很容易自卑，有的朋友真的经常会锐评我，然后我就会自我调侃，但是心里还是会很难受，我有一个朋友就是他就是经常觉得我的声音很难听，每次都说我的声音很恶心，不管是我夹着不夹着又或者说很平淡的…其实我就是会有一点不舒服…长久下来其实就会想问自己是不是声音真的很难听… https://t.co/ZqMV5Qpmb2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1965820788399026273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 119,
+          "like_count": 1684,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

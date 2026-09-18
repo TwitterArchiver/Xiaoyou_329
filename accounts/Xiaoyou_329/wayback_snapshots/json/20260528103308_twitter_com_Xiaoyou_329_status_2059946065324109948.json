@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059609108723154944"
+      ],
+      "media_source_tweet_id": [
+        "2059649912665784793"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2059946065324109948",
+    "created_at": "2026-05-28T10:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059946065324109948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7bPocEjfOx",
+          "end": 35,
+          "expanded_url": "https://x.com/Berries1_/status/2059649912665784793/video/1",
+          "media_key": "13_2059609108723154944",
+          "start": 12,
+          "url": "https://t.co/7bPocEjfOx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059946065324109948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "未来对象必须这样对我。 https://t.co/7bPocEjfOx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 563364,
+        "height": 1082,
+        "media_key": "13_2059609108723154944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059609108723154944/img/LoS4irUlSg-VbXvz.jpg",
+        "public_metrics": {
+          "view_count": 429659
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059609108723154944/pl/e72FpNEreWYhiuk9.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059609108723154944/vid/avc1/320x320/76ZGd4pKWm08BIqv.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059609108723154944/vid/avc1/1080x1080/mz9Tf1lQFOC6qY7Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059609108723154944/vid/avc1/720x720/Wy1vZanNXoU-RIxM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059609108723154944/vid/avc1/480x480/dZ2q8jhCoLLJgge8.mp4"
+          }
+        ],
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059609108723154944"
+          ],
+          "media_source_tweet_id": [
+            "2059649912665784793"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2059946065324109948",
+        "created_at": "2026-05-28T10:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059946065324109948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bPocEjfOx",
+              "end": 35,
+              "expanded_url": "https://x.com/Berries1_/status/2059649912665784793/video/1",
+              "media_key": "13_2059609108723154944",
+              "start": 12,
+              "url": "https://t.co/7bPocEjfOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059946065324109948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未来对象必须这样对我。 https://t.co/7bPocEjfOx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15217,
+          "following_count": 175,
+          "like_count": 7559,
+          "listed_count": 21,
+          "media_count": 866,
+          "tweet_count": 6693
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

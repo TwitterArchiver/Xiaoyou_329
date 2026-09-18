@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2056703136874504600",
+    "created_at": "2026-05-19T13:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056732326693089528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049907365990776832",
+          "start": 0,
+          "username": "hansswdkbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056732326693089528",
+    "in_reply_to_user_id": "2049907365990776832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056703136874504600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hansswdkbw 蹲蹲！祝老师以后能被更多人喜欢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2056703136874504600",
+        "created_at": "2026-05-19T13:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056732326693089528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049907365990776832",
+              "start": 0,
+              "username": "hansswdkbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056732326693089528",
+        "in_reply_to_user_id": "2049907365990776832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056703136874504600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hansswdkbw 蹲蹲！祝老师以后能被更多人喜欢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049907365990776832",
+        "conversation_id": "2056703136874504600",
+        "created_at": "2026-05-19T11:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056703136874504600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056703136874504600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3000fo了 抽五个🚪吧 可定制音频自带本最好 时长十分钟以内 （评论参与）谢谢大家喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14961,
+          "following_count": 174,
+          "like_count": 7510,
+          "listed_count": 21,
+          "media_count": 850,
+          "tweet_count": 6605
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T17:42:56.000Z",
+        "description": "私信都会回 接定制",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B6%B562318",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B6%B562318",
+                "start": 0,
+                "url": "https://t.co/N9sFFi3DKy"
+              }
+            ]
+          }
+        },
+        "id": "2049907365990776832",
+        "name": "缠绕我脸上悲伤",
+        "pinned_tweet_id": "2056703136874504600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049907472870014977/0eZb0R5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3001,
+          "following_count": 0,
+          "like_count": 355,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/N9sFFi3DKy",
+        "username": "hansswdkbw",
+        "verified": false
+      }
+    ]
+  }
+}

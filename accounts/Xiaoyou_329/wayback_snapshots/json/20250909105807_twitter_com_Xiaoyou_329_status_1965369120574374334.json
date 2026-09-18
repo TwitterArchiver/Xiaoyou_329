@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1965276287943184780",
+    "created_at": "2025-09-09T10:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T11:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965369120574374334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1744625273298124800",
+          "start": 0,
+          "username": "bao1594108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965369120574374334",
+    "in_reply_to_user_id": "1744625273298124800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965368167083245609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bao1594108 我没招了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1965276287943184780",
+        "created_at": "2025-09-09T10:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965369120574374334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744625273298124800",
+              "start": 0,
+              "username": "bao1594108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965369120574374334",
+        "in_reply_to_user_id": "1744625273298124800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965368167083245609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bao1594108 我没招了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744625273298124800",
+        "conversation_id": "1965276287943184780",
+        "created_at": "2025-09-09T10:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965368167083245609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965368167083245609",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965276287943184780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 哎我去…..😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 106,
+          "like_count": 1216,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1518
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-09T07:41:14.000Z",
+        "description": "一直游，直到护照变蓝",
+        "id": "1744625273298124800",
+        "name": "柚子.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962451909715124224/_Aaoso___normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 414,
+          "like_count": 1683,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 659
+        },
+        "username": "bao1594108",
+        "verified": false
+      }
+    ]
+  }
+}

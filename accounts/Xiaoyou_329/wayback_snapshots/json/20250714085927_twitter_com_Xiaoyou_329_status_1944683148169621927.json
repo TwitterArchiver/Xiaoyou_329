@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1944342510773432470",
+    "created_at": "2025-07-14T08:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T09:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944683148169621927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1081383751450537985",
+          "start": 0,
+          "username": "kanqilaibushuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944683148169621927",
+    "in_reply_to_user_id": "1081383751450537985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944342510773432470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanqilaibushuai ？我不行了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37766,
+        "height": 960,
+        "media_key": "7_1944342458764320768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1944342458764320768/pu/img/Ra8_QXkJ4BPb4Z_1.jpg",
+        "public_metrics": {
+          "view_count": 1170
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1944342458764320768/pu/vid/avc1/320x426/HbO2gw2UZ8q9hepg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1944342458764320768/pu/vid/avc1/480x640/MM_nWOVgoNTs1dGw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1944342458764320768/pu/vid/avc1/720x960/L5PWuvWANhbt6iO4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1944342458764320768/pu/pl/5q8WzMKldiYZSNjz.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1944342510773432470",
+        "created_at": "2025-07-14T08:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T09:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944683148169621927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1081383751450537985",
+              "start": 0,
+              "username": "kanqilaibushuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944683148169621927",
+        "in_reply_to_user_id": "1081383751450537985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944342510773432470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanqilaibushuai ？我不行了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1944342458764320768"
+          ]
+        },
+        "author_id": "1081383751450537985",
+        "conversation_id": "1944342510773432470",
+        "created_at": "2025-07-13T10:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T11:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944342510773432470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEba1glwri",
+              "end": 30,
+              "expanded_url": "https://x.com/kanqilaibushuai/status/1944342510773432470/video/1",
+              "media_key": "7_1944342458764320768",
+              "start": 7,
+              "url": "https://t.co/AEba1glwri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944342510773432470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5554,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "手冲被偷拍了 https://t.co/AEba1glwri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 59,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 184
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T02:55:52.000Z",
+        "description": "想我了就把手伸下去 告诉自己这是最后一次 （ 本子是本子，我是我 “你所爱的男性角色其实都是女性作者的灵魂”     ，，匿名提问：https://t.co/u6WkPhXYqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanqilaibushuai",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kanqilaibushuai",
+                "start": 66,
+                "url": "https://t.co/u6WkPhXYqG"
+              }
+            ]
+          }
+        },
+        "id": "1081383751450537985",
+        "location": "小孩那桌",
+        "name": "老浣熊（养胃版）",
+        "pinned_tweet_id": "1822551190820811052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630593808311398400/OfFYhzBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31571,
+          "following_count": 199,
+          "like_count": 15393,
+          "listed_count": 69,
+          "media_count": 304,
+          "tweet_count": 7224
+        },
+        "username": "kanqilaibushuai",
+        "verified": false
+      }
+    ]
+  }
+}

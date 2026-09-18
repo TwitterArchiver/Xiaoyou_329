@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965433145462775808"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "1965428191562264916",
+    "created_at": "2025-09-09T15:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T16:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965433167659380821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766791677598216192",
+          "start": 0,
+          "username": "OBibabupaop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gqElATw8I0",
+          "end": 172,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1965433167659380821/photo/1",
+          "media_key": "3_1965433145462775808",
+          "start": 149,
+          "url": "https://t.co/gqElATw8I0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965433167659380821",
+    "in_reply_to_user_id": "1766791677598216192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965428191562264916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OBibabupaop 677妈咪的文 正面看，好吃！背面看，好吃！ 左边看，好吃！右边看，好吃！ 上边看，好吃！下边看，好吃！ 用苹果手机看，好吃！ 用华为手机看，好吃！ 用小米手机看，好吃！ 用三星手机看，好吃！ 用OPPO手机看，好吃！ 用vivo手机看，好吃！ 用8848手机看，好吃！ https://t.co/gqElATw8I0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 806,
+        "media_key": "3_1965433145462775808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0afCFEWYAAZdv1.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965433145462775808"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "1965428191562264916",
+        "created_at": "2025-09-09T15:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T16:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965433167659380821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766791677598216192",
+              "start": 0,
+              "username": "OBibabupaop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gqElATw8I0",
+              "end": 172,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1965433167659380821/photo/1",
+              "media_key": "3_1965433145462775808",
+              "start": 149,
+              "url": "https://t.co/gqElATw8I0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965433167659380821",
+        "in_reply_to_user_id": "1766791677598216192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965428191562264916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OBibabupaop 677妈咪的文 正面看，好吃！背面看，好吃！ 左边看，好吃！右边看，好吃！ 上边看，好吃！下边看，好吃！ 用苹果手机看，好吃！ 用华为手机看，好吃！ 用小米手机看，好吃！ 用三星手机看，好吃！ 用OPPO手机看，好吃！ 用vivo手机看，好吃！ 用8848手机看，好吃！ https://t.co/gqElATw8I0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766791677598216192",
+        "conversation_id": "1965428191562264916",
+        "created_at": "2025-09-09T14:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T15:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965428191562264916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965428191562264916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 743,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夸夸677时间到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 107,
+          "like_count": 1248,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1555
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T11:43:02.000Z",
+        "description": "随机生成一点乙女向R18虚构短篇，本质自娱自乐，仅供18岁以上成年人基于幻想自愿阅读。 ⚠️内容纯属虚构，不鼓励任何现实行为，请勿代入现实。 严禁截图、搬运、存档、AI训练使用。 本人仅此一号，其他平台无任何账号。 进入即视为已成年并接受全部阅读风险。",
+        "id": "1766791677598216192",
+        "name": "@77（🚫搬运）",
+        "pinned_tweet_id": "1918640323049206266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926323453130420224/i6cwWU3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71692,
+          "following_count": 371,
+          "like_count": 257,
+          "listed_count": 48,
+          "media_count": 36,
+          "tweet_count": 1634
+        },
+        "username": "OBibabupaop",
+        "verified": false
+      }
+    ]
+  }
+}

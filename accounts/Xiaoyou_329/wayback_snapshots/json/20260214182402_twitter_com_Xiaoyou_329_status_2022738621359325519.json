@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2022738126905418209",
+    "created_at": "2026-02-14T18:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T19:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022738621359325519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1495800496312836097",
+          "start": 0,
+          "username": "ghx107915"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022738621359325519",
+    "in_reply_to_user_id": "1495800496312836097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022738494964339154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ghx107915 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022738126905418209",
+        "created_at": "2026-02-14T18:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022738621359325519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1495800496312836097",
+              "start": 0,
+              "username": "ghx107915"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022738621359325519",
+        "in_reply_to_user_id": "1495800496312836097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022738494964339154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghx107915 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495800496312836097",
+        "conversation_id": "2022738126905418209",
+        "created_at": "2026-02-14T18:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022738494964339154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022738494964339154",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022738369613341076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 噢，之前的情限然后返场的那个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12113,
+          "following_count": 162,
+          "like_count": 6660,
+          "listed_count": 19,
+          "media_count": 662,
+          "tweet_count": 5453
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T16:40:11.000Z",
+        "description": "",
+        "id": "1495800496312836097",
+        "name": "泓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953472034056630272/lT9TO4ie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 10,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 36
+        },
+        "username": "ghx107915",
+        "verified": false
+      }
+    ]
+  }
+}

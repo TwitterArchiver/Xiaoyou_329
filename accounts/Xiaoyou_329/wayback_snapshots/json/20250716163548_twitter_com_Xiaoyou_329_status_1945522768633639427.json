@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1945522675239071747"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1945522768633639427",
+    "created_at": "2025-07-16T16:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T17:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945522768633639427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KdjUV26CBe",
+          "end": 41,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1945522768633639427/video/1",
+          "media_key": "13_1945522675239071747",
+          "start": 18,
+          "url": "https://t.co/KdjUV26CBe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945522768633639427",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说我到底好不好(｡ì _ í｡) https://t.co/KdjUV26CBe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28233,
+        "height": 720,
+        "media_key": "13_1945522675239071747",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945522675239071747/img/_yA3HbIimjtRTjhh.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945522675239071747/vid/avc1/320x320/OkDbDLgJFjyyUrFr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945522675239071747/vid/avc1/540x540/YsifrfBDIJkV39-V.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945522675239071747/vid/avc1/720x720/iTL8a0ffeWOpTuHo.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945522675239071747/pl/MHdMWuq6jq8D6x42.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945522675239071747"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1945522768633639427",
+        "created_at": "2025-07-16T16:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T17:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945522768633639427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KdjUV26CBe",
+              "end": 41,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1945522768633639427/video/1",
+              "media_key": "13_1945522675239071747",
+              "start": 18,
+              "url": "https://t.co/KdjUV26CBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945522768633639427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说我到底好不好(｡ì _ í｡) https://t.co/KdjUV26CBe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 59,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 194
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

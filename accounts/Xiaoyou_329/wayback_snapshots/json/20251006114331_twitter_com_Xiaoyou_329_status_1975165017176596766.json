@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975165005986226176"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1975162324995752402",
+    "created_at": "2025-10-06T11:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T12:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975165017176596766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1931829992427601920",
+          "start": 0,
+          "username": "finn0439"
+        },
+        {
+          "end": 25,
+          "id": "1855320637403025408",
+          "start": 10,
+          "username": "tudouhaochi111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oyj1xYA5YD",
+          "end": 94,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1975165017176596766/photo/1",
+          "media_key": "3_1975165005986226176",
+          "start": 71,
+          "url": "https://t.co/Oyj1xYA5YD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975165017176596766",
+    "in_reply_to_user_id": "1931829992427601920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975162324995752402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@finn0439 @tudouhaochi111 这期是我定制的兄妹…我操，就这个骨科爽，我操，就这个尼罗河爽…！哥哥级别…好美味请多来！ https://t.co/Oyj1xYA5YD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_1975165005986226176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kyG6qXYAAySXH.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 237708,
+        "height": 854,
+        "media_key": "13_1975161260913344513",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975161260913344513/img/31RWQizzB-UjnCFH.jpg",
+        "public_metrics": {
+          "view_count": 26
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975161260913344513/vid/avc1/320x692/LqDVdjj3_AyefBbY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975161260913344513/vid/avc1/394x854/SuUANDuWK1Mwrj29.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975161260913344513/pl/Wet810_EO9GmLe_G.m3u8?tag=14"
+          }
+        ],
+        "width": 394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975165005986226176"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1975162324995752402",
+        "created_at": "2025-10-06T11:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T12:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975165017176596766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1931829992427601920",
+              "start": 0,
+              "username": "finn0439"
+            },
+            {
+              "end": 25,
+              "id": "1855320637403025408",
+              "start": 10,
+              "username": "tudouhaochi111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oyj1xYA5YD",
+              "end": 94,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1975165017176596766/photo/1",
+              "media_key": "3_1975165005986226176",
+              "start": 71,
+              "url": "https://t.co/Oyj1xYA5YD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975165017176596766",
+        "in_reply_to_user_id": "1931829992427601920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975162324995752402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@finn0439 @tudouhaochi111 这期是我定制的兄妹…我操，就这个骨科爽，我操，就这个尼罗河爽…！哥哥级别…好美味请多来！ https://t.co/Oyj1xYA5YD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975161260913344513"
+          ]
+        },
+        "author_id": "1931829992427601920",
+        "conversation_id": "1975162324995752402",
+        "created_at": "2025-10-06T11:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T12:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975162324995752402"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "男喘"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "青年音"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "女性向"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "骨科"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "1i"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 52,
+              "id": "1855320637403025408",
+              "start": 37,
+              "username": "tudouhaochi111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/07SlUPWdMH",
+              "end": 87,
+              "expanded_url": "https://x.com/finn0439/status/1975162324995752402/video/1",
+              "media_key": "13_1975161260913344513",
+              "start": 64,
+              "url": "https://t.co/07SlUPWdMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975162324995752402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《妹妹》\n#男喘 #青年音 #女性向 #骨科 #1i \n谢谢台本老师授权 @tudouhaochi111 \n祝大家中秋节快乐！ https://t.co/07SlUPWdMH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜挺爱搞抽象的一普通人｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 129,
+          "like_count": 2363,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 2650
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T21:45:57.000Z",
+        "description": "青年音 双鱼座 intp 直男 ✝️ 抽象派 （接陪聊 ）禁止白嫖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finn040309",
+                "end": 23,
+                "expanded_url": "https://ngl.link/finn040309",
+                "start": 0,
+                "url": "https://t.co/d458ZLcuIq"
+              }
+            ]
+          }
+        },
+        "id": "1931829992427601920",
+        "location": "2.7km",
+        "name": "尼罗河",
+        "pinned_tweet_id": "1959859078902976619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955451273203027971/c6TBj0zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5220,
+          "following_count": 31,
+          "like_count": 11771,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/d458ZLcuIq",
+        "username": "finn0439",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T18:45:05.000Z",
+        "description": "有喜欢的人了丨无小号丨文笔不好但爱写点性幻想🔞丨一只brat 丨可以叫我小面或者泥泥丨讨厌的评论会直接屏蔽丨无门槛丨不加v丨⚠️录本请私信我要授权",
+        "id": "1855320637403025408",
+        "name": "土豆泥泥面",
+        "pinned_tweet_id": "1969009859015094686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898738962975633408/gCCABuGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23825,
+          "following_count": 189,
+          "like_count": 811,
+          "listed_count": 27,
+          "media_count": 236,
+          "tweet_count": 1756
+        },
+        "username": "tudouhaochi111",
+        "verified": false
+      }
+    ]
+  }
+}

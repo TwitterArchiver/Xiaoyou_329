@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1970510762235003323",
+    "created_at": "2025-09-23T16:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T17:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970521994723549688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1881766065900077056",
+          "start": 0,
+          "username": "Xin369556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970521994723549688",
+    "in_reply_to_user_id": "1881766065900077056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970510762235003323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xin369556 看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1970510762235003323",
+        "created_at": "2025-09-23T16:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T17:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970521994723549688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881766065900077056",
+              "start": 0,
+              "username": "Xin369556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970521994723549688",
+        "in_reply_to_user_id": "1881766065900077056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970510762235003323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xin369556 看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881766065900077056",
+        "conversation_id": "1970510762235003323",
+        "created_at": "2025-09-23T15:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T16:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970510762235003323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970510762235003323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，晚上的推让水娃人格一直在发力。我服了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1969401174278201363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 120,
+          "like_count": 1830,
+          "listed_count": 1,
+          "media_count": 343,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T18:09:47.000Z",
+        "description": "嗯。头像是本人。是一只外星公猫。私信可以随意骚扰。此猫很闲。直的。直的。直的。男同不要关注我好嘛或者关注就算了不要私信嗯。",
+        "id": "1881766065900077056",
+        "location": "广州",
+        "name": "信",
+        "pinned_tweet_id": "1968794470981226748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961796212992221184/O0U2BXN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 283,
+          "like_count": 24271,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 3574
+        },
+        "username": "Xin369556",
+        "verified": false
+      }
+    ]
+  }
+}

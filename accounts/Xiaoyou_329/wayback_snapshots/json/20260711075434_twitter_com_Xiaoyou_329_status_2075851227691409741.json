@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2075832633813291448",
+    "created_at": "2026-07-11T07:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075851227691409741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023742664743772160",
+          "start": 0,
+          "username": "KaiQiu58832"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075851227691409741",
+    "in_reply_to_user_id": "2023742664743772160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075849608421597582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaiQiu58832 欧坤 谢谢你呀！o(^▽^)o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2075832633813291448",
+        "created_at": "2026-07-11T07:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075851227691409741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023742664743772160",
+              "start": 0,
+              "username": "KaiQiu58832"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075851227691409741",
+        "in_reply_to_user_id": "2023742664743772160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075849608421597582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaiQiu58832 欧坤 谢谢你呀！o(^▽^)o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023742664743772160",
+        "conversation_id": "2075832633813291448",
+        "created_at": "2026-07-11T07:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075849608421597582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075849608421597582",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075848300901834955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 祝你能遇到适合的人呀(｡･ω･｡)ﾉ♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17273,
+          "following_count": 182,
+          "like_count": 7700,
+          "listed_count": 21,
+          "media_count": 956,
+          "tweet_count": 7354
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T12:54:03.000Z",
+        "description": "",
+        "id": "2023742664743772160",
+        "name": "momoeric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075587435384471552/EBZU7ygQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 183,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "KaiQiu58832",
+        "verified": false
+      }
+    ]
+  }
+}

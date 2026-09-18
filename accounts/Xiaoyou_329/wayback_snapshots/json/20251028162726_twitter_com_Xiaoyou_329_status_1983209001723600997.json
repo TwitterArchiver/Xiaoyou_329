@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1983208796160704629",
+    "created_at": "2025-10-28T16:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T17:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983209001723600997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1081383751450537985",
+          "start": 0,
+          "username": "kanqilaibushuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983209001723600997",
+    "in_reply_to_user_id": "1081383751450537985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983208796160704629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanqilaibushuai 爵士豪猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15242,
+        "height": 960,
+        "media_key": "7_1983208719149346817",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1983208719149346817/pu/img/eG8fE_5tujvuV265.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983208719149346817/pu/vid/avc1/320x426/jtrYCQmMicKhHwF1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983208719149346817/pu/vid/avc1/480x640/gO_xZXJBgdEPmQwA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983208719149346817/pu/vid/avc1/720x960/3v8YgiLhAo2Y6djU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1983208719149346817/pu/pl/MZ0Pe5ZlwAO0bCIe.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1983208796160704629",
+        "created_at": "2025-10-28T16:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983209001723600997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1081383751450537985",
+              "start": 0,
+              "username": "kanqilaibushuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983209001723600997",
+        "in_reply_to_user_id": "1081383751450537985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983208796160704629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanqilaibushuai 爵士豪猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1983208719149346817"
+          ]
+        },
+        "author_id": "1081383751450537985",
+        "conversation_id": "1983208796160704629",
+        "created_at": "2025-10-28T16:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983208796160704629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PpmNwlPLY",
+              "end": 31,
+              "expanded_url": "https://x.com/kanqilaibushuai/status/1983208796160704629/video/1",
+              "media_key": "7_1983208719149346817",
+              "start": 8,
+              "url": "https://t.co/7PpmNwlPLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983208796160704629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "撸猫就撸小m猫 https://t.co/7PpmNwlPLY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4679,
+          "following_count": 140,
+          "like_count": 3463,
+          "listed_count": 4,
+          "media_count": 406,
+          "tweet_count": 3157
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T02:55:52.000Z",
+        "description": "想我了就把手伸下去 告诉自己这是最后一次 （ 本子是本子，我是我 “你所爱的男性角色其实都是女性作者的灵魂”",
+        "id": "1081383751450537985",
+        "location": "小孩那桌",
+        "name": "老浣熊",
+        "pinned_tweet_id": "1822551190820811052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630593808311398400/OfFYhzBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38171,
+          "following_count": 208,
+          "like_count": 20753,
+          "listed_count": 77,
+          "media_count": 363,
+          "tweet_count": 8141
+        },
+        "username": "kanqilaibushuai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1994958821081715011",
+    "created_at": "2025-11-30T04:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T05:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994989767226765464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837006133900554240",
+          "start": 0,
+          "username": "xiaoxiongQAQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994989767226765464",
+    "in_reply_to_user_id": "1837006133900554240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994958821081715011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiongQAQ1 江西的给我寄一箱脐橙  广西的给我寄一箱螺蛳粉  湖南的给我寄一箱酱板鸭 潮汕的给我寄一箱牛肉丸 云南的给我寄一箱野生菌 重庆的给我寄一箱火锅底料 北京的给我寄一箱老北京酸奶 三亚的给我寄十个椰子 美国的给我寄张绿卡 其余的V我50"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1994958821081715011",
+        "created_at": "2025-11-30T04:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994989767226765464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837006133900554240",
+              "start": 0,
+              "username": "xiaoxiongQAQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994989767226765464",
+        "in_reply_to_user_id": "1837006133900554240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994958821081715011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiongQAQ1 江西的给我寄一箱脐橙  广西的给我寄一箱螺蛳粉  湖南的给我寄一箱酱板鸭 潮汕的给我寄一箱牛肉丸 云南的给我寄一箱野生菌 重庆的给我寄一箱火锅底料 北京的给我寄一箱老北京酸奶 三亚的给我寄十个椰子 美国的给我寄张绿卡 其余的V我50"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837006133900554240",
+        "conversation_id": "1994958821081715011",
+        "created_at": "2025-11-30T02:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994958821081715011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994958821081715011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1531,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "江西的给我寄一箱脐橙  广西的给我寄一箱螺蛳粉  湖南的给我寄一箱酱板鸭 潮汕的给我寄一箱牛肉丸 云南的给我寄一箱野生菌 重庆的给我寄一箱火锅底料 北京的给我寄一箱老北京酸奶 三亚的给我寄十个椰子 美国的给我寄张绿卡 其余的V我50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7800,
+          "following_count": 157,
+          "like_count": 5199,
+          "listed_count": 7,
+          "media_count": 541,
+          "tweet_count": 4303
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T05:49:34.000Z",
+        "description": "ISFJ｜金牛｜我只是个臭复制的 搬运求打码｜推广自辨❗️｜小宝宝@318430lzy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "318430lzy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%86%8A31584",
+                "start": 0,
+                "url": "https://t.co/mTOxnDXNma"
+              }
+            ]
+          }
+        },
+        "id": "1837006133900554240",
+        "location": "匿名👉🏻",
+        "name": "小熊（老公死了）",
+        "pinned_tweet_id": "1966129504759460168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993917837405253632/9P4ithqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 94,
+          "like_count": 23260,
+          "listed_count": 3,
+          "media_count": 433,
+          "tweet_count": 8681
+        },
+        "url": "https://t.co/mTOxnDXNma",
+        "username": "xiaoxiongQAQ1",
+        "verified": false
+      }
+    ]
+  }
+}

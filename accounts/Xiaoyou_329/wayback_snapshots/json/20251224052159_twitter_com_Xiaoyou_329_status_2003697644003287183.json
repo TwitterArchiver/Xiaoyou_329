@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2003467163831837043",
+    "created_at": "2025-12-24T05:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T06:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003697644003287183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939632627755147264",
+          "start": 0,
+          "username": "xiaoxiongmaoTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003697644003287183",
+    "in_reply_to_user_id": "1939632627755147264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003467163831837043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiongmaoTvT 我去，为啥这么萌！娥要单曲循环一百遍！(៸៸᳐⦁⩊⦁៸៸᳐ )੭ ﾞ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34794,
+        "height": 720,
+        "media_key": "7_2003467131606958085",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2003467131606958085/pu/img/UMivjgeIvV72dT8E.jpg",
+        "public_metrics": {
+          "view_count": 1574
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003467131606958085/pu/vid/avc1/380x270/Aq1R-66rhXRpHN6J.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003467131606958085/pu/vid/avc1/506x360/HRuh-9UXoeYyDwWP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003467131606958085/pu/vid/avc1/1014x720/eNKlnzs9s-UWtrLW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2003467131606958085/pu/pl/bEVkrzRfVn3_in9r.m3u8?tag=12&v=72c"
+          }
+        ],
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2003467163831837043",
+        "created_at": "2025-12-24T05:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003697644003287183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939632627755147264",
+              "start": 0,
+              "username": "xiaoxiongmaoTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003697644003287183",
+        "in_reply_to_user_id": "1939632627755147264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003467163831837043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiongmaoTvT 我去，为啥这么萌！娥要单曲循环一百遍！(៸៸᳐⦁⩊⦁៸៸᳐ )੭ ﾞ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2003467131606958085"
+          ]
+        },
+        "author_id": "1939632627755147264",
+        "conversation_id": "2003467163831837043",
+        "created_at": "2025-12-23T14:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T15:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003467163831837043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ooIYDqTMx",
+              "end": 65,
+              "expanded_url": "https://x.com/xiaoxiongmaoTvT/status/2003467163831837043/video/1",
+              "media_key": "7_2003467131606958085",
+              "start": 42,
+              "url": "https://t.co/9ooIYDqTMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003467163831837043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3724,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觉得好听的请在评论区打好听 觉得不好听的你等着吧！我晚上对着你唱一百首歌！我吵死你 https://t.co/9ooIYDqTMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8088,
+          "following_count": 154,
+          "like_count": 5824,
+          "listed_count": 8,
+          "media_count": 550,
+          "tweet_count": 4629
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T10:30:49.000Z",
+        "description": "推是我的日记本/推止于推",
+        "id": "1939632627755147264",
+        "name": "甜甜小熊猫",
+        "pinned_tweet_id": "1989916745021493525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997516555329101824/xf95SXz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 0,
+          "like_count": 9,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 2942
+        },
+        "username": "xiaoxiongmaoTvT",
+        "verified": false
+      }
+    ]
+  }
+}

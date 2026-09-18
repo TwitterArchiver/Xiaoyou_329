@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1964269401735053321",
+    "created_at": "2025-09-06T12:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T13:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964304756077166837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946108693914824705",
+          "start": 0,
+          "username": "littauditor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964304756077166837",
+    "in_reply_to_user_id": "1946108693914824705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964304676356284445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littauditor 好的！谢谢宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1964269401735053321",
+        "created_at": "2025-09-06T12:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T13:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964304756077166837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946108693914824705",
+              "start": 0,
+              "username": "littauditor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964304756077166837",
+        "in_reply_to_user_id": "1946108693914824705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964304676356284445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littauditor 好的！谢谢宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946108693914824705",
+        "conversation_id": "1964269401735053321",
+        "created_at": "2025-09-06T12:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T13:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964304676356284445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964304676356284445",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964269401735053321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 推荐fantybeauty的遮瑕，少量多次！只要选对颜色就行，特别好用👍🏼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 102,
+          "like_count": 1070,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 1339
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T07:24:30.000Z",
+        "description": "spend more time studying 暴富了点八个男模 喜欢狗狗猫猫 目标是白天自虐式努力学习 事实是晚上报复性疯狂刷推",
+        "id": "1946108693914824705",
+        "name": "黑刺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952741306629029888/emamxx1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 20,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 230
+        },
+        "username": "littauditor",
+        "verified": false
+      }
+    ]
+  }
+}

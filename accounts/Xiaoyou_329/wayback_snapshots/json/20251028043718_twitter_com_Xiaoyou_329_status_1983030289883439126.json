@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1982845388068708770",
+    "created_at": "2025-10-28T04:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T05:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983030289883439126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1683380907103645696",
+          "start": 0,
+          "username": "VaniStitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983030289883439126",
+    "in_reply_to_user_id": "1683380907103645696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982845388068708770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VaniStitch 完全同意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1982845388068708770",
+        "created_at": "2025-10-28T04:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T05:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983030289883439126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1683380907103645696",
+              "start": 0,
+              "username": "VaniStitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983030289883439126",
+        "in_reply_to_user_id": "1683380907103645696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982845388068708770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VaniStitch 完全同意…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683380907103645696",
+        "conversation_id": "1982845388068708770",
+        "created_at": "2025-10-27T16:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982845388068708770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982845388068708770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4310,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人既可以做我男朋友又可以做我主人的…发现其实把暧昧对象调成主人挺香的，嗯真香！（虽然没成功对方就消失了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4652,
+          "following_count": 138,
+          "like_count": 3408,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 3136
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T07:37:55.000Z",
+        "description": "牛仔裤👖一切随缘",
+        "id": "1683380907103645696",
+        "name": "裤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954895306182787072/rHrYe7fv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3819,
+          "following_count": 525,
+          "like_count": 5968,
+          "listed_count": 26,
+          "media_count": 185,
+          "tweet_count": 1176
+        },
+        "username": "VaniStitch",
+        "verified": false
+      }
+    ]
+  }
+}

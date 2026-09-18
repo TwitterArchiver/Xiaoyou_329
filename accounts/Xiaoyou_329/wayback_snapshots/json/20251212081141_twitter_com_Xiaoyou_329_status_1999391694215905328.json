@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1999376806177309036",
+    "created_at": "2025-12-12T08:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999391694215905328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894531140733878272",
+          "start": 0,
+          "username": "fanbufan00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999391694215905328",
+    "in_reply_to_user_id": "1894531140733878272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999376806177309036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanbufan00 好想下雪天…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29206,
+        "height": 720,
+        "media_key": "7_1999376750497923074",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1999376750497923074/pu/img/zItDCZ94JzIL1hXC.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999376750497923074/pu/vid/avc1/480x270/33sPPdlHKHdPk9gB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999376750497923074/pu/vid/avc1/640x360/H-auvbiMZ5r5nnvk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999376750497923074/pu/vid/avc1/1280x720/ZIBe11DhyaFaIQgv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1999376750497923074/pu/pl/8p4DYjvM2R3V644A.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1999376806177309036",
+        "created_at": "2025-12-12T08:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999391694215905328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894531140733878272",
+              "start": 0,
+              "username": "fanbufan00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999391694215905328",
+        "in_reply_to_user_id": "1894531140733878272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999376806177309036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanbufan00 好想下雪天…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1999376750497923074"
+          ]
+        },
+        "author_id": "1894531140733878272",
+        "conversation_id": "1999376806177309036",
+        "created_at": "2025-12-12T07:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999376806177309036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UddRSX0aOu",
+              "end": 31,
+              "expanded_url": "https://x.com/fanbufan00/status/1999376806177309036/video/1",
+              "media_key": "7_1999376750497923074",
+              "start": 8,
+              "url": "https://t.co/UddRSX0aOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999376806177309036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "土豆带你们看雪 https://t.co/UddRSX0aOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注祝你 天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8057,
+          "following_count": 152,
+          "like_count": 5660,
+          "listed_count": 8,
+          "media_count": 551,
+          "tweet_count": 4541
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T23:33:37.000Z",
+        "description": "1i=4i  Switch  00年  180cm    75kg                                             \n匿名箱：https://t.co/Vy8ECE42Xp\n💗💞💖💓\n如有推广真假自便，被骗概不负责",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fanbufan00",
+                "end": 106,
+                "expanded_url": "https://ngl.link/fanbufan00",
+                "start": 83,
+                "url": "https://t.co/Vy8ECE42Xp"
+              }
+            ]
+          }
+        },
+        "id": "1894531140733878272",
+        "name": "凡躁",
+        "pinned_tweet_id": "1970267497875272152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997979296191975424/e5P3Jv0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2628,
+          "following_count": 227,
+          "like_count": 10231,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 889
+        },
+        "username": "fanbufan00",
+        "verified": false
+      }
+    ]
+  }
+}

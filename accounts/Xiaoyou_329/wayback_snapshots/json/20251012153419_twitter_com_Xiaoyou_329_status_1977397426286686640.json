@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1977339677792522491",
+    "created_at": "2025-10-12T15:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T16:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977397426286686640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1691119266324783104",
+          "start": 0,
+          "username": "liittle_dog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977397426286686640",
+    "in_reply_to_user_id": "1691119266324783104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977339677792522491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liittle_dog 就是…🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1977339677792522491",
+        "created_at": "2025-10-12T15:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977397426286686640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1691119266324783104",
+              "start": 0,
+              "username": "liittle_dog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977397426286686640",
+        "in_reply_to_user_id": "1691119266324783104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977339677792522491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liittle_dog 就是…🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691119266324783104",
+        "conversation_id": "1977339677792522491",
+        "created_at": "2025-10-12T11:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977339677792522491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977339677792522491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4193,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的喜欢体型差🥹谁懂一下，被当成玩具play"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "爱搞抽象的普通人 请别打探我的隐私",
+        "name": "小由",
+        "pinned_tweet_id": "1977059723510993068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 129,
+          "like_count": 2746,
+          "listed_count": 2,
+          "media_count": 390,
+          "tweet_count": 2822
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T16:08:05.000Z",
+        "description": "欢迎叫我包包，不用礼貌回关的宝宝。不定时发些18+的东西，介意屏蔽忽略\n互关可加v",
+        "id": "1691119266324783104",
+        "name": "小狗生煎包",
+        "pinned_tweet_id": "1976954406072717741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963502009535139840/G4wLl_JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11948,
+          "following_count": 370,
+          "like_count": 34065,
+          "listed_count": 24,
+          "media_count": 182,
+          "tweet_count": 3891
+        },
+        "username": "liittle_dog",
+        "verified": false
+      }
+    ]
+  }
+}

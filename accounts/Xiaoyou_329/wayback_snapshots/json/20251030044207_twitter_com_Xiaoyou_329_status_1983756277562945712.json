@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1983525127200670169",
+    "created_at": "2025-10-30T04:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983756277562945712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1372916076133163010",
+          "start": 0,
+          "username": "laochen221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983756277562945712",
+    "in_reply_to_user_id": "1372916076133163010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983525127200670169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laochen221 妈妈。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1983525121156620288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bllqmaoAAoZ0V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1983525127200670169",
+        "created_at": "2025-10-30T04:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983756277562945712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1372916076133163010",
+              "start": 0,
+              "username": "laochen221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983756277562945712",
+        "in_reply_to_user_id": "1372916076133163010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983525127200670169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laochen221 妈妈。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983525121156620288"
+          ]
+        },
+        "author_id": "1372916076133163010",
+        "conversation_id": "1983525127200670169",
+        "created_at": "2025-10-29T13:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983525127200670169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3869xl8GJs",
+              "end": 23,
+              "expanded_url": "https://x.com/laochen221/status/1983525127200670169/photo/1",
+              "media_key": "3_1983525121156620288",
+              "start": 0,
+              "url": "https://t.co/3869xl8GJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983525127200670169",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1945,
+          "impression_count": 226310,
+          "like_count": 15222,
+          "quote_count": 110,
+          "reply_count": 55,
+          "retweet_count": 899
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3869xl8GJs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 142,
+          "like_count": 3525,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 3171
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-19T14:21:49.000Z",
+        "description": "@chen221xm。 ins: laochen221。 tiktok：laochen221. There are no paid links on other platforms.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "chen221xm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCQKFY…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCQKFYZEbKyG857-HeHSU9_Q?si=NRcJaU7PNmDqXfDf",
+                "start": 0,
+                "url": "https://t.co/G73WGGD12u"
+              }
+            ]
+          }
+        },
+        "id": "1372916076133163010",
+        "location": "amoy0592",
+        "name": "laochen221",
+        "pinned_tweet_id": "1848872647289147840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958579431297179648/bGuz5KHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370992,
+          "following_count": 72,
+          "like_count": 1447,
+          "listed_count": 587,
+          "media_count": 146,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/G73WGGD12u",
+        "username": "laochen221",
+        "verified": false
+      }
+    ]
+  }
+}

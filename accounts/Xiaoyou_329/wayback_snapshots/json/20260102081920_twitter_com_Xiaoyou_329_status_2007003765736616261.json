@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007003757247094784"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2007003765736616261",
+    "created_at": "2026-01-02T08:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T09:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007003765736616261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HZJVr4I5i5",
+          "end": 37,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2007003765736616261/photo/1",
+          "media_key": "3_2007003757247094784",
+          "start": 14,
+          "url": "https://t.co/HZJVr4I5i5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007003765736616261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鸡柳大人薯条年糕比鸡柳好吃 https://t.co/HZJVr4I5i5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2007003757247094784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9pPSJ2WYAANEFi.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007003757247094784"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2007003765736616261",
+        "created_at": "2026-01-02T08:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007003765736616261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZJVr4I5i5",
+              "end": 37,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2007003765736616261/photo/1",
+              "media_key": "3_2007003757247094784",
+              "start": 14,
+              "url": "https://t.co/HZJVr4I5i5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007003765736616261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡柳大人薯条年糕比鸡柳好吃 https://t.co/HZJVr4I5i5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8079,
+          "following_count": 156,
+          "like_count": 5817,
+          "listed_count": 8,
+          "media_count": 563,
+          "tweet_count": 4676
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

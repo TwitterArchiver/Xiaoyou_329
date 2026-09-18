@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966405440977108992"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1966354836192186712",
+    "created_at": "2025-09-12T07:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T08:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966405448317231571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FvXEzfhWPN",
+          "end": 38,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1966405448317231571/photo/1",
+          "media_key": "3_1966405440977108992",
+          "start": 15,
+          "url": "https://t.co/FvXEzfhWPN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966405448317231571",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966354836192186712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 看看咪咪 https://t.co/FvXEzfhWPN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1139,
+        "media_key": "3_1966405440977108992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0oTVIHWAAA3lCz.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1966354828571123712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0nlTGNbIAA9WZt.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966405440977108992"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1966354836192186712",
+        "created_at": "2025-09-12T07:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T08:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966405448317231571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FvXEzfhWPN",
+              "end": 38,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1966405448317231571/photo/1",
+              "media_key": "3_1966405440977108992",
+              "start": 15,
+              "url": "https://t.co/FvXEzfhWPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966405448317231571",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966354836192186712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 看看咪咪 https://t.co/FvXEzfhWPN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966354828571123712"
+          ]
+        },
+        "author_id": "1632079685436727299",
+        "conversation_id": "1966354836192186712",
+        "created_at": "2025-09-12T04:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T05:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966354836192186712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARmYWi5pyi",
+              "end": 28,
+              "expanded_url": "https://x.com/xxNANAml/status/1966354836192186712/photo/1",
+              "media_key": "3_1966354828571123712",
+              "start": 5,
+              "url": "https://t.co/ARmYWi5pyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966354836192186712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 437,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如此如此 https://t.co/ARmYWi5pyi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 100,
+          "like_count": 1329,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1627
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "随心 取关随意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mea96067",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mea96067",
+                "start": 0,
+                "url": "https://t.co/6wifRClQzK"
+              }
+            ]
+          }
+        },
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "1963523814026813729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966083996011606017/J_D1uIO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 109,
+          "like_count": 5120,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/6wifRClQzK",
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

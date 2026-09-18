@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2062820105457909839",
+    "created_at": "2026-06-05T08:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062820105457909839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bushi11f/statu…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/bushi11f/status/2062364257707311251",
+          "start": 19,
+          "url": "https://t.co/DEje2Ar6L7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062820105457909839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062364257707311251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们就是要纠缠一辈子呀 谁也不准放手 https://t.co/DEje2Ar6L7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2062820105457909839",
+        "created_at": "2026-06-05T08:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062820105457909839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bushi11f/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/bushi11f/status/2062364257707311251",
+              "start": 19,
+              "url": "https://t.co/DEje2Ar6L7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062820105457909839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062364257707311251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们就是要纠缠一辈子呀 谁也不准放手 https://t.co/DEje2Ar6L7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939704603882504193",
+        "conversation_id": "2062364257707311251",
+        "created_at": "2026-06-04T02:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062364257707311251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062364257707311251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 38135,
+          "like_count": 1048,
+          "quote_count": 16,
+          "reply_count": 180,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "纠缠就是很牛逼啊。每次两个人都以为对面放弃了 这段感情要结束了，实则两个人都像厉鬼一样揪着对方不放"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15453,
+          "following_count": 176,
+          "like_count": 7596,
+          "listed_count": 20,
+          "media_count": 877,
+          "tweet_count": 6784
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T15:17:06.000Z",
+        "description": "该用户是个angel https://t.co/3CL6uxUqMB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11f50097",
+                "end": 34,
+                "expanded_url": "https://ngl.link/11f50097",
+                "start": 11,
+                "url": "https://t.co/3CL6uxUqMB"
+              }
+            ]
+          }
+        },
+        "id": "1939704603882504193",
+        "location": "in Kun's heart",
+        "name": "11f",
+        "pinned_tweet_id": "2059324164394438770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939704841112293376/UWwdrnVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 28,
+          "like_count": 166,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 822
+        },
+        "username": "bushi11f",
+        "verified": false
+      }
+    ]
+  }
+}

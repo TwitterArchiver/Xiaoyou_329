@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1928032114584281505",
+    "created_at": "2025-05-29T13:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T14:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928074596948799664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824078057629466624",
+          "start": 0,
+          "username": "Code_6823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928074596948799664",
+    "in_reply_to_user_id": "1824078057629466624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928032114584281505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Code_6823 6823😭我们来一期黄黄的好不好 好想你😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17708,
+        "height": 1156,
+        "media_key": "13_1928032037715275776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928032037715275776/img/_2dFN72D3mZBIy85.jpg",
+        "public_metrics": {
+          "view_count": 169
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928032037715275776/vid/avc1/320x512/94QQmSNdCPfiTdr4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928032037715275776/vid/avc1/480x770/QSwUXDw-JQG8AsjO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928032037715275776/vid/avc1/720x1156/-KUXjgOa7pxwhDWJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928032037715275776/pl/mstsWOngZpA76Tjp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1928032114584281505",
+        "created_at": "2025-05-29T13:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T14:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928074596948799664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824078057629466624",
+              "start": 0,
+              "username": "Code_6823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928074596948799664",
+        "in_reply_to_user_id": "1824078057629466624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928032114584281505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Code_6823 6823😭我们来一期黄黄的好不好 好想你😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928032037715275776"
+          ]
+        },
+        "author_id": "1824078057629466624",
+        "conversation_id": "1928032114584281505",
+        "created_at": "2025-05-29T10:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T11:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928032114584281505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/92zRWPmNf0",
+              "end": 28,
+              "expanded_url": "https://x.com/Code_6823/status/1928032114584281505/video/1",
+              "media_key": "13_1928032037715275776",
+              "start": 5,
+              "url": "https://t.co/92zRWPmNf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928032114584281505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 538,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水一期🥺 https://t.co/92zRWPmNf0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 36,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 60
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T13:38:03.000Z",
+        "description": "新人男🚢 6823报道，🚪88（工作忙，暂时只能聊天，没有其他服务）",
+        "id": "1824078057629466624",
+        "name": "6823（男喘",
+        "pinned_tweet_id": "1852291844081623299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824078335917346817/kkCLTGmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7507,
+          "following_count": 41,
+          "like_count": 69,
+          "listed_count": 20,
+          "media_count": 58,
+          "tweet_count": 232
+        },
+        "username": "Code_6823",
+        "verified": false
+      }
+    ]
+  }
+}

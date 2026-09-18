@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2066544380329234447",
+    "created_at": "2026-06-15T15:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066550487785337059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1631135079140560897",
+          "start": 0,
+          "username": "wangherisunge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066550487785337059",
+    "in_reply_to_user_id": "1631135079140560897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066545204988150111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangherisunge 谢谢你在o(´･ω･`)o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2066544380329234447",
+        "created_at": "2026-06-15T15:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066550487785337059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1631135079140560897",
+              "start": 0,
+              "username": "wangherisunge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066550487785337059",
+        "in_reply_to_user_id": "1631135079140560897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066545204988150111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangherisunge 谢谢你在o(´･ω･`)o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631135079140560897",
+        "conversation_id": "2066544380329234447",
+        "created_at": "2026-06-15T15:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066545204988150111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066545204988150111",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066544380329234447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 希望你不要好难受，鹤陪着你，还可以请你吃宵夜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15536,
+          "following_count": 175,
+          "like_count": 7652,
+          "listed_count": 20,
+          "media_count": 827,
+          "tweet_count": 6803
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:31:37.000Z",
+        "description": "近海浅滩，或有鹤立\n这里是鹤，希望大家都可以天天开心！天天幸福！\n大家关注我的我都会回关！\n想要一起聊天的可以私信或tg@yizhihe11，纯闲聊哦",
+        "id": "1631135079140560897",
+        "name": "鹤",
+        "pinned_tweet_id": "2066439980684382464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066034590918250497/ld7ZlADe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 42,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 589
+        },
+        "username": "wangherisunge",
+        "verified": true
+      }
+    ]
+  }
+}

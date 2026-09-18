@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1972483022508442085",
+    "created_at": "2025-09-29T04:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T05:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972517051777618138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1960740333047963649",
+          "start": 0,
+          "username": "Popo0vo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972517051777618138",
+    "in_reply_to_user_id": "1960740333047963649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972483022508442085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Popo0vo 老公…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1409,
+        "media_key": "3_1972483013868220417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-q2bcbcAEuo6l.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1972483022508442085",
+        "created_at": "2025-09-29T04:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T05:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972517051777618138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1960740333047963649",
+              "start": 0,
+              "username": "Popo0vo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972517051777618138",
+        "in_reply_to_user_id": "1960740333047963649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972483022508442085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Popo0vo 老公…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972483013868220417"
+          ]
+        },
+        "author_id": "1960740333047963649",
+        "conversation_id": "1972483022508442085",
+        "created_at": "2025-09-29T02:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T03:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972483022508442085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "手控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzpPmO1KjZ",
+              "end": 27,
+              "expanded_url": "https://x.com/Popo0vo/status/1972483022508442085/photo/1",
+              "media_key": "3_1972483013868220417",
+              "start": 4,
+              "url": "https://t.co/mzpPmO1KjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972483022508442085",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3956,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#手控 https://t.co/mzpPmO1KjZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 124,
+          "like_count": 2099,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 2438
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T16:25:06.000Z",
+        "description": "直男｜无🚪｜不关注不回私信｜盗图替我挡灾一辈子发不了财",
+        "id": "1960740333047963649",
+        "name": "Pop",
+        "pinned_tweet_id": "1971594950363230309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971590094592286720/CzLyCJhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 106,
+          "like_count": 771,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "username": "Popo0vo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2037416303125012532",
+    "created_at": "2026-03-27T10:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037471821117915570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935788566870999042",
+          "start": 0,
+          "username": "contradict277"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037471821117915570",
+    "in_reply_to_user_id": "1935788566870999042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037454705421635951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@contradict277 家里人不让我打T T…再等等吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2037416303125012532",
+        "created_at": "2026-03-27T10:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037471821117915570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935788566870999042",
+              "start": 0,
+              "username": "contradict277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037471821117915570",
+        "in_reply_to_user_id": "1935788566870999042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037454705421635951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@contradict277 家里人不让我打T T…再等等吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935788566870999042",
+        "conversation_id": "2037416303125012532",
+        "created_at": "2026-03-27T09:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037454705421635951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037454705421635951",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037416303125012532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 那就都打！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13347,
+          "following_count": 165,
+          "like_count": 7277,
+          "listed_count": 20,
+          "media_count": 775,
+          "tweet_count": 6212
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T19:55:52.000Z",
+        "description": "- ⩊ - \n匿名箱https://t.co/hj7bjU2WCK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/maomao30635",
+                "end": 33,
+                "expanded_url": "https://ngl.link/maomao30635",
+                "start": 10,
+                "url": "https://t.co/hj7bjU2WCK"
+              }
+            ]
+          }
+        },
+        "id": "1935788566870999042",
+        "name": "猫猫",
+        "pinned_tweet_id": "2017669514532659263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004226675106586631/mnucfgQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 210,
+          "like_count": 16090,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1945
+        },
+        "username": "contradict277",
+        "verified": false
+      }
+    ]
+  }
+}

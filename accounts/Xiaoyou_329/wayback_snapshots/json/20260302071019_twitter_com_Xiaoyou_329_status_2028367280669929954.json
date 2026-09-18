@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028334437428248948",
+    "created_at": "2026-03-02T07:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T08:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028367280669929954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "712294058194903040",
+          "start": 0,
+          "username": "IamMRLu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028367280669929954",
+    "in_reply_to_user_id": "712294058194903040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028364310993629596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IamMRLu123 我觉得你说的对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028334437428248948",
+        "created_at": "2026-03-02T07:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028367280669929954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "712294058194903040",
+              "start": 0,
+              "username": "IamMRLu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028367280669929954",
+        "in_reply_to_user_id": "712294058194903040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028364310993629596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IamMRLu123 我觉得你说的对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "712294058194903040",
+        "conversation_id": "2028334437428248948",
+        "created_at": "2026-03-02T06:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028364310993629596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028364310993629596",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028334437428248948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我持反对想法，想要打电话就打，想联系就联系，总得有个结果让自己死心，持续的内耗无法解决问题不说，还把自己状态搞得一团糟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12746,
+          "following_count": 165,
+          "like_count": 6815,
+          "listed_count": 19,
+          "media_count": 705,
+          "tweet_count": 5667
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-22T15:05:12.000Z",
+        "description": "Music Amine",
+        "id": "712294058194903040",
+        "name": "Rucky",
+        "pinned_tweet_id": "785506824296562688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027781481280770049/XUlssNzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 107,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "IamMRLu123",
+        "verified": false
+      }
+    ]
+  }
+}

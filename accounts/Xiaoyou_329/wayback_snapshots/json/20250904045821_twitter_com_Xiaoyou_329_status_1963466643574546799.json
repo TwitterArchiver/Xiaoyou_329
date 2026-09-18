@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1963466169161249207",
+    "created_at": "2025-09-04T04:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T05:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963466643574546799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929848158697426944",
+          "start": 0,
+          "username": "ovohealing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963466643574546799",
+    "in_reply_to_user_id": "1929848158697426944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963466169161249207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovohealing DDDD 万一有人想每个星期四都请我吃肯德基呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1963466169161249207",
+        "created_at": "2025-09-04T04:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T05:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963466643574546799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929848158697426944",
+              "start": 0,
+              "username": "ovohealing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963466643574546799",
+        "in_reply_to_user_id": "1929848158697426944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963466169161249207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovohealing DDDD 万一有人想每个星期四都请我吃肯德基呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929848158697426944",
+        "conversation_id": "1963466169161249207",
+        "created_at": "2025-09-04T04:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T05:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963466169161249207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963466169161249207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "家人们求助，这个月求姻缘应该去哪个寺庙？\nA、灵隐寺\nB、弘法寺\nC、甘露寺\nD、肯德基疯狂星期寺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜ENFP｜当朋友圈发｜感谢关注｜梦想是去一次海边",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 100,
+          "like_count": 982,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1171
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T10:30:48.000Z",
+        "description": "07｜158 80｜infp｜白羊座｜brat｜ddlg｜sp｜板绘｜颜控｜不喜欢男高男大不聊天不线下不谈恋爱｜关评推广自辨｜自用峰鸟vpn：https://t.co/yf1bc6lrgt｜匿名箱https://t.co/uNlyem5TRy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=HBXuYHTa",
+                "start": 71,
+                "url": "https://t.co/yf1bc6lrgt"
+              },
+              {
+                "display_url": "ngl.link/heaing",
+                "end": 121,
+                "expanded_url": "https://ngl.link/heaing",
+                "start": 98,
+                "url": "https://t.co/uNlyem5TRy"
+              }
+            ]
+          }
+        },
+        "id": "1929848158697426944",
+        "location": "🚪520纯绿啥也没有",
+        "name": "小刀",
+        "pinned_tweet_id": "1961826845688799626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935636185679880192/g-ku7BMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1767,
+          "following_count": 452,
+          "like_count": 9350,
+          "listed_count": 6,
+          "media_count": 72,
+          "tweet_count": 4503
+        },
+        "username": "ovohealing",
+        "verified": false
+      }
+    ]
+  }
+}

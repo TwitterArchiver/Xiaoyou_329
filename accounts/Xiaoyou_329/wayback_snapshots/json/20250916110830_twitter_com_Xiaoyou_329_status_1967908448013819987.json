@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967906408499929308",
+    "created_at": "2025-09-16T11:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T12:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967908448013819987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1921920906869497856",
+          "start": 0,
+          "username": "y_28_z_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967908448013819987",
+    "in_reply_to_user_id": "1921920906869497856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967906408499929308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y_28_z_ 北瓜 叫哥哥！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967906401700941831",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09ociiaEAcrQ3J.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967906408499929308",
+        "created_at": "2025-09-16T11:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967908448013819987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1921920906869497856",
+              "start": 0,
+              "username": "y_28_z_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967908448013819987",
+        "in_reply_to_user_id": "1921920906869497856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967906408499929308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y_28_z_ 北瓜 叫哥哥！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967906401700941831"
+          ]
+        },
+        "author_id": "1921920906869497856",
+        "conversation_id": "1967906408499929308",
+        "created_at": "2025-09-16T11:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967906408499929308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BiPBrBfkX5",
+              "end": 33,
+              "expanded_url": "https://x.com/y_28_z_/status/1967906408499929308/photo/1",
+              "media_key": "3_1967906401700941831",
+              "start": 10,
+              "url": "https://t.co/BiPBrBfkX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967906408499929308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（pia）叫哥哥！ https://t.co/BiPBrBfkX5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1967249281976594683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 117,
+          "like_count": 1516,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 1881
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T13:30:40.000Z",
+        "description": "零下｜关注都会尽量赞",
+        "id": "1921920906869497856",
+        "location": "距你3.7km",
+        "name": "💭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942560905998524420/PQX0937q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 68,
+          "like_count": 4637,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 308
+        },
+        "username": "y_28_z_",
+        "verified": false
+      }
+    ]
+  }
+}

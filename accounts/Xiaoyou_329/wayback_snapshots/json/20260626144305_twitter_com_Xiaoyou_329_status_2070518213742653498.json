@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070133352661942699",
+    "created_at": "2026-06-26T14:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070518213742653498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1839166397399838724",
+          "start": 0,
+          "username": "lngdenngnn24987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070518213742653498",
+    "in_reply_to_user_id": "1839166397399838724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070479781561565380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngdenngnn24987 …那我在暧昧之前我就能知道他什么人了？我能预判到他会说什么话了？我是全知全能的吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070133352661942699",
+        "created_at": "2026-06-26T14:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070518213742653498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1839166397399838724",
+              "start": 0,
+              "username": "lngdenngnn24987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070518213742653498",
+        "in_reply_to_user_id": "1839166397399838724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070479781561565380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngdenngnn24987 …那我在暧昧之前我就能知道他什么人了？我能预判到他会说什么话了？我是全知全能的吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839166397399838724",
+        "conversation_id": "2070133352661942699",
+        "created_at": "2026-06-26T12:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070479781561565380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070479781561565380",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070430670409846926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 能和这种煞笔暧昧你也是神人了我要是遇到这种男的逼干的像塔克拉玛干沙漠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15768,
+          "following_count": 178,
+          "like_count": 7685,
+          "listed_count": 20,
+          "media_count": 867,
+          "tweet_count": 6989
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T04:53:45.000Z",
+        "description": "互关我喜欢你们 欢迎私联\n我不理你是因为你智力低下",
+        "id": "1839166397399838724",
+        "location": "距离你0.2km",
+        "name": "绫地宁宁",
+        "pinned_tweet_id": "1914352426859348184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879967900825710602/SyEM48ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 478,
+          "like_count": 99798,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 12187
+        },
+        "url": "",
+        "username": "lngdenngnn24987",
+        "verified": false
+      }
+    ]
+  }
+}

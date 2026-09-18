@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1966460830985445861",
+    "created_at": "2025-09-12T13:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T14:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966489377783046625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1478921478355644416",
+          "start": 0,
+          "username": "lh17272"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966489377783046625",
+    "in_reply_to_user_id": "1478921478355644416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966460830985445861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lh17272 我们在讨论土豆的一百种死法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1966460830985445861",
+        "created_at": "2025-09-12T13:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T14:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966489377783046625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1478921478355644416",
+              "start": 0,
+              "username": "lh17272"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966489377783046625",
+        "in_reply_to_user_id": "1478921478355644416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966460830985445861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lh17272 我们在讨论土豆的一百种死法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478921478355644416",
+        "conversation_id": "1966460830985445861",
+        "created_at": "2025-09-12T11:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T12:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966460830985445861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "猪仔煲捞面’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1OdKr…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1OdKrOkLBAvGX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1966460832969342976/iM6aD9f2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966460832969342976/iM6aD9f2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 晚饭吃饱饱了嘛？",
+              "unwound_url": "https://twitter.com/i/spaces/1OdKrOkLBAvGX/peek",
+              "url": "https://t.co/ZGVsULx6Vc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966460830985445861",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZGVsULx6Vc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 102,
+          "like_count": 1352,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1652
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T02:49:55.000Z",
+        "description": "",
+        "id": "1478921478355644416",
+        "name": "猪仔煲捞面",
+        "pinned_tweet_id": "1962729683205914753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925875438502526976/EBMRMpcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 289,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 262
+        },
+        "username": "lh17272",
+        "verified": false
+      }
+    ]
+  }
+}

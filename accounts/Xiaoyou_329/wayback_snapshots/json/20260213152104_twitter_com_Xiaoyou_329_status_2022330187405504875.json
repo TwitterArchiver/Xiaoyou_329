@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2022300254331130267",
+    "created_at": "2026-02-13T15:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022330187405504875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945737182695878656",
+          "start": 0,
+          "username": "mnjj486693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022330187405504875",
+    "in_reply_to_user_id": "1945737182695878656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022302504177000709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnjj486693 是这样的…但是我会逼着自己去吃饭…因为我有胃疼的毛病…有的时候太久不吃东西我的胃会像死了一样…TuT…除非我有情绪盖过这些不然我真的没办法一直躺着要去吃点东西…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022300254331130267",
+        "created_at": "2026-02-13T15:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022330187405504875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945737182695878656",
+              "start": 0,
+              "username": "mnjj486693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022330187405504875",
+        "in_reply_to_user_id": "1945737182695878656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022302504177000709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnjj486693 是这样的…但是我会逼着自己去吃饭…因为我有胃疼的毛病…有的时候太久不吃东西我的胃会像死了一样…TuT…除非我有情绪盖过这些不然我真的没办法一直躺着要去吃点东西…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945737182695878656",
+        "conversation_id": "2022300254331130267",
+        "created_at": "2026-02-13T13:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T14:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022302504177000709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022302504177000709",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022300254331130267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我一般都在没事干的时候减肥，减肥方法是躺在床上什么都不干，只要躺的时间足够长，我就懒得干所有事情了，包括吃饭，对我超级无敌有效，而且过几天恢复正常了之后会感觉胃口变小了，完全正反馈来的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12090,
+          "following_count": 161,
+          "like_count": 6592,
+          "listed_count": 19,
+          "media_count": 653,
+          "tweet_count": 5391
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T06:48:16.000Z",
+        "description": "05ⅠISTPⅠ巨蟹♋Ⅰ女Ⅰ商科Ⅰ备考📚Ⅰ1i＞4iⅠSwitchⅠ老友记重度爱好者Ⅰ在没人认识的地方说些废话🤓Ⅰ私信都会看，请友好交流，不yp，不见面Ⅰ止于推ⅠAfterall, tomorrow is another day.Ⅰ提问箱:https://t.co/HnFv8KpPIZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bffyhnj",
+                "end": 143,
+                "expanded_url": "https://ngl.link/bffyhnj",
+                "start": 120,
+                "url": "https://t.co/HnFv8KpPIZ"
+              }
+            ]
+          }
+        },
+        "id": "1945737182695878656",
+        "name": "Camellia",
+        "pinned_tweet_id": "2020882709858635940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019501192263647232/bc5OIJNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 92,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 255
+        },
+        "username": "mnjj486693",
+        "verified": false
+      }
+    ]
+  }
+}

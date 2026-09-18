@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962185748473430358",
+    "created_at": "2025-08-31T16:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T17:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962190303806333213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1584510313172414464",
+          "start": 0,
+          "username": "whonntao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962190303806333213",
+    "in_reply_to_user_id": "1584510313172414464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962189985114976747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whonntao 还能这样吗🤯我🤔试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962185748473430358",
+        "created_at": "2025-08-31T16:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962190303806333213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1584510313172414464",
+              "start": 0,
+              "username": "whonntao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962190303806333213",
+        "in_reply_to_user_id": "1584510313172414464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962189985114976747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whonntao 还能这样吗🤯我🤔试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584510313172414464",
+        "conversation_id": "1962185748473430358",
+        "created_at": "2025-08-31T16:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962189985114976747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962189985114976747",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962185748473430358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我也是，喝到脱敏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 100,
+          "like_count": 886,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1015
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T11:41:24.000Z",
+        "description": "世界麦当劳测评美食家/异性恋/会发一些写的文，一些赛博云游，一些碎碎念",
+        "id": "1584510313172414464",
+        "location": "Fujian",
+        "name": "鼠鼠鼠了",
+        "pinned_tweet_id": "1961716880349208953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958526460622434304/IwLhuOPx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 416,
+          "like_count": 4282,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1961
+        },
+        "username": "whonntao",
+        "verified": false
+      }
+    ]
+  }
+}

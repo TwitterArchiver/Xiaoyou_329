@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1964904460335174090",
+    "created_at": "2025-09-08T04:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T05:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964915500171100261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797118070231838720",
+          "start": 0,
+          "username": "maria832758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964915500171100261",
+    "in_reply_to_user_id": "1797118070231838720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964914966965936387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maria832758 好厉害宝宝 你辛苦了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1964904460335174090",
+        "created_at": "2025-09-08T04:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T05:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964915500171100261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797118070231838720",
+              "start": 0,
+              "username": "maria832758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964915500171100261",
+        "in_reply_to_user_id": "1797118070231838720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964914966965936387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maria832758 好厉害宝宝 你辛苦了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797118070231838720",
+        "conversation_id": "1964904460335174090",
+        "created_at": "2025-09-08T04:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T05:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964914966965936387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964914966965936387",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964914762434895889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 那会是想卷死我朋友 卷着卷着就进北大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 104,
+          "like_count": 1162,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 1420
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T04:08:49.000Z",
+        "description": "兼职的大人，全职的好奇人类。\n对加密货币 黄金期权 外汇市场 股票交易 二级市场 短期交易统统没有兴趣 别发私信给我！",
+        "id": "1797118070231838720",
+        "location": "Seattle",
+        "name": "TD转人工",
+        "pinned_tweet_id": "1949319964344598728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905045240513490944/aOCMDQ62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 45,
+          "like_count": 1929,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 396
+        },
+        "username": "maria832758",
+        "verified": false
+      }
+    ]
+  }
+}

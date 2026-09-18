@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1959480197742518664",
+    "created_at": "2025-08-24T05:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T06:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959488074280542277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1874085758488690688",
+          "start": 0,
+          "username": "pyh996"
+        },
+        {
+          "end": 18,
+          "id": "1784887323211280384",
+          "start": 8,
+          "username": "ljng15760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959488074280542277",
+    "in_reply_to_user_id": "1874085758488690688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959480197742518664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyh996 @ljng15760 居然是骨科吗 小亦你赢了。那不得不…谢谢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 151100,
+        "height": 1164,
+        "media_key": "13_1959479923049140224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959479923049140224/img/vbInjCdzujaDbqTo.jpg",
+        "public_metrics": {
+          "view_count": 71
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959479923049140224/vid/avc1/320x516/NYeiWz4MK5tAnjkj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959479923049140224/vid/avc1/480x776/GKGq7jXtrfrN0P4S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959479923049140224/vid/avc1/720x1164/LfRfdgl-53Cmh39z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959479923049140224/pl/9_sy9TS9GXd_-hx0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1959480197742518664",
+        "created_at": "2025-08-24T05:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T06:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959488074280542277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1874085758488690688",
+              "start": 0,
+              "username": "pyh996"
+            },
+            {
+              "end": 18,
+              "id": "1784887323211280384",
+              "start": 8,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959488074280542277",
+        "in_reply_to_user_id": "1874085758488690688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959480197742518664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyh996 @ljng15760 居然是骨科吗 小亦你赢了。那不得不…谢谢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959479923049140224"
+          ]
+        },
+        "author_id": "1874085758488690688",
+        "conversation_id": "1959480197742518664",
+        "created_at": "2025-08-24T04:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T05:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959480197742518664"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "青年"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "男喘"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "女性向"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "温青"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "青受"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "一爱"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "短打"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "女性向"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "反差"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "温柔少年"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "男喘台本"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "骨科"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1784887323211280384",
+              "start": 52,
+              "username": "ljng15760"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qDWFJFdaox",
+              "end": 143,
+              "expanded_url": "https://x.com/pyh996/status/1959480197742518664/video/1",
+              "media_key": "13_1959479923049140224",
+              "start": 120,
+              "url": "https://t.co/qDWFJFdaox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959480197742518664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《爽了记得说谢谢哥哥》🦴科\n\n“昨晚是谁骑在哥哥身上一边扭着身子一边让哥哥再快点？”\n\n感谢台本老师 ：@ljng15760 \n\n#青年 #男喘 #女性向 #温青 #青受  #一爱 #短打 #女性向 #反差 #温柔少年 #男喘台本 #骨科 https://t.co/qDWFJFdaox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 72,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 567
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T13:31:37.000Z",
+        "description": "02 178 140 平平无奇的小死宅 随便读一下 手机录音机直录 萝卜青菜各有所爱 我的匿名信箱https://t.co/SKQUto1JRu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pyh996",
+                "end": 72,
+                "expanded_url": "https://ngl.link/pyh996",
+                "start": 49,
+                "url": "https://t.co/SKQUto1JRu"
+              }
+            ]
+          }
+        },
+        "id": "1874085758488690688",
+        "location": "🚪1/6/18/30/68 没有区别全充王者助我v10",
+        "name": "小亦",
+        "pinned_tweet_id": "1946623340061323361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941875269200994304/U63b45r0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 183,
+          "like_count": 3073,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 810
+        },
+        "username": "pyh996",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "所有台本及短打都需要私信找我要授权，拿到授权再录/发布请圈@我一下 /自用🪜 https://t.co/9PJ5FnVBtO不接置顶～定制台本60千字、商用3倍、台本加急OR不公开千字多20⭐️（暂时不接新的了）/请勿搬运、抄袭、缝合",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.达蒙.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://a.xn--hv1a41u.com/#/register?code=NsOxJjaN",
+                "start": 39,
+                "url": "https://t.co/9PJ5FnVBtO"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "月亮🌙上",
+        "name": "星星⭐️🫧",
+        "pinned_tweet_id": "1896054832747921456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956030588256968707/1wjKy8Hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64992,
+          "following_count": 272,
+          "like_count": 10083,
+          "listed_count": 65,
+          "media_count": 583,
+          "tweet_count": 8010
+        },
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

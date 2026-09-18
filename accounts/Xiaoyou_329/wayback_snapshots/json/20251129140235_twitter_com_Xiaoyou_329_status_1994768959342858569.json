@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1994244856122679449",
+    "created_at": "2025-11-29T14:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T15:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994768959342858569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1713033531121860608",
+          "start": 0,
+          "username": "bikyjts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994768959342858569",
+    "in_reply_to_user_id": "1713033531121860608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994768259745558800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bikyjts 媳妇儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1994244856122679449",
+        "created_at": "2025-11-29T14:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994768959342858569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1713033531121860608",
+              "start": 0,
+              "username": "bikyjts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994768959342858569",
+        "in_reply_to_user_id": "1713033531121860608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994768259745558800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bikyjts 媳妇儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713033531121860608",
+        "conversation_id": "1994244856122679449",
+        "created_at": "2025-11-29T13:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994768259745558800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994768259745558800",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994244856122679449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7756,
+          "following_count": 157,
+          "like_count": 5189,
+          "listed_count": 7,
+          "media_count": 542,
+          "tweet_count": 4293
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T03:26:44.000Z",
+        "description": "(´⦁̥̥̥̥̥̥̥̥ω⦁̥̥̥̥̥̥̥̥｀)👈🏻我一直在哭",
+        "id": "1713033531121860608",
+        "name": "我不受欢迎怎么想都是这个世界的错",
+        "pinned_tweet_id": "1832119210778226802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915692419414450179/LD-UetOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3821,
+          "following_count": 5,
+          "like_count": 12376,
+          "listed_count": 23,
+          "media_count": 60,
+          "tweet_count": 491
+        },
+        "username": "bikyjts",
+        "verified": false
+      }
+    ]
+  }
+}

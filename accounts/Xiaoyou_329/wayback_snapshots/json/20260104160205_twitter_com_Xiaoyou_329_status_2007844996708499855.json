@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2007844775299530832",
+    "created_at": "2026-01-04T16:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T17:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007844996708499855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999063254015066112",
+          "start": 0,
+          "username": "wobuxingfuTAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007844996708499855",
+    "in_reply_to_user_id": "1999063254015066112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007844775299530832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobuxingfuTAT 我不得劲。我讨厌关系是阶段性的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2007844760896348160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91MLAlbIAAu_iJ.jpg",
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2007844775299530832",
+        "created_at": "2026-01-04T16:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007844996708499855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999063254015066112",
+              "start": 0,
+              "username": "wobuxingfuTAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007844996708499855",
+        "in_reply_to_user_id": "1999063254015066112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007844775299530832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobuxingfuTAT 我不得劲。我讨厌关系是阶段性的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007844760896348160"
+          ]
+        },
+        "author_id": "1999063254015066112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007844775299530832",
+        "created_at": "2026-01-04T16:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007844775299530832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9RRJ0Gaoo5",
+              "end": 23,
+              "expanded_url": "https://x.com/wobuxingfuTAT/status/2007844775299530832/photo/1",
+              "media_key": "3_2007844760896348160",
+              "start": 0,
+              "url": "https://t.co/9RRJ0Gaoo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007844775299530832",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9RRJ0Gaoo5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 谢谢你愿意留下来了解我 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8710,
+          "following_count": 154,
+          "like_count": 6000,
+          "listed_count": 10,
+          "media_count": 574,
+          "tweet_count": 4783
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T10:26:56.000Z",
+        "description": "下次见",
+        "id": "1999063254015066112",
+        "location": "4inluvwithme",
+        "name": "被爱天赋为零",
+        "pinned_tweet_id": "2007716945878282588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007709032170344448/ROU1ztey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 48,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 784
+        },
+        "username": "wobuxingfuTAT",
+        "verified": false
+      }
+    ]
+  }
+}

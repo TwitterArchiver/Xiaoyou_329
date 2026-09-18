@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1988973440960024584",
+    "created_at": "2025-11-13T22:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T23:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989099274593034240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1737747552454549504",
+          "start": 0,
+          "username": "badada773337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989099274593034240",
+    "in_reply_to_user_id": "1737747552454549504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989016381451563365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@badada773337 好嘟好嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1988973440960024584",
+        "created_at": "2025-11-13T22:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T23:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989099274593034240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1737747552454549504",
+              "start": 0,
+              "username": "badada773337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989099274593034240",
+        "in_reply_to_user_id": "1737747552454549504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989016381451563365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badada773337 好嘟好嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737747552454549504",
+        "conversation_id": "1988973440960024584",
+        "created_at": "2025-11-13T17:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T18:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989016381451563365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989016381451563365",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988973440960024584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 哎哟吃点无花果啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6204,
+          "following_count": 147,
+          "like_count": 4331,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 3637
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T08:11:32.000Z",
+        "description": "骗你的 我要钱要礼物要爱还要你给我当狗",
+        "id": "1737747552454549504",
+        "name": "lzl",
+        "pinned_tweet_id": "1989027209248661584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988965352898998272/C5fusYhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 37,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "username": "badada773337",
+        "verified": false
+      }
+    ]
+  }
+}

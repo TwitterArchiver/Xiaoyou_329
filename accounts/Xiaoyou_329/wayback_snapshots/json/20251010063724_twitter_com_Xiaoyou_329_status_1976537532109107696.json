@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1976527404324819298",
+    "created_at": "2025-10-10T06:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T07:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976537532109107696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894531140733878272",
+          "start": 0,
+          "username": "fanbufan00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976537532109107696",
+    "in_reply_to_user_id": "1894531140733878272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976527404324819298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanbufan00 我买了一堆秋天的衣服。结果一直在升温。这是什么意思。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1976527401334296576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G24JMw1bUAABqh5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1976527404324819298",
+        "created_at": "2025-10-10T06:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T07:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976537532109107696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894531140733878272",
+              "start": 0,
+              "username": "fanbufan00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976537532109107696",
+        "in_reply_to_user_id": "1894531140733878272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976527404324819298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanbufan00 我买了一堆秋天的衣服。结果一直在升温。这是什么意思。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976527401334296576"
+          ]
+        },
+        "author_id": "1894531140733878272",
+        "conversation_id": "1976527404324819298",
+        "created_at": "2025-10-10T05:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T06:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976527404324819298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cUtIfGETFM",
+              "end": 53,
+              "expanded_url": "https://x.com/fanbufan00/status/1976527404324819298/photo/1",
+              "media_key": "3_1976527401334296576",
+              "start": 30,
+              "url": "https://t.co/cUtIfGETFM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976527404324819298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还没来得及买入秋的衣服怎么降温这么厉害了……！！！！！！ https://t.co/cUtIfGETFM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜爱搞抽象的普通人 请别打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1975791841409966295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 132,
+          "like_count": 2538,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 2730
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T23:33:37.000Z",
+        "description": "1i=4i  Switch  00年  180cm    75kg                                             \n匿名箱：https://t.co/Vy8ECE4AMX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fanbufan00",
+                "end": 106,
+                "expanded_url": "https://ngl.link/fanbufan00",
+                "start": 83,
+                "url": "https://t.co/Vy8ECE4AMX"
+              }
+            ]
+          }
+        },
+        "id": "1894531140733878272",
+        "name": "凡躁",
+        "pinned_tweet_id": "1970267497875272152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967634822517641216/A8dYZNr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 226,
+          "like_count": 9919,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 716
+        },
+        "username": "fanbufan00",
+        "verified": false
+      }
+    ]
+  }
+}

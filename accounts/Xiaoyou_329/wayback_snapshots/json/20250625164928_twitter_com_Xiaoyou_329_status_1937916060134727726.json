@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1934650926985581006",
+    "created_at": "2025-06-25T16:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T17:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937916060134727726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934600496175804416",
+          "start": 0,
+          "username": "MM79871839"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937916060134727726",
+    "in_reply_to_user_id": "1934600496175804416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934650926985581006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MM79871839 这张照片好萌呀🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_1934650922900082688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtlCw5_XUAAVNrm.jpg",
+        "width": 801
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1934650926985581006",
+        "created_at": "2025-06-25T16:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T17:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937916060134727726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934600496175804416",
+              "start": 0,
+              "username": "MM79871839"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937916060134727726",
+        "in_reply_to_user_id": "1934600496175804416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934650926985581006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MM79871839 这张照片好萌呀🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934650922900082688"
+          ]
+        },
+        "author_id": "1934600496175804416",
+        "conversation_id": "1934650926985581006",
+        "created_at": "2025-06-16T16:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T17:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934650926985581006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRFTm8ZSmG",
+              "end": 32,
+              "expanded_url": "https://x.com/MM79871839/status/1934650926985581006/photo/1",
+              "media_key": "3_1934650922900082688",
+              "start": 9,
+              "url": "https://t.co/HRFTm8ZSmG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934650926985581006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很满意的照片hh https://t.co/HRFTm8ZSmG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 50,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 132
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T13:14:44.000Z",
+        "description": "",
+        "id": "1934600496175804416",
+        "name": "gnks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934601470277734400/KCYH1YCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "MM79871839",
+        "verified": false
+      }
+    ]
+  }
+}

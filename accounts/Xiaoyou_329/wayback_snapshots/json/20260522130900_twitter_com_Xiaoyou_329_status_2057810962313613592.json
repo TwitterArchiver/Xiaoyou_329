@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2057800786709827664",
+    "created_at": "2026-05-22T13:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057810962313613592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2021106874708582400",
+          "start": 0,
+          "username": "KEIP177301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057810962313613592",
+    "in_reply_to_user_id": "2021106874708582400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057810329602814376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KEIP177301 等我啥时候想起来吧，下次出音频应该要到几个月后了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2057800786709827664",
+        "created_at": "2026-05-22T13:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057810962313613592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2021106874708582400",
+              "start": 0,
+              "username": "KEIP177301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057810962313613592",
+        "in_reply_to_user_id": "2021106874708582400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057810329602814376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KEIP177301 等我啥时候想起来吧，下次出音频应该要到几个月后了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021106874708582400",
+        "conversation_id": "2057800786709827664",
+        "created_at": "2026-05-22T13:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057810329602814376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057810329602814376",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057800786709827664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 出音频😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15025,
+          "following_count": 175,
+          "like_count": 7539,
+          "listed_count": 21,
+          "media_count": 848,
+          "tweet_count": 6609
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T06:20:17.000Z",
+        "description": "",
+        "id": "2021106874708582400",
+        "name": "KEIP",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046991755539881986/uYdGvfqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "KEIP177301",
+        "verified": false
+      }
+    ]
+  }
+}

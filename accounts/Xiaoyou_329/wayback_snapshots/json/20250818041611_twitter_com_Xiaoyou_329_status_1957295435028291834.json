@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957292698127544663",
+    "created_at": "2025-08-18T04:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T05:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957295435028291834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1081383751450537985",
+          "start": 0,
+          "username": "kanqilaibushuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957295435028291834",
+    "in_reply_to_user_id": "1081383751450537985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957292698127544663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanqilaibushuai 我想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957292694931451904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GymzVfrbMAAGtCc.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1957292698127544663",
+        "created_at": "2025-08-18T04:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T05:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957295435028291834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1081383751450537985",
+              "start": 0,
+              "username": "kanqilaibushuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957295435028291834",
+        "in_reply_to_user_id": "1081383751450537985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957292698127544663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanqilaibushuai 我想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957292694931451904"
+          ]
+        },
+        "author_id": "1081383751450537985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1957292698127544663",
+        "created_at": "2025-08-18T04:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T05:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957292698127544663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSKMZrDVKv",
+              "end": 48,
+              "expanded_url": "https://x.com/kanqilaibushuai/status/1957292698127544663/photo/1",
+              "media_key": "3_1957292694931451904",
+              "start": 25,
+              "url": "https://t.co/rSKMZrDVKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957292698127544663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《我在相册里搜食物》\n\n（勉强挤进秀色可餐行列😗 https://t.co/rSKMZrDVKv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)不约炮…会回私信…骚扰就算了除非你身材我真的很喜欢 喜欢发一些身材照…",
+        "id": "1906360034725961728",
+        "name": "一只小由饼",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 65,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 307
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T02:55:52.000Z",
+        "description": "想我了就把手伸下去 告诉自己这是最后一次 （ 本子是本子，我是我 “你所爱的男性角色其实都是女性作者的灵魂”     ，，匿名提问：https://t.co/u6WkPhXYqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanqilaibushuai",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kanqilaibushuai",
+                "start": 66,
+                "url": "https://t.co/u6WkPhXYqG"
+              }
+            ]
+          }
+        },
+        "id": "1081383751450537985",
+        "location": "小孩那桌",
+        "name": "老浣熊",
+        "pinned_tweet_id": "1822551190820811052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630593808311398400/OfFYhzBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33837,
+          "following_count": 210,
+          "like_count": 17753,
+          "listed_count": 69,
+          "media_count": 333,
+          "tweet_count": 7694
+        },
+        "username": "kanqilaibushuai",
+        "verified": false
+      }
+    ]
+  }
+}

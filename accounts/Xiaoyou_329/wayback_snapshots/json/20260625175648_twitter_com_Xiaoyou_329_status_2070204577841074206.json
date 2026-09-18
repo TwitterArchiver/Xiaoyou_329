@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070133352661942699",
+    "created_at": "2026-06-25T17:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070204577841074206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1894097237636177920",
+          "start": 0,
+          "username": "b4vhj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070204577841074206",
+    "in_reply_to_user_id": "1894097237636177920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070144742097404248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@b4vhj 什么算好男人什么算坏男人？对面这个男的本来就没有我推"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070133352661942699",
+        "created_at": "2026-06-25T17:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070204577841074206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1894097237636177920",
+              "start": 0,
+              "username": "b4vhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070204577841074206",
+        "in_reply_to_user_id": "1894097237636177920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070144742097404248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b4vhj 什么算好男人什么算坏男人？对面这个男的本来就没有我推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894097237636177920",
+        "conversation_id": "2070133352661942699",
+        "created_at": "2026-06-25T13:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070144742097404248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070144742097404248",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070133352661942699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 好男人你又不感兴趣，坏男人你又觉得太渣了，你和没你推的男人聊天不就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "置顶关评推广自辨 脱离X平台概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15678,
+          "following_count": 177,
+          "like_count": 7673,
+          "listed_count": 20,
+          "media_count": 864,
+          "tweet_count": 6955
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T18:49:22.000Z",
+        "description": "遇见你 很开心",
+        "id": "1894097237636177920",
+        "name": "小王子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986830326828773376/VXZ9fblt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 2,
+          "like_count": 373,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "b4vhj",
+        "verified": false
+      }
+    ]
+  }
+}

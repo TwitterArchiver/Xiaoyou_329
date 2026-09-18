@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1828802743202443264"
+      ],
+      "media_source_tweet_id": [
+        "1828802917593194951"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1969255111625994489",
+    "created_at": "2025-09-20T04:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T05:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969255111625994489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1656291807674896384",
+          "start": 3,
+          "username": "ijubngqln13855"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A9K3Gaoq2E",
+          "end": 71,
+          "expanded_url": "https://x.com/ijubngqln13855/status/1828802917593194951/video/1",
+          "media_key": "7_1828802743202443264",
+          "start": 48,
+          "url": "https://t.co/A9K3Gaoq2E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969255111625994489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 476
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828802917593194951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ijubngqln13855: 这是人类能有的尺寸吗？😱\n\n对比一下 女生跟小手办一样 https://t.co/A9K3Gaoq2E"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1969255111625994489].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1969255111625994489",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1969255111625994489"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71550,
+        "height": 1280,
+        "media_key": "7_1828802743202443264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1828802743202443264/pu/img/k6r0VW9SNKwoS7N2.jpg",
+        "public_metrics": {
+          "view_count": 369224
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828802743202443264/pu/vid/avc1/320x570/m4fQbCcoF_DzjUgd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828802743202443264/pu/vid/avc1/480x854/LyQgcYCZMhAQYRbA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828802743202443264/pu/vid/avc1/718x1280/CCc-7W2KcF4pQail.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1828802743202443264/pu/pl/hoSMxJdw_mnXcWpC.m3u8?tag=12"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1828802743202443264"
+          ]
+        },
+        "author_id": "1656291807674896384",
+        "conversation_id": "1828802917593194951",
+        "created_at": "2024-08-28T14:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T15:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828802917593194951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9K3Gaoq2E",
+              "end": 51,
+              "expanded_url": "https://x.com/ijubngqln13855/status/1828802917593194951/video/1",
+              "media_key": "7_1828802743202443264",
+              "start": 28,
+              "url": "https://t.co/A9K3Gaoq2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828802917593194951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2532,
+          "impression_count": 1001448,
+          "like_count": 7409,
+          "quote_count": 32,
+          "reply_count": 106,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "这是人类能有的尺寸吗？😱\n\n对比一下 女生跟小手办一样 https://t.co/A9K3Gaoq2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1965820788399026273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 118,
+          "like_count": 1645,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 1998
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T13:35:27.000Z",
+        "description": "不接推广｜女宝集合地｜爱推女性向｜希望能和宝宝们成为电子好朋友👭🫶🏻🩵｜分享的基本都有🔗小号🫶🏻@xwbzh5555‼️‼️禁止贩卖🔗｜只有这一个平台，无其他账号！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "xwbzh5555"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ip.harmonylink.net/share/g6r8g3",
+                "end": 23,
+                "expanded_url": "http://ip.harmonylink.net/share/g6r8g3",
+                "start": 0,
+                "url": "https://t.co/430qcOTVZA"
+              }
+            ]
+          }
+        },
+        "id": "1656291807674896384",
+        "location": "自用vpn 👇🏻（我自己用了好久了，看个人需求使用）",
+        "name": "爱嚼冰淇淋🍦",
+        "pinned_tweet_id": "1838532188926808080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827588466437238784/iQ3x51NQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863823,
+          "following_count": 4,
+          "like_count": 773,
+          "listed_count": 1211,
+          "media_count": 537,
+          "tweet_count": 2702
+        },
+        "url": "https://t.co/430qcOTVZA",
+        "username": "ijubngqln13855",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1988928883614433759",
+    "created_at": "2025-11-13T12:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T13:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988939915007266972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1785143821543870464",
+          "start": 0,
+          "username": "youxuemao1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988939915007266972",
+    "in_reply_to_user_id": "1785143821543870464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988928883614433759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youxuemao1230 心理委员这是何物😭心理委员我心里不得劲😭心理委员我喘不上气😭心理委员我也要😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988928822440230912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oYOekWAAA14u7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1988928883614433759",
+        "created_at": "2025-11-13T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988939915007266972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1785143821543870464",
+              "start": 0,
+              "username": "youxuemao1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988939915007266972",
+        "in_reply_to_user_id": "1785143821543870464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988928883614433759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youxuemao1230 心理委员这是何物😭心理委员我心里不得劲😭心理委员我喘不上气😭心理委员我也要😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988928822440230912"
+          ]
+        },
+        "author_id": "1785143821543870464",
+        "conversation_id": "1988928883614433759",
+        "created_at": "2025-11-13T11:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T12:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988928883614433759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQARBXeFxf",
+              "end": 54,
+              "expanded_url": "https://x.com/youxuemao1230/status/1988928883614433759/photo/1",
+              "media_key": "3_1988928822440230912",
+              "start": 31,
+              "url": "https://t.co/FQARBXeFxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988928883614433759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 477,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老婆这是何物😭老婆我心里不得劲😭老婆我喘不上气😭老婆我也要😭 https://t.co/FQARBXeFxf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6145,
+          "following_count": 148,
+          "like_count": 4321,
+          "listed_count": 4,
+          "media_count": 446,
+          "tweet_count": 3620
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T03:07:20.000Z",
+        "description": "07 男高 喜欢喵喵的每一个人我都会无止尽的👁️这个是喵喵的匿名箱https://t.co/DSq7kyn7bE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youxuemao1230",
+                "end": 56,
+                "expanded_url": "https://ngl.link/youxuemao1230",
+                "start": 33,
+                "url": "https://t.co/DSq7kyn7bE"
+              }
+            ]
+          }
+        },
+        "id": "1785143821543870464",
+        "location": "🚪50/100/200/520^ ^",
+        "name": "忧郁小猫猫47",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902410632772882432/ZDXtXZHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 191,
+          "like_count": 1149,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 92
+        },
+        "username": "youxuemao1230",
+        "verified": false
+      }
+    ]
+  }
+}

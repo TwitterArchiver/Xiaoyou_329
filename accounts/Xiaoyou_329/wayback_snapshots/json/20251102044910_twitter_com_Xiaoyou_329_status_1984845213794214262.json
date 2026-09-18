@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1984810607762424229",
+    "created_at": "2025-11-02T04:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T05:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984845213794214262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612854174714302466",
+          "start": 0,
+          "username": "gu87734192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984845213794214262",
+    "in_reply_to_user_id": "1612854174714302466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984810607762424229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu87734192 能不能定制一期手控福利"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18410,
+        "height": 1280,
+        "media_key": "7_1984810569078288384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1984810569078288384/pu/img/IpHu9NAwaCesjpP1.jpg",
+        "public_metrics": {
+          "view_count": 227
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1984810569078288384/pu/vid/avc1/320x568/H6pTWeqlJ8AoLpci.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1984810569078288384/pu/vid/avc1/480x852/UG_ixuU-YEcIPHxj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1984810569078288384/pu/vid/avc1/720x1280/TI8zAyyqlo7ka1iG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1984810569078288384/pu/pl/GT9U0N38cCHhRL8Y.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1984810607762424229",
+        "created_at": "2025-11-02T04:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T05:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984845213794214262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612854174714302466",
+              "start": 0,
+              "username": "gu87734192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984845213794214262",
+        "in_reply_to_user_id": "1612854174714302466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984810607762424229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu87734192 能不能定制一期手控福利"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1984810569078288384"
+          ]
+        },
+        "author_id": "1612854174714302466",
+        "conversation_id": "1984810607762424229",
+        "created_at": "2025-11-02T02:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T03:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984810607762424229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RX6LI1mQWt",
+              "end": 53,
+              "expanded_url": "https://x.com/gu87734192/status/1984810607762424229/video/1",
+              "media_key": "7_1984810569078288384",
+              "start": 30,
+              "url": "https://t.co/RX6LI1mQWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984810607762424229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国产厂商什么时候致敬一下出个同款模具，搞轻点微动软一点谢谢 https://t.co/RX6LI1mQWt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4664,
+          "following_count": 146,
+          "like_count": 3671,
+          "listed_count": 5,
+          "media_count": 411,
+          "tweet_count": 3223
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:49:50.000Z",
+        "description": "接定制 加v有🚪66 有对象的勿入，后面有了的我也会清掉，介意勿入\n接陪🥣\n抖音 21943386284\n匿名箱:  https://t.co/iAIIvBOxcM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gu8773419274541",
+                "end": 82,
+                "expanded_url": "https://ngl.link/gu8773419274541",
+                "start": 59,
+                "url": "https://t.co/iAIIvBOxcM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gu87734192.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://gu87734192.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/HjWcbedF8Y"
+              }
+            ]
+          }
+        },
+        "id": "1612854174714302466",
+        "location": "浙江",
+        "name": "念",
+        "pinned_tweet_id": "1878996127103803653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766545216583196672/aC28okYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21906,
+          "following_count": 42,
+          "like_count": 1220,
+          "listed_count": 41,
+          "media_count": 196,
+          "tweet_count": 1693
+        },
+        "url": "https://t.co/HjWcbedF8Y",
+        "username": "gu87734192",
+        "verified": false
+      }
+    ]
+  }
+}

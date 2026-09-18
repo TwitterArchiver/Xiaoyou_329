@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1949855170948423897",
+    "created_at": "2025-07-29T13:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T14:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950190032934797544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1081383751450537985",
+          "start": 0,
+          "username": "kanqilaibushuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950190032934797544",
+    "in_reply_to_user_id": "1081383751450537985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949855170948423897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanqilaibushuai 有人懂憋了半个月突然看见这个视频吗。有个小女孩冲哭了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 431066,
+        "height": 480,
+        "media_key": "13_1949855020423565312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949855020423565312/img/JshJlIbX6tuC5uyW.jpg",
+        "public_metrics": {
+          "view_count": 2632
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949855020423565312/vid/avc1/320x320/UbR0u_RC8xHH363T.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949855020423565312/vid/avc1/480x480/5oq7-j6x1IMjlVJh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949855020423565312/pl/Wjemgk_9XuI_-anx.m3u8?tag=14&v=676"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1949855170948423897",
+        "created_at": "2025-07-29T13:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T14:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950190032934797544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1081383751450537985",
+              "start": 0,
+              "username": "kanqilaibushuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950190032934797544",
+        "in_reply_to_user_id": "1081383751450537985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949855170948423897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanqilaibushuai 有人懂憋了半个月突然看见这个视频吗。有个小女孩冲哭了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949855020423565312"
+          ]
+        },
+        "author_id": "1081383751450537985",
+        "conversation_id": "1949855170948423897",
+        "created_at": "2025-07-28T15:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T16:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949855170948423897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zqVAUUeKA",
+              "end": 50,
+              "expanded_url": "https://x.com/kanqilaibushuai/status/1949855170948423897/video/1",
+              "media_key": "13_1949855020423565312",
+              "start": 27,
+              "url": "https://t.co/1zqVAUUeKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949855170948423897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 6705,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "&amp;手冲实录&amp;\n一次涂满润滑液的纯手冲 https://t.co/1zqVAUUeKA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 61,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 201
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T02:55:52.000Z",
+        "description": "想我了就把手伸下去 告诉自己这是最后一次 （ 本子是本子，我是我 “你所爱的男性角色其实都是女性作者的灵魂”     ，，匿名提问：https://t.co/u6WkPhXYqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanqilaibushuai",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kanqilaibushuai",
+                "start": 66,
+                "url": "https://t.co/u6WkPhXYqG"
+              }
+            ]
+          }
+        },
+        "id": "1081383751450537985",
+        "location": "小孩那桌",
+        "name": "老浣熊",
+        "pinned_tweet_id": "1822551190820811052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630593808311398400/OfFYhzBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32213,
+          "following_count": 206,
+          "like_count": 16329,
+          "listed_count": 69,
+          "media_count": 322,
+          "tweet_count": 7493
+        },
+        "username": "kanqilaibushuai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957636331976187923",
+    "created_at": "2025-08-19T02:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T03:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957636851470331964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1387311832025616386",
+          "start": 0,
+          "username": "Jw2C5JFyphJSXgl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957636851470331964",
+    "in_reply_to_user_id": "1387311832025616386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957636331976187923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jw2C5JFyphJSXgl 好想喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1957636323965300738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyrr3VlacAI9Kpn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1957636331976187923",
+        "created_at": "2025-08-19T02:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T03:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957636851470331964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1387311832025616386",
+              "start": 0,
+              "username": "Jw2C5JFyphJSXgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957636851470331964",
+        "in_reply_to_user_id": "1387311832025616386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957636331976187923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jw2C5JFyphJSXgl 好想喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957636323965300738"
+          ]
+        },
+        "author_id": "1387311832025616386",
+        "conversation_id": "1957636331976187923",
+        "created_at": "2025-08-19T02:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T03:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957636331976187923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yrr49A5lrF",
+              "end": 33,
+              "expanded_url": "https://x.com/Jw2C5JFyphJSXgl/status/1957636331976187923/photo/1",
+              "media_key": "3_1957636323965300738",
+              "start": 10,
+              "url": "https://t.co/Yrr49A5lrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957636331976187923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么好喝 命都给你 https://t.co/Yrr49A5lrF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)当朋友圈发…不约炮…会回私信…骚扰就算了除非你身材我真的很喜欢 喜欢发一些身材照…我是双性恋",
+        "id": "1906360034725961728",
+        "name": "一只小由饼",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 69,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 342
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T07:44:57.000Z",
+        "description": "",
+        "id": "1387311832025616386",
+        "name": "她想死也想去巴黎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957059040007331840/M1BGAZ0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 24,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 173
+        },
+        "username": "Jw2C5JFyphJSXgl",
+        "verified": false
+      }
+    ]
+  }
+}

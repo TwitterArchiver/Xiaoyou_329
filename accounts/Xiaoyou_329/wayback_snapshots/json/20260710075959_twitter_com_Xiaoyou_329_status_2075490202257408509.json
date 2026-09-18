@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2075336135124111544",
+    "created_at": "2026-07-10T07:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075490202257408509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1236134053205557248",
+          "start": 0,
+          "username": "fQRWXKb6o7Pnw7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075490202257408509",
+    "in_reply_to_user_id": "1236134053205557248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075477464160330131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fQRWXKb6o7Pnw7f 我妈妈平常一说什么东西就文豆包 有的时候豆包跟智障一样。额。\n我刚才在路上有人问我男的女的。额。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2075336135124111544",
+        "created_at": "2026-07-10T07:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075490202257408509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1236134053205557248",
+              "start": 0,
+              "username": "fQRWXKb6o7Pnw7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075490202257408509",
+        "in_reply_to_user_id": "1236134053205557248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075477464160330131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fQRWXKb6o7Pnw7f 我妈妈平常一说什么东西就文豆包 有的时候豆包跟智障一样。额。\n我刚才在路上有人问我男的女的。额。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236134053205557248",
+        "conversation_id": "2075336135124111544",
+        "created_at": "2026-07-10T07:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075477464160330131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075477464160330131",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075470416894980587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 她的表达方式很不对，语言附带攻击性会让人反感。但她可能觉得这样才有效！我认为追求美是一切生物的本能你的行为是正确的，以后这种事情直接复制发给ai，让ai和她说，这样你眼不见心不烦。她还能和ai对话中思维进步。双赢～不过美丽也是双刃剑，南京变态也不少，我一男的走在街上都会被骚扰。😑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17115,
+          "following_count": 183,
+          "like_count": 7698,
+          "listed_count": 21,
+          "media_count": 948,
+          "tweet_count": 7318
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-07T03:38:38.000Z",
+        "description": "探究本质就是我的性格和动机",
+        "id": "1236134053205557248",
+        "name": "精神病院院长",
+        "pinned_tweet_id": "1928323815978754220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928322893802524673/MI5QTX50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 217,
+          "like_count": 261,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 4163
+        },
+        "url": "",
+        "username": "fQRWXKb6o7Pnw7f",
+        "verified": false
+      }
+    ]
+  }
+}

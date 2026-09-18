@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028336651441991833",
+    "created_at": "2026-03-02T05:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028336651441991833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1547415425444548609",
+          "start": 3,
+          "username": "GnPnw13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028336651441991833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028324041845879224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GnPnw13: 是不是足够可爱就会被喜欢了，是不是不在生气性格稳定就会被喜欢了，是不是不在吃醋就会被喜欢了，是不是不在乱想就会被喜欢了，可我真的在意的人怎么会做到不吃醋呢怎么会不乱想呢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028336651441991833",
+        "created_at": "2026-03-02T05:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028336651441991833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1547415425444548609",
+              "start": 3,
+              "username": "GnPnw13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028336651441991833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028324041845879224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GnPnw13: 是不是足够可爱就会被喜欢了，是不是不在生气性格稳定就会被喜欢了，是不是不在吃醋就会被喜欢了，是不是不在乱想就会被喜欢了，可我真的在意的人怎么会做到不吃醋呢怎么会不乱想呢😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547415425444548609",
+        "conversation_id": "2028324041845879224",
+        "created_at": "2026-03-02T04:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028324041845879224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaoyou_329/st…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/Xiaoyou_329/status/2028108326354173973",
+              "start": 86,
+              "url": "https://t.co/OS1NCBmeEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028324041845879224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028108326354173973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是不是足够可爱就会被喜欢了，是不是不在生气性格稳定就会被喜欢了，是不是不在吃醋就会被喜欢了，是不是不在乱想就会被喜欢了，可我真的在意的人怎么会做到不吃醋呢怎么会不乱想呢😢 https://t.co/OS1NCBmeEd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12740,
+          "following_count": 163,
+          "like_count": 6792,
+          "listed_count": 19,
+          "media_count": 704,
+          "tweet_count": 5657
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T02:59:31.000Z",
+        "description": "也许是负能加发癫",
+        "id": "1547415425444548609",
+        "name": "星孝",
+        "pinned_tweet_id": "2010668622021341641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992274754217365504/lMUYNaoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 924,
+          "like_count": 717,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 208
+        },
+        "username": "GnPnw13",
+        "verified": false
+      }
+    ]
+  }
+}

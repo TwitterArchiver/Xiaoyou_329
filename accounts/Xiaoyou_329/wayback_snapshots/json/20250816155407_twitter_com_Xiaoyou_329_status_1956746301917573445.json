@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1956743211751481411",
+    "created_at": "2025-08-16T15:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T16:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956746301917573445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1889583075518193666",
+          "start": 0,
+          "username": "XiaoLuobo18143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956746301917573445",
+    "in_reply_to_user_id": "1889583075518193666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956746219314909492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoLuobo18143 太抽象了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1956743211751481411",
+        "created_at": "2025-08-16T15:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956746301917573445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1889583075518193666",
+              "start": 0,
+              "username": "XiaoLuobo18143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956746301917573445",
+        "in_reply_to_user_id": "1889583075518193666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956746219314909492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoLuobo18143 太抽象了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889583075518193666",
+        "conversation_id": "1956743211751481411",
+        "created_at": "2025-08-16T15:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956746219314909492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956746219314909492",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956745741332086897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 没有穿过，也是听邪修说的😅😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)不约炮…会回私信…骚扰就算了除非你身材我真的很喜欢 喜欢发一些身材照…",
+        "id": "1906360034725961728",
+        "name": "一只小由饼",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 64,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 278
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T07:51:43.000Z",
+        "description": "05年在上学入推看看😯",
+        "id": "1889583075518193666",
+        "name": "还是处",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956612649355206656/W25LcoS8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 205,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 106
+        },
+        "username": "XiaoLuobo18143",
+        "verified": false
+      }
+    ]
+  }
+}

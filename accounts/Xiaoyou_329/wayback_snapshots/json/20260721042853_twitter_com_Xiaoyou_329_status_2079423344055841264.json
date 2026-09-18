@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2079410038154965121",
+    "created_at": "2026-07-21T04:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079423344055841264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803642368949886976",
+          "start": 0,
+          "username": "xiaoguai041003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079423344055841264",
+    "in_reply_to_user_id": "1803642368949886976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079410038154965121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoguai041003 嘎达嘎哒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079410026322780160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuMZtla4AAqVdQ.jpg",
+        "width": 3276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2079410038154965121",
+        "created_at": "2026-07-21T04:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079423344055841264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803642368949886976",
+              "start": 0,
+              "username": "xiaoguai041003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079423344055841264",
+        "in_reply_to_user_id": "1803642368949886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079410038154965121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoguai041003 嘎达嘎哒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079410026322780160"
+          ]
+        },
+        "author_id": "1803642368949886976",
+        "conversation_id": "2079410038154965121",
+        "created_at": "2026-07-21T03:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079410038154965121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WwlpDN4atd",
+              "end": 42,
+              "expanded_url": "https://x.com/xiaoguai041003/status/2079410038154965121/photo/1",
+              "media_key": "3_2079410026322780160",
+              "start": 19,
+              "url": "https://t.co/WwlpDN4atd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079410038154965121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这可是蛋仔派对联名的袜子，有感觉吗？ https://t.co/WwlpDN4atd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17403,
+          "following_count": 187,
+          "like_count": 7693,
+          "listed_count": 22,
+          "media_count": 998,
+          "tweet_count": 7504
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:14:02.000Z",
+        "description": "毛儿的日记本 |🚪52纯绿 内容 日常聊天和开放朋友圈～(｡ì _ í｡)  | 日常and碎碎念:-P",
+        "id": "1803642368949886976",
+        "location": " Tokyo ",
+        "name": "小毛米",
+        "pinned_tweet_id": "2068611431579459836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941726080655593472/ydrsm3AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13412,
+          "following_count": 380,
+          "like_count": 53519,
+          "listed_count": 19,
+          "media_count": 583,
+          "tweet_count": 13901
+        },
+        "url": "",
+        "username": "xiaoguai041003",
+        "verified": true
+      }
+    ]
+  }
+}

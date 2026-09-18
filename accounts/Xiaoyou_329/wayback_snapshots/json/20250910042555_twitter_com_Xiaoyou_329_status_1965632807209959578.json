@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1965583735686144281",
+    "created_at": "2025-09-10T04:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T05:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965632807209959578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894531140733878272",
+          "start": 0,
+          "username": "fanbufan00"
+        },
+        {
+          "end": 21,
+          "id": "1124601854334099456",
+          "start": 12,
+          "username": "Acsssss0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965632807209959578",
+    "in_reply_to_user_id": "1894531140733878272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965583735686144281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanbufan00 @Acsssss0 土豆我对你犯过错。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 449748,
+        "height": 1440,
+        "media_key": "13_1965583211100340229",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965583211100340229/img/DCYQz61GbJwhHL_m.jpg",
+        "public_metrics": {
+          "view_count": 67
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965583211100340229/vid/avc1/320x426/iZg5IAtjjuLfEF1H.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965583211100340229/vid/avc1/480x640/eOgUdNUy_ePhZAxj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965583211100340229/vid/avc1/720x960/Idrge1GH7_55YDWs.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965583211100340229/pl/KVVZY7iybkYmpjBH.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1965583735686144281",
+        "created_at": "2025-09-10T04:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T05:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965632807209959578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894531140733878272",
+              "start": 0,
+              "username": "fanbufan00"
+            },
+            {
+              "end": 21,
+              "id": "1124601854334099456",
+              "start": 12,
+              "username": "Acsssss0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965632807209959578",
+        "in_reply_to_user_id": "1894531140733878272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965583735686144281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanbufan00 @Acsssss0 土豆我对你犯过错。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965583211100340229"
+          ]
+        },
+        "author_id": "1894531140733878272",
+        "conversation_id": "1965583735686144281",
+        "created_at": "2025-09-10T01:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T02:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965583735686144281"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "1i"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "男喘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1124601854334099456",
+              "start": 22,
+              "username": "Acsssss0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQyev1TTRq",
+              "end": 108,
+              "expanded_url": "https://x.com/fanbufan00/status/1965583735686144281/video/1",
+              "media_key": "13_1965583211100340229",
+              "start": 85,
+              "url": "https://t.co/DQyev1TTRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965583735686144281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 198,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《在推特当网黄被下属发现后》\n\n台本老师： @Acsssss0 \n\n“主管大人，说要在公司给我穿小鞋，怎么现在，是谁的小穴把我的鸡巴夹得这么紧啊。”\n\n#1i  #男喘 https://t.co/DQyev1TTRq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 108,
+          "like_count": 1264,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 1537
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T23:33:37.000Z",
+        "description": "匿名箱：https://t.co/Vy8ECE4AMX\n\n小号不定时掉落凡自认为的自拍涩图",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fanbufan00",
+                "end": 27,
+                "expanded_url": "https://ngl.link/fanbufan00",
+                "start": 4,
+                "url": "https://t.co/Vy8ECE4AMX"
+              }
+            ]
+          }
+        },
+        "id": "1894531140733878272",
+        "name": "凡躁",
+        "pinned_tweet_id": "1963027998128652529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949766373087055872/ABJWzad8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 181,
+          "like_count": 8330,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 459
+        },
+        "username": "fanbufan00",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T09:09:10.000Z",
+        "description": "青年音重度依赖 | 足控统治世界 |  别发牛子骚扰🙏🏻 如果想录制台本请不要客气",
+        "id": "1124601854334099456",
+        "name": "玉兰笑眯眯（戒奶茶day2",
+        "pinned_tweet_id": "1964730593884909860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962492649036013569/7BMa43z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 47,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 895
+        },
+        "username": "Acsssss0",
+        "verified": false
+      }
+    ]
+  }
+}

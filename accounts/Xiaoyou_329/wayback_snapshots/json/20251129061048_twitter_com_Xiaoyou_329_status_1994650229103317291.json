@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1994649061325246958",
+    "created_at": "2025-11-29T06:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994650229103317291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966173444414095360",
+          "start": 0,
+          "username": "Tinaaaa9444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994650229103317291",
+    "in_reply_to_user_id": "1966173444414095360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994649061325246958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tinaaaa9444 喜欢我请给我钱不要再上来意味不明地丢下妈妈二字了吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_1994649048385818625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65qvcybkAEgDRy.jpg",
+        "width": 427
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1994649061325246958",
+        "created_at": "2025-11-29T06:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994650229103317291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966173444414095360",
+              "start": 0,
+              "username": "Tinaaaa9444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994650229103317291",
+        "in_reply_to_user_id": "1966173444414095360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994649061325246958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tinaaaa9444 喜欢我请给我钱不要再上来意味不明地丢下妈妈二字了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994649048385818625"
+          ]
+        },
+        "author_id": "1966173444414095360",
+        "conversation_id": "1994649061325246958",
+        "created_at": "2025-11-29T06:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994649061325246958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6DJeqbj5H",
+              "end": 70,
+              "expanded_url": "https://x.com/Tinaaaa9444/status/1994649061325246958/photo/1",
+              "media_key": "3_1994649048385818625",
+              "start": 47,
+              "url": "https://t.co/y6DJeqbj5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994649061325246958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "居然没有一个是神秘口令红包我真的力竭了啊喜欢我请给我钱不要再上来意味不明地丢下妈妈二字了吧！ https://t.co/y6DJeqbj5H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7698,
+          "following_count": 156,
+          "like_count": 5174,
+          "listed_count": 7,
+          "media_count": 540,
+          "tweet_count": 4276
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T16:14:24.000Z",
+        "description": "怎么办 这个下午好无聊｜未关不回｜4i3i 想当狗v我520",
+        "id": "1966173444414095360",
+        "name": "小莲神",
+        "pinned_tweet_id": "1976608528753397888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989200653277941760/Icpvq4OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3777,
+          "following_count": 96,
+          "like_count": 10958,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 3481
+        },
+        "username": "Tinaaaa9444",
+        "verified": false
+      }
+    ]
+  }
+}

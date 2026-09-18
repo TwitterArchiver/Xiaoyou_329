@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2022667260796829878",
+    "created_at": "2026-02-15T13:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T14:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023032851227369627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1793300616871325696",
+          "start": 0,
+          "username": "Ov012456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023032851227369627",
+    "in_reply_to_user_id": "1793300616871325696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022667260796829878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ov012456 好痛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022667260796829878",
+        "created_at": "2026-02-15T13:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023032851227369627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1793300616871325696",
+              "start": 0,
+              "username": "Ov012456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023032851227369627",
+        "in_reply_to_user_id": "1793300616871325696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022667260796829878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ov012456 好痛。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793300616871325696",
+        "conversation_id": "2022667260796829878",
+        "created_at": "2026-02-14T13:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022667260796829878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022667260796829878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4644,
+          "like_count": 97,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道怎么爱一个人 钱给了 爱给了 能给的我都给 我都认了 我还要说对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12101,
+          "following_count": 162,
+          "like_count": 6675,
+          "listed_count": 19,
+          "media_count": 662,
+          "tweet_count": 5474
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T15:19:30.000Z",
+        "description": "你对我可曾有过半分真心",
+        "id": "1793300616871325696",
+        "name": "布偶大王",
+        "pinned_tweet_id": "2022665094891819247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020760557805268992/ehIAwXk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 73,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 534
+        },
+        "username": "Ov012456",
+        "verified": false
+      }
+    ]
+  }
+}

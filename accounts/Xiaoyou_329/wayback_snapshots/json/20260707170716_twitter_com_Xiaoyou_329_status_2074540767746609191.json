@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074540756346470402"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2074540767746609191",
+    "created_at": "2026-07-07T17:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074540767746609191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TbCqLguMEx",
+          "end": 153,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2074540767746609191/photo/1",
+          "media_key": "3_2074540756346470402",
+          "start": 130,
+          "url": "https://t.co/TbCqLguMEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074540767746609191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不知道。我只是觉得好咕嘟好难受好羡慕呀。一个人有的时候很累，但其实我不一定是要谈恋爱吧…我想得到的可能只有一瞬间然后又。唉爱。加上最近情绪一直很低落，，，还有一些其他的我感觉自己可能需要认识点新的人…我想稳定一些…\n但是唉算了 都不重要吧 我自己也都可以的 https://t.co/TbCqLguMEx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1568,
+        "media_key": "3_2074540756346470402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo_05YaAAIZHIa.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074540756346470402"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2074540767746609191",
+        "created_at": "2026-07-07T17:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074540767746609191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbCqLguMEx",
+              "end": 153,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2074540767746609191/photo/1",
+              "media_key": "3_2074540756346470402",
+              "start": 130,
+              "url": "https://t.co/TbCqLguMEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074540767746609191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道。我只是觉得好咕嘟好难受好羡慕呀。一个人有的时候很累，但其实我不一定是要谈恋爱吧…我想得到的可能只有一瞬间然后又。唉爱。加上最近情绪一直很低落，，，还有一些其他的我感觉自己可能需要认识点新的人…我想稳定一些…\n但是唉算了 都不重要吧 我自己也都可以的 https://t.co/TbCqLguMEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17024,
+          "following_count": 185,
+          "like_count": 7695,
+          "listed_count": 20,
+          "media_count": 926,
+          "tweet_count": 7236
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

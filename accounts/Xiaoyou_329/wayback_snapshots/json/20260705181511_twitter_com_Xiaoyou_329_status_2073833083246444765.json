@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2073653486101950780",
+    "created_at": "2026-07-05T18:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073833083246444765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1586402394338099201",
+          "start": 0,
+          "username": "miysia1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073833083246444765",
+    "in_reply_to_user_id": "1586402394338099201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073812782043267197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miysia1 谢谢你宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2073653486101950780",
+        "created_at": "2026-07-05T18:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073833083246444765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1586402394338099201",
+              "start": 0,
+              "username": "miysia1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073833083246444765",
+        "in_reply_to_user_id": "1586402394338099201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073812782043267197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miysia1 谢谢你宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586402394338099201",
+        "conversation_id": "2073653486101950780",
+        "created_at": "2026-07-05T16:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073812782043267197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073812782043267197",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073653486101950780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我觉得第一个最好看一点 第二个外圈黑边太生硬了 和第三个比呢第一个更温柔一些感觉更适合你一些宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17003,
+          "following_count": 184,
+          "like_count": 7683,
+          "listed_count": 20,
+          "media_count": 914,
+          "tweet_count": 7190
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T16:59:48.000Z",
+        "description": "絮絮叨叨的日记本 想到什么就说什么",
+        "id": "1586402394338099201",
+        "name": "miysia",
+        "pinned_tweet_id": "2067684456794915050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939079155527655424/FvccsWYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 44,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "miysia1",
+        "verified": false
+      }
+    ]
+  }
+}

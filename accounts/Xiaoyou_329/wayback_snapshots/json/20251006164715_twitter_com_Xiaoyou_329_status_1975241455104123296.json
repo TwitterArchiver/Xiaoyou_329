@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1975241347692175655",
+    "created_at": "2025-10-06T16:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T17:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975241455104123296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1932473903408160768",
+          "start": 0,
+          "username": "wobuxingfuTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975241455104123296",
+    "in_reply_to_user_id": "1932473903408160768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975241347692175655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobuxingfuTT 我真气哭了这是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1975241347692175655",
+        "created_at": "2025-10-06T16:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T17:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975241455104123296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1932473903408160768",
+              "start": 0,
+              "username": "wobuxingfuTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975241455104123296",
+        "in_reply_to_user_id": "1932473903408160768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975241347692175655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobuxingfuTT 我真气哭了这是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932473903408160768",
+        "conversation_id": "1975241347692175655",
+        "created_at": "2025-10-06T16:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T17:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975241347692175655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975241347692175655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我这种缺爱b就只适合看别人谈恋爱 真有人说喜欢我我就会开始怀疑他说的是真是假然后就去内耗了 我气死了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜挺爱搞抽象的一普通人｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 128,
+          "like_count": 2369,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 2665
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T16:24:29.000Z",
+        "description": "我有在想你哦",
+        "id": "1932473903408160768",
+        "name": "被爱天赋为零",
+        "pinned_tweet_id": "1971748981828211006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971149468025438208/WITjn7Kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 191,
+          "like_count": 718,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 2019
+        },
+        "username": "wobuxingfuTT",
+        "verified": false
+      }
+    ]
+  }
+}

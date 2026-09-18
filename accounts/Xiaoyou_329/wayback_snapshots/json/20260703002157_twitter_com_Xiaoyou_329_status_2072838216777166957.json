@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2072202226542805406",
+    "created_at": "2026-07-03T00:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T01:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072838216777166957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1273928144064405506",
+          "start": 0,
+          "username": "GKZXNnWdEdFsTLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072838216777166957",
+    "in_reply_to_user_id": "1273928144064405506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072699110130680067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GKZXNnWdEdFsTLS 红米5！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2072202226542805406",
+        "created_at": "2026-07-03T00:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072838216777166957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1273928144064405506",
+              "start": 0,
+              "username": "GKZXNnWdEdFsTLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072838216777166957",
+        "in_reply_to_user_id": "1273928144064405506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072699110130680067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GKZXNnWdEdFsTLS 红米5！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1273928144064405506",
+        "conversation_id": "2072202226542805406",
+        "created_at": "2026-07-02T15:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072699110130680067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072699110130680067",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072202226542805406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 这个好像是红米6还是5来着……上高中那会我买过一台"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16997,
+          "following_count": 177,
+          "like_count": 7684,
+          "listed_count": 20,
+          "media_count": 892,
+          "tweet_count": 7130
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-19T10:38:41.000Z",
+        "description": "未曾到过倒悬山。",
+        "id": "1273928144064405506",
+        "location": "0351",
+        "name": "灯火馍馍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655547187739373568/n7qIvVQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 178,
+          "like_count": 1113,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "GKZXNnWdEdFsTLS",
+        "verified": false
+      }
+    ]
+  }
+}

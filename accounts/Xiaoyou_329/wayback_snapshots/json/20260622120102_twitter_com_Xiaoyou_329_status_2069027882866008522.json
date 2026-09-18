@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069027866109759490"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069027882866008522",
+    "created_at": "2026-06-22T12:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069027882866008522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ijpbsZyshG",
+          "end": 35,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2069027882866008522/photo/1",
+          "media_key": "3_2069027866109759490",
+          "start": 12,
+          "url": "https://t.co/ijpbsZyshG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069027882866008522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我没有抽到肥嘟嘟左卫门 https://t.co/ijpbsZyshG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069027866109759490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLap4c3bUAIGIm9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069027866109759490"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069027882866008522",
+        "created_at": "2026-06-22T12:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069027882866008522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijpbsZyshG",
+              "end": 35,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2069027882866008522/photo/1",
+              "media_key": "3_2069027866109759490",
+              "start": 12,
+              "url": "https://t.co/ijpbsZyshG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069027882866008522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没有抽到肥嘟嘟左卫门 https://t.co/ijpbsZyshG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "置顶关评推广自辨 脱离X平台概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "2068739248338121093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15638,
+          "following_count": 176,
+          "like_count": 7677,
+          "listed_count": 20,
+          "media_count": 856,
+          "tweet_count": 6912
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

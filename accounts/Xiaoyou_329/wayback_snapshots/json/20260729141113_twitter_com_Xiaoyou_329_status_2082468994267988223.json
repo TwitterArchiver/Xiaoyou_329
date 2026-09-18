@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2082466833261838346",
+    "created_at": "2026-07-29T14:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082468994267988223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1725534917201645568",
+          "start": 0,
+          "username": "chuan_ao77311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082468994267988223",
+    "in_reply_to_user_id": "1725534917201645568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082468140848746546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_ao77311 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2082466833261838346",
+        "created_at": "2026-07-29T14:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082468994267988223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1725534917201645568",
+              "start": 0,
+              "username": "chuan_ao77311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082468994267988223",
+        "in_reply_to_user_id": "1725534917201645568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082468140848746546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_ao77311 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725534917201645568",
+        "conversation_id": "2082466833261838346",
+        "created_at": "2026-07-29T14:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082468140848746546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082468140848746546",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082466833261838346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 假粉丝越多等于真粉丝越少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17688,
+          "following_count": 188,
+          "like_count": 7687,
+          "listed_count": 22,
+          "media_count": 1039,
+          "tweet_count": 7594
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T15:23:01.000Z",
+        "description": "我是小叶，日常碎碎念/高中生/欢迎互fo/男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyiqiuxie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyiqiuxie",
+                "start": 0,
+                "url": "https://t.co/TXjHDYvsZz"
+              }
+            ]
+          }
+        },
+        "id": "1725534917201645568",
+        "location": "距离你💓-5.2km",
+        "name": "第一秋叶",
+        "pinned_tweet_id": "2081868411731415266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031397053499322369/wVwkpFAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 365,
+          "like_count": 11896,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 2451
+        },
+        "url": "https://t.co/TXjHDYvsZz",
+        "username": "chuan_ao77311",
+        "verified": false
+      }
+    ]
+  }
+}

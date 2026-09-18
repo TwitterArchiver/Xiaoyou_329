@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1993996987625296227",
+    "created_at": "2025-11-27T13:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T14:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994042087873069554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1395357933517479938",
+          "start": 0,
+          "username": "Qway752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994042087873069554",
+    "in_reply_to_user_id": "1395357933517479938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994040268413391083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qway752 万达广场到底有谁在啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1993996987625296227",
+        "created_at": "2025-11-27T13:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994042087873069554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1395357933517479938",
+              "start": 0,
+              "username": "Qway752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994042087873069554",
+        "in_reply_to_user_id": "1395357933517479938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994040268413391083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qway752 万达广场到底有谁在啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395357933517479938",
+        "conversation_id": "1993996987625296227",
+        "created_at": "2025-11-27T13:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994040268413391083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994040268413391083",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993996987625296227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 别卖啊😭卖了万达广场又要多一个人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7211,
+          "following_count": 155,
+          "like_count": 5166,
+          "listed_count": 4,
+          "media_count": 531,
+          "tweet_count": 4232
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-20T12:37:19.000Z",
+        "description": "yeah",
+        "id": "1395357933517479938",
+        "name": "败给了她的黑色",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1395358539430862856/f4-F77dq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 94,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 26
+        },
+        "username": "Qway752",
+        "verified": false
+      }
+    ]
+  }
+}

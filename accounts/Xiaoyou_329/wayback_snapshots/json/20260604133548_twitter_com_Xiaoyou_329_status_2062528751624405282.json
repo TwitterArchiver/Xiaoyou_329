@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062528735891582976"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2062528751624405282",
+    "created_at": "2026-06-04T13:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062528751624405282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/13Fwr9H53Q",
+          "end": 63,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2062528751624405282/photo/1",
+          "media_key": "3_2062528735891582976",
+          "start": 40,
+          "url": "https://t.co/13Fwr9H53Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062528751624405282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果我很可爱！你也喜欢我的话…那我可以许愿一杯杨枝甘露吗…&gt;_&lt;… https://t.co/13Fwr9H53Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2062528735891582976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-S9SHacAA6aq-.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062528735891582976"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2062528751624405282",
+        "created_at": "2026-06-04T13:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062528751624405282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/13Fwr9H53Q",
+              "end": 63,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2062528751624405282/photo/1",
+              "media_key": "3_2062528735891582976",
+              "start": 40,
+              "url": "https://t.co/13Fwr9H53Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062528751624405282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我很可爱！你也喜欢我的话…那我可以许愿一杯杨枝甘露吗…&gt;_&lt;… https://t.co/13Fwr9H53Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15427,
+          "following_count": 176,
+          "like_count": 7586,
+          "listed_count": 20,
+          "media_count": 878,
+          "tweet_count": 6770
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

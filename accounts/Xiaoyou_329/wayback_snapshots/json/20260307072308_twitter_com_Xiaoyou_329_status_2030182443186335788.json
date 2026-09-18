@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2030182443186335788",
+    "created_at": "2026-03-07T07:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T08:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030182443186335788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/buusk3/status/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/buusk3/status/2029896555269083375",
+          "start": 11,
+          "url": "https://t.co/IPhDXSju7q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030182443186335788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029896555269083375",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "线下和我见面就这样😂 https://t.co/IPhDXSju7q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_2029896547773861892",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCukJ8TaUAQTBKC.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2030182443186335788",
+        "created_at": "2026-03-07T07:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030182443186335788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buusk3/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/buusk3/status/2029896555269083375",
+              "start": 11,
+              "url": "https://t.co/IPhDXSju7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030182443186335788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029896555269083375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "线下和我见面就这样😂 https://t.co/IPhDXSju7q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029896547773861892"
+          ]
+        },
+        "author_id": "1550095462169862144",
+        "conversation_id": "2029896555269083375",
+        "created_at": "2026-03-06T12:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029896555269083375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQLV2jhqj1",
+              "end": 62,
+              "expanded_url": "https://x.com/Buusk3/status/2029896555269083375/photo/1",
+              "media_key": "3_2029896547773861892",
+              "start": 39,
+              "url": "https://t.co/zQLV2jhqj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029896555269083375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3273,
+          "impression_count": 6119547,
+          "like_count": 36475,
+          "quote_count": 644,
+          "reply_count": 2327,
+          "retweet_count": 1951
+        },
+        "reply_settings": "everyone",
+        "text": "アプリでマッチングした人と待ち合わせしてるんだけど、この人じゃないよね??? https://t.co/zQLV2jhqj1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12997,
+          "following_count": 161,
+          "like_count": 6904,
+          "listed_count": 19,
+          "media_count": 723,
+          "tweet_count": 5796
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T12:29:16.000Z",
+        "description": "ポストは全てAIによる生成画像です🌍️実在する人物等とは一切関係ありません🫡\n最新のAIを使ってくだらない妄想を具現化しましょう🫡\nマシュマロ: https://t.co/bGl6jdDudr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/f3fe8nczhomhl1…",
+                "end": 96,
+                "expanded_url": "https://marshmallow-qa.com/f3fe8nczhomhl1q?t=JKXkJy&utm_medium=url_text&utm_source=p",
+                "start": 73,
+                "url": "https://t.co/bGl6jdDudr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/buusuke",
+                "end": 23,
+                "expanded_url": "https://note.com/buusuke",
+                "start": 0,
+                "url": "https://t.co/u1VTVsRnxb"
+              }
+            ]
+          }
+        },
+        "id": "1550095462169862144",
+        "name": "AIで妄想世界🌍️",
+        "pinned_tweet_id": "2014342036057678308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941840099932516352/kzuG6LHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26321,
+          "following_count": 363,
+          "like_count": 3052,
+          "listed_count": 88,
+          "media_count": 217,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/u1VTVsRnxb",
+        "username": "Buusk3",
+        "verified": true
+      }
+    ]
+  }
+}

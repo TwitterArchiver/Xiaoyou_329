@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1992930741945274397",
+    "created_at": "2025-11-24T14:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T15:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992957848649973855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1794270184997339136",
+          "start": 0,
+          "username": "Jack76592"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992957848649973855",
+    "in_reply_to_user_id": "1794270184997339136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992948630811283795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jack76592 不行这个好丑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1992930741945274397",
+        "created_at": "2025-11-24T14:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992957848649973855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1794270184997339136",
+              "start": 0,
+              "username": "Jack76592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992957848649973855",
+        "in_reply_to_user_id": "1794270184997339136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992948630811283795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jack76592 不行这个好丑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794270184997339136",
+        "conversation_id": "1992930741945274397",
+        "created_at": "2025-11-24T13:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992948630811283795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992948630811283795",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992930741945274397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 金标程咬金不行吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7183,
+          "following_count": 155,
+          "like_count": 5061,
+          "listed_count": 5,
+          "media_count": 520,
+          "tweet_count": 4139
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T07:32:44.000Z",
+        "description": "",
+        "id": "1794270184997339136",
+        "name": "这位网友三岁就很坏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992661485060026368/3jbojuvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 646,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1032
+        },
+        "username": "Jack76592",
+        "verified": false
+      }
+    ]
+  }
+}

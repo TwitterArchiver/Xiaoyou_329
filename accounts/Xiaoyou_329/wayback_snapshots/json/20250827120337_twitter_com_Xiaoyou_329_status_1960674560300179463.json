@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960659204907164158",
+    "created_at": "2025-08-27T12:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T13:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960674560300179463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956941735139086337",
+          "start": 0,
+          "username": "puppy1263686"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960674560300179463",
+    "in_reply_to_user_id": "1956941735139086337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960662562636284376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puppy1263686 好的谢谢宝宝😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960659204907164158",
+        "created_at": "2025-08-27T12:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960674560300179463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956941735139086337",
+              "start": 0,
+              "username": "puppy1263686"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960674560300179463",
+        "in_reply_to_user_id": "1956941735139086337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960662562636284376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppy1263686 好的谢谢宝宝😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956941735139086337",
+        "conversation_id": "1960659204907164158",
+        "created_at": "2025-08-27T11:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T12:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960662562636284376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960662562636284376",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960659204907164158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 不会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 86,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 668
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T04:51:19.000Z",
+        "description": "是小狗的黄色废料堆积场/混乱邪恶只顾自己快乐/不约不线下要我回消息先打钱\nhttps://t.co/jgLCQo9H65提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/puppy33471",
+                "end": 60,
+                "expanded_url": "https://ngl.link/puppy33471",
+                "start": 37,
+                "url": "https://t.co/jgLCQo9H65"
+              }
+            ]
+          }
+        },
+        "id": "1956941735139086337",
+        "location": "黄色废料堆积场正中间的小狗窝",
+        "name": "午夜小狗（重生版）",
+        "pinned_tweet_id": "1957993197356929167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957137848521666560/jRdF5ME0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 38,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 115
+        },
+        "username": "puppy1263686",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962487775074381851",
+    "created_at": "2025-09-01T12:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T13:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962488362394059117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717077833577791488",
+          "start": 0,
+          "username": "givemeqian888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962488362394059117",
+    "in_reply_to_user_id": "1717077833577791488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962487775074381851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@givemeqian888 我在想吃什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962487775074381851",
+        "created_at": "2025-09-01T12:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T13:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962488362394059117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717077833577791488",
+              "start": 0,
+              "username": "givemeqian888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962488362394059117",
+        "in_reply_to_user_id": "1717077833577791488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962487775074381851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@givemeqian888 我在想吃什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717077833577791488",
+        "conversation_id": "1962487775074381851",
+        "created_at": "2025-09-01T12:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T13:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962487775074381851"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "想念"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962487775074381851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bb们你们都在干嘛🥺 想你们了哎 #想念"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…｜梦想是去一次海边",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 98,
+          "like_count": 903,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1021
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T07:17:33.000Z",
+        "description": "吧啦你很有名～/infp/25小时在线/碎碎念/把X当只有一个人的朋友圈^_^可以叫我吧啦 👉👈请给我发小猫🐱/欢迎匿名提问https://t.co/w3lzSGgs3x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/balanala2",
+                "end": 85,
+                "expanded_url": "https://ngl.link/balanala2",
+                "start": 62,
+                "url": "https://t.co/w3lzSGgs3x"
+              }
+            ]
+          }
+        },
+        "id": "1717077833577791488",
+        "name": "balabala（day 50）",
+        "pinned_tweet_id": "1911775279938457951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911778956086263809/a0haeGb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 166,
+          "like_count": 2965,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1310
+        },
+        "username": "givemeqian888",
+        "verified": false
+      }
+    ]
+  }
+}

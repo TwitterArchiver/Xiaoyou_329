@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1985914741995253952",
+    "created_at": "2025-11-05T06:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T07:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985955843997565041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910977089265684480",
+          "start": 0,
+          "username": "yzhnnd149339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985955843997565041",
+    "in_reply_to_user_id": "1910977089265684480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985952217342599335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzhnnd149339 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1985914741995253952",
+        "created_at": "2025-11-05T06:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T07:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985955843997565041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910977089265684480",
+              "start": 0,
+              "username": "yzhnnd149339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985955843997565041",
+        "in_reply_to_user_id": "1910977089265684480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985952217342599335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzhnnd149339 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910977089265684480",
+        "conversation_id": "1985914741995253952",
+        "created_at": "2025-11-05T06:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T07:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985952217342599335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985952217342599335",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985914741995253952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 可可爱爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1985354277674479915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4741,
+          "following_count": 146,
+          "like_count": 3809,
+          "listed_count": 5,
+          "media_count": 433,
+          "tweet_count": 3310
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T08:43:44.000Z",
+        "description": "",
+        "id": "1910977089265684480",
+        "name": "海绵体宝宝（夸夸版）",
+        "pinned_tweet_id": "1948021286648914088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910977225437917184/LbDTSSlF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 388,
+          "like_count": 733,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 289
+        },
+        "username": "yzhnnd149339",
+        "verified": false
+      }
+    ]
+  }
+}

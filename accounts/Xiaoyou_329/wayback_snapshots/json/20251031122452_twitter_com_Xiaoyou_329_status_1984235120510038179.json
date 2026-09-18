@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1984222406177911274",
+    "created_at": "2025-10-31T12:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T13:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984235120510038179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936481820608208897",
+          "start": 0,
+          "username": "tcxxstoutou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984235120510038179",
+    "in_reply_to_user_id": "1936481820608208897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984234989735862679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcxxstoutou 就是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1984222406177911274",
+        "created_at": "2025-10-31T12:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984235120510038179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936481820608208897",
+              "start": 0,
+              "username": "tcxxstoutou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984235120510038179",
+        "in_reply_to_user_id": "1936481820608208897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984234989735862679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcxxstoutou 就是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936481820608208897",
+        "conversation_id": "1984222406177911274",
+        "created_at": "2025-10-31T12:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984234989735862679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984234989735862679",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984222406177911274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 内眼线真的好难画 双眼皮贴也好难贴…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1979139523784110407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 144,
+          "like_count": 3607,
+          "listed_count": 5,
+          "media_count": 411,
+          "tweet_count": 3201
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T17:50:26.000Z",
+        "description": "hi小鸟",
+        "id": "1936481820608208897",
+        "name": "名字长的话小猫会跟着念",
+        "pinned_tweet_id": "1984201462990463366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983963178988863488/n_tLIyg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 299,
+          "like_count": 2242,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 194
+        },
+        "username": "tcxxstoutou",
+        "verified": false
+      }
+    ]
+  }
+}

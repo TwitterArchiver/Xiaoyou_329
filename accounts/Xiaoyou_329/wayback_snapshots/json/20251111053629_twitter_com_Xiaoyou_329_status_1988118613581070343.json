@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1988117059444838522",
+    "created_at": "2025-11-11T05:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T06:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988118613581070343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1923424244823941120",
+          "start": 0,
+          "username": "kannimane_SB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988118613581070343",
+    "in_reply_to_user_id": "1923424244823941120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988117059444838522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kannimane_SB 还是个老吃家！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1988117059444838522",
+        "created_at": "2025-11-11T05:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988118613581070343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1923424244823941120",
+              "start": 0,
+              "username": "kannimane_SB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988118613581070343",
+        "in_reply_to_user_id": "1923424244823941120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988117059444838522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kannimane_SB 还是个老吃家！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923424244823941120",
+        "conversation_id": "1988117059444838522",
+        "created_at": "2025-11-11T05:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988117059444838522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988117059444838522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等这小子胖起来，血糖高起来，喂他吃雌性激素，你根本不知道它分泌的奶水有多甜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5059,
+          "following_count": 145,
+          "like_count": 4121,
+          "listed_count": 4,
+          "media_count": 435,
+          "tweet_count": 3509
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T17:04:18.000Z",
+        "description": "只是个爱上网的坚果🚬 ｜娥弟弟：肖建国（只过互关）@Caonima_SB666 ⬅️日常和碎碎念在这里噢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "Caonima_SB666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kannimane_sb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kannimane_sb",
+                "start": 0,
+                "url": "https://t.co/gB9a7Yh1bX"
+              }
+            ]
+          }
+        },
+        "id": "1923424244823941120",
+        "location": "戴夫的后花园",
+        "name": "高建国",
+        "pinned_tweet_id": "1984432145776197872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953160100560166912/v_TmQc6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 488,
+          "like_count": 7678,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 6724
+        },
+        "url": "https://t.co/gB9a7Yh1bX",
+        "username": "kannimane_SB",
+        "verified": false
+      }
+    ]
+  }
+}

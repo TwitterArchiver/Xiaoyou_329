@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2071125354614538243",
+    "created_at": "2026-06-28T08:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071152225007915373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1273103308551606272",
+          "start": 0,
+          "username": "N1dhHho7JmpT9cY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071152225007915373",
+    "in_reply_to_user_id": "1273103308551606272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071132944052469948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N1dhHho7JmpT9cY 要家长陪同的话我自己挂号也看不了吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2071125354614538243",
+        "created_at": "2026-06-28T08:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071152225007915373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1273103308551606272",
+              "start": 0,
+              "username": "N1dhHho7JmpT9cY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071152225007915373",
+        "in_reply_to_user_id": "1273103308551606272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071132944052469948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N1dhHho7JmpT9cY 要家长陪同的话我自己挂号也看不了吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1273103308551606272",
+        "conversation_id": "2071125354614538243",
+        "created_at": "2026-06-28T07:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071132944052469948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071132944052469948",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071125354614538243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 家长那么相信中医啊。可以自己去医院挂号么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16758,
+          "following_count": 177,
+          "like_count": 7682,
+          "listed_count": 20,
+          "media_count": 873,
+          "tweet_count": 7041
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-17T04:01:13.000Z",
+        "description": "98年男。理智讨论问题，潜心研究涩图。",
+        "id": "1273103308551606272",
+        "location": "在沪打工",
+        "name": "咔咔",
+        "pinned_tweet_id": "2053439513498923389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049298929867726848/ro1GE7UH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 89,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1032
+        },
+        "url": "",
+        "username": "N1dhHho7JmpT9cY",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1970949666230390968",
+    "created_at": "2025-09-24T21:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T22:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970965534033551701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1273760137904181248",
+          "start": 0,
+          "username": "xintianxiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970965534033551701",
+    "in_reply_to_user_id": "1273760137904181248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970963990667984915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xintianxiao 是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1970949666230390968",
+        "created_at": "2025-09-24T21:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T22:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970965534033551701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1273760137904181248",
+              "start": 0,
+              "username": "xintianxiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970965534033551701",
+        "in_reply_to_user_id": "1273760137904181248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970963990667984915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xintianxiao 是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1273760137904181248",
+        "conversation_id": "1970949666230390968",
+        "created_at": "2025-09-24T21:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T22:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970963990667984915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970963990667984915",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970949666230390968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 你是在国内吗烙铁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 122,
+          "like_count": 1923,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 2301
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-18T23:31:02.000Z",
+        "description": "",
+        "id": "1273760137904181248",
+        "location": "0371",
+        "name": "🐷",
+        "pinned_tweet_id": "1274084382437851136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1393976761927577601/TCNwoCi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 123,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "xintianxiao",
+        "verified": false
+      }
+    ]
+  }
+}

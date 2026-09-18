@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1975772635289297227",
+    "created_at": "2025-10-08T03:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T04:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975772635289297227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qwq35397387/st…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/qwq35397387/status/1975769804301832336",
+          "start": 57,
+          "url": "https://t.co/soBHWsAxmv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975772635289297227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975769804301832336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊啊啊我笑的一直在打滚 我笑的肚子痛哈哈哈哈哈哈哈哈哈哈我受不了了什么鬼哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/soBHWsAxmv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1975772635289297227",
+        "created_at": "2025-10-08T03:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975772635289297227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qwq35397387/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/qwq35397387/status/1975769804301832336",
+              "start": 57,
+              "url": "https://t.co/soBHWsAxmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975772635289297227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975769804301832336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊啊我笑的一直在打滚 我笑的肚子痛哈哈哈哈哈哈哈哈哈哈我受不了了什么鬼哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/soBHWsAxmv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410610513055154180",
+        "conversation_id": "1975548241774313662",
+        "created_at": "2025-10-08T03:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975769804301832336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975769804301832336",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975548241774313662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 景德镇印碗去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜挺爱搞抽象的一普通人｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 129,
+          "like_count": 2431,
+          "listed_count": 1,
+          "media_count": 389,
+          "tweet_count": 2668
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-01T14:45:43.000Z",
+        "description": "",
+        "id": "1410610513055154180",
+        "name": "qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975622614883487744/BhL_dgQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 121,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 56
+        },
+        "username": "qwq35397387",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      }
+    ],
+    "conversation_id": "1966396141416886654",
+    "created_at": "2025-09-12T06:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T07:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966396141416886654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyou_329/st…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/xiaoyou_329/status/1966396041432850743",
+          "start": 144,
+          "url": "https://t.co/6g6Jhayr1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966396141416886654",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966396041432850743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "双芋抹茶+芋见抹茶椰+抹茶魔天脆脆+八喜珍品系列日式抹茶口味冰淇淋+初透3号超浓抹茶鲜奶冰淇淋+轻遇零蔗糖生牛乳抹茶冰淇淋+明治抹茶味雪糕+明治过利抹茶味棒支冰淇淋+和路雪千层雪抹茶口味冰淇淋+梦龙抹茶口味冰淇淋+宏宝莱俄式大蛋筒抹茶冰淇淋+阿奇侬抹茶黑糖珍珠雪糕+哈根达斯抹茶冰淇淋+ https://t.co/6g6Jhayr1a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          }
+        ],
+        "conversation_id": "1966396141416886654",
+        "created_at": "2025-09-12T06:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T07:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966396141416886654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyou_329/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/xiaoyou_329/status/1966396041432850743",
+              "start": 144,
+              "url": "https://t.co/6g6Jhayr1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966396141416886654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966396041432850743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "双芋抹茶+芋见抹茶椰+抹茶魔天脆脆+八喜珍品系列日式抹茶口味冰淇淋+初透3号超浓抹茶鲜奶冰淇淋+轻遇零蔗糖生牛乳抹茶冰淇淋+明治抹茶味雪糕+明治过利抹茶味棒支冰淇淋+和路雪千层雪抹茶口味冰淇淋+梦龙抹茶口味冰淇淋+宏宝莱俄式大蛋筒抹茶冰淇淋+阿奇侬抹茶黑糖珍珠雪糕+哈根达斯抹茶冰淇淋+ https://t.co/6g6Jhayr1a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          }
+        ],
+        "conversation_id": "1966396041432850743",
+        "created_at": "2025-09-12T06:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T07:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966396041432850743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyou_329/st…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/xiaoyou_329/status/1966395095944454252",
+              "start": 151,
+              "url": "https://t.co/Pv1h8NYZwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966396041432850743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966395095944454252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抹茶白巧奶萃+抹茶奶布丁*抹茶鲜奶+轻芝抹茶椰青+抹茶瑞纳冰+抹茶好喝椰+抹茶拿铁+抹茶星冰乐+抹茶茉莉鲜奶茶+抹茶鲜奶+抹茶黑糖波霸鲜奶+抹茶+抹茶奶茶+生椰抹茶+抹茶茉莉+抹茶白兰+抹茶白兰咸酪乳+青柠白兰抹茶+抹茶针王+抹茶茉莉咸酪乳+抹茶冰淇淋+芝士抹茶奶茶+奥利奥抹茶大圣代+抹茶摇摇奶昔+ https://t.co/Pv1h8NYZwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 100,
+          "like_count": 1326,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1625
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

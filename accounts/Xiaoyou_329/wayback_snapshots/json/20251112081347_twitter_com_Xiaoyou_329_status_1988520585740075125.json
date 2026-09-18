@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1988519326966546848",
+    "created_at": "2025-11-12T08:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T09:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988520585740075125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680198522535280646",
+          "start": 0,
+          "username": "Jojo071313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988520585740075125",
+    "in_reply_to_user_id": "1680198522535280646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988520367053242854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jojo071313 那就命令一些人想我一亿次！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1988519326966546848",
+        "created_at": "2025-11-12T08:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T09:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988520585740075125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680198522535280646",
+              "start": 0,
+              "username": "Jojo071313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988520585740075125",
+        "in_reply_to_user_id": "1680198522535280646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988520367053242854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jojo071313 那就命令一些人想我一亿次！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680198522535280646",
+        "conversation_id": "1988519326966546848",
+        "created_at": "2025-11-12T08:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T09:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988520367053242854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988520367053242854",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988519326966546848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 会不会太少次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5518,
+          "following_count": 147,
+          "like_count": 4192,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 3555
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T12:52:09.000Z",
+        "description": "看片以及欣赏各位美好的肉体，意志掌控欲望",
+        "id": "1680198522535280646",
+        "location": "大同",
+        "name": "不想上班",
+        "pinned_tweet_id": "1867814622868516899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858893607518040065/PhRivikb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 2751,
+          "like_count": 3947,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1841
+        },
+        "username": "Jojo071313",
+        "verified": false
+      }
+    ]
+  }
+}

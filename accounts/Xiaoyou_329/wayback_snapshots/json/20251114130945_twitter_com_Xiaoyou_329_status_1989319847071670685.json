@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989319838519504896"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1989309474499351008",
+    "created_at": "2025-11-14T13:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T14:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989319847071670685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540688104968712193",
+          "start": 0,
+          "username": "xiangchishaokao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/adDZUX4Jps",
+          "end": 78,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1989319847071670685/photo/1",
+          "media_key": "3_1989319838519504896",
+          "start": 55,
+          "url": "https://t.co/adDZUX4Jps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989319847071670685",
+    "in_reply_to_user_id": "1540688104968712193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989309474499351008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangchishaokao 老公你终于来更新了！竟然还是骨科吗…？！！！！！！今晚说啥都得冲一发了😋😋 https://t.co/adDZUX4Jps"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_1989319838519504896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5t72m-XsAAyJYI.jpg",
+        "width": 1064
+      },
+      {
+        "duration_ms": 1209583,
+        "height": 480,
+        "media_key": "13_1989309319435997184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989309319435997184/img/QwiXGxfepXh0zNMV.jpg",
+        "public_metrics": {
+          "view_count": 153
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989309319435997184/vid/avc1/320x320/bdexIxA6FIlZbNBh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989309319435997184/vid/avc1/480x480/NSciGGmR4xyzJ5B9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989309319435997184/pl/22BUxtu5zGnlE9YL.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989319838519504896"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1989309474499351008",
+        "created_at": "2025-11-14T13:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989319847071670685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540688104968712193",
+              "start": 0,
+              "username": "xiangchishaokao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/adDZUX4Jps",
+              "end": 78,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1989319847071670685/photo/1",
+              "media_key": "3_1989319838519504896",
+              "start": 55,
+              "url": "https://t.co/adDZUX4Jps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989319847071670685",
+        "in_reply_to_user_id": "1540688104968712193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989309474499351008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangchishaokao 老公你终于来更新了！竟然还是骨科吗…？！！！！！！今晚说啥都得冲一发了😋😋 https://t.co/adDZUX4Jps"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989309319435997184"
+          ]
+        },
+        "author_id": "1540688104968712193",
+        "conversation_id": "1989309474499351008",
+        "created_at": "2025-11-14T12:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989309474499351008"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "男喘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hfjubspb0p",
+              "end": 61,
+              "expanded_url": "https://x.com/xiangchishaokao/status/1989309474499351008/video/1",
+              "media_key": "13_1989309319435997184",
+              "start": 38,
+              "url": "https://t.co/Hfjubspb0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989309474499351008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 496,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "设定是妹宝故意让男同学送她回家\n\n哥哥看到吃醋。。\n\n无粗口 骨科\n#男喘 https://t.co/Hfjubspb0p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6220,
+          "following_count": 149,
+          "like_count": 4355,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 3659
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T13:27:37.000Z",
+        "description": "更新音频和我跟小猫的一些日常 作品合集在 https://t.co/qcY8fGpkNS   推广自辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wushi.fanbox.cc",
+                "end": 44,
+                "expanded_url": "https://wushi.fanbox.cc/",
+                "start": 21,
+                "url": "https://t.co/qcY8fGpkNS"
+              }
+            ]
+          }
+        },
+        "id": "1540688104968712193",
+        "location": "🚪88",
+        "name": "无事",
+        "pinned_tweet_id": "1831246662872003038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765768997138800640/kCb5VNZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72870,
+          "following_count": 92,
+          "like_count": 4338,
+          "listed_count": 155,
+          "media_count": 530,
+          "tweet_count": 3479
+        },
+        "username": "xiangchishaokao",
+        "verified": false
+      }
+    ]
+  }
+}

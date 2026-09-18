@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1986719178808496230",
+    "created_at": "2025-11-07T08:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T09:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986719178808496230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rushitasanghvi…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/rushitasanghvi/status/1985923493985448380",
+          "start": 20,
+          "url": "https://t.co/vcNLzKLkLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986719178808496230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985923493985448380",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？诡异的片 我主页到底都在给我推送啥。 https://t.co/vcNLzKLkLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33483,
+        "height": 1080,
+        "media_key": "13_1985923336619335680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985923336619335680/img/HQ9LN-5zq9TcRnEx.jpg",
+        "public_metrics": {
+          "view_count": 39697
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985923336619335680/vid/avc1/480x270/_ZIxo-vM_UwYz4pW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985923336619335680/vid/avc1/640x360/ZDlg6om62WnMK4j-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985923336619335680/vid/avc1/1280x720/Uv6TzSLXoOiDLwFG.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985923336619335680/pl/ri8lBtVbJDU2m-SB.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1986719178808496230",
+        "created_at": "2025-11-07T08:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986719178808496230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rushitasanghvi…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/rushitasanghvi/status/1985923493985448380",
+              "start": 20,
+              "url": "https://t.co/vcNLzKLkLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986719178808496230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985923493985448380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？诡异的片 我主页到底都在给我推送啥。 https://t.co/vcNLzKLkLv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985923336619335680"
+          ]
+        },
+        "author_id": "1157994668975517696",
+        "conversation_id": "1985923493985448380",
+        "created_at": "2025-11-05T04:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T05:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985923493985448380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZoDVKpBwJ",
+              "end": 29,
+              "expanded_url": "https://x.com/RushitaSanghvi/status/1985923493985448380/video/1",
+              "media_key": "13_1985923336619335680",
+              "start": 6,
+              "url": "https://t.co/TZoDVKpBwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985923493985448380",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 794,
+          "impression_count": 112078,
+          "like_count": 1314,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 633
+        },
+        "reply_settings": "following",
+        "text": "wataa https://t.co/TZoDVKpBwJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜矛盾体说话经常乱七八糟｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5050,
+          "following_count": 142,
+          "like_count": 3924,
+          "listed_count": 4,
+          "media_count": 418,
+          "tweet_count": 3367
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-04T12:40:18.000Z",
+        "description": "众多知名创作者强势入驻：台北娜娜、桥本香菜、玩偶姐姐、情深叉喔、饼干姐姐、小欣奈 等人气Vlog主带来海量优质内容，等你来发现！ 致力于打造安全、私密、便捷的使用体验，支持匿名浏览与快捷注册，让每一位用户都能安心观看、自由分享",
+        "id": "1157994668975517696",
+        "name": "萝莉岛",
+        "pinned_tweet_id": "1985719420963209686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985719106688200704/ImbzvZqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4977,
+          "following_count": 69,
+          "like_count": 325,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 15
+        },
+        "username": "RushitaSanghvi",
+        "verified": false
+      }
+    ]
+  }
+}

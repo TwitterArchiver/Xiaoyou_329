@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967360312048517174",
+    "created_at": "2025-09-15T02:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T03:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967409768739606893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1921920906869497856",
+          "start": 0,
+          "username": "Y_28_Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967409768739606893",
+    "in_reply_to_user_id": "1921920906869497856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967381076038537322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_28_Z 宝宝🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 409,
+        "media_key": "3_1967381070518902784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02KqPYbYAAo8EA.jpg",
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967360312048517174",
+        "created_at": "2025-09-15T02:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T03:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967409768739606893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1921920906869497856",
+              "start": 0,
+              "username": "Y_28_Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967409768739606893",
+        "in_reply_to_user_id": "1921920906869497856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967381076038537322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_28_Z 宝宝🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967381070518902784"
+          ]
+        },
+        "author_id": "1921920906869497856",
+        "conversation_id": "1967360312048517174",
+        "created_at": "2025-09-15T00:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T01:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967381076038537322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rOWsXRUj43",
+              "end": 36,
+              "expanded_url": "https://x.com/Y_28_Z/status/1967381076038537322/photo/1",
+              "media_key": "3_1967381070518902784",
+              "start": 13,
+              "url": "https://t.co/rOWsXRUj43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967381076038537322",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967360312048517174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 https://t.co/rOWsXRUj43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 109,
+          "like_count": 1454,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 1798
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T13:30:40.000Z",
+        "description": "我提着一袋生蚝走在路上，袋子突然破了，生蚝掉进了泥里，我恍然大悟，原来我蚝喜欢泥",
+        "id": "1921920906869497856",
+        "location": "距你3.7km",
+        "name": "零下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942560905998524420/PQX0937q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 62,
+          "like_count": 4000,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 266
+        },
+        "username": "Y_28_Z",
+        "verified": false
+      }
+    ]
+  }
+}

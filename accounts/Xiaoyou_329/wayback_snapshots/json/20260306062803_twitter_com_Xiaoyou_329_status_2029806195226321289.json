@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2029754428472053866",
+    "created_at": "2026-03-06T06:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T07:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029806195226321289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987998084459094016",
+          "start": 0,
+          "username": "Stepzlca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029806195226321289",
+    "in_reply_to_user_id": "1987998084459094016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029802930564649303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stepzlca 竟然是嘎揪C吗。我要和你玩！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2029802916438233089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCtO_4ZaUAE-5K_.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2029754428472053866",
+        "created_at": "2026-03-06T06:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029806195226321289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987998084459094016",
+              "start": 0,
+              "username": "Stepzlca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029806195226321289",
+        "in_reply_to_user_id": "1987998084459094016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029802930564649303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stepzlca 竟然是嘎揪C吗。我要和你玩！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029802916438233089"
+          ]
+        },
+        "author_id": "1987998084459094016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029754428472053866",
+        "created_at": "2026-03-06T06:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029802930564649303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OYsr9MQKXX",
+              "end": 39,
+              "expanded_url": "https://x.com/Stepzlca/status/2029802930564649303/photo/1",
+              "media_key": "3_2029802916438233089",
+              "start": 16,
+              "url": "https://t.co/OYsr9MQKXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029802930564649303",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029754428472053866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 打么 https://t.co/OYsr9MQKXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12979,
+          "following_count": 162,
+          "like_count": 6876,
+          "listed_count": 19,
+          "media_count": 719,
+          "tweet_count": 5767
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T21:38:12.000Z",
+        "description": "",
+        "id": "1987998084459094016",
+        "name": "Step",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988899970934829056/OcfpOPKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 57,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 28
+        },
+        "username": "Stepzlca",
+        "verified": false
+      }
+    ]
+  }
+}

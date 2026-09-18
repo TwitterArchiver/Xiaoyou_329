@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961974785325309952"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961974796914200816",
+    "created_at": "2025-08-31T02:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T03:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961974796914200816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BnTk89nbYR",
+          "end": 58,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1961974796914200816/photo/1",
+          "media_key": "3_1961974785325309952",
+          "start": 35,
+          "url": "https://t.co/BnTk89nbYR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961974796914200816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有啊宝宝 我是刷到就点赞 需要补赞私信我好不好。我不是故意的。😭。 https://t.co/BnTk89nbYR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961974785325309952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzpVrBmWoAAcKy-.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961974785325309952"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961974796914200816",
+        "created_at": "2025-08-31T02:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T03:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961974796914200816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnTk89nbYR",
+              "end": 58,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1961974796914200816/photo/1",
+              "media_key": "3_1961974785325309952",
+              "start": 35,
+              "url": "https://t.co/BnTk89nbYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961974796914200816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有啊宝宝 我是刷到就点赞 需要补赞私信我好不好。我不是故意的。😭。 https://t.co/BnTk89nbYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注｜真的不卡泡不要私信了…",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 99,
+          "like_count": 859,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 907
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

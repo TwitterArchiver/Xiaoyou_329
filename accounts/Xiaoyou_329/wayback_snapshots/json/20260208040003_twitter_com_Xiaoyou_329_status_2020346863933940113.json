@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2020194757344149876",
+    "created_at": "2026-02-08T04:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T05:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020346863933940113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1968994276102356992",
+          "start": 0,
+          "username": "kyriepaul123456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020346863933940113",
+    "in_reply_to_user_id": "1968994276102356992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020332277029593413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyriepaul123456 不会呀他说支持我的想法(⌯¤̴̶̷̀ᴗ¤̴̶̷́⌯︎)✧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2020194757344149876",
+        "created_at": "2026-02-08T04:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T05:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020346863933940113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1968994276102356992",
+              "start": 0,
+              "username": "kyriepaul123456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020346863933940113",
+        "in_reply_to_user_id": "1968994276102356992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020332277029593413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyriepaul123456 不会呀他说支持我的想法(⌯¤̴̶̷̀ᴗ¤̴̶̷́⌯︎)✧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968994276102356992",
+        "conversation_id": "2020194757344149876",
+        "created_at": "2026-02-08T03:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020332277029593413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020332277029593413",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020194757344149876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 要退号了么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜家夫善妒｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12073,
+          "following_count": 158,
+          "like_count": 6373,
+          "listed_count": 18,
+          "media_count": 639,
+          "tweet_count": 5249
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T11:03:31.000Z",
+        "description": "男的 男大",
+        "id": "1968994276102356992",
+        "name": "missliu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018548408932597760/CKk8Ac_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 60,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 35
+        },
+        "username": "kyriepaul123456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966555965924208640"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1966555564437094566",
+    "created_at": "2025-09-12T17:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T18:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966555982093275582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1269093325660774402",
+          "start": 0,
+          "username": "kelebabe7171"
+        },
+        {
+          "end": 29,
+          "id": "1855320637403025408",
+          "start": 14,
+          "username": "tudouhaochi111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JfwL5J2Swx",
+          "end": 70,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1966555982093275582/photo/1",
+          "media_key": "3_1966555965924208640",
+          "start": 47,
+          "url": "https://t.co/JfwL5J2Swx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966555982093275582",
+    "in_reply_to_user_id": "1269093325660774402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966555564437094566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kelebabe7171 @tudouhaochi111 大半夜让我听到这个…那我不得不… https://t.co/JfwL5J2Swx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 656,
+        "media_key": "3_1966555965924208640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qcO1PWcAAZcKv.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 218300,
+        "height": 720,
+        "media_key": "13_1966555418207170560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966555418207170560/img/cEBOMpm3LjssgWyo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966555418207170560/vid/avc1/320x320/ziVrdWLhb6kAwZQ1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966555418207170560/vid/avc1/540x540/55exvjA8pcxp-El7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966555418207170560/vid/avc1/720x720/UgEnGBSxflPM4nqj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966555418207170560/pl/TAyhBHy1gKkqD5Vi.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966555965924208640"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1966555564437094566",
+        "created_at": "2025-09-12T17:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T18:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966555982093275582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1269093325660774402",
+              "start": 0,
+              "username": "kelebabe7171"
+            },
+            {
+              "end": 29,
+              "id": "1855320637403025408",
+              "start": 14,
+              "username": "tudouhaochi111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JfwL5J2Swx",
+              "end": 70,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1966555982093275582/photo/1",
+              "media_key": "3_1966555965924208640",
+              "start": 47,
+              "url": "https://t.co/JfwL5J2Swx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966555982093275582",
+        "in_reply_to_user_id": "1269093325660774402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966555564437094566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kelebabe7171 @tudouhaochi111 大半夜让我听到这个…那我不得不… https://t.co/JfwL5J2Swx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966555418207170560"
+          ]
+        },
+        "author_id": "1269093325660774402",
+        "conversation_id": "1966555564437094566",
+        "created_at": "2025-09-12T17:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T18:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966555564437094566"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "男喘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1855320637403025408",
+              "start": 29,
+              "username": "tudouhaochi111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZL4Cga53m",
+              "end": 68,
+              "expanded_url": "https://x.com/kelebabe7171/status/1966555564437094566/video/1",
+              "media_key": "13_1966555418207170560",
+              "start": 45,
+              "url": "https://t.co/3ZL4Cga53m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966555564437094566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《不知道取什么名》\n\n#男喘 \n\n感谢老师的授权，文本来源@tudouhaochi111 https://t.co/3ZL4Cga53m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 102,
+          "like_count": 1362,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1653
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-06T02:26:51.000Z",
+        "description": "#男喘 \n业余男喘，非专业，无🚪，接各种陪，有喜欢的本子可以找我录，看不惯我的可以枪毙我，别骂我，欢迎大家找我聊天，会看私信。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "男喘"
+              }
+            ]
+          }
+        },
+        "id": "1269093325660774402",
+        "name": "雪碧",
+        "pinned_tweet_id": "1964399010527273201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962115996569030656/ptnIopbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 141,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 175
+        },
+        "username": "kelebabe7171",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T18:45:05.000Z",
+        "description": "有喜欢的人了丨无小号丨文笔不好但爱写点性幻想🔞丨一只brat 丨可以叫我小面或者泥泥丨讨厌的评论会直接屏蔽丨无门槛丨不加v丨⚠️录本请私信我要授权",
+        "id": "1855320637403025408",
+        "name": "土豆泥泥面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898738962975633408/gCCABuGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23123,
+          "following_count": 191,
+          "like_count": 784,
+          "listed_count": 24,
+          "media_count": 204,
+          "tweet_count": 1646
+        },
+        "username": "tudouhaochi111",
+        "verified": false
+      }
+    ]
+  }
+}

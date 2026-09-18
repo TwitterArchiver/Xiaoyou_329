@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960253568977690779",
+    "created_at": "2025-08-26T08:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T09:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960254871594012873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1081383751450537985",
+          "start": 0,
+          "username": "kanqilaibushuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960254871594012873",
+    "in_reply_to_user_id": "1081383751450537985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960253568977690779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanqilaibushuai 我看有人说如果更新了推特就是会有这种情况"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_1960253566754709504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQ4O6wbYAAfcVe.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960253568977690779",
+        "created_at": "2025-08-26T08:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960254871594012873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1081383751450537985",
+              "start": 0,
+              "username": "kanqilaibushuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960254871594012873",
+        "in_reply_to_user_id": "1081383751450537985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960253568977690779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanqilaibushuai 我看有人说如果更新了推特就是会有这种情况"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960253566754709504"
+          ]
+        },
+        "author_id": "1081383751450537985",
+        "conversation_id": "1960253568977690779",
+        "created_at": "2025-08-26T08:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960253568977690779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zj5y39Jaw8",
+              "end": 52,
+              "expanded_url": "https://x.com/kanqilaibushuai/status/1960253568977690779/photo/1",
+              "media_key": "3_1960253566754709504",
+              "start": 29,
+              "url": "https://t.co/zj5y39Jaw8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960253568977690779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我的安卓机点不开这种带敏感的内容了，好几天了已经😢 https://t.co/zj5y39Jaw8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 74,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 621
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T02:55:52.000Z",
+        "description": "想我了就把手伸下去 告诉自己这是最后一次 （ 本子是本子，我是我 “你所爱的男性角色其实都是女性作者的灵魂”     ，，匿名提问：https://t.co/u6WkPhXYqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanqilaibushuai",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kanqilaibushuai",
+                "start": 66,
+                "url": "https://t.co/u6WkPhXYqG"
+              }
+            ]
+          }
+        },
+        "id": "1081383751450537985",
+        "location": "小孩那桌",
+        "name": "老浣熊",
+        "pinned_tweet_id": "1822551190820811052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630593808311398400/OfFYhzBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34044,
+          "following_count": 208,
+          "like_count": 18560,
+          "listed_count": 69,
+          "media_count": 344,
+          "tweet_count": 7821
+        },
+        "username": "kanqilaibushuai",
+        "verified": false
+      }
+    ]
+  }
+}

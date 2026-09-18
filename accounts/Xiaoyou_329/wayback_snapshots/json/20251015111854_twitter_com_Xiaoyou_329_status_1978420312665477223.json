@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1978159907036663856",
+    "created_at": "2025-10-15T11:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T12:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978420312665477223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978420312665477223",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978159907036663856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 蒽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1978159907036663856",
+        "created_at": "2025-10-15T11:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T12:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978420312665477223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978420312665477223",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978159907036663856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 蒽。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632079685436727299",
+        "conversation_id": "1978159907036663856",
+        "created_at": "2025-10-14T18:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T19:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978159907036663856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978159907036663856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 25738,
+          "like_count": 191,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "推特已经不适合卢关了 而且刷着刷着偶尔还有suzu跳脸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "爱搞抽象的普通人 请别打探我的隐私",
+        "name": "小由",
+        "pinned_tweet_id": "1978302778784071941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 129,
+          "like_count": 2815,
+          "listed_count": 2,
+          "media_count": 391,
+          "tweet_count": 2855
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "烟鬼日记 | 低质慎关 | 直男 | 双取自由",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mea96067",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mea96067",
+                "start": 0,
+                "url": "https://t.co/6wifRClQzK"
+              }
+            ]
+          }
+        },
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "1962748036838498782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973473496887074816/7GDYeDeQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 134,
+          "like_count": 8735,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/6wifRClQzK",
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

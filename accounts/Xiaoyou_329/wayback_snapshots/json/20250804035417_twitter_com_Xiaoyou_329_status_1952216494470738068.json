@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "1951992535716696456",
+    "created_at": "2025-08-04T03:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T04:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952216494470738068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1505586914547490818",
+          "start": 0,
+          "username": "22ershier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952216494470738068",
+    "in_reply_to_user_id": "1505586914547490818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951992535716696456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22ershier 糙汉文学是吗那很好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 136700,
+        "height": 720,
+        "media_key": "7_1951991826166292480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1951991826166292480/pu/img/uAlysVK_TF8fVTSn.jpg",
+        "public_metrics": {
+          "view_count": 15466
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951991826166292480/pu/vid/avc1/480x270/TAhMo1PIc6BzJ0Gm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951991826166292480/pu/vid/avc1/640x360/xPSi634bpFRkNBwc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951991826166292480/pu/vid/avc1/1280x720/QvYh6TylWwnj07l-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1951991826166292480/pu/pl/rWHYbb32W9Kys_Yq.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 67366,
+        "height": 720,
+        "media_key": "7_1951992051689734144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1951992051689734144/pu/img/wxQ0uQrUzb-pn5bV.jpg",
+        "public_metrics": {
+          "view_count": 4860
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951992051689734144/pu/vid/avc1/480x270/PiiV5QqUVSZXTsyH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951992051689734144/pu/vid/avc1/640x360/C0PrDS3kA3kRok_T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951992051689734144/pu/vid/avc1/1280x720/xcbGPdVM1AlY3WLm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1951992051689734144/pu/pl/bSOM9UWvWlWgbimv.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1951992535716696456",
+        "created_at": "2025-08-04T03:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T04:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952216494470738068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1505586914547490818",
+              "start": 0,
+              "username": "22ershier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952216494470738068",
+        "in_reply_to_user_id": "1505586914547490818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951992535716696456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22ershier 糙汉文学是吗那很好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1951991826166292480",
+            "7_1951992051689734144"
+          ]
+        },
+        "author_id": "1505586914547490818",
+        "conversation_id": "1951992535716696456",
+        "created_at": "2025-08-03T13:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T14:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951992535716696456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fE9Ms8TzNQ",
+              "end": 25,
+              "expanded_url": "https://x.com/22ershier/status/1951992535716696456/video/1",
+              "media_key": "7_1951991826166292480",
+              "start": 2,
+              "url": "https://t.co/fE9Ms8TzNQ"
+            },
+            {
+              "display_url": "pic.x.com/fE9Ms8TzNQ",
+              "end": 25,
+              "expanded_url": "https://x.com/22ershier/status/1951992535716696456/video/1",
+              "media_key": "7_1951992051689734144",
+              "start": 2,
+              "url": "https://t.co/fE9Ms8TzNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951992535716696456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 38875,
+          "like_count": 1129,
+          "quote_count": 0,
+          "reply_count": 108,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "🎽 https://t.co/fE9Ms8TzNQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 65,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 219
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T16:47:55.000Z",
+        "description": "关评论区的是推广注意辨别 只接转推 熟人互关好朋友可以来@15TTkx 找我玩                                畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN  https://t.co/DO0G6Jprmy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "15TTkx"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 122,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=8I9UwxNj",
+                "start": 99,
+                "url": "https://t.co/DO0G6Jprmy"
+              }
+            ]
+          }
+        },
+        "id": "1505586914547490818",
+        "name": "十五",
+        "pinned_tweet_id": "1947554053652705514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874818743538520064/aDwIN1xR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179920,
+          "following_count": 796,
+          "like_count": 41143,
+          "listed_count": 338,
+          "media_count": 358,
+          "tweet_count": 10850
+        },
+        "username": "22ershier",
+        "verified": false
+      }
+    ]
+  }
+}

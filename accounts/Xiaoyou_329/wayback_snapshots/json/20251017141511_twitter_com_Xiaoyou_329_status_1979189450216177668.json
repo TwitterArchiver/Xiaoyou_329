@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1979188953098985761",
+    "created_at": "2025-10-17T14:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T15:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979189450216177668"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979189450216177668",
+    "in_reply_to_user_id": "1906360034725961728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979188953098985761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不好意思吧。我今天声音有点怪怪的。虽然平常也没好到哪里去。今天吃了一碗麻酱拌面那个麻酱有点糊嗓子。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 247966,
+        "height": 1280,
+        "media_key": "13_1979188460461158400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979188460461158400/img/SXjdPzsg26iSidTb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979188460461158400/vid/avc1/320x690/PDfoc5sWUrVEnvxC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979188460461158400/vid/avc1/480x1036/I6WIGhypl9qBIAHa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979188460461158400/vid/avc1/592x1280/6Ullx9_CTRYzQkGc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979188460461158400/pl/4KvRzSsmhORuA06T.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1979188953098985761",
+        "created_at": "2025-10-17T14:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979189450216177668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979189450216177668",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979188953098985761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不好意思吧。我今天声音有点怪怪的。虽然平常也没好到哪里去。今天吃了一碗麻酱拌面那个麻酱有点糊嗓子。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979188460461158400"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1979188953098985761",
+        "created_at": "2025-10-17T14:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979188953098985761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmSg4RUr50",
+              "end": 34,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1979188953098985761/video/1",
+              "media_key": "13_1979188460461158400",
+              "start": 11,
+              "url": "https://t.co/xmSg4RUr50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979188953098985761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再次感谢大家陪我玩！ https://t.co/xmSg4RUr50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 131,
+          "like_count": 2883,
+          "listed_count": 3,
+          "media_count": 399,
+          "tweet_count": 2911
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1998646617436766453",
+    "created_at": "2025-12-10T07:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T08:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998650466171764909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942095076932698112",
+          "start": 0,
+          "username": "kiko179352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998650466171764909",
+    "in_reply_to_user_id": "1942095076932698112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998646617436766453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiko179352 唉哎我捏捏我埋埋我咬一下！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9530,
+        "height": 720,
+        "media_key": "7_1998646587560689664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1998646587560689664/pu/img/nj_by7HugHhPbuiG.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998646587560689664/pu/vid/avc1/480x270/Qarg-yEyfJ4Zhk7r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998646587560689664/pu/vid/avc1/640x360/etZWrjQ5jPnyKZu3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998646587560689664/pu/vid/avc1/1280x720/6SqLQ1_XatpRlufr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1998646587560689664/pu/pl/sw5wlHTLqYZGUl_d.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1998646617436766453",
+        "created_at": "2025-12-10T07:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998650466171764909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942095076932698112",
+              "start": 0,
+              "username": "kiko179352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998650466171764909",
+        "in_reply_to_user_id": "1942095076932698112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998646617436766453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiko179352 唉哎我捏捏我埋埋我咬一下！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1998646587560689664"
+          ]
+        },
+        "author_id": "1942095076932698112",
+        "conversation_id": "1998646617436766453",
+        "created_at": "2025-12-10T06:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T07:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998646617436766453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xfndMXCwsP",
+              "end": 117,
+              "expanded_url": "https://x.com/kiko179352/status/1998646617436766453/video/1",
+              "media_key": "7_1998646587560689664",
+              "start": 94,
+              "url": "https://t.co/xfndMXCwsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998646617436766453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问大家一个事  就是房东没退9000块押金 发信息也不回 现在微信互删没证据  刚才民警让我网银查看微信明细给他看一下  我不小心点开了日历 发现马上就要跨年了 有人能在21天内爱上我吗 https://t.co/xfndMXCwsP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注祝你 天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8107,
+          "following_count": 158,
+          "like_count": 5612,
+          "listed_count": 8,
+          "media_count": 544,
+          "tweet_count": 4498
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T05:35:41.000Z",
+        "description": "01♉｜欢迎私信找我聊天｜四爱是工作，一爱是生活｜接🥣＆音声定制\n｜匿名📭：https://t.co/ZslE3A7yVA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiko17935268245",
+                "end": 61,
+                "expanded_url": "https://ngl.link/kiko17935268245",
+                "start": 38,
+                "url": "https://t.co/ZslE3A7yVA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiko179352.fanbox.cc",
+                "end": 23,
+                "expanded_url": "http://kiko179352.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/8xCuRGFOKR"
+              }
+            ]
+          }
+        },
+        "id": "1942095076932698112",
+        "location": "🚪88/188/588（推广自辨）",
+        "name": "小贩熊",
+        "pinned_tweet_id": "1965274421146644962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997906731633094656/OqFFGQyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14361,
+          "following_count": 110,
+          "like_count": 12267,
+          "listed_count": 13,
+          "media_count": 189,
+          "tweet_count": 3464
+        },
+        "url": "https://t.co/8xCuRGFOKR",
+        "username": "kiko179352",
+        "verified": false
+      }
+    ]
+  }
+}

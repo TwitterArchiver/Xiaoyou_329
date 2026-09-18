@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961403432369377581",
+    "created_at": "2025-08-29T12:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T13:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961404155500564591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946927130501120000",
+          "start": 0,
+          "username": "Xiaowu__111"
+        },
+        {
+          "end": 25,
+          "id": "1943704468589248512",
+          "start": 13,
+          "username": "Jiaomujun21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961404155500564591",
+    "in_reply_to_user_id": "1946927130501120000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961403432369377581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaowu__111 @Jiaomujun21 七夕让我听be吗😭讨厌你。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 361950,
+        "height": 1020,
+        "media_key": "13_1961403220557008901",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961403220557008901/img/39gJLwyZ59j6XcNX.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961403220557008901/vid/avc1/320x452/LWCs2d7VX9F90IDp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961403220557008901/vid/avc1/480x680/rgX30ifdg2xeESzr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961403220557008901/vid/avc1/720x1020/VOluj3zlTa1dsZmK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961403220557008901/pl/8u3UP2PKj8GKVOse.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961403432369377581",
+        "created_at": "2025-08-29T12:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T13:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961404155500564591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946927130501120000",
+              "start": 0,
+              "username": "Xiaowu__111"
+            },
+            {
+              "end": 25,
+              "id": "1943704468589248512",
+              "start": 13,
+              "username": "Jiaomujun21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961404155500564591",
+        "in_reply_to_user_id": "1946927130501120000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961403432369377581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaowu__111 @Jiaomujun21 七夕让我听be吗😭讨厌你。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961403220557008901"
+          ]
+        },
+        "author_id": "1946927130501120000",
+        "conversation_id": "1961403432369377581",
+        "created_at": "2025-08-29T12:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T13:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961403432369377581"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "男喘"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "青叔音"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "女性向"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "清水"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "BE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1943704468589248512",
+              "start": 7,
+              "username": "Jiaomujun21"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WlCcSLFSEv",
+              "end": 130,
+              "expanded_url": "https://x.com/Xiaowu__111/status/1961403432369377581/video/1",
+              "media_key": "13_1961403220557008901",
+              "start": 107,
+              "url": "https://t.co/WlCcSLFSEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961403432369377581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢台本老师：@Jiaomujun21 \n“我和你始终保持着不远不近的距离。诗人说，这样的距离叫做等待。”\n\n“我常常想，如果灵魂真有重量，我的大概只有二十一克。”\n\n#男喘 #青叔音 #女性向  #清水 #BE https://t.co/WlCcSLFSEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 92,
+          "like_count": 777,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 758
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T13:36:32.000Z",
+        "description": "选择性接陪🥣 （陪聊/哄睡 没有卡）我只是一个爱玩抽象的普通人 不要对我带滤镜   新人男喘 暂时无🚪   不加V",
+        "id": "1946927130501120000",
+        "name": "小五",
+        "pinned_tweet_id": "1958088303447843073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948800124420775936/KiLLLXii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4770,
+          "following_count": 39,
+          "like_count": 333,
+          "listed_count": 7,
+          "media_count": 50,
+          "tweet_count": 258
+        },
+        "username": "Xiaowu__111",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:54.000Z",
+        "description": "酵母菌就是根据活性判断能不能发 ‖ 先争取做点人能吃的饭再谈创造幸福‖  文本录制/转载等 联系我获取授权即可",
+        "id": "1943704468589248512",
+        "name": "酵母菌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951934443779993600/Wg5o2ci3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 15,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 32
+        },
+        "username": "Jiaomujun21",
+        "verified": false
+      }
+    ]
+  }
+}

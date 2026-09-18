@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968542044713803776"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1968389574637637813",
+    "created_at": "2025-09-18T05:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T06:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968542054742426085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1132488980304257026",
+          "start": 0,
+          "username": "yuyusweetbaby"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aW3szZ17jx",
+          "end": 49,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1968542054742426085/photo/1",
+          "media_key": "3_1968542044713803776",
+          "start": 26,
+          "url": "https://t.co/aW3szZ17jx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968542054742426085",
+    "in_reply_to_user_id": "1132488980304257026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968389574637637813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyusweetbaby 哥哥我对你做了错事… https://t.co/aW3szZ17jx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 673,
+        "media_key": "3_1968542044713803776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Gqj1SWYAAKvUI.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 598200,
+        "height": 1080,
+        "media_key": "13_1968388879469121536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968388879469121536/img/cLh1exNDX68L73vk.jpg",
+        "public_metrics": {
+          "view_count": 653
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968388879469121536/vid/avc1/320x320/hqiZ6Q5cMCUIQihX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968388879469121536/vid/avc1/540x540/CV4snmIe6eg5bTAZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968388879469121536/vid/avc1/720x720/OiGjQha_GQ87NzAg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968388879469121536/pl/wt-20r2GLBHA_-ju.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968542044713803776"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1968389574637637813",
+        "created_at": "2025-09-18T05:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T06:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968542054742426085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1132488980304257026",
+              "start": 0,
+              "username": "yuyusweetbaby"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aW3szZ17jx",
+              "end": 49,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1968542054742426085/photo/1",
+              "media_key": "3_1968542044713803776",
+              "start": 26,
+              "url": "https://t.co/aW3szZ17jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968542054742426085",
+        "in_reply_to_user_id": "1132488980304257026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968389574637637813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyusweetbaby 哥哥我对你做了错事… https://t.co/aW3szZ17jx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968388879469121536"
+          ]
+        },
+        "author_id": "1132488980304257026",
+        "conversation_id": "1968389574637637813",
+        "created_at": "2025-09-17T19:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T20:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968389574637637813"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "青年音"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "男喘"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "骨科"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "强制"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOkeFfGwT3",
+              "end": 109,
+              "expanded_url": "https://x.com/yuyusweetbaby/status/1968389574637637813/video/1",
+              "media_key": "13_1968388879469121536",
+              "start": 86,
+              "url": "https://t.co/dOkeFfGwT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968389574637637813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1789,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《父母不在家的补习时间》\n\n“妹妹的心没有一刻是属于过哥哥的吗”\n“既然妹妹不愿意对我说软话，那我只能用自己的方式来听到想听的话了”\n\n#青年音 #男喘  #骨科 #强制 https://t.co/dOkeFfGwT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1967968461600199156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 116,
+          "like_count": 1589,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1947
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T03:29:48.000Z",
+        "description": "如果真的是小鱼就好了 痛也就痛七秒",
+        "id": "1132488980304257026",
+        "name": "小鱼包",
+        "pinned_tweet_id": "1959297786823823485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965416598551810048/NjOlPvSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 301,
+          "like_count": 2578,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 85
+        },
+        "username": "yuyusweetbaby",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2022300021241081896",
+    "created_at": "2026-02-13T15:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022329748471615859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1987741483068448768",
+          "start": 0,
+          "username": "zzqas1056193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022329748471615859",
+    "in_reply_to_user_id": "1987741483068448768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022325639613907407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzqas1056193 我感觉瘦才有资格被爱。才有资格忧郁。才有资格干很多事情。但是这个观点太扭曲了。我知道是病态的。然后我就一直在节食和暴食。TuT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022300021241081896",
+        "created_at": "2026-02-13T15:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022329748471615859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1987741483068448768",
+              "start": 0,
+              "username": "zzqas1056193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022329748471615859",
+        "in_reply_to_user_id": "1987741483068448768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022325639613907407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzqas1056193 我感觉瘦才有资格被爱。才有资格忧郁。才有资格干很多事情。但是这个观点太扭曲了。我知道是病态的。然后我就一直在节食和暴食。TuT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987741483068448768",
+        "conversation_id": "2022300021241081896",
+        "created_at": "2026-02-13T15:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022325639613907407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022325639613907407",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022300021241081896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我感觉只有很瘦才能被爱 我太扭曲了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12090,
+          "following_count": 161,
+          "like_count": 6590,
+          "listed_count": 19,
+          "media_count": 653,
+          "tweet_count": 5390
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T04:38:10.000Z",
+        "description": "随意吐槽爱说废话的女生  爱看美女帅哥 不搞乱七八糟的 不回不礼貌的人",
+        "id": "1987741483068448768",
+        "location": "成都",
+        "name": "aaaads",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988930112205778946/VWVeMb4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 27,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 107
+        },
+        "username": "zzqas1056193",
+        "verified": false
+      }
+    ]
+  }
+}

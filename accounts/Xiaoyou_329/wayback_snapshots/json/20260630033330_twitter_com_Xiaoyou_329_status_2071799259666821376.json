@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2071263455798247621",
+    "created_at": "2026-06-30T03:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T04:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071799259666821376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2003433396358549504",
+          "start": 0,
+          "username": "dove121380"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071799259666821376",
+    "in_reply_to_user_id": "2003433396358549504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071793477415993514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dove121380 你啥意思。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071793471707643904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB9L4kbgAAhS-W.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2071263455798247621",
+        "created_at": "2026-06-30T03:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071799259666821376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2003433396358549504",
+              "start": 0,
+              "username": "dove121380"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071799259666821376",
+        "in_reply_to_user_id": "2003433396358549504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071793477415993514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dove121380 你啥意思。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071793471707643904"
+          ]
+        },
+        "author_id": "2003433396358549504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071263455798247621",
+        "created_at": "2026-06-30T03:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071793477415993514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q57SwiNeRe",
+              "end": 45,
+              "expanded_url": "https://x.com/dove121380/status/2071793477415993514/photo/1",
+              "media_key": "3_2071793471707643904",
+              "start": 22,
+              "url": "https://t.co/q57SwiNeRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071793477415993514",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071263455798247621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 赛季初竟如此美味 https://t.co/q57SwiNeRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17039,
+          "following_count": 177,
+          "like_count": 7684,
+          "listed_count": 20,
+          "media_count": 876,
+          "tweet_count": 7066
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T11:52:12.000Z",
+        "description": "",
+        "id": "2003433396358549504",
+        "name": "鸽子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008067581861830656/F515wWuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 50,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "dove121380",
+        "verified": false
+      }
+    ]
+  }
+}

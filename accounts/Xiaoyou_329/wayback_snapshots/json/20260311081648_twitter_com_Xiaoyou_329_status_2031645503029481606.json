@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2031238776127651861",
+    "created_at": "2026-03-11T08:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T09:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031645503029481606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1940774486363779072",
+          "start": 0,
+          "username": "summerjuice_26"
+        },
+        {
+          "end": 31,
+          "id": "1658366431204110336",
+          "start": 16,
+          "username": "chimitan778899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031645503029481606",
+    "in_reply_to_user_id": "1940774486363779072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031635199377944720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@summerjuice_26 @chimitan778899 宝宝你吃这个效果怎么样呀QwQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031635189852680194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHRcOxaMAIWqSM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2031238776127651861",
+        "created_at": "2026-03-11T08:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T09:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031645503029481606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940774486363779072",
+              "start": 0,
+              "username": "summerjuice_26"
+            },
+            {
+              "end": 31,
+              "id": "1658366431204110336",
+              "start": 16,
+              "username": "chimitan778899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031645503029481606",
+        "in_reply_to_user_id": "1940774486363779072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031635199377944720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@summerjuice_26 @chimitan778899 宝宝你吃这个效果怎么样呀QwQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031635189852680194"
+          ]
+        },
+        "author_id": "1940774486363779072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2031238776127651861",
+        "created_at": "2026-03-11T07:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031635199377944720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1658366431204110336",
+              "start": 0,
+              "username": "chimitan778899"
+            },
+            {
+              "end": 28,
+              "id": "1906360034725961728",
+              "start": 16,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/crGXcryurQ",
+              "end": 66,
+              "expanded_url": "https://x.com/summerjuice_26/status/2031635199377944720/photo/1",
+              "media_key": "3_2031635189852680194",
+              "start": 43,
+              "url": "https://t.co/crGXcryurQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031635199377944720",
+        "in_reply_to_user_id": "1658366431204110336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031633792390369293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chimitan778899 @Xiaoyou_329 我不太清楚我以前吃的是这个 https://t.co/crGXcryurQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13157,
+          "following_count": 162,
+          "like_count": 7021,
+          "listed_count": 19,
+          "media_count": 727,
+          "tweet_count": 5895
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T14:07:59.000Z",
+        "description": "回忆像锈青色的湖",
+        "id": "1940774486363779072",
+        "name": "无情道天才毕业生转生成为合欢宗第一色鬼",
+        "pinned_tweet_id": "2029043244764676325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029034682084671489/3hXQiSs6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2054,
+          "following_count": 81,
+          "like_count": 5438,
+          "listed_count": 7,
+          "media_count": 61,
+          "tweet_count": 1723
+        },
+        "username": "summerjuice_26",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T06:59:14.000Z",
+        "description": "",
+        "id": "1658366431204110336",
+        "name": "pulu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995524415124283392/G5tqphjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 81,
+          "like_count": 812,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "chimitan778899",
+        "verified": false
+      }
+    ]
+  }
+}

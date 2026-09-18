@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056029326932680705"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2056029337502257617",
+    "created_at": "2026-05-17T15:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056029337502257617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ADcu0Dt2du",
+          "end": 154,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2056029337502257617/photo/1",
+          "media_key": "3_2056029326932680705",
+          "start": 131,
+          "url": "https://t.co/ADcu0Dt2du"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056029337502257617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是要承认很多人喜欢我，但是大家爱得都是表面的我不是吗，是我展示出来的我，没有人认识或者说我没有允许过别人来认识我的内在\n我想要的喜欢能让我不再伤心的喜欢，暂时还没有人给过我…我没办法完全相信一个人…\n总之还是要谢谢喜欢我的大家！以及喜欢我还在挂念着我的你！感恩 https://t.co/ADcu0Dt2du"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056029326932680705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIh7x4-boAEdjl5.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056029326932680705"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2056029337502257617",
+        "created_at": "2026-05-17T15:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056029337502257617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADcu0Dt2du",
+              "end": 154,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2056029337502257617/photo/1",
+              "media_key": "3_2056029326932680705",
+              "start": 131,
+              "url": "https://t.co/ADcu0Dt2du"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056029337502257617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是要承认很多人喜欢我，但是大家爱得都是表面的我不是吗，是我展示出来的我，没有人认识或者说我没有允许过别人来认识我的内在\n我想要的喜欢能让我不再伤心的喜欢，暂时还没有人给过我…我没办法完全相信一个人…\n总之还是要谢谢喜欢我的大家！以及喜欢我还在挂念着我的你！感恩 https://t.co/ADcu0Dt2du"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14951,
+          "following_count": 174,
+          "like_count": 7504,
+          "listed_count": 21,
+          "media_count": 842,
+          "tweet_count": 6584
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

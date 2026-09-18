@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2081634037181931541",
+    "created_at": "2026-07-27T08:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081653612023845086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1571609544534409216",
+          "start": 0,
+          "username": "Burcucu7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081653612023845086",
+    "in_reply_to_user_id": "1571609544534409216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081648427738566989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Burcucu7 🌚。我忘记这个挑战了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2081634037181931541",
+        "created_at": "2026-07-27T08:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081653612023845086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1571609544534409216",
+              "start": 0,
+              "username": "Burcucu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081653612023845086",
+        "in_reply_to_user_id": "1571609544534409216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081648427738566989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Burcucu7 🌚。我忘记这个挑战了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571609544534409216",
+        "conversation_id": "2081634037181931541",
+        "created_at": "2026-07-27T07:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081648427738566989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081648427738566989",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081634037181931541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 挑战失败"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17595,
+          "following_count": 187,
+          "like_count": 7683,
+          "listed_count": 21,
+          "media_count": 1014,
+          "tweet_count": 7546
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T21:18:33.000Z",
+        "description": "如果是因为被我骂点进来的，那对不起，骂的就是你😅",
+        "id": "1571609544534409216",
+        "name": "Burcucu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049416887042486272/84DmEdKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 110,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "Burcucu7",
+        "verified": false
+      }
+    ]
+  }
+}

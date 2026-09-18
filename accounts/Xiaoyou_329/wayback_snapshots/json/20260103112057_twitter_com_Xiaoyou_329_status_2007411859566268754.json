@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2007325392240292155",
+    "created_at": "2026-01-03T11:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T12:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007411859566268754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1485457028340350980",
+          "start": 0,
+          "username": "cahprislty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007411859566268754",
+    "in_reply_to_user_id": "1485457028340350980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007409089308176439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cahprislty 就是啊气死我了 一群丈育！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2007325392240292155",
+        "created_at": "2026-01-03T11:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007411859566268754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1485457028340350980",
+              "start": 0,
+              "username": "cahprislty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007411859566268754",
+        "in_reply_to_user_id": "1485457028340350980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007409089308176439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cahprislty 就是啊气死我了 一群丈育！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485457028340350980",
+        "conversation_id": "2007325392240292155",
+        "created_at": "2026-01-03T11:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007409089308176439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007409089308176439",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007325392240292155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 气死我了其实根本就是生长纹还有人说这种不是怀孕了才有吗 熊不熊有点丈化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8515,
+          "following_count": 154,
+          "like_count": 5902,
+          "listed_count": 9,
+          "media_count": 577,
+          "tweet_count": 4736
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-24T03:39:08.000Z",
+        "description": "【A】 叫我四月 pics/负能量废话@prilsty只通过互关 🇺🇸29’",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "prilsty"
+              }
+            ]
+          }
+        },
+        "id": "1485457028340350980",
+        "location": "日历上的第四页",
+        "name": "₊⁺ ·C᳐ri᳐੭· ﾟ ₊",
+        "pinned_tweet_id": "1995722987194970247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995342650388496385/HLx77zOH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 136,
+          "like_count": 19995,
+          "listed_count": 6,
+          "media_count": 3591,
+          "tweet_count": 22759
+        },
+        "username": "cahprislty",
+        "verified": false
+      }
+    ]
+  }
+}

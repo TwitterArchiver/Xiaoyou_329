@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070857083638169860",
+    "created_at": "2026-06-27T13:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070859829820973351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2067970322687758336",
+          "start": 0,
+          "username": "zhangotwa0a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070859829820973351",
+    "in_reply_to_user_id": "2067970322687758336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070858740962824296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangotwa0a 因为我不想再受伤害了 很痛 很痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070857083638169860",
+        "created_at": "2026-06-27T13:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070859829820973351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2067970322687758336",
+              "start": 0,
+              "username": "zhangotwa0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070859829820973351",
+        "in_reply_to_user_id": "2067970322687758336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070858740962824296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangotwa0a 因为我不想再受伤害了 很痛 很痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067970322687758336",
+        "conversation_id": "2070857083638169860",
+        "created_at": "2026-06-27T13:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070858740962824296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070858740962824296",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070857083638169860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 为啥要管别人的看法嘞，颜值这东西天生的，做好自己就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15931,
+          "following_count": 178,
+          "like_count": 7681,
+          "listed_count": 20,
+          "media_count": 869,
+          "tweet_count": 7015
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T13:59:42.000Z",
+        "description": "",
+        "id": "2067970322687758336",
+        "name": "zhangzi",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 60,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "zhangotwa0a",
+        "verified": false
+      }
+    ]
+  }
+}

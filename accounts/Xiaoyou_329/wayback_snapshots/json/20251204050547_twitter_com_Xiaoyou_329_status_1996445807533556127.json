@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1996431481368146175",
+    "created_at": "2025-12-04T05:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T06:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996445807533556127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909266536604512256",
+          "start": 0,
+          "username": "xun404214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996445807533556127",
+    "in_reply_to_user_id": "1909266536604512256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996431481368146175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xun404214 呼 找婆娘。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_1996431478683807747",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7S_2jFbMAMENRz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996431481368146175",
+        "created_at": "2025-12-04T05:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T06:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996445807533556127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909266536604512256",
+              "start": 0,
+              "username": "xun404214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996445807533556127",
+        "in_reply_to_user_id": "1909266536604512256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996431481368146175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xun404214 呼 找婆娘。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996431478683807747"
+          ]
+        },
+        "author_id": "1909266536604512256",
+        "conversation_id": "1996431481368146175",
+        "created_at": "2025-12-04T04:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996431481368146175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SV5MhyQ0so",
+              "end": 23,
+              "expanded_url": "https://x.com/xun404214/status/1996431481368146175/photo/1",
+              "media_key": "3_1996431478683807747",
+              "start": 0,
+              "url": "https://t.co/SV5MhyQ0so"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996431481368146175",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SV5MhyQ0so"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7887,
+          "following_count": 156,
+          "like_count": 5385,
+          "listed_count": 8,
+          "media_count": 525,
+          "tweet_count": 4339
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T15:26:40.000Z",
+        "description": "🌈 les|dom                                                        匿名提问：https://t.co/BwKNjBbg24",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xun40421453166",
+                "end": 93,
+                "expanded_url": "https://ngl.link/xun40421453166",
+                "start": 70,
+                "url": "https://t.co/BwKNjBbg24"
+              }
+            ]
+          }
+        },
+        "id": "1909266536604512256",
+        "location": "ip重庆 ",
+        "name": "玄",
+        "pinned_tweet_id": "1970108852780900765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987582530334359552/BxnZhsHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10537,
+          "following_count": 253,
+          "like_count": 4534,
+          "listed_count": 5,
+          "media_count": 831,
+          "tweet_count": 9078
+        },
+        "username": "xun404214",
+        "verified": false
+      }
+    ]
+  }
+}

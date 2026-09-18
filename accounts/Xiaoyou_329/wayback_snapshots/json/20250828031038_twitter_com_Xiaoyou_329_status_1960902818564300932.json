@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960902810993577984"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1960900422362628276",
+    "created_at": "2025-08-28T03:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T04:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960902818564300932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1604154566206926848",
+          "start": 0,
+          "username": "OoRe02086112"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ryn3SuaQXO",
+          "end": 76,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1960902818564300932/photo/1",
+          "media_key": "3_1960902810993577984",
+          "start": 53,
+          "url": "https://t.co/ryn3SuaQXO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960902818564300932",
+    "in_reply_to_user_id": "1604154566206926848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960900422362628276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoRe02086112 推荐一个漫画网站 这个不是女性向 但是他上面东西还挺全的可以搜自己的xp看！ https://t.co/ryn3SuaQXO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_1960902810993577984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzaGt6BWUAABQJC.jpg",
+        "width": 598
+      },
+      {
+        "height": 1405,
+        "media_key": "3_1960900415354232837",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzaEidka4AUn1AP.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960902810993577984"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1960900422362628276",
+        "created_at": "2025-08-28T03:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T04:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960902818564300932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604154566206926848",
+              "start": 0,
+              "username": "OoRe02086112"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryn3SuaQXO",
+              "end": 76,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1960902818564300932/photo/1",
+              "media_key": "3_1960902810993577984",
+              "start": 53,
+              "url": "https://t.co/ryn3SuaQXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960902818564300932",
+        "in_reply_to_user_id": "1604154566206926848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960900422362628276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoRe02086112 推荐一个漫画网站 这个不是女性向 但是他上面东西还挺全的可以搜自己的xp看！ https://t.co/ryn3SuaQXO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960900415354232837"
+          ]
+        },
+        "author_id": "1604154566206926848",
+        "conversation_id": "1960900422362628276",
+        "created_at": "2025-08-28T03:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T04:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960900422362628276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vl999nGAQF",
+              "end": 31,
+              "expanded_url": "https://x.com/OoRe02086112/status/1960900422362628276/photo/1",
+              "media_key": "3_1960900415354232837",
+              "start": 8,
+              "url": "https://t.co/vl999nGAQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960900422362628276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 130,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家来推荐吧🫶 https://t.co/vl999nGAQF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 87,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 689
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T16:40:47.000Z",
+        "description": "叫我小o就好了☺️｜随便写写✍️｜录制前请先授权！发布请@ ｜接定制｜看置顶🔝",
+        "id": "1604154566206926848",
+        "name": "OO（我不同意开学😭）",
+        "pinned_tweet_id": "1917263464080498744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750602471830097921/4Mtu7c9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53575,
+          "following_count": 290,
+          "like_count": 5117,
+          "listed_count": 77,
+          "media_count": 213,
+          "tweet_count": 1733
+        },
+        "username": "OoRe02086112",
+        "verified": false
+      }
+    ]
+  }
+}

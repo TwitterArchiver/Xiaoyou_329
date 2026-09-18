@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2016451550701408525",
+    "created_at": "2026-01-29T02:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T03:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662293480486621184",
+          "start": 0,
+          "username": "dofees166639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016707251793260898",
+    "in_reply_to_user_id": "1662293480486621184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016461512437883035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dofees166639 三种情况全有🥲不知道怎么办了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293480486621184",
+        "conversation_id": "2016451550701408525",
+        "created_at": "2026-01-28T10:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016461512437883035",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016451550701408525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 这个要看你的情况。\n1， 想睡但睡不着\n2，睡着了但老醒\n3，睡够了还是累\n看你是哪种情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜有喜欢的人 不回复任何私信｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2016200714800771422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11473,
+          "following_count": 156,
+          "like_count": 6299,
+          "listed_count": 15,
+          "media_count": 621,
+          "tweet_count": 5106
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:04:14.000Z",
+        "description": "「🍵 用茶续命的细节控 | ✍️ 偶尔写点人间观察」\n「🍵 茶で命を継ぐ細部コントロール | ✍️ 時々人間観察を書く」\n感覚と境界を大切にし、関係を無理せず、お互いを尊重し合う相处方を心がけています。",
+        "id": "1662293480486621184",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "薄荷叶",
+        "pinned_tweet_id": "1954081533687410905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004538362838089729/fwbMWls0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 4378,
+          "like_count": 50541,
+          "listed_count": 3,
+          "media_count": 240,
+          "tweet_count": 3816
+        },
+        "username": "dofees166639",
+        "verified": false
+      }
+    ]
+  }
+}

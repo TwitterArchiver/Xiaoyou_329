@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2067249321263944122",
+    "created_at": "2026-06-17T16:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067280785946869929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054775406511996928",
+          "start": 0,
+          "username": "fCvPzItfCD19994"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067280785946869929",
+    "in_reply_to_user_id": "2054775406511996928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067267352761356556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fCvPzItfCD19994 啊 我不清楚…原来这样吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2067249321263944122",
+        "created_at": "2026-06-17T16:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067280785946869929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054775406511996928",
+              "start": 0,
+              "username": "fCvPzItfCD19994"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067280785946869929",
+        "in_reply_to_user_id": "2054775406511996928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067267352761356556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fCvPzItfCD19994 啊 我不清楚…原来这样吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054775406511996928",
+        "conversation_id": "2067249321263944122",
+        "created_at": "2026-06-17T15:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067267352761356556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067267352761356556",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067249321263944122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 相亲不就是托关系见识生物的多样性么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15521,
+          "following_count": 177,
+          "like_count": 7675,
+          "listed_count": 20,
+          "media_count": 835,
+          "tweet_count": 6818
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T04:07:10.000Z",
+        "description": "看到这句话的陌生人天天开心",
+        "id": "2054775406511996928",
+        "name": "不要烦恼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057807747975139328/jmehqwjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 33,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 68
+        },
+        "username": "fCvPzItfCD19994",
+        "verified": false
+      }
+    ]
+  }
+}

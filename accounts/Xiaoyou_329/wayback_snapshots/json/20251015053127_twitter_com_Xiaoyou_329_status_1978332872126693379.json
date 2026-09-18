@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1978259453565939936",
+    "created_at": "2025-10-15T05:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T06:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978332872126693379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964690216049909762",
+          "start": 0,
+          "username": "GirlCanGetSad07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978332872126693379",
+    "in_reply_to_user_id": "1964690216049909762",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978259453565939936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GirlCanGetSad07 321跳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1978259453565939936",
+        "created_at": "2025-10-15T05:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T06:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978332872126693379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964690216049909762",
+              "start": 0,
+              "username": "GirlCanGetSad07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978332872126693379",
+        "in_reply_to_user_id": "1964690216049909762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978259453565939936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GirlCanGetSad07 321跳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964690216049909762",
+        "conversation_id": "1978259453565939936",
+        "created_at": "2025-10-15T00:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T01:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978259453565939936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978259453565939936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14172,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们搞暧昧真能接受对方在别的异性评论区宝宝妈妈老公主人的叫啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "爱搞抽象的普通人 请别打探我的隐私",
+        "name": "小由",
+        "pinned_tweet_id": "1977603268218868197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2383,
+          "following_count": 129,
+          "like_count": 2812,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 2852
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T14:00:39.000Z",
+        "description": "没有你想看的拜拜",
+        "id": "1964690216049909762",
+        "location": "答应我会幸福",
+        "name": "我服了宝宝全新版",
+        "pinned_tweet_id": "1971661444627509468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965930146897985536/pI1kx1Qo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4241,
+          "following_count": 245,
+          "like_count": 4842,
+          "listed_count": 5,
+          "media_count": 57,
+          "tweet_count": 2147
+        },
+        "username": "GirlCanGetSad07",
+        "verified": false
+      }
+    ]
+  }
+}

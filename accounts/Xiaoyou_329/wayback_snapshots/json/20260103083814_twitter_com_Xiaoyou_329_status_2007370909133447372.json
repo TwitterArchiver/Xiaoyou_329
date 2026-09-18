@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2007331051442692217",
+    "created_at": "2026-01-03T08:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T09:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007370909133447372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995115318688223232",
+          "start": 0,
+          "username": "gc6678321793188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007370909133447372",
+    "in_reply_to_user_id": "1995115318688223232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007370434770285044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gc6678321793188 应该会的吧。我将办张卡每天督促自己去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2007331051442692217",
+        "created_at": "2026-01-03T08:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T09:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007370909133447372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995115318688223232",
+              "start": 0,
+              "username": "gc6678321793188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007370909133447372",
+        "in_reply_to_user_id": "1995115318688223232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007370434770285044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gc6678321793188 应该会的吧。我将办张卡每天督促自己去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995115318688223232",
+        "conversation_id": "2007331051442692217",
+        "created_at": "2026-01-03T08:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T09:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007370434770285044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007370434770285044",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007331051442692217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 你不会去健身房。。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8485,
+          "following_count": 154,
+          "like_count": 5897,
+          "listed_count": 9,
+          "media_count": 576,
+          "tweet_count": 4732
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T12:59:06.000Z",
+        "description": "玩",
+        "id": "1995115318688223232",
+        "location": "江苏省",
+        "name": "顾辞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995128697813344256/iVzXo2rB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 53,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 140
+        },
+        "username": "gc6678321793188",
+        "verified": false
+      }
+    ]
+  }
+}

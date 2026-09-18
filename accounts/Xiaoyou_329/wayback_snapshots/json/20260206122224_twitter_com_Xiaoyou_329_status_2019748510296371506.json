@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019748500863377409"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2019748510296371506",
+    "created_at": "2026-02-06T12:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T13:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019748510296371506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GYtS4ukN9r",
+          "end": 51,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2019748510296371506/photo/1",
+          "media_key": "3_2019748500863377409",
+          "start": 28,
+          "url": "https://t.co/GYtS4ukN9r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019748510296371506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有人知道号被点了然后验证也没过 这种号还能回来吗。 https://t.co/GYtS4ukN9r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_2019748500863377409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAeWj3mW4AEkTgD.jpg",
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019748500863377409"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2019748510296371506",
+        "created_at": "2026-02-06T12:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T13:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019748510296371506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYtS4ukN9r",
+              "end": 51,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2019748510296371506/photo/1",
+              "media_key": "3_2019748500863377409",
+              "start": 28,
+              "url": "https://t.co/GYtS4ukN9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019748510296371506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人知道号被点了然后验证也没过 这种号还能回来吗。 https://t.co/GYtS4ukN9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜谨以此记当下的心情 无关好坏｜爱搞抽象的普通人 不要对我有滤镜｜无🚪｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12060,
+          "following_count": 157,
+          "like_count": 6329,
+          "listed_count": 18,
+          "media_count": 637,
+          "tweet_count": 5231
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

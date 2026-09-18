@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967573043862974464",
+        "3_1967573043875577857"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967573064595788241",
+    "created_at": "2025-09-15T12:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T13:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967573064595788241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/riI5Sx3j6Y",
+          "end": 46,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1967573064595788241/photo/1",
+          "media_key": "3_1967573043862974464",
+          "start": 23,
+          "url": "https://t.co/riI5Sx3j6Y"
+        },
+        {
+          "display_url": "pic.x.com/riI5Sx3j6Y",
+          "end": 46,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1967573064595788241/photo/1",
+          "media_key": "3_1967573043875577857",
+          "start": 23,
+          "url": "https://t.co/riI5Sx3j6Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967573064595788241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "乞讨26。有好心人可以让小由免去抄写痛苦吗。 https://t.co/riI5Sx3j6Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 598,
+        "media_key": "3_1967573043862974464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G045Qj0WMAAZUVi.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1967573043875577857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G045Qj3WgAEhM5J.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967573043862974464",
+            "3_1967573043875577857"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967573064595788241",
+        "created_at": "2025-09-15T12:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T13:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967573064595788241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/riI5Sx3j6Y",
+              "end": 46,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1967573064595788241/photo/1",
+              "media_key": "3_1967573043862974464",
+              "start": 23,
+              "url": "https://t.co/riI5Sx3j6Y"
+            },
+            {
+              "display_url": "pic.x.com/riI5Sx3j6Y",
+              "end": 46,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1967573064595788241/photo/1",
+              "media_key": "3_1967573043875577857",
+              "start": 23,
+              "url": "https://t.co/riI5Sx3j6Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967573064595788241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乞讨26。有好心人可以让小由免去抄写痛苦吗。 https://t.co/riI5Sx3j6Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1967249281976594683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 109,
+          "like_count": 1480,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 1829
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

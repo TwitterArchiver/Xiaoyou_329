@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969782966164328450"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1969779219615064245",
+    "created_at": "2025-09-21T15:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T16:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969783020044554244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894531140733878272",
+          "start": 0,
+          "username": "fanbufan00"
+        },
+        {
+          "end": 24,
+          "id": "1454275545252839425",
+          "start": 12,
+          "username": "yel56923501"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lMJ1NRkgYK",
+          "end": 100,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1969783020044554244/photo/1",
+          "media_key": "3_1969782966164328450",
+          "start": 77,
+          "url": "https://t.co/lMJ1NRkgYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969783020044554244",
+    "in_reply_to_user_id": "1894531140733878272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969779219615064245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanbufan00 @yel56923501 如此美味香香的饭我却只能攒着。我一直在cos无能的丈夫。就如此勾引我吧 土豆大厨。听的我真有点微博了！ https://t.co/lMJ1NRkgYK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_1969782966164328450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YTK97XEAIo7r4.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 540500,
+        "height": 960,
+        "media_key": "13_1969778524690276352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969778524690276352/img/dLgUMPr63sJIgX19.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969778524690276352/vid/avc1/320x426/bFmroZ_Ux2NaK8l4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969778524690276352/vid/avc1/480x640/we2ejY9l9rWcyExN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969778524690276352/vid/avc1/720x960/fr65Nmdu1fICYpAh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969778524690276352/pl/e5qUdQMR0aV8mWSc.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 540027,
+        "height": 960,
+        "media_key": "13_1969778781784281088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969778781784281088/img/BKg60IZM1FyyS0o6.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969778781784281088/vid/avc1/320x426/m7VWTpxStn66EckR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969778781784281088/vid/avc1/480x640/mpL1l_1pBtskHtHB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969778781784281088/vid/avc1/720x960/DlfM9mBeKPqxZmol.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969778781784281088/pl/vsCV8siH1Gxkv6ly.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 382433,
+        "height": 960,
+        "media_key": "13_1969779071224778752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969779071224778752/img/W9_8oLdxWgW54MlX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969779071224778752/vid/avc1/320x426/rjAa2iaCqvW1ZLz0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969779071224778752/vid/avc1/480x640/3L4ATjPeBAjntTKA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969779071224778752/vid/avc1/720x960/L-p6XBwmCaC3jJ78.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969779071224778752/pl/dC_FaJR4Yh_EMvFQ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969782966164328450"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1969779219615064245",
+        "created_at": "2025-09-21T15:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969783020044554244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894531140733878272",
+              "start": 0,
+              "username": "fanbufan00"
+            },
+            {
+              "end": 24,
+              "id": "1454275545252839425",
+              "start": 12,
+              "username": "yel56923501"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMJ1NRkgYK",
+              "end": 100,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1969783020044554244/photo/1",
+              "media_key": "3_1969782966164328450",
+              "start": 77,
+              "url": "https://t.co/lMJ1NRkgYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969783020044554244",
+        "in_reply_to_user_id": "1894531140733878272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969779219615064245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanbufan00 @yel56923501 如此美味香香的饭我却只能攒着。我一直在cos无能的丈夫。就如此勾引我吧 土豆大厨。听的我真有点微博了！ https://t.co/lMJ1NRkgYK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969778524690276352",
+            "13_1969778781784281088",
+            "13_1969779071224778752"
+          ]
+        },
+        "author_id": "1894531140733878272",
+        "conversation_id": "1969779219615064245",
+        "created_at": "2025-09-21T15:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969779219615064245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 94,
+              "id": "1454275545252839425",
+              "start": 82,
+              "username": "yel56923501"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qfd5ZGkZiD",
+              "end": 118,
+              "expanded_url": "https://x.com/fanbufan00/status/1969779219615064245/video/1",
+              "media_key": "13_1969778524690276352",
+              "start": 95,
+              "url": "https://t.co/qfd5ZGkZiD"
+            },
+            {
+              "display_url": "pic.x.com/qfd5ZGkZiD",
+              "end": 118,
+              "expanded_url": "https://x.com/fanbufan00/status/1969779219615064245/video/1",
+              "media_key": "13_1969778781784281088",
+              "start": 95,
+              "url": "https://t.co/qfd5ZGkZiD"
+            },
+            {
+              "display_url": "pic.x.com/qfd5ZGkZiD",
+              "end": 118,
+              "expanded_url": "https://x.com/fanbufan00/status/1969779219615064245/video/1",
+              "media_key": "13_1969779071224778752",
+              "start": 95,
+              "url": "https://t.co/qfd5ZGkZiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969779219615064245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "负距离惩罚4i\n\n被尾随痴女缠住了，每天都要做好视频报备被远程操控着玩\n裤子里面是按摩棒，连坐下都不能，只能站着办公，想偷偷拿出来，结果一回头主人来了\n\n台本老师：@yel56923501 https://t.co/qfd5ZGkZiD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1965820788399026273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 119,
+          "like_count": 1744,
+          "listed_count": 1,
+          "media_count": 334,
+          "tweet_count": 2120
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T23:33:37.000Z",
+        "description": "匿名箱：https://t.co/Vy8ECE4AMX\n\n小号不定时掉落凡自认为的自拍涩图",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fanbufan00",
+                "end": 27,
+                "expanded_url": "https://ngl.link/fanbufan00",
+                "start": 4,
+                "url": "https://t.co/Vy8ECE4AMX"
+              }
+            ]
+          }
+        },
+        "id": "1894531140733878272",
+        "name": "凡躁",
+        "pinned_tweet_id": "1967820871504179215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967634822517641216/A8dYZNr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 200,
+          "like_count": 9264,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 563
+        },
+        "username": "fanbufan00",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-30T02:34:52.000Z",
+        "description": "接定制。\n文本点击媒体可查看/不经常上线回复会慢。\n🪜https://t.co/S7HjSeFFkC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 50,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=ZvUD7U5O",
+                "start": 27,
+                "url": "https://t.co/S7HjSeFFkC"
+              }
+            ]
+          }
+        },
+        "id": "1454275545252839425",
+        "name": "柏木的百分比",
+        "pinned_tweet_id": "1897989729553203470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945313507676950528/AFgYFAYG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7287,
+          "following_count": 59,
+          "like_count": 257,
+          "listed_count": 23,
+          "media_count": 132,
+          "tweet_count": 329
+        },
+        "username": "yel56923501",
+        "verified": false
+      }
+    ]
+  }
+}

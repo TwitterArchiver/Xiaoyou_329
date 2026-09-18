@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2024343889046392842",
+    "created_at": "2026-02-19T04:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024343889046392842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022320156433932288",
+          "start": 3,
+          "username": "PTIOY0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024343889046392842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024099383659364366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PTIOY0: 好想和懂我的人保持暧昧关系，每次性压抑发骚都没地方发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2024343889046392842",
+        "created_at": "2026-02-19T04:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024343889046392842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022320156433932288",
+              "start": 3,
+              "username": "PTIOY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024343889046392842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024099383659364366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PTIOY0: 好想和懂我的人保持暧昧关系，每次性压抑发骚都没地方发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022320156433932288",
+        "conversation_id": "2024099383659364366",
+        "created_at": "2026-02-18T12:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024099383659364366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024099383659364366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 28763,
+          "like_count": 233,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "好想和懂我的人保持暧昧关系，每次性压抑发骚都没地方发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024073032029950059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12103,
+          "following_count": 159,
+          "like_count": 6738,
+          "listed_count": 19,
+          "media_count": 678,
+          "tweet_count": 5545
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T14:41:24.000Z",
+        "description": "",
+        "id": "2022320156433932288",
+        "name": "PTio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022384681958936576/edkMLQAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 6,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "PTIOY0",
+        "verified": false
+      }
+    ]
+  }
+}

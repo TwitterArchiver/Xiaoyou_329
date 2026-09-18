@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1996583497599799618",
+    "created_at": "2025-12-04T14:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T15:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996584394715201544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1924464777210077185",
+          "start": 0,
+          "username": "X1aoYuQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996584394715201544",
+    "in_reply_to_user_id": "1924464777210077185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996583497599799618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X1aoYuQAQ 王八音别和我讲话了。好难听。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996583497599799618",
+        "created_at": "2025-12-04T14:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996584394715201544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1924464777210077185",
+              "start": 0,
+              "username": "X1aoYuQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996584394715201544",
+        "in_reply_to_user_id": "1924464777210077185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996583497599799618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1aoYuQAQ 王八音别和我讲话了。好难听。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924464777210077185",
+        "conversation_id": "1996583497599799618",
+        "created_at": "2025-12-04T14:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996583497599799618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996583497599799618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乌龟音别和我讲话了。好难听。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7926,
+          "following_count": 157,
+          "like_count": 5416,
+          "listed_count": 8,
+          "media_count": 526,
+          "tweet_count": 4357
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T13:59:45.000Z",
+        "description": "天秤｜ISFP｜Switch｜偷盗存图替我挡灾｜废话日常｜纯绿🚪128｜打瓦厉害的请带我｜关评帖为推广真假自辩～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/xyuOVO",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/xyuOVO",
+                "start": 0,
+                "url": "https://t.co/s0M6884UJV"
+              }
+            ]
+          }
+        },
+        "id": "1924464777210077185",
+        "location": "🚪128纯绿 我的匿名提问箱⬇️",
+        "name": "YUuuu",
+        "pinned_tweet_id": "1994827961615487022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951329920313159680/Zs5S7rWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7653,
+          "following_count": 403,
+          "like_count": 2870,
+          "listed_count": 23,
+          "media_count": 114,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/s0M6884UJV",
+        "username": "X1aoYuQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

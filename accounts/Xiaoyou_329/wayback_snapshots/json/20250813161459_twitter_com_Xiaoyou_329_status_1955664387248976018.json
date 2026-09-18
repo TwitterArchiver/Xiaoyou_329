@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1955660298444324881",
+    "created_at": "2025-08-13T16:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T17:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955664387248976018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1666708058784022529",
+          "start": 0,
+          "username": "yufa88888888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955664387248976018",
+    "in_reply_to_user_id": "1666708058784022529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955661318641668234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yufa88888888 好的！谢谢宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1955660298444324881",
+        "created_at": "2025-08-13T16:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T17:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955664387248976018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1666708058784022529",
+              "start": 0,
+              "username": "yufa88888888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955664387248976018",
+        "in_reply_to_user_id": "1666708058784022529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955661318641668234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yufa88888888 好的！谢谢宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666708058784022529",
+        "conversation_id": "1955660298444324881",
+        "created_at": "2025-08-13T16:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T17:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955661318641668234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955661318641668234",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955660298444324881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 要不然理肤泉的大哥大吧 最好的还是物理防晒 没有办法的话 大哥大也不错 我去海南的时候用的 没怎么变黑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 69,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 226
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T07:25:58.000Z",
+        "description": "取向：异性恋。愿望：世界和平。                         小推：一个可以让我适当发疯发癫的一个平台。喜欢在这里碎碎念，因为0人在乎我是谁。",
+        "id": "1666708058784022529",
+        "name": "愈发（碎碎念）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820302596805885952/qfpghE7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "yufa88888888",
+        "verified": false
+      }
+    ]
+  }
+}

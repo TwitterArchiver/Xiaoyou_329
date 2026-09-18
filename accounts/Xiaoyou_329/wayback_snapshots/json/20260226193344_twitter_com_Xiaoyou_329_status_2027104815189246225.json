@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2027032688306028829",
+    "created_at": "2026-02-26T19:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T20:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027104815189246225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778463764251303936",
+          "start": 0,
+          "username": "polkasyu22476"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027104815189246225",
+    "in_reply_to_user_id": "1778463764251303936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027032958352441439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@polkasyu22476 我来了喵🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2027032688306028829",
+        "created_at": "2026-02-26T19:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027104815189246225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778463764251303936",
+              "start": 0,
+              "username": "polkasyu22476"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027104815189246225",
+        "in_reply_to_user_id": "1778463764251303936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027032958352441439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@polkasyu22476 我来了喵🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778463764251303936",
+        "conversation_id": "2027032688306028829",
+        "created_at": "2026-02-26T14:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027032958352441439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027032958352441439",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027032688306028829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12714,
+          "following_count": 161,
+          "like_count": 6795,
+          "listed_count": 19,
+          "media_count": 695,
+          "tweet_count": 5610
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T16:43:13.000Z",
+        "description": "🏄",
+        "id": "1778463764251303936",
+        "name": "Aslkoinmer",
+        "pinned_tweet_id": "2020505254589300900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778717126066589696/L16FhCEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 272,
+          "like_count": 20326,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 690
+        },
+        "username": "polkasyu22476",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957678429517803663",
+    "created_at": "2025-08-19T05:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T06:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957678791796408753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1933322601998479361",
+          "start": 0,
+          "username": "l77w8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957678791796408753",
+    "in_reply_to_user_id": "1933322601998479361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957678429517803663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l77w8 我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1957678429517803663",
+        "created_at": "2025-08-19T05:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957678791796408753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1933322601998479361",
+              "start": 0,
+              "username": "l77w8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957678791796408753",
+        "in_reply_to_user_id": "1933322601998479361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957678429517803663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l77w8 我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933322601998479361",
+        "conversation_id": "1957678429517803663",
+        "created_at": "2025-08-19T05:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957678429517803663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957678429517803663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要多多会互动的宝宝 来到我的首页！🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)当朋友圈发…不约炮…会回私信…骚扰就算了除非你身材我真的很喜欢 喜欢发一些身材照…我是双性恋",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 70,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 347
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T00:36:54.000Z",
+        "description": "生活里的调色盘乱七八糟的生活｜ENFP｜水瓶\n\n                                                                    匿名提问https://t.co/yIaOh6K8vU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/l77w",
+                "end": 119,
+                "expanded_url": "https://ngl.link/l77w",
+                "start": 96,
+                "url": "https://t.co/yIaOh6K8vU"
+              }
+            ]
+          }
+        },
+        "id": "1933322601998479361",
+        "name": "青青草原我最狂",
+        "pinned_tweet_id": "1955570356888162650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949507928781660160/lrl5279T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 328,
+          "like_count": 1559,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2661
+        },
+        "username": "l77w8",
+        "verified": false
+      }
+    ]
+  }
+}

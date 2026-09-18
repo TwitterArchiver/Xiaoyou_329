@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2071125354614538243",
+    "created_at": "2026-06-28T08:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071152011199082607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643637070760407040",
+          "start": 0,
+          "username": "qw730914po"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071152011199082607",
+    "in_reply_to_user_id": "1643637070760407040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071144358041260281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qw730914po 我已经看了一个多月了一点效果也没有他没有他师父厉害。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2071125354614538243",
+        "created_at": "2026-06-28T08:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071152011199082607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643637070760407040",
+              "start": 0,
+              "username": "qw730914po"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071152011199082607",
+        "in_reply_to_user_id": "1643637070760407040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071144358041260281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qw730914po 我已经看了一个多月了一点效果也没有他没有他师父厉害。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643637070760407040",
+        "conversation_id": "2071125354614538243",
+        "created_at": "2026-06-28T08:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071144358041260281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071144358041260281",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071125354614538243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我感觉找的是骗子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16758,
+          "following_count": 177,
+          "like_count": 7682,
+          "listed_count": 20,
+          "media_count": 873,
+          "tweet_count": 7039
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T15:29:58.000Z",
+        "description": "",
+        "id": "1643637070760407040",
+        "name": "三角洲经济学教父",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965448098924343296/YE9EKkk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 100,
+          "like_count": 2274,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1150
+        },
+        "url": "",
+        "username": "qw730914po",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1996066998355370470",
+    "created_at": "2025-12-03T13:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T14:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996212131729953199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568430640428875776",
+          "start": 0,
+          "username": "YesStrayPuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996212131729953199",
+    "in_reply_to_user_id": "1568430640428875776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996205716559020298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesStrayPuppy 对呀…！而且只要9.9😭学校你终于干人事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996066998355370470",
+        "created_at": "2025-12-03T13:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996212131729953199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568430640428875776",
+              "start": 0,
+              "username": "YesStrayPuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996212131729953199",
+        "in_reply_to_user_id": "1568430640428875776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996205716559020298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesStrayPuppy 对呀…！而且只要9.9😭学校你终于干人事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568430640428875776",
+        "conversation_id": "1996066998355370470",
+        "created_at": "2025-12-03T13:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996205716559020298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996205716559020298",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996066998355370470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 你的意思是。这是学校食堂卖的吗？😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7860,
+          "following_count": 159,
+          "like_count": 5356,
+          "listed_count": 7,
+          "media_count": 538,
+          "tweet_count": 4361
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T02:46:49.000Z",
+        "description": "08巨蟹enfp|贫穷又好色的直女|一个平凡の女子，谢谢大家和我玩！😭|可以叫我小夜💭！|✋🏻我不聊骚！❗❌|记录(辱骂)📝高三生活中。。|互关我亲死你们👿|自用蜂鸟VPN:https://t.co/SJSEQkYNhc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sachlife.com/#/register?cod…",
+                "end": 110,
+                "expanded_url": "https://www.sachlife.com/#/register?code=s64C1SWq",
+                "start": 87,
+                "url": "https://t.co/SJSEQkYNhc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yesstraypuppy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yesstraypuppy",
+                "start": 0,
+                "url": "https://t.co/HfCQc2mvZp"
+              }
+            ]
+          }
+        },
+        "id": "1568430640428875776",
+        "location": "我偷偷放了一个匿名↓",
+        "name": "夜市流浪小狗",
+        "pinned_tweet_id": "1989643061316784381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984589276856926214/dkGBGkaN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 483,
+          "like_count": 13324,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 3694
+        },
+        "url": "https://t.co/HfCQc2mvZp",
+        "username": "YesStrayPuppy",
+        "verified": false
+      }
+    ]
+  }
+}

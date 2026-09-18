@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960388719686439371",
+    "created_at": "2025-08-26T17:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T18:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960388901693980793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951924850148380672",
+          "start": 0,
+          "username": "LHn6AcK55f64748"
+        },
+        {
+          "end": 27,
+          "id": "1229453490537107457",
+          "start": 17,
+          "username": "HnrBB2nai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960388901693980793",
+    "in_reply_to_user_id": "1951924850148380672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960388719686439371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LHn6AcK55f64748 @HnrBB2nai 谢谢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 100166,
+        "height": 480,
+        "media_key": "7_1960388692436246534",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1960388692436246534/pu/img/91XZ9feCytEvgEY8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960388692436246534/pu/vid/avc1/320x320/Ur_z3irV18cBMqLN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960388692436246534/pu/vid/avc1/480x480/IsidbceYs79S6UCr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1960388692436246534/pu/pl/OfkyXLJpOip3b2gq.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960388719686439371",
+        "created_at": "2025-08-26T17:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960388901693980793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951924850148380672",
+              "start": 0,
+              "username": "LHn6AcK55f64748"
+            },
+            {
+              "end": 27,
+              "id": "1229453490537107457",
+              "start": 17,
+              "username": "HnrBB2nai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960388901693980793",
+        "in_reply_to_user_id": "1951924850148380672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960388719686439371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LHn6AcK55f64748 @HnrBB2nai 谢谢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1960388692436246534"
+          ]
+        },
+        "author_id": "1951924850148380672",
+        "conversation_id": "1960388719686439371",
+        "created_at": "2025-08-26T17:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960388719686439371"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "男喘"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "青叔"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "女性向"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "粗口"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 65,
+              "id": "1229453490537107457",
+              "start": 55,
+              "username": "HnrBB2nai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BygBbZepW0",
+              "end": 89,
+              "expanded_url": "https://x.com/LHn6AcK55f64748/status/1960388719686439371/video/1",
+              "media_key": "7_1960388692436246534",
+              "start": 66,
+              "url": "https://t.co/BygBbZepW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960388719686439371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“宝贝的狗嘴.像狗逼一样好操”\n\n“吸一吸.嗯…好狗”\n #男喘 #青叔 #女性向 #粗口\n 感谢台本老师: @HnrBB2nai https://t.co/BygBbZepW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 83,
+          "like_count": 680,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 637
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T08:35:42.000Z",
+        "description": "infp|白羊|正太音|想做男喘因为声音难听而放弃.目前在学习ps.励志成为粉牛黄推.（会礼貌性回复每一个伪人言论.）",
+        "id": "1951924850148380672",
+        "name": "紫罗兰.",
+        "pinned_tweet_id": "1956367715805073777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955145753623732224/nd7Qqu4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 114,
+          "like_count": 1270,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 233
+        },
+        "username": "LHn6AcK55f64748",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-17T17:12:19.000Z",
+        "description": "录本请务❗️必❗️经过我的同意❗️说明哪本❗️❗️短打自取❗️本子🚫二改二传续写 丨黄色创作请勿带入现实❗️｜暂时不接定制❗️不接❗️定制❗️丨翘屁股顶尖爱好者｜日常屁话在这里发@CptBupeipei丨推广自辩❗️丨搬运这辈子发不了财❗️❗️ https://t.co/KTkbp6EMhg匿名信箱🫡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "CptBupeipei"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hnrbb2nai",
+                "end": 146,
+                "expanded_url": "https://ngl.link/hnrbb2nai",
+                "start": 123,
+                "url": "https://t.co/KTkbp6EMhg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hnrbbernai.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://hnrbbernai.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/3uZHD3McJk"
+              }
+            ]
+          }
+        },
+        "id": "1229453490537107457",
+        "name": "人间杀爸客（有猫版）",
+        "pinned_tweet_id": "1951359502504358046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950068769885462528/Z5noQeeo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86383,
+          "following_count": 338,
+          "like_count": 5856,
+          "listed_count": 113,
+          "media_count": 501,
+          "tweet_count": 11037
+        },
+        "url": "https://t.co/3uZHD3McJk",
+        "username": "HnrBB2nai",
+        "verified": false
+      }
+    ]
+  }
+}

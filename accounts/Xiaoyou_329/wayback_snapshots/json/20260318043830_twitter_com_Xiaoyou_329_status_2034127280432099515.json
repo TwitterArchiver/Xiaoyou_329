@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2033792267031355538",
+    "created_at": "2026-03-18T04:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T05:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034127280432099515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1937721406730698759",
+          "start": 0,
+          "username": "baoluanj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034127280432099515",
+    "in_reply_to_user_id": "1937721406730698759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033961100178559418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baoluanj 你是猪我也认了 你的声音我认可了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2033792267031355538",
+        "created_at": "2026-03-18T04:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T05:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034127280432099515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1937721406730698759",
+              "start": 0,
+              "username": "baoluanj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034127280432099515",
+        "in_reply_to_user_id": "1937721406730698759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033961100178559418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baoluanj 你是猪我也认了 你的声音我认可了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937721406730698759",
+        "conversation_id": "2033792267031355538",
+        "created_at": "2026-03-17T17:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033961100178559418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033961100178559418",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033792267031355538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13162,
+          "following_count": 163,
+          "like_count": 7081,
+          "listed_count": 19,
+          "media_count": 738,
+          "tweet_count": 6002
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T03:56:13.000Z",
+        "description": "为何为好事泪流",
+        "id": "1937721406730698759",
+        "name": "小涵星撞地球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944439798158299136/snHy0qe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 34,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 25
+        },
+        "username": "baoluanj",
+        "verified": false
+      }
+    ]
+  }
+}

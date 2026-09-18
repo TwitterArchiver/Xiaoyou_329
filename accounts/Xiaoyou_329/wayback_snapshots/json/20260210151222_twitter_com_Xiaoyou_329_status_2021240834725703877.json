@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2021221195241119864",
+    "created_at": "2026-02-10T15:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T16:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021240834725703877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1363287901438504964",
+          "start": 0,
+          "username": "Dreamwith_you_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021240834725703877",
+    "in_reply_to_user_id": "1363287901438504964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021234632147013825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dreamwith_you_ 其实是说话带有攻击性的 我不行了TuT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2021221195241119864",
+        "created_at": "2026-02-10T15:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021240834725703877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1363287901438504964",
+              "start": 0,
+              "username": "Dreamwith_you_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021240834725703877",
+        "in_reply_to_user_id": "1363287901438504964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021234632147013825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dreamwith_you_ 其实是说话带有攻击性的 我不行了TuT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363287901438504964",
+        "conversation_id": "2021221195241119864",
+        "created_at": "2026-02-10T14:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021234632147013825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021234632147013825",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021221195241119864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 可是把你当做变声器明明是在说声音像变声器一样好听吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12071,
+          "following_count": 159,
+          "like_count": 6464,
+          "listed_count": 19,
+          "media_count": 642,
+          "tweet_count": 5313
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T00:42:32.000Z",
+        "description": "经历的意义在于引导你  而非定义你丨小号@everycity1go",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "everycity1go"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "usr.tachvip.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://usr.tachvip.com/#/register?code=ZZtU3l6c",
+                "start": 0,
+                "url": "https://t.co/DEC6qQtRp2"
+              }
+            ]
+          }
+        },
+        "id": "1363287901438504964",
+        "location": "距离你1.7km",
+        "name": "莺",
+        "pinned_tweet_id": "1990448958494429566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002056471748763649/byK6x8l0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27997,
+          "following_count": 484,
+          "like_count": 19890,
+          "listed_count": 39,
+          "media_count": 63,
+          "tweet_count": 10800
+        },
+        "url": "https://t.co/DEC6qQtRp2",
+        "username": "Dreamwith_you_",
+        "verified": true
+      }
+    ]
+  }
+}

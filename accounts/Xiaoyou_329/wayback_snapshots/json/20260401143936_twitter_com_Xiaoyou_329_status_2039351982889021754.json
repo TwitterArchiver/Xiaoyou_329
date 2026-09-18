@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039351971920936960"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039351982889021754",
+    "created_at": "2026-04-01T14:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T15:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039351982889021754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZZSmBzP46T",
+          "end": 45,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2039351982889021754/photo/1",
+          "media_key": "3_2039351971920936960",
+          "start": 22,
+          "url": "https://t.co/ZZSmBzP46T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039351982889021754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喜欢这种青受…我靠…我真的以为是小女孩… https://t.co/ZZSmBzP46T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2039351971920936960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE070EJXAAAmW2f.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039351971920936960"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039351982889021754",
+        "created_at": "2026-04-01T14:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039351982889021754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZZSmBzP46T",
+              "end": 45,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2039351982889021754/photo/1",
+              "media_key": "3_2039351971920936960",
+              "start": 22,
+              "url": "https://t.co/ZZSmBzP46T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039351982889021754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢这种青受…我靠…我真的以为是小女孩… https://t.co/ZZSmBzP46T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13337,
+          "following_count": 163,
+          "like_count": 7356,
+          "listed_count": 20,
+          "media_count": 781,
+          "tweet_count": 6236
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

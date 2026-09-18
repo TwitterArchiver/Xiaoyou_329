@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1976320980911026401",
+    "created_at": "2025-10-10T04:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T05:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976503958467162362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904949484783841280",
+          "start": 0,
+          "username": "fuzhuovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976503958467162362",
+    "in_reply_to_user_id": "1904949484783841280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976320980911026401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuzhuovo 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976320970534293505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G21Nc6LaEAEyWpT.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1976320980911026401",
+        "created_at": "2025-10-10T04:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T05:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976503958467162362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904949484783841280",
+              "start": 0,
+              "username": "fuzhuovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976503958467162362",
+        "in_reply_to_user_id": "1904949484783841280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976320980911026401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuzhuovo 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976320970534293505"
+          ]
+        },
+        "author_id": "1904949484783841280",
+        "conversation_id": "1976320980911026401",
+        "created_at": "2025-10-09T16:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976320980911026401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYUyVE5lSn",
+              "end": 31,
+              "expanded_url": "https://x.com/fuzhuovo/status/1976320980911026401/photo/1",
+              "media_key": "3_1976320970534293505",
+              "start": 8,
+              "url": "https://t.co/bYUyVE5lSn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976320980911026401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11199,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 74,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐~ https://t.co/bYUyVE5lSn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜爱搞抽象的普通人 请别打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1975791841409966295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 132,
+          "like_count": 2525,
+          "listed_count": 3,
+          "media_count": 389,
+          "tweet_count": 2722
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T17:32:15.000Z",
+        "description": "自用蜂鸟VPN https://t.co/5tYNEdRop5\n欢迎提问👉 https://t.co/WL2eFEN50Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "api.apifn.xyz/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://api.apifn.xyz/#/register?code=rFp",
+                "start": 8,
+                "url": "https://t.co/5tYNEdRop5"
+              },
+              {
+                "display_url": "ngl.link/flowerz28684",
+                "end": 61,
+                "expanded_url": "http://ngl.link/flowerz28684",
+                "start": 38,
+                "url": "https://t.co/WL2eFEN50Z"
+              }
+            ]
+          }
+        },
+        "id": "1904949484783841280",
+        "name": "疯兔子",
+        "pinned_tweet_id": "1976320980911026401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971888549848031232/m4brFRqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3085,
+          "following_count": 637,
+          "like_count": 16145,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 3569
+        },
+        "username": "fuzhuovo",
+        "verified": false
+      }
+    ]
+  }
+}

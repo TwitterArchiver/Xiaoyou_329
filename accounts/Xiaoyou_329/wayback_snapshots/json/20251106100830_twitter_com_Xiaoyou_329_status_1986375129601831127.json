@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1986359212302369011",
+    "created_at": "2025-11-06T10:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T11:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986375129601831127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948779307045978112",
+          "start": 0,
+          "username": "Wo2luosifen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986375129601831127",
+    "in_reply_to_user_id": "1948779307045978112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986359212302369011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wo2luosifen 小县城（网络版）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1986359212302369011",
+        "created_at": "2025-11-06T10:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T11:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986375129601831127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948779307045978112",
+              "start": 0,
+              "username": "Wo2luosifen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986375129601831127",
+        "in_reply_to_user_id": "1948779307045978112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986359212302369011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wo2luosifen 小县城（网络版）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948779307045978112",
+        "conversation_id": "1986359212302369011",
+        "created_at": "2025-11-06T09:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T10:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986359212302369011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986359212302369011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 937,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特上的瓜都是换乘暧昧搞出来的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1985354277674479915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5018,
+          "following_count": 143,
+          "like_count": 3834,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 3346
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "超级碎碎念bot 不约不聊不线下不恋不回私信不礼貌回关我不会提供情绪价值 @Ffbbgg00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Ffbbgg00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iuuio16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iuuio16",
+                "start": 0,
+                "url": "https://t.co/oqtlQVhlDa"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "location": "关评置顶为推广‼️",
+        "name": "做饭总被烫",
+        "pinned_tweet_id": "1982456609898221872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963483712278171648/e-95DtmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4303,
+          "following_count": 416,
+          "like_count": 46890,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 17921
+        },
+        "url": "https://t.co/oqtlQVhlDa",
+        "username": "Wo2luosifen",
+        "verified": true
+      }
+    ]
+  }
+}

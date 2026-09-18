@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2041533193606558176",
+    "created_at": "2026-04-07T15:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041533803013808476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1790780757952405505",
+          "start": 0,
+          "username": "XY6911998792008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041533803013808476",
+    "in_reply_to_user_id": "1790780757952405505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041533676547371189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XY6911998792008 我都听完了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2041533634658828288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT8BjLaAAAmupa.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2041533193606558176",
+        "created_at": "2026-04-07T15:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041533803013808476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790780757952405505",
+              "start": 0,
+              "username": "XY6911998792008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041533803013808476",
+        "in_reply_to_user_id": "1790780757952405505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041533676547371189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XY6911998792008 我都听完了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041533634658828288"
+          ]
+        },
+        "author_id": "1790780757952405505",
+        "conversation_id": "2041533193606558176",
+        "created_at": "2026-04-07T15:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041533676547371189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNAlUgJ05p",
+              "end": 47,
+              "expanded_url": "https://x.com/XY6911998792008/status/2041533676547371189/photo/1",
+              "media_key": "3_2041533634658828288",
+              "start": 24,
+              "url": "https://t.co/tNAlUgJ05p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041533676547371189",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041533193606558176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 不如找找以前的素材。 https://t.co/tNAlUgJ05p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13639,
+          "following_count": 161,
+          "like_count": 7467,
+          "listed_count": 20,
+          "media_count": 796,
+          "tweet_count": 6335
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T16:26:28.000Z",
+        "description": "多读书多看报少吃零食多睡觉。",
+        "id": "1790780757952405505",
+        "location": "America",
+        "name": "X不等于Y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791270369145622528/Glx8oy9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 61
+        },
+        "username": "XY6911998792008",
+        "verified": false
+      }
+    ]
+  }
+}

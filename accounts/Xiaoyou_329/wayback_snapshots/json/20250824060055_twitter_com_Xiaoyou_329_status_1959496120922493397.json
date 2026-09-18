@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1959488228714770505",
+    "created_at": "2025-08-24T06:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T07:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959496120922493397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1946630800377860096",
+          "start": 0,
+          "username": "XingShizi94639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959496120922493397",
+    "in_reply_to_user_id": "1946630800377860096",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959488228714770505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XingShizi94639 666"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14848,
+        "height": 1280,
+        "media_key": "13_1959488153599066112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959488153599066112/img/osR0_DGcS8YWRipc.jpg",
+        "public_metrics": {
+          "view_count": 45
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959488153599066112/vid/avc1/320x690/-E4b6BZAJO_dZ3ch.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959488153599066112/vid/avc1/480x1036/M1YFgQRoB25WOksO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959488153599066112/vid/avc1/592x1280/5am_qtSoOD2-KAHT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959488153599066112/pl/-bhJz-_ZvCIyrKSK.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1959488228714770505",
+        "created_at": "2025-08-24T06:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T07:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959496120922493397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1946630800377860096",
+              "start": 0,
+              "username": "XingShizi94639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959496120922493397",
+        "in_reply_to_user_id": "1946630800377860096",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959488228714770505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XingShizi94639 666"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959488153599066112"
+          ]
+        },
+        "author_id": "1946630800377860096",
+        "conversation_id": "1959488228714770505",
+        "created_at": "2025-08-24T05:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T06:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959488228714770505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCoQl1RERU",
+              "end": 35,
+              "expanded_url": "https://x.com/XingShizi94639/status/1959488228714770505/video/1",
+              "media_key": "13_1959488153599066112",
+              "start": 12,
+              "url": "https://t.co/NCoQl1RERU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959488228714770505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呃 谁要看的坦克不长眼 https://t.co/NCoQl1RERU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 72,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 569
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T17:59:03.000Z",
+        "description": "",
+        "id": "1946630800377860096",
+        "name": "星柿子（🍅大王梦女 大哥麻婆豆腐）",
+        "pinned_tweet_id": "1958581429090095145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946630997811863554/SSCrM9OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 211,
+          "like_count": 7354,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3457
+        },
+        "username": "XingShizi94639",
+        "verified": false
+      }
+    ]
+  }
+}

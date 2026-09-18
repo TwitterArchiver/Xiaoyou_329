@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2073796566541091260",
+    "created_at": "2026-07-05T16:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073807404610007509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762926467426746368",
+          "start": 0,
+          "username": "MacarthurS9637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073807404610007509",
+    "in_reply_to_user_id": "1762926467426746368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073797925134831705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MacarthurS9637 哦哦。那个啥。我好像乳糖不耐受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2073796566541091260",
+        "created_at": "2026-07-05T16:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073807404610007509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762926467426746368",
+              "start": 0,
+              "username": "MacarthurS9637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073807404610007509",
+        "in_reply_to_user_id": "1762926467426746368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073797925134831705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MacarthurS9637 哦哦。那个啥。我好像乳糖不耐受。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762926467426746368",
+        "conversation_id": "2073796566541091260",
+        "created_at": "2026-07-05T15:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073797925134831705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073797925134831705",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073796566541091260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 之后吃辣的，要喝牛奶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17004,
+          "following_count": 182,
+          "like_count": 7682,
+          "listed_count": 20,
+          "media_count": 914,
+          "tweet_count": 7188
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T19:43:28.000Z",
+        "description": "Bull or bear market, crypto continues to amaze. It's a testament to innovation and resilience!  #CryptoMarket #Innovation #Resil",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 96,
+                "tag": "CryptoMarket"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "tag": "Innovation"
+              },
+              {
+                "end": 128,
+                "start": 122,
+                "tag": "Resil"
+              }
+            ]
+          }
+        },
+        "id": "1762926467426746368",
+        "location": "United States  Ulysses, NE",
+        "name": "温暖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762926548360040448/4ERqd-dq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 800,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "MacarthurS9637",
+        "verified": false
+      }
+    ]
+  }
+}

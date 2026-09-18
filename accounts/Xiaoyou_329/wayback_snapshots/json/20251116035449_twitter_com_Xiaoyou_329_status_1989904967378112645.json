@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1989686673299718496",
+    "created_at": "2025-11-16T03:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T04:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989904967378112645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737139405662597120",
+          "start": 0,
+          "username": "wShuibuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989904967378112645",
+    "in_reply_to_user_id": "1737139405662597120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989686673299718496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wShuibuxing 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 392,
+        "media_key": "3_1989686668174176256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zJe57aMAARWIn.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1989686673299718496",
+        "created_at": "2025-11-16T03:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989904967378112645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737139405662597120",
+              "start": 0,
+              "username": "wShuibuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989904967378112645",
+        "in_reply_to_user_id": "1737139405662597120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989686673299718496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wShuibuxing 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989686668174176256"
+          ]
+        },
+        "author_id": "1737139405662597120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989686673299718496",
+        "created_at": "2025-11-15T13:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989686673299718496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9FzaZVgMG",
+              "end": 40,
+              "expanded_url": "https://x.com/wShuibuxing/status/1989686673299718496/photo/1",
+              "media_key": "3_1989686668174176256",
+              "start": 17,
+              "url": "https://t.co/Z9FzaZVgMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989686673299718496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13010,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我收五千还没负能量的时候咋没人接 https://t.co/Z9FzaZVgMG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6587,
+          "following_count": 150,
+          "like_count": 4457,
+          "listed_count": 4,
+          "media_count": 465,
+          "tweet_count": 3738
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T15:54:57.000Z",
+        "description": "暗恋的人@竹美人  让我水个好饺吧",
+        "id": "1737139405662597120",
+        "name": "瘦🐱",
+        "pinned_tweet_id": "1989705593481728396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975173601096810497/wxm07Jrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 295,
+          "like_count": 36774,
+          "listed_count": 5,
+          "media_count": 11,
+          "tweet_count": 4332
+        },
+        "username": "wShuibuxing",
+        "verified": false
+      }
+    ]
+  }
+}

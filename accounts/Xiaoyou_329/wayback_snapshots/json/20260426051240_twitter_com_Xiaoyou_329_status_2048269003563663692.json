@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2048226530296549766",
+    "created_at": "2026-04-26T05:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048269003563663692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1783771782387744770",
+          "start": 0,
+          "username": "rebirthcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048269003563663692",
+    "in_reply_to_user_id": "1783771782387744770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048233926657966568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rebirthcc 没有啊 我在家呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2048226530296549766",
+        "created_at": "2026-04-26T05:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048269003563663692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1783771782387744770",
+              "start": 0,
+              "username": "rebirthcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048269003563663692",
+        "in_reply_to_user_id": "1783771782387744770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048233926657966568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rebirthcc 没有啊 我在家呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783771782387744770",
+        "conversation_id": "2048226530296549766",
+        "created_at": "2026-04-26T02:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048233926657966568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048233926657966568",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048226530296549766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 和朋友在外面旅游还能挤出时间来冲一发么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13706,
+          "following_count": 164,
+          "like_count": 7413,
+          "listed_count": 20,
+          "media_count": 816,
+          "tweet_count": 6423
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T08:15:17.000Z",
+        "description": "忠于原创",
+        "id": "1783771782387744770",
+        "name": "Cc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907276868958683137/No0Nj0gC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 106,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 169
+        },
+        "username": "rebirthcc",
+        "verified": false
+      }
+    ]
+  }
+}

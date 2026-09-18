@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2058061610636447778",
+    "created_at": "2026-05-24T04:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058412022388428891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1629172068041523203",
+          "start": 0,
+          "username": "rr_wangrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058412022388428891",
+    "in_reply_to_user_id": "1629172068041523203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058410485280862326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rr_wangrr 我们臭m被调多了就这样…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2058061610636447778",
+        "created_at": "2026-05-24T04:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058412022388428891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1629172068041523203",
+              "start": 0,
+              "username": "rr_wangrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058412022388428891",
+        "in_reply_to_user_id": "1629172068041523203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058410485280862326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rr_wangrr 我们臭m被调多了就这样…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629172068041523203",
+        "conversation_id": "2058061610636447778",
+        "created_at": "2026-05-24T04:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058410485280862326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058410485280862326",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058061610636447778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我们臭m被调多了就这样…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15107,
+          "following_count": 173,
+          "like_count": 7563,
+          "listed_count": 21,
+          "media_count": 852,
+          "tweet_count": 6633
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T17:31:11.000Z",
+        "description": "",
+        "id": "1629172068041523203",
+        "name": "超级无敌香香鸡味块",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035020314086973441/Htqjk7Ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "rr_wangrr",
+        "verified": false
+      }
+    ]
+  }
+}

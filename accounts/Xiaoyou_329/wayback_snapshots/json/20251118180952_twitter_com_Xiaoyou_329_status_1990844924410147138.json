@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1990844523573096638",
+    "created_at": "2025-11-18T18:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T19:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990844924410147138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1363287901438504964",
+          "start": 0,
+          "username": "Dreamwith_you_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990844924410147138",
+    "in_reply_to_user_id": "1363287901438504964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990844523573096638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dreamwith_you_ 什么鬼？我笑得不行。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19186,
+        "height": 1280,
+        "media_key": "13_1990844442358759424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990844442358759424/img/sHFVJj-ojirzVik-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990844442358759424/vid/avc1/320x694/uipnXzm9d0tLyfCz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990844442358759424/vid/avc1/480x1040/R7ujie6GsXWAdaeM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990844442358759424/vid/avc1/590x1280/hNg7YvVKkHKvcguw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990844442358759424/pl/vVAdbFnBY5Zd_awH.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1990844523573096638",
+        "created_at": "2025-11-18T18:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990844924410147138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1363287901438504964",
+              "start": 0,
+              "username": "Dreamwith_you_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990844924410147138",
+        "in_reply_to_user_id": "1363287901438504964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990844523573096638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dreamwith_you_ 什么鬼？我笑得不行。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990844442358759424"
+          ]
+        },
+        "author_id": "1363287901438504964",
+        "conversation_id": "1990844523573096638",
+        "created_at": "2025-11-18T18:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990844523573096638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eaOMRUOhlV",
+              "end": 73,
+              "expanded_url": "https://x.com/Dreamwith_you_/status/1990844523573096638/video/1",
+              "media_key": "13_1990844442358759424",
+              "start": 50,
+              "url": "https://t.co/eaOMRUOhlV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990844523573096638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的时候会玩遥控小玩具app里的合成大西瓜游戏模式 这个玩意逆天在合成大小和振动强度持续时间成正比 https://t.co/eaOMRUOhlV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜家妻善妒@Yuevli ｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 45,
+                "username": "Yuevli"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6752,
+          "following_count": 153,
+          "like_count": 4644,
+          "listed_count": 5,
+          "media_count": 481,
+          "tweet_count": 3841
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T00:42:32.000Z",
+        "description": "叹息墙下 任人粉刷https://t.co/qe9rejsoRM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dreamwi520",
+                "end": 32,
+                "expanded_url": "http://t.me/dreamwi520",
+                "start": 9,
+                "url": "https://t.co/qe9rejsoRM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "usr.tachvip.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://usr.tachvip.com/#/register?code=ZZtU3l6c",
+                "start": 0,
+                "url": "https://t.co/DEC6qQtjzu"
+              }
+            ]
+          }
+        },
+        "id": "1363287901438504964",
+        "location": "距离你1.7km",
+        "name": "莺",
+        "pinned_tweet_id": "1990406223515066557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988585052855525376/5Pd89Zlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26919,
+          "following_count": 449,
+          "like_count": 16911,
+          "listed_count": 38,
+          "media_count": 71,
+          "tweet_count": 9834
+        },
+        "url": "https://t.co/DEC6qQtjzu",
+        "username": "Dreamwith_you_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1966894006736138498",
+    "created_at": "2025-09-13T15:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T16:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966894298563309968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1478921478355644416",
+          "start": 0,
+          "username": "lh17272"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966894298563309968",
+    "in_reply_to_user_id": "1478921478355644416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966894006736138498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lh17272 ？我不行了 捞面姐姐你在按音效吗 还是我卡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1966894006736138498",
+        "created_at": "2025-09-13T15:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T16:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966894298563309968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1478921478355644416",
+              "start": 0,
+              "username": "lh17272"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966894298563309968",
+        "in_reply_to_user_id": "1478921478355644416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966894006736138498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lh17272 ？我不行了 捞面姐姐你在按音效吗 还是我卡了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478921478355644416",
+        "conversation_id": "1966894006736138498",
+        "created_at": "2025-09-13T15:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T16:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966894006736138498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "猪仔煲捞面’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1vAxR…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1vAxRQlDOkVJl",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1966894008363610114/ZncBTtem?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966894008363610114/ZncBTtem?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 深夜聊天室",
+              "unwound_url": "https://twitter.com/i/spaces/1vAxRQlDOkVJl/peek",
+              "url": "https://t.co/Iu8lOkYlDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966894006736138498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Iu8lOkYlDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 104,
+          "like_count": 1403,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 1687
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T02:49:55.000Z",
+        "description": "",
+        "id": "1478921478355644416",
+        "name": "猪仔煲捞面",
+        "pinned_tweet_id": "1965970934394925472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925875438502526976/EBMRMpcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 293,
+          "like_count": 1471,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 276
+        },
+        "username": "lh17272",
+        "verified": false
+      }
+    ]
+  }
+}

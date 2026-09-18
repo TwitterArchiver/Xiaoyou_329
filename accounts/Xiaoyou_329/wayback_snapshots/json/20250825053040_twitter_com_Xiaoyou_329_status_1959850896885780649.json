@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1959806169461006422",
+    "created_at": "2025-08-25T05:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T06:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959850896885780649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1932473903408160768",
+          "start": 0,
+          "username": "ivblune1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959850896885780649",
+    "in_reply_to_user_id": "1932473903408160768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959806169461006422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivblune1 太可爱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11333,
+        "height": 432,
+        "media_key": "7_1959806130831441920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1959806130831441920/pu/img/OyaSl5mg7bwjCzGU.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959806130831441920/pu/vid/avc1/600x270/nAyC4GHOiJ_p9WWM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959806130831441920/pu/vid/avc1/960x432/tETupNUHxookCDqA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1959806130831441920/pu/pl/LXACIsRZYR-kvMY3.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1959806169461006422",
+        "created_at": "2025-08-25T05:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T06:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959850896885780649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932473903408160768",
+              "start": 0,
+              "username": "ivblune1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959850896885780649",
+        "in_reply_to_user_id": "1932473903408160768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959806169461006422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivblune1 太可爱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1959806130831441920"
+          ]
+        },
+        "author_id": "1932473903408160768",
+        "conversation_id": "1959806169461006422",
+        "created_at": "2025-08-25T02:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T03:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959806169461006422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OE3HuUgN4T",
+              "end": 35,
+              "expanded_url": "https://x.com/ivblune1/status/1959806169461006422/video/1",
+              "media_key": "7_1959806130831441920",
+              "start": 12,
+              "url": "https://t.co/OE3HuUgN4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959806169461006422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笨蛋喵喵我要亲你一百下 https://t.co/OE3HuUgN4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 73,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 602
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T16:24:29.000Z",
+        "description": "恭喜你发现了全世界最可爱的小博主啦｜想我就来https://t.co/K6BlTF3TOv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ivblune1",
+                "end": 45,
+                "expanded_url": "https://ngl.link/ivblune1",
+                "start": 22,
+                "url": "https://t.co/K6BlTF3TOv"
+              }
+            ]
+          }
+        },
+        "id": "1932473903408160768",
+        "name": "4ever",
+        "pinned_tweet_id": "1959599334380732680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959594952452894720/RjwZkk_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 162,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 842
+        },
+        "username": "ivblune1",
+        "verified": false
+      }
+    ]
+  }
+}

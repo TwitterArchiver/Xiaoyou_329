@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962182595124273356",
+    "created_at": "2025-08-31T16:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T17:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962185813468262801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1931829992427601920",
+          "start": 0,
+          "username": "finn0439"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962185813468262801",
+    "in_reply_to_user_id": "1931829992427601920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962182595124273356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@finn0439 对！尼罗河我会一直支持你的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962182595124273356",
+        "created_at": "2025-08-31T16:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962185813468262801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1931829992427601920",
+              "start": 0,
+              "username": "finn0439"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962185813468262801",
+        "in_reply_to_user_id": "1931829992427601920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962182595124273356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@finn0439 对！尼罗河我会一直支持你的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931829992427601920",
+        "conversation_id": "1962182595124273356",
+        "created_at": "2025-08-31T15:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T16:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962182595124273356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "尼罗河’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1gqGv…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1gqGvrLOVLkGB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1962182597221515264/mY7aDbYW?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1962182597221515264/mY7aDbYW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 尼罗河’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1gqGvrLOVLkGB/peek",
+              "url": "https://t.co/R7kCooHVOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962182595124273356",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/R7kCooHVOL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 100,
+          "like_count": 886,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1008
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T21:45:57.000Z",
+        "description": "青年音 有建议可以私信 ♓️ intp 直男 ✝️ 抽象派 不喜欢gay 匿名提问箱⬇️ 谨言慎行",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finn040309",
+                "end": 23,
+                "expanded_url": "https://ngl.link/finn040309",
+                "start": 0,
+                "url": "https://t.co/d458ZLbWSS"
+              }
+            ]
+          }
+        },
+        "id": "1931829992427601920",
+        "name": "尼罗河",
+        "pinned_tweet_id": "1959859078902976619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955451273203027971/c6TBj0zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 23,
+          "like_count": 3591,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/d458ZLbWSS",
+        "username": "finn0439",
+        "verified": false
+      }
+    ]
+  }
+}

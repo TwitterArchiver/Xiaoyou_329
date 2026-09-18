@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1960235692484948399",
+    "created_at": "2025-08-26T15:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T16:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960370723509211231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1946630800377860096",
+          "start": 0,
+          "username": "XingShizi94639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960370723509211231",
+    "in_reply_to_user_id": "1946630800377860096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960235692484948399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XingShizi94639 宝宝我会一直跟着你的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 295,
+        "media_key": "3_1960235683974651904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQn-ANaoAAUWdA.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1960235692484948399",
+        "created_at": "2025-08-26T15:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960370723509211231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1946630800377860096",
+              "start": 0,
+              "username": "XingShizi94639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960370723509211231",
+        "in_reply_to_user_id": "1946630800377860096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960235692484948399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XingShizi94639 宝宝我会一直跟着你的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960235683974651904"
+          ]
+        },
+        "author_id": "1946630800377860096",
+        "conversation_id": "1960235692484948399",
+        "created_at": "2025-08-26T06:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T07:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960235692484948399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvEVW6uGkR",
+              "end": 132,
+              "expanded_url": "https://x.com/XingShizi94639/status/1960235692484948399/photo/1",
+              "media_key": "3_1960235683974651904",
+              "start": 109,
+              "url": "https://t.co/rvEVW6uGkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960235692484948399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 884,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我只刷你们的帖子评论了一下，怎么就发这么条帖子了。我感觉我需要冷静一下，所以我要先说一下如果之后我有发你们不喜欢的的内容，或者觉得我不够活跃没有互动，可以单取or双取，我有时间都会看你们的帖子的，爱泥萌☺️☺️ https://t.co/rvEVW6uGkR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 74,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 629
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T17:59:03.000Z",
+        "description": "这是我的自介^ ^ 占有欲 偏执狂 抑郁症 忧郁 累贼 抑郁症 双相情感障碍 超凶综合症圈子很小只有你一人 氛围感 毒舌 调侃 暧昧  拉扯 控制狂 恶趣味 被动 厌蠢 社恐 开朗 情绪稳定 随叫随到 敏感多疑",
+        "id": "1946630800377860096",
+        "name": "星柿子（🍅大王梦女 大哥麻婆豆腐）",
+        "pinned_tweet_id": "1958581429090095145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946630997811863554/SSCrM9OZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 259,
+          "like_count": 10375,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4853
+        },
+        "username": "XingShizi94639",
+        "verified": false
+      }
+    ]
+  }
+}

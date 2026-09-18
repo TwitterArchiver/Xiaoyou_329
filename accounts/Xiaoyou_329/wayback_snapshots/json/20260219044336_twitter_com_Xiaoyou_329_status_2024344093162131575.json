@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2024322752178507782",
+    "created_at": "2026-02-19T04:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024344093162131575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2023947152603639808",
+          "start": 0,
+          "username": "HenYiYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024344093162131575",
+    "in_reply_to_user_id": "2023947152603639808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024339174602727637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HenYiYu 其实我想说他以哥哥自称来着。。嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2024322752178507782",
+        "created_at": "2026-02-19T04:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024344093162131575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2023947152603639808",
+              "start": 0,
+              "username": "HenYiYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024344093162131575",
+        "in_reply_to_user_id": "2023947152603639808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024339174602727637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HenYiYu 其实我想说他以哥哥自称来着。。嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023947152603639808",
+        "conversation_id": "2024322752178507782",
+        "created_at": "2026-02-19T04:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024339174602727637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024339174602727637",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024322752178507782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我觉得他应该在吃饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024073032029950059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12103,
+          "following_count": 159,
+          "like_count": 6738,
+          "listed_count": 19,
+          "media_count": 678,
+          "tweet_count": 5546
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T02:26:26.000Z",
+        "description": "",
+        "id": "2023947152603639808",
+        "name": "很抑郁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024020404516646912/GkGzgfmu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 41,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 187
+        },
+        "username": "HenYiYu",
+        "verified": false
+      }
+    ]
+  }
+}

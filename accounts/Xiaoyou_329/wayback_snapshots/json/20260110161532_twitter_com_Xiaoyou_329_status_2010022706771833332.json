@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2010022013801554306",
+    "created_at": "2026-01-10T16:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T17:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010022706771833332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1983847426302865408",
+          "start": 0,
+          "username": "icesu9er"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010022706771833332",
+    "in_reply_to_user_id": "1983847426302865408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010022536525009197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icesu9er 能别戳我心窝子吗。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2010022013801554306",
+        "created_at": "2026-01-10T16:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010022706771833332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1983847426302865408",
+              "start": 0,
+              "username": "icesu9er"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010022706771833332",
+        "in_reply_to_user_id": "1983847426302865408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010022536525009197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icesu9er 能别戳我心窝子吗。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983847426302865408",
+        "conversation_id": "2010022013801554306",
+        "created_at": "2026-01-10T16:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010022536525009197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010022536525009197",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010022013801554306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 你去问问呢？万一他在和别人聊天呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜请不要打探我的隐私｜感谢关注 谢谢你愿意留下来了解我 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9079,
+          "following_count": 155,
+          "like_count": 6128,
+          "listed_count": 11,
+          "media_count": 582,
+          "tweet_count": 4880
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T10:44:33.000Z",
+        "description": "",
+        "id": "1983847426302865408",
+        "name": "REDSUGER",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989696542706733058/WKO_0Uwh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 574,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 329
+        },
+        "username": "icesu9er",
+        "verified": false
+      }
+    ]
+  }
+}

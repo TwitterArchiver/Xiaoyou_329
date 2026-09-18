@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2064932877687836929",
+    "created_at": "2026-06-11T13:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065060502729109790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1890477889096908800",
+          "start": 0,
+          "username": "dian1459"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065060502729109790",
+    "in_reply_to_user_id": "1890477889096908800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065050908153483738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dian1459 除了我这个辅助，其他全部都不是人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2064932877687836929",
+        "created_at": "2026-06-11T13:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065060502729109790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1890477889096908800",
+              "start": 0,
+              "username": "dian1459"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065060502729109790",
+        "in_reply_to_user_id": "1890477889096908800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065050908153483738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dian1459 除了我这个辅助，其他全部都不是人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890477889096908800",
+        "conversation_id": "2064932877687836929",
+        "created_at": "2026-06-11T12:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065050908153483738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065050908153483738",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064932877687836929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 马超亚连是人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15440,
+          "following_count": 175,
+          "like_count": 7620,
+          "listed_count": 20,
+          "media_count": 801,
+          "tweet_count": 6715
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T19:07:25.000Z",
+        "description": "最喜欢吃麦当劳",
+        "id": "1890477889096908800",
+        "location": "你的心",
+        "name": "隐喻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986862680574226432/Jsnwup3q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 10,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "dian1459",
+        "verified": false
+      }
+    ]
+  }
+}

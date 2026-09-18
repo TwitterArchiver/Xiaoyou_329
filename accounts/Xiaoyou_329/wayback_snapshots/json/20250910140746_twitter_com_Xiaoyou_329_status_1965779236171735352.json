@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965779219209744384"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1965778357515387304",
+    "created_at": "2025-09-10T14:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T15:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965779236171735352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1854802850825830400",
+          "start": 0,
+          "username": "voice_J1HUA"
+        },
+        {
+          "end": 22,
+          "id": "1635317165397278721",
+          "start": 13,
+          "username": "Awo_tuzi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dMplqbgDIi",
+          "end": 92,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1965779236171735352/photo/1",
+          "media_key": "3_1965779219209744384",
+          "start": 69,
+          "url": "https://t.co/dMplqbgDIi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965779236171735352",
+    "in_reply_to_user_id": "1854802850825830400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965778357515387304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voice_J1HUA @Awo_tuzi 我操老公你来更新了…！那还说啥了 必须冲一发啊啊啊 好喜欢这种题材…鹿歧你简直是老公来的🥺 https://t.co/dMplqbgDIi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 706,
+        "media_key": "3_1965779219209744384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0fZyOPXcAA0JwE.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 1387996,
+        "height": 480,
+        "media_key": "13_1965777336852443136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965777336852443136/img/r7Iz96gaAQkGuDkL.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965777336852443136/vid/avc1/480x270/bw_WBxAHajjqeCs9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965777336852443136/vid/avc1/640x360/WQab7Svk_DWiAaUT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965777336852443136/vid/avc1/854x480/DtZH9rDzJjXqqnaE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965777336852443136/pl/adviDYm4nSfDt5e8.m3u8?tag=14"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965779219209744384"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1965778357515387304",
+        "created_at": "2025-09-10T14:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965779236171735352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854802850825830400",
+              "start": 0,
+              "username": "voice_J1HUA"
+            },
+            {
+              "end": 22,
+              "id": "1635317165397278721",
+              "start": 13,
+              "username": "Awo_tuzi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMplqbgDIi",
+              "end": 92,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1965779236171735352/photo/1",
+              "media_key": "3_1965779219209744384",
+              "start": 69,
+              "url": "https://t.co/dMplqbgDIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965779236171735352",
+        "in_reply_to_user_id": "1854802850825830400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965778357515387304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voice_J1HUA @Awo_tuzi 我操老公你来更新了…！那还说啥了 必须冲一发啊啊啊 好喜欢这种题材…鹿歧你简直是老公来的🥺 https://t.co/dMplqbgDIi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965777336852443136"
+          ]
+        },
+        "author_id": "1854802850825830400",
+        "conversation_id": "1965778357515387304",
+        "created_at": "2025-09-10T14:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965778357515387304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1635317165397278721",
+              "start": 17,
+              "username": "Awo_tuzi"
+            },
+            {
+              "end": 42,
+              "id": "1854802850825830400",
+              "start": 30,
+              "username": "voice_J1HUA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcXGroOW1p",
+              "end": 164,
+              "expanded_url": "https://x.com/voice_J1HUA/status/1965778357515387304/video/1",
+              "media_key": "13_1965777336852443136",
+              "start": 141,
+              "url": "https://t.co/rcXGroOW1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965778357515387304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 56,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《性爱娃娃体验室III》\n\n本娘:@Awo_tuzi\n配音:@voice_J1HUA\n\n除了我们变态店长\n又来了一位腼腆害羞的体育生捏\n\n“玩具…也玩遍了…要不试试他？”\n-疯狂doi时…他用对讲机把他们的做爱声传到给了体验室里…完事之后又循序渐进的把顾客带入到他们的性爱游戏中… https://t.co/rcXGroOW1p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 107,
+          "like_count": 1288,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1573
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T08:27:24.000Z",
+        "description": "♌狮子座/🦋INFP/直男/青年音/接配音/接定制男🚢（可带本）/🥺想跟我唠嗑可以给我发私信看到了就会回/🥺接游戏陪玩语音陪聊🥰/我的匿名箱在↓👇🏻↓/希望能成为大家都认可的男喘博主/点单私聊我/          盒岛:31528F",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/voice_j1hua",
+                "end": 23,
+                "expanded_url": "https://ngl.link/voice_j1hua",
+                "start": 0,
+                "url": "https://t.co/UeNLJefpNf"
+              }
+            ]
+          }
+        },
+        "id": "1854802850825830400",
+        "location": "这是匿名箱→",
+        "name": "鹿岐",
+        "pinned_tweet_id": "1931041811449209156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896746819436306432/QRkPXJDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18369,
+          "following_count": 48,
+          "like_count": 7282,
+          "listed_count": 21,
+          "media_count": 106,
+          "tweet_count": 872
+        },
+        "url": "https://t.co/UeNLJefpNf",
+        "username": "voice_J1HUA",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T16:29:43.000Z",
+        "description": "哇哦大家好我是兔子｜陆续更新本本｜短打自取 录本私信 请询问要录哪本 发布时艾特我（短打也一样需要艾特）｜整理好的饭 @Tuzi_0323｜日常叨叨@Y_tuzi ｜匿名箱：https://t.co/oFAVWanaCF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "Tuzi_0323"
+              },
+              {
+                "end": 81,
+                "start": 74,
+                "username": "Y_tuzi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tuzi77628",
+                "end": 110,
+                "expanded_url": "https://ngl.link/tuzi77628",
+                "start": 87,
+                "url": "https://t.co/oFAVWanaCF"
+              }
+            ]
+          }
+        },
+        "id": "1635317165397278721",
+        "name": "不吃兔子了哼",
+        "pinned_tweet_id": "1957531627313328632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932371816242425856/Io8sCntv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14457,
+          "following_count": 30,
+          "like_count": 698,
+          "listed_count": 18,
+          "media_count": 150,
+          "tweet_count": 541
+        },
+        "username": "Awo_tuzi",
+        "verified": false
+      }
+    ]
+  }
+}

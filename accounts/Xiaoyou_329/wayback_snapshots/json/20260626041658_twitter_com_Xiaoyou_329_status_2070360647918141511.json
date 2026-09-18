@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070241874443661787",
+    "created_at": "2026-06-26T04:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070360647918141511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1862472535193133058",
+          "start": 0,
+          "username": "xu3725"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070360647918141511",
+    "in_reply_to_user_id": "1862472535193133058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070359529918021694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu3725 上次去镇江忘记吃了…😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070241874443661787",
+        "created_at": "2026-06-26T04:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070360647918141511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1862472535193133058",
+              "start": 0,
+              "username": "xu3725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070360647918141511",
+        "in_reply_to_user_id": "1862472535193133058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070359529918021694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu3725 上次去镇江忘记吃了…😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862472535193133058",
+        "conversation_id": "2070241874443661787",
+        "created_at": "2026-06-26T04:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070359529918021694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070359529918021694",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070241874443661787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 镇江吃个锅盖面吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15743,
+          "following_count": 177,
+          "like_count": 7682,
+          "listed_count": 20,
+          "media_count": 865,
+          "tweet_count": 6976
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T12:24:13.000Z",
+        "description": "瓦赋能，游戏杂食啥都会点，一起玩dd",
+        "id": "1862472535193133058",
+        "name": "fine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062859863148085248/g8fhnokX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 100,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "xu3725",
+        "verified": false
+      }
+    ]
+  }
+}

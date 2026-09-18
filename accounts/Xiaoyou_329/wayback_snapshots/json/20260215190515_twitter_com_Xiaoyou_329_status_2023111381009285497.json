@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2022968475237695535",
+    "created_at": "2026-02-15T19:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T20:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023111381009285497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1916934435825717249",
+          "start": 0,
+          "username": "ooone_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023111381009285497",
+    "in_reply_to_user_id": "1916934435825717249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023111305050333440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooone_11 没有TuT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022968475237695535",
+        "created_at": "2026-02-15T19:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T20:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023111381009285497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1916934435825717249",
+              "start": 0,
+              "username": "ooone_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023111381009285497",
+        "in_reply_to_user_id": "1916934435825717249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023111305050333440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooone_11 没有TuT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916934435825717249",
+        "conversation_id": "2022968475237695535",
+        "created_at": "2026-02-15T19:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T20:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023111305050333440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023111305050333440",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022968475237695535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 宝宝你没有特殊符号吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12097,
+          "following_count": 161,
+          "like_count": 6688,
+          "listed_count": 19,
+          "media_count": 664,
+          "tweet_count": 5483
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T19:16:14.000Z",
+        "description": "@4iiY1_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "4iiY1_1"
+              }
+            ]
+          }
+        },
+        "id": "1916934435825717249",
+        "location": "ˊᵒ̴̶̷̤ꇴᵒ̴̶̷̤ˋ ",
+        "name": "好运滚滚来",
+        "pinned_tweet_id": "2000995022053999020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008565344341045248/QXum7h6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 43,
+          "like_count": 1126,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 3529
+        },
+        "username": "ooone_11",
+        "verified": false
+      }
+    ]
+  }
+}

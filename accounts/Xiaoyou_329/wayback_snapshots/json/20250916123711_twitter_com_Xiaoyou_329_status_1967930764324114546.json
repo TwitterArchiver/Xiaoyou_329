@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967930751032160256"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967929786283798605",
+    "created_at": "2025-09-16T12:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T13:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967930764324114546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1839552202446106624",
+          "start": 0,
+          "username": "xing20106"
+        },
+        {
+          "end": 21,
+          "id": "1784887323211280384",
+          "start": 11,
+          "username": "ljng15760"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JhTtwhiEHg",
+          "end": 113,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1967930764324114546/photo/1",
+          "media_key": "3_1967930751032160256",
+          "start": 90,
+          "url": "https://t.co/JhTtwhiEHg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967930764324114546",
+    "in_reply_to_user_id": "1839552202446106624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967929786283798605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xing20106 @ljng15760 像此图一样会做饭的星大厨…！那我晚上不得不冲一发了…！只要听到星老师的声音完全就…😋老师你的每个本都太自然了…太美味了…好喜欢你！！！ https://t.co/JhTtwhiEHg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1967930751032160256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09-l23W8AArZFy.jpg",
+        "width": 962
+      },
+      {
+        "duration_ms": 1346050,
+        "height": 720,
+        "media_key": "13_1967928770590904320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967928770590904320/img/db0lZqD31cPAnv_C.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967928770590904320/vid/avc1/360x270/OqGwsuwPYPVFpxVW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967928770590904320/vid/avc1/480x360/DT8-2a7oJNq_Jl6Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967928770590904320/vid/avc1/960x720/9ZGw8MsOUXyUKOVS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967928770590904320/pl/QBeDPxKh5Q_YkJij.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967930751032160256"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967929786283798605",
+        "created_at": "2025-09-16T12:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967930764324114546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839552202446106624",
+              "start": 0,
+              "username": "xing20106"
+            },
+            {
+              "end": 21,
+              "id": "1784887323211280384",
+              "start": 11,
+              "username": "ljng15760"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhTtwhiEHg",
+              "end": 113,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1967930764324114546/photo/1",
+              "media_key": "3_1967930751032160256",
+              "start": 90,
+              "url": "https://t.co/JhTtwhiEHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967930764324114546",
+        "in_reply_to_user_id": "1839552202446106624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967929786283798605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xing20106 @ljng15760 像此图一样会做饭的星大厨…！那我晚上不得不冲一发了…！只要听到星老师的声音完全就…😋老师你的每个本都太自然了…太美味了…好喜欢你！！！ https://t.co/JhTtwhiEHg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967928770590904320"
+          ]
+        },
+        "author_id": "1839552202446106624",
+        "conversation_id": "1967929786283798605",
+        "created_at": "2025-09-16T12:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967929786283798605"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "男喘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1784887323211280384",
+              "start": 28,
+              "username": "ljng15760"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GckN6uDf1N",
+              "end": 126,
+              "expanded_url": "https://x.com/xing20106/status/1967929786283798605/video/1",
+              "media_key": "13_1967928770590904320",
+              "start": 103,
+              "url": "https://t.co/GckN6uDf1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967929786283798605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 79,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《欲 望》校园 NTR （微粗口）慎\n\n台本老师：星星🌟@ljng15760 \n\n男老师与女学生在汽车后座偷～情，激烈之时，师妻恰巧路过在车窗前补妆……\n\n“看到她在车窗前补妆，你就故意夹我？”\n\n#男喘 https://t.co/GckN6uDf1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1967249281976594683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 117,
+          "like_count": 1528,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 1881
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T06:26:45.000Z",
+        "description": "饭盒：https://t.co/6Ui5Rxi46B 匿名信：https://t.co/sUm7wG148S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xingxing634.fanbox.cc",
+                "end": 26,
+                "expanded_url": "https://xingxing634.fanbox.cc/",
+                "start": 3,
+                "url": "https://t.co/6Ui5Rxi46B"
+              },
+              {
+                "display_url": "ngl.link/xing06102",
+                "end": 54,
+                "expanded_url": "https://ngl.link/xing06102",
+                "start": 31,
+                "url": "https://t.co/sUm7wG148S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xing20106?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/xing20106?s=21",
+                "start": 0,
+                "url": "https://t.co/i2wTASQw2n"
+              }
+            ]
+          }
+        },
+        "id": "1839552202446106624",
+        "name": "散落的星✨",
+        "pinned_tweet_id": "1953819591928430900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919418177429135360/k5WRpxPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13834,
+          "following_count": 22,
+          "like_count": 861,
+          "listed_count": 26,
+          "media_count": 128,
+          "tweet_count": 984
+        },
+        "url": "https://t.co/i2wTASQw2n",
+        "username": "xing20106",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "所有台本及短打都需要私信找我要授权，拿到授权再录/发布请圈@我一下 /自用🪜 https://t.co/5POqV5PI2E不接置顶～定制台本60千字、商用3倍、台本加急OR不公开千字多20⭐️（暂满 写完争取月底再开）/请勿搬运、抄袭、缝合",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.达蒙.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://a.xn--hv1a41u.com/#/register?code=l5JiAadv",
+                "start": 39,
+                "url": "https://t.co/5POqV5PI2E"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "月亮🌙上",
+        "name": "星星⭐️🫧",
+        "pinned_tweet_id": "1896054832747921456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966150524178489344/qAqU-cnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71119,
+          "following_count": 271,
+          "like_count": 10491,
+          "listed_count": 79,
+          "media_count": 640,
+          "tweet_count": 8422
+        },
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

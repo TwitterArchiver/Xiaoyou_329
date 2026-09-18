@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1993257646267482146",
+    "created_at": "2025-11-25T13:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993311433090826334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1734598399327088640",
+          "start": 0,
+          "username": "lxn2umerical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993311433090826334",
+    "in_reply_to_user_id": "1734598399327088640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993257646267482146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxn2umerical 辣椒好像是要用那种油性的东西洗。才能洗干净。清水和有些洗手液不太管用。不要问我怎么知道的。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_1993257639569244161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6l5QzBbwAEmVTr.jpg",
+        "width": 815
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1993257646267482146",
+        "created_at": "2025-11-25T13:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993311433090826334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1734598399327088640",
+              "start": 0,
+              "username": "lxn2umerical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993311433090826334",
+        "in_reply_to_user_id": "1734598399327088640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993257646267482146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxn2umerical 辣椒好像是要用那种油性的东西洗。才能洗干净。清水和有些洗手液不太管用。不要问我怎么知道的。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993257639569244161"
+          ]
+        },
+        "author_id": "1734598399327088640",
+        "conversation_id": "1993257646267482146",
+        "created_at": "2025-11-25T09:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993257646267482146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKiNUK79zy",
+              "end": 28,
+              "expanded_url": "https://x.com/lxn2umerical/status/1993257646267482146/photo/1",
+              "media_key": "3_1993257639569244161",
+              "start": 5,
+              "url": "https://t.co/kKiNUK79zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993257646267482146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4877,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我错了。 https://t.co/kKiNUK79zy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7169,
+          "following_count": 154,
+          "like_count": 5101,
+          "listed_count": 4,
+          "media_count": 522,
+          "tweet_count": 4175
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "养胃男/单相思中…/纯净版@ln2umerical1 年卡12r自用VPN https://t.co/kZHn0UTG3C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "ln2umerical1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "性价比机场.com/#/register?cod…",
+                "end": 61,
+                "expanded_url": "https://xn--6nq44r2uh9rhj7f.com/#/register?code=gsLtgWTi",
+                "start": 38,
+                "url": "https://t.co/kZHn0UTG3C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/mZpOgIfYSD"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北",
+        "pinned_tweet_id": "1993225483253956995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982403888222265344/OZI600qH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12629,
+          "following_count": 295,
+          "like_count": 41601,
+          "listed_count": 17,
+          "media_count": 616,
+          "tweet_count": 27859
+        },
+        "url": "https://t.co/mZpOgIfYSD",
+        "username": "lxn2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2058061610636447778",
+    "created_at": "2026-05-24T03:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T04:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058386055603401179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1549341822933094400",
+          "start": 0,
+          "username": "yeyemeiyouman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058386055603401179",
+    "in_reply_to_user_id": "1549341822933094400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058328105249595852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyemeiyouman 会被闷死吧！但是其实我自己玩呀…唉哎你懂一只手…然后另一只手…没有人帮我捂一下嗯对…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2058061610636447778",
+        "created_at": "2026-05-24T03:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058386055603401179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1549341822933094400",
+              "start": 0,
+              "username": "yeyemeiyouman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058386055603401179",
+        "in_reply_to_user_id": "1549341822933094400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058328105249595852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyemeiyouman 会被闷死吧！但是其实我自己玩呀…唉哎你懂一只手…然后另一只手…没有人帮我捂一下嗯对…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549341822933094400",
+        "conversation_id": "2058061610636447778",
+        "created_at": "2026-05-23T23:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T00:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058328105249595852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058328105249595852",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2418,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058061610636447778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 要是一直捂着嘴呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15100,
+          "following_count": 174,
+          "like_count": 7546,
+          "listed_count": 21,
+          "media_count": 850,
+          "tweet_count": 6622
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T10:34:24.000Z",
+        "description": "泥嚎*\\(๑• ₃ •๑）可以叫我小咪  \n06  switch 女的  全部都是口嗨 不约   \n等待幸福降临中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeyemeiyouman",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yeyemeiyouman",
+                "start": 0,
+                "url": "https://t.co/uk4Rd0sH96"
+              }
+            ]
+          }
+        },
+        "id": "1549341822933094400",
+        "name": "一只猫",
+        "pinned_tweet_id": "2041785735611871425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036674129613791232/b5iSD28Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 105,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/uk4Rd0sH96",
+        "username": "yeyemeiyouman",
+        "verified": false
+      }
+    ]
+  }
+}

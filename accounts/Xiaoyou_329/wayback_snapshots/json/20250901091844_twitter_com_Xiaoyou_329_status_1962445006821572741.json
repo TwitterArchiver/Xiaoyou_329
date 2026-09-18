@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962440189240050110",
+    "created_at": "2025-09-01T09:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T10:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962445006821572741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1866801084116668416",
+          "start": 0,
+          "username": "fuxixi67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962445006821572741",
+    "in_reply_to_user_id": "1866801084116668416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962440189240050110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuxixi67 好想吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962440178485895169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzv88eObIAEPdmq.jpg",
+        "width": 1586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962440189240050110",
+        "created_at": "2025-09-01T09:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T10:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962445006821572741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1866801084116668416",
+              "start": 0,
+              "username": "fuxixi67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962445006821572741",
+        "in_reply_to_user_id": "1866801084116668416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962440189240050110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuxixi67 好想吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962440178485895169"
+          ]
+        },
+        "author_id": "1866801084116668416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1962440189240050110",
+        "created_at": "2025-09-01T08:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T09:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962440189240050110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCEtEVRlxT",
+              "end": 25,
+              "expanded_url": "https://x.com/fuxixi67/status/1962440189240050110/photo/1",
+              "media_key": "3_1962440178485895169",
+              "start": 2,
+              "url": "https://t.co/rCEtEVRlxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962440189240050110",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/rCEtEVRlxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…｜梦想是去一次海边",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 100,
+          "like_count": 890,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1006
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T11:04:21.000Z",
+        "description": "平和 坚韧 不悲伤",
+        "id": "1866801084116668416",
+        "name": "67",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927268027709427712/JbYay46m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 49,
+          "like_count": 2003,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 322
+        },
+        "username": "fuxixi67",
+        "verified": false
+      }
+    ]
+  }
+}

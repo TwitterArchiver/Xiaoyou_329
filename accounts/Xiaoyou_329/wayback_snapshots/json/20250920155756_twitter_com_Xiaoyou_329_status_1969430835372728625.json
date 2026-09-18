@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1969430589456728422",
+    "created_at": "2025-09-20T15:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T16:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969430835372728625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1640719825646546944",
+          "start": 0,
+          "username": "xxx9180321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969430835372728625",
+    "in_reply_to_user_id": "1640719825646546944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969430589456728422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx9180321 好漂亮…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1969430582267691013",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1TSrhnbQAUc09i.jpg",
+        "width": 1280
+      },
+      {
+        "height": 958,
+        "media_key": "3_1969430582296993792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1TSrhuaYAAFfPa.jpg",
+        "width": 1276
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1969430582259302401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1TSrhlbQAEWBXe.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1969430582280294400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1TSrhqbkAA38H2.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1969430589456728422",
+        "created_at": "2025-09-20T15:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T16:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969430835372728625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1640719825646546944",
+              "start": 0,
+              "username": "xxx9180321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969430835372728625",
+        "in_reply_to_user_id": "1640719825646546944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969430589456728422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx9180321 好漂亮…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969430582267691013",
+            "3_1969430582296993792",
+            "3_1969430582259302401",
+            "3_1969430582280294400"
+          ]
+        },
+        "author_id": "1640719825646546944",
+        "conversation_id": "1969430589456728422",
+        "created_at": "2025-09-20T15:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T16:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969430589456728422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IdQkqf8PZJ",
+              "end": 26,
+              "expanded_url": "https://x.com/xxx9180321/status/1969430589456728422/photo/1",
+              "media_key": "3_1969430582267691013",
+              "start": 3,
+              "url": "https://t.co/IdQkqf8PZJ"
+            },
+            {
+              "display_url": "pic.x.com/IdQkqf8PZJ",
+              "end": 26,
+              "expanded_url": "https://x.com/xxx9180321/status/1969430589456728422/photo/1",
+              "media_key": "3_1969430582296993792",
+              "start": 3,
+              "url": "https://t.co/IdQkqf8PZJ"
+            },
+            {
+              "display_url": "pic.x.com/IdQkqf8PZJ",
+              "end": 26,
+              "expanded_url": "https://x.com/xxx9180321/status/1969430589456728422/photo/1",
+              "media_key": "3_1969430582259302401",
+              "start": 3,
+              "url": "https://t.co/IdQkqf8PZJ"
+            },
+            {
+              "display_url": "pic.x.com/IdQkqf8PZJ",
+              "end": 26,
+              "expanded_url": "https://x.com/xxx9180321/status/1969430589456728422/photo/1",
+              "media_key": "3_1969430582280294400",
+              "start": 3,
+              "url": "https://t.co/IdQkqf8PZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969430589456728422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到家 https://t.co/IdQkqf8PZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1965820788399026273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 119,
+          "like_count": 1694,
+          "listed_count": 1,
+          "media_count": 327,
+          "tweet_count": 2075
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T14:17:52.000Z",
+        "description": "非互关不加v账号分享自己生活碎碎念/看心情聊天/🚪纯绿/蜂鸟VPN 稳定好用可免费体验”https://t.co/yGNKYeVJeQ（我不是机器人，求放过）小号熟人可以过@miaomiao126146",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "miaomiao126146"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 67,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=cjFAE3",
+                "start": 44,
+                "url": "https://t.co/yGNKYeVJeQ"
+              }
+            ]
+          }
+        },
+        "id": "1640719825646546944",
+        "location": "🚪88",
+        "name": "喵",
+        "pinned_tweet_id": "1912429606151549284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911859034384154624/B8iN5gkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 308,
+          "like_count": 939,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 390
+        },
+        "username": "xxx9180321",
+        "verified": true
+      }
+    ]
+  }
+}

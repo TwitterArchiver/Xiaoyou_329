@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1971232438199386545",
+    "created_at": "2025-09-26T03:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T04:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971421112434294973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773625344412778496",
+          "start": 0,
+          "username": "ZzJ1341701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971421112434294973",
+    "in_reply_to_user_id": "1773625344412778496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971232438199386545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZzJ1341701 行 戴戒指我也认了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21032,
+        "height": 1280,
+        "media_key": "7_1971232386068381696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1971232386068381696/pu/img/FKvSfgNhYsbvm2ar.jpg",
+        "public_metrics": {
+          "view_count": 271
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971232386068381696/pu/vid/avc1/320x568/LUsfsHhWZYbQ0hjh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971232386068381696/pu/vid/avc1/480x852/ynuJvvE1lD3NR7Xu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971232386068381696/pu/vid/avc1/720x1280/rc4B14FTJfUcMrJ-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1971232386068381696/pu/pl/to2A6bTbFIYSIxqH.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1971232438199386545",
+        "created_at": "2025-09-26T03:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T04:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971421112434294973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773625344412778496",
+              "start": 0,
+              "username": "ZzJ1341701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971421112434294973",
+        "in_reply_to_user_id": "1773625344412778496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971232438199386545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZzJ1341701 行 戴戒指我也认了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1971232386068381696"
+          ]
+        },
+        "author_id": "1773625344412778496",
+        "conversation_id": "1971232438199386545",
+        "created_at": "2025-09-25T15:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T16:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971232438199386545"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "指奸"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "青筋"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "手控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPWteL1GoO",
+              "end": 35,
+              "expanded_url": "https://x.com/ZzJ1341701/status/1971232438199386545/video/1",
+              "media_key": "7_1971232386068381696",
+              "start": 12,
+              "url": "https://t.co/OPWteL1GoO"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "1971232438199386545",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 870,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#指奸 #青筋 #手控 https://t.co/OPWteL1GoO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 123,
+          "like_count": 1973,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 2336
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T08:17:00.000Z",
+        "description": "INFP / 05 / 直男 / 狮子座 / IP天津 喜欢唱歌听歌吃饭睡觉最近在努力健身+V私信",
+        "id": "1773625344412778496",
+        "name": "炸鸡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773627181304012800/JJAtCIeT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 152,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 118
+        },
+        "username": "ZzJ1341701",
+        "verified": false
+      }
+    ]
+  }
+}

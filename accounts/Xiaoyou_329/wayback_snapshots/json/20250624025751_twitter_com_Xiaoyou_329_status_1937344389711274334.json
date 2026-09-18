@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1937344389711274334",
+    "created_at": "2025-06-24T02:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T03:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937344389711274334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1691791250670895105",
+          "start": 3,
+          "username": "Kilig_i777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937344389711274334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937209458457034911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kilig_i777: 跟你们不懂指奸的人尿不到一个壶里。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1937344389711274334",
+        "created_at": "2025-06-24T02:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T03:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937344389711274334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1691791250670895105",
+              "start": 3,
+              "username": "Kilig_i777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937344389711274334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937209458457034911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kilig_i777: 跟你们不懂指奸的人尿不到一个壶里。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691791250670895105",
+        "conversation_id": "1937209458457034911",
+        "created_at": "2025-06-23T18:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T19:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937209458457034911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937209458457034911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3788,
+          "like_count": 64,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "跟你们不懂指奸的人尿不到一个壶里。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 47,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 118
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T12:37:33.000Z",
+        "description": "不想叫我宝宝可以叫我香香｜谢谢你的取关 |我没有小号别被骗|推广关评自辨｜匿名📪 https://t.co/xEONfKiwpu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%88%91%E6%9…",
+                "end": 64,
+                "expanded_url": "https://ngl.link/%E6%88%91%E6%9C%8D%E4%BA%86%E5%AE%9D%E5%AE%9D",
+                "start": 41,
+                "url": "https://t.co/xEONfKiwpu"
+              }
+            ]
+          }
+        },
+        "id": "1691791250670895105",
+        "location": "答应我会幸福",
+        "name": "我服了宝宝",
+        "pinned_tweet_id": "1930580592913007036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927900924237762560/_p_RRqEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7120,
+          "following_count": 233,
+          "like_count": 9082,
+          "listed_count": 12,
+          "media_count": 131,
+          "tweet_count": 4094
+        },
+        "username": "Kilig_i777",
+        "verified": false
+      }
+    ]
+  }
+}

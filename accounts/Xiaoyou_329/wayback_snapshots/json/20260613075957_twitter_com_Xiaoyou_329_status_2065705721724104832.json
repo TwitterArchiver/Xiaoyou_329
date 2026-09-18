@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2065704256020308278",
+    "created_at": "2026-06-13T07:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065705721724104832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2027373195901480960",
+          "start": 0,
+          "username": "Nimmmaiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065705721724104832",
+    "in_reply_to_user_id": "2027373195901480960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065704256020308278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nimmmaiii 我操你以为他没说吗我好想笑啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2065704256020308278",
+        "created_at": "2026-06-13T07:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065705721724104832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2027373195901480960",
+              "start": 0,
+              "username": "Nimmmaiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065705721724104832",
+        "in_reply_to_user_id": "2027373195901480960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065704256020308278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nimmmaiii 我操你以为他没说吗我好想笑啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027373195901480960",
+        "conversation_id": "2065704256020308278",
+        "created_at": "2026-06-13T07:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065704256020308278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyou_329/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/xiaoyou_329/status/2065514481774662134",
+              "start": 31,
+              "url": "https://t.co/u4qju3hWn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065704256020308278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065514481774662134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有男的和我说因为没有在里面射，所以不算做过🫰🏻🫰🏻💪🏻💪🏻 https://t.co/u4qju3hWn2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15470,
+          "following_count": 175,
+          "like_count": 7632,
+          "listed_count": 20,
+          "media_count": 806,
+          "tweet_count": 6732
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T13:20:20.000Z",
+        "description": "推广自辨",
+        "id": "2027373195901480960",
+        "location": "没门没门没门 不加不加不加 不打不打不打",
+        "name": "我不要",
+        "pinned_tweet_id": "2065068775393906813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027374208909742080/DUyEzwVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4870,
+          "following_count": 56,
+          "like_count": 1538,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 447
+        },
+        "username": "Nimmmaiii",
+        "verified": false
+      }
+    ]
+  }
+}

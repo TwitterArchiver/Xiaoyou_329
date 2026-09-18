@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1961778790369276259",
+    "created_at": "2025-08-30T16:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T17:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961823454837068162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1478921478355644416",
+          "start": 0,
+          "username": "lh17272"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961823454837068162",
+    "in_reply_to_user_id": "1478921478355644416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961778790369276259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lh17272 我不行了！问的问题都好劲爆！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1961778790369276259",
+        "created_at": "2025-08-30T16:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961823454837068162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1478921478355644416",
+              "start": 0,
+              "username": "lh17272"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961823454837068162",
+        "in_reply_to_user_id": "1478921478355644416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961778790369276259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lh17272 我不行了！问的问题都好劲爆！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478921478355644416",
+        "conversation_id": "1961778790369276259",
+        "created_at": "2025-08-30T13:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961778790369276259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "猪仔煲捞面’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1zqKV…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1zqKVdwpnOAJB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1961778791782789120/5bRxt03V?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1961778791782789120/5bRxt03V?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 无聊ing～",
+              "unwound_url": "https://twitter.com/i/spaces/1zqKVdwpnOAJB/peek",
+              "url": "https://t.co/yelsUfdcvI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961778790369276259",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yelsUfdcvI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 98,
+          "like_count": 852,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 891
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T02:49:55.000Z",
+        "description": "重要的不是某一个特定的时间， 而是我们为时间赋予的意义。",
+        "id": "1478921478355644416",
+        "name": "猪仔煲捞面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925875438502526976/EBMRMpcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 244,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 148
+        },
+        "username": "lh17272",
+        "verified": false
+      }
+    ]
+  }
+}

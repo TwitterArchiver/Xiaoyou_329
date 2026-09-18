@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1987538073228648858",
+    "created_at": "2025-11-09T15:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T16:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987538800420229441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1081383751450537985",
+          "start": 0,
+          "username": "kanqilaibushuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987538800420229441",
+    "in_reply_to_user_id": "1081383751450537985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987538073228648858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanqilaibushuai 我操。你终于更新了吗😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 276342,
+        "height": 576,
+        "media_key": "13_1987537830344785920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987537830344785920/img/tGl2QFz3X-9zk7Iu.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987537830344785920/vid/avc1/336x270/KiWo0VH81su35_lq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987537830344785920/vid/avc1/450x360/8tpO9oLyFmW97Cx5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987537830344785920/vid/avc1/720x576/oV3outzNwsMKbBmc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987537830344785920/pl/v-fqNqb54pj2VqUq.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1987538073228648858",
+        "created_at": "2025-11-09T15:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987538800420229441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1081383751450537985",
+              "start": 0,
+              "username": "kanqilaibushuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987538800420229441",
+        "in_reply_to_user_id": "1081383751450537985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987538073228648858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanqilaibushuai 我操。你终于更新了吗😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987537830344785920"
+          ]
+        },
+        "author_id": "1081383751450537985",
+        "conversation_id": "1987538073228648858",
+        "created_at": "2025-11-09T15:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987538073228648858"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "男喘"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "女性向"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "一爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F7R86teqaW",
+              "end": 122,
+              "expanded_url": "https://x.com/kanqilaibushuai/status/1987538073228648858/video/1",
+              "media_key": "13_1987537830344785920",
+              "start": 99,
+              "url": "https://t.co/F7R86teqaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987538073228648858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "&amp;手冲实录&amp;\n\n双声道     请戴好两支耳机\n\n左耳dirty talk     右耳sweet talk\n\n左右耳表达意思是一样的，两种方式表达一下\n\n#男喘 #女性向 #一爱 https://t.co/F7R86teqaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5053,
+          "following_count": 144,
+          "like_count": 4054,
+          "listed_count": 4,
+          "media_count": 429,
+          "tweet_count": 3451
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T02:55:52.000Z",
+        "description": "想我了就把手伸下去 告诉自己这是最后一次 （ 本子是本子，我是我 “你所爱的男性角色其实都是女性作者的灵魂”",
+        "id": "1081383751450537985",
+        "location": "小孩那桌",
+        "name": "老浣熊",
+        "pinned_tweet_id": "1822551190820811052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630593808311398400/OfFYhzBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38618,
+          "following_count": 207,
+          "like_count": 21023,
+          "listed_count": 77,
+          "media_count": 365,
+          "tweet_count": 8186
+        },
+        "username": "kanqilaibushuai",
+        "verified": false
+      }
+    ]
+  }
+}

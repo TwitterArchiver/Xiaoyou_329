@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072869098313416704"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2072869108111343891",
+    "created_at": "2026-07-03T02:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T03:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072869108111343891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M0Kqrc93FN",
+          "end": 71,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2072869108111343891/photo/1",
+          "media_key": "3_2072869098313416704",
+          "start": 48,
+          "url": "https://t.co/M0Kqrc93FN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072869108111343891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实没有喝奶茶但是昨天晚上吃夜宵了。谢谢你u (ˆ⸝⸝&gt;ꇴ&lt;ˆ)ε&lt;⸝⸝ˆ) https://t.co/M0Kqrc93FN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1563,
+        "media_key": "3_2072869098313416704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRPdl7bAAAvSwu.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072869098313416704"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2072869108111343891",
+        "created_at": "2026-07-03T02:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072869108111343891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0Kqrc93FN",
+              "end": 71,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2072869108111343891/photo/1",
+              "media_key": "3_2072869098313416704",
+              "start": 48,
+              "url": "https://t.co/M0Kqrc93FN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072869108111343891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实没有喝奶茶但是昨天晚上吃夜宵了。谢谢你u (ˆ⸝⸝&gt;ꇴ&lt;ˆ)ε&lt;⸝⸝ˆ) https://t.co/M0Kqrc93FN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16998,
+          "following_count": 177,
+          "like_count": 7684,
+          "listed_count": 20,
+          "media_count": 894,
+          "tweet_count": 7132
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

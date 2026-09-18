@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2061085946351919436",
+    "created_at": "2026-06-01T03:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061287869168394668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841913612925075456",
+          "start": 0,
+          "username": "234sIo7AIF38466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061287869168394668",
+    "in_reply_to_user_id": "1841913612925075456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061220101148594387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@234sIo7AIF38466 真的会有人因为这么一点点钱然后就把自己卖了吗。又不是买什么卖身契。好无奈。什么时候人才能知道付出就是不一定会有回报任何事情都是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2061085946351919436",
+        "created_at": "2026-06-01T03:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061287869168394668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841913612925075456",
+              "start": 0,
+              "username": "234sIo7AIF38466"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061287869168394668",
+        "in_reply_to_user_id": "1841913612925075456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061220101148594387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@234sIo7AIF38466 真的会有人因为这么一点点钱然后就把自己卖了吗。又不是买什么卖身契。好无奈。什么时候人才能知道付出就是不一定会有回报任何事情都是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841913612925075456",
+        "conversation_id": "2061085946351919436",
+        "created_at": "2026-05-31T22:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061220101148594387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061220101148594387",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061085946351919436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 想投喂前就先把：我对对方有好感且自己有能力而且觉得这点钱买了对方的开心我也乐意给了就给了不求回报    这句话深深的刻进脑子里好吗，我要是喜欢一个人给对方打赏投喂一些几十几百块的小东西或者直接给都觉得无所谓我给了我开心就好了，怎么老有人觉得自己投喂了或者打赏了就一定会有回报"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15344,
+          "following_count": 176,
+          "like_count": 7561,
+          "listed_count": 20,
+          "media_count": 871,
+          "tweet_count": 6718
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T18:50:10.000Z",
+        "description": "不要打我我是双……",
+        "id": "1841913612925075456",
+        "name": "提前下班回家给丈夫一个惊喜发现阳痿丈夫与大猛1颠鸾倒凤含泪戴屌加入",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877435936692383750/1IFslKhM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 39,
+          "like_count": 2273,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 880
+        },
+        "username": "234sIo7AIF38466",
+        "verified": false
+      }
+    ]
+  }
+}

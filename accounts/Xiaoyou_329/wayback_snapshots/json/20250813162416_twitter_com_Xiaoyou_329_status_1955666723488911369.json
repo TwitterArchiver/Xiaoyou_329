@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1955660298444324881",
+    "created_at": "2025-08-13T16:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T17:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955666723488911369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830536499072487424",
+          "start": 0,
+          "username": "accendio_0527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955666723488911369",
+    "in_reply_to_user_id": "1830536499072487424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955666348736176329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@accendio_0527 好的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1955660298444324881",
+        "created_at": "2025-08-13T16:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T17:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955666723488911369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830536499072487424",
+              "start": 0,
+              "username": "accendio_0527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955666723488911369",
+        "in_reply_to_user_id": "1830536499072487424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955666348736176329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@accendio_0527 好的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830536499072487424",
+        "conversation_id": "1955660298444324881",
+        "created_at": "2025-08-13T16:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T17:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955666348736176329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955666348736176329",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955664634637328485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 买理肤泉吧 蜜丝婷不太防晒军训估计不够"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 70,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 229
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T09:21:31.000Z",
+        "description": "不加联系方式",
+        "id": "1830536499072487424",
+        "location": "上海",
+        "name": "遇到困难睡大觉",
+        "pinned_tweet_id": "1953688937454874773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921245455494606849/N4GgMX8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 13,
+          "like_count": 338,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 166
+        },
+        "username": "accendio_0527",
+        "verified": false
+      }
+    ]
+  }
+}

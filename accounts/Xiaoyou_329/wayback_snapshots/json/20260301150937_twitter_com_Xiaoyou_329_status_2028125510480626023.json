@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028108326354173973",
+    "created_at": "2026-03-01T15:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T16:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028125510480626023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815305680942997504",
+          "start": 0,
+          "username": "isssstyy1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028125510480626023",
+    "in_reply_to_user_id": "1815305680942997504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028115538048950586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isssstyy1123 真的好难TuT…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028108326354173973",
+        "created_at": "2026-03-01T15:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028125510480626023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815305680942997504",
+              "start": 0,
+              "username": "isssstyy1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028125510480626023",
+        "in_reply_to_user_id": "1815305680942997504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028115538048950586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isssstyy1123 真的好难TuT…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815305680942997504",
+        "conversation_id": "2028108326354173973",
+        "created_at": "2026-03-01T14:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028115538048950586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028115538048950586",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028108326354173973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 宝宝我觉得要自己先爱自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12724,
+          "following_count": 164,
+          "like_count": 6789,
+          "listed_count": 19,
+          "media_count": 702,
+          "tweet_count": 5645
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T08:39:43.000Z",
+        "description": "小猫体质 infj 日常碎碎念 谢谢你喜欢我让我们一起变成幸福大王～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isssstyy1123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/isssstyy1123",
+                "start": 0,
+                "url": "https://t.co/gMHv9zLdGL"
+              }
+            ]
+          }
+        },
+        "id": "1815305680942997504",
+        "location": "🚪88纯绿",
+        "name": "吐司",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016036202437361664/vQvvUG7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 60,
+          "like_count": 591,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1050
+        },
+        "url": "https://t.co/gMHv9zLdGL",
+        "username": "isssstyy1123",
+        "verified": false
+      }
+    ]
+  }
+}

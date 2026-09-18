@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963906150203633664"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1963906159749857565",
+    "created_at": "2025-09-05T10:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T11:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963906159749857565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ol9Tu4kkY0",
+          "end": 32,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1963906159749857565/photo/1",
+          "media_key": "3_1963906150203633664",
+          "start": 9,
+          "url": "https://t.co/Ol9Tu4kkY0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963906159749857565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈要被气死了 https://t.co/Ol9Tu4kkY0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_1963906150203633664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0EyPQcXsAAi1Zk.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963906150203633664"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1963906159749857565",
+        "created_at": "2025-09-05T10:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T11:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963906159749857565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ol9Tu4kkY0",
+              "end": 32,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1963906159749857565/photo/1",
+              "media_key": "3_1963906150203633664",
+              "start": 9,
+              "url": "https://t.co/Ol9Tu4kkY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963906159749857565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈要被气死了 https://t.co/Ol9Tu4kkY0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜当朋友圈发｜感谢关注｜",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 101,
+          "like_count": 1020,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 1252
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

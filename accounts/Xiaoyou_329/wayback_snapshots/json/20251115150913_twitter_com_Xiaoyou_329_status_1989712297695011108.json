@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1989712297695011108",
+    "created_at": "2025-11-15T15:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T16:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989712297695011108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716365133742755840",
+          "start": 3,
+          "username": "ls_qu30904"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989712297695011108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989045620162851042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ls_qu30904: 没有门槛的意思就是你不可能可以加到我的联系方式。\n这很公平，人像切割光滑的多面体，看到了我的一面，就不能看到另一面。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1989712297695011108",
+        "created_at": "2025-11-15T15:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989712297695011108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716365133742755840",
+              "start": 3,
+              "username": "ls_qu30904"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989712297695011108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989045620162851042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ls_qu30904: 没有门槛的意思就是你不可能可以加到我的联系方式。\n这很公平，人像切割光滑的多面体，看到了我的一面，就不能看到另一面。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716365133742755840",
+        "conversation_id": "1989045620162851042",
+        "created_at": "2025-11-13T19:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T20:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989045620162851042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989045620162851042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 224386,
+          "like_count": 836,
+          "quote_count": 7,
+          "reply_count": 38,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "没有门槛的意思就是你不可能可以加到我的联系方式。\n这很公平，人像切割光滑的多面体，看到了我的一面，就不能看到另一面。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6426,
+          "following_count": 150,
+          "like_count": 4439,
+          "listed_count": 4,
+          "media_count": 464,
+          "tweet_count": 3727
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T08:05:23.000Z",
+        "description": "淡淡交汇过 各不留下印",
+        "id": "1716365133742755840",
+        "name": "buuuuq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929875587164000262/-MGHklyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4721,
+          "following_count": 44,
+          "like_count": 181,
+          "listed_count": 10,
+          "media_count": 29,
+          "tweet_count": 202
+        },
+        "username": "ls_qu30904",
+        "verified": false
+      }
+    ]
+  }
+}

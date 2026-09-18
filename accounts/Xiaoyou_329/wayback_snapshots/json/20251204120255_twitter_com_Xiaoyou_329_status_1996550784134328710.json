@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1996545271170523441",
+    "created_at": "2025-12-04T12:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T13:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996550784134328710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994622328748347394",
+          "start": 0,
+          "username": "miuers56465"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996550784134328710",
+    "in_reply_to_user_id": "1994622328748347394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996547530231017612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miuers56465 没有深圳的朋友。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1996545271170523441",
+        "created_at": "2025-12-04T12:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T13:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996550784134328710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994622328748347394",
+              "start": 0,
+              "username": "miuers56465"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996550784134328710",
+        "in_reply_to_user_id": "1994622328748347394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996547530231017612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miuers56465 没有深圳的朋友。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994622328748347394",
+        "conversation_id": "1996545271170523441",
+        "created_at": "2025-12-04T11:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T12:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996547530231017612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996547530231017612",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996545271170523441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 找深圳的朋友华强北淘一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "诶？！我好像只是萌一点 没有做错什么吧⸝⸝⸝ ╸▵╺⸝⸝⸝",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7912,
+          "following_count": 157,
+          "like_count": 5400,
+          "listed_count": 8,
+          "media_count": 524,
+          "tweet_count": 4349
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T04:20:06.000Z",
+        "description": "♑️/estj/珠三角/01/175/76 抖音发不了来这边发 欢迎大家找我玩 超大方 gym/🍺/🐈",
+        "id": "1994622328748347394",
+        "location": "深圳",
+        "name": "狂吃卤鸡腿🍗",
+        "pinned_tweet_id": "1995098067280998407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994622462294986753/8ZPdI7au_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 523,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 174
+        },
+        "username": "miuers56465",
+        "verified": false
+      }
+    ]
+  }
+}

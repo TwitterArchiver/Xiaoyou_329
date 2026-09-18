@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2024018827877437700",
+    "created_at": "2026-02-18T14:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024132066976129146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852308812541435904",
+          "start": 0,
+          "username": "syxiaxiaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024132066976129146",
+    "in_reply_to_user_id": "1852308812541435904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024130184635646064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syxiaxiaoyu 跳起来向后踢转个身再旋转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2024018827877437700",
+        "created_at": "2026-02-18T14:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024132066976129146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852308812541435904",
+              "start": 0,
+              "username": "syxiaxiaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024132066976129146",
+        "in_reply_to_user_id": "1852308812541435904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024130184635646064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syxiaxiaoyu 跳起来向后踢转个身再旋转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852308812541435904",
+        "conversation_id": "2024018827877437700",
+        "created_at": "2026-02-18T14:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024130184635646064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024130184635646064",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024018827877437700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 在很久以前～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024073032029950059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12092,
+          "following_count": 160,
+          "like_count": 6725,
+          "listed_count": 19,
+          "media_count": 675,
+          "tweet_count": 5530
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T11:16:58.000Z",
+        "description": "秋雨不问梧桐意/@FLCm0nesy⚡️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "FLCm0nesy"
+              }
+            ]
+          }
+        },
+        "id": "1852308812541435904",
+        "location": "沈阳南湖男子职业技术学院",
+        "name": "下小雨（喜欢眼镜妹版",
+        "pinned_tweet_id": "2016815718751498613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003854733359173632/FK8d49q9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 44,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 363
+        },
+        "username": "syxiaxiaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

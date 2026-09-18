@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070845933332656256",
+    "created_at": "2026-06-28T11:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071189292458930353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902888249653334016",
+          "start": 0,
+          "username": "Misak1Kusanagi1"
+        },
+        {
+          "end": 26,
+          "id": "1958043430652973057",
+          "start": 17,
+          "username": "zaa12410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071189292458930353",
+    "in_reply_to_user_id": "1902888249653334016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071143869513863677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misak1Kusanagi1 @zaa12410 男孩我保证你是天使……(っˊ⸝⸝&gt;ㅅ&lt;) ε &lt;ˋ⸝⸝)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070845933332656256",
+        "created_at": "2026-06-28T11:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071189292458930353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902888249653334016",
+              "start": 0,
+              "username": "Misak1Kusanagi1"
+            },
+            {
+              "end": 26,
+              "id": "1958043430652973057",
+              "start": 17,
+              "username": "zaa12410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071189292458930353",
+        "in_reply_to_user_id": "1902888249653334016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071143869513863677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misak1Kusanagi1 @zaa12410 男孩我保证你是天使……(っˊ⸝⸝&gt;ㅅ&lt;) ε &lt;ˋ⸝⸝)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902888249653334016",
+        "conversation_id": "2070845933332656256",
+        "created_at": "2026-06-28T08:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071143869513863677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1958043430652973057",
+              "start": 0,
+              "username": "zaa12410"
+            },
+            {
+              "end": 22,
+              "id": "1906360034725961728",
+              "start": 10,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071143869513863677",
+        "in_reply_to_user_id": "1958043430652973057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 526,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071141414730142000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaa12410 @Xiaoyou_329 可是呢我是男生呀。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16820,
+          "following_count": 177,
+          "like_count": 7684,
+          "listed_count": 20,
+          "media_count": 874,
+          "tweet_count": 7047
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:02:03.000Z",
+        "description": "我活着就已经很不容易了\n可以扩\n我很善良。\n4i 重郁重焦 高三\nmai舟崩什么的都沾一点\n猜你会雷:♂",
+        "id": "1902888249653334016",
+        "name": "pomelo",
+        "pinned_tweet_id": "2007348951763300614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587225020301312/9qykg60z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 278,
+          "like_count": 2816,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "Misak1Kusanagi1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T05:48:35.000Z",
+        "description": "",
+        "id": "1958043430652973057",
+        "name": "za a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958043556905644037/MMHSu7r7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "zaa12410",
+        "verified": false
+      }
+    ]
+  }
+}

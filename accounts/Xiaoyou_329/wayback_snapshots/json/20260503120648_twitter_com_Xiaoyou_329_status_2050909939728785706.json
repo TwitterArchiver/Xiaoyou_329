@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050909930648113152"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050909939728785706",
+    "created_at": "2026-05-03T12:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T13:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050909939728785706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fkf0DLIMOt",
+          "end": 67,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2050909939728785706/photo/1",
+          "media_key": "3_2050909930648113152",
+          "start": 44,
+          "url": "https://t.co/fkf0DLIMOt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050909939728785706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "队友你们继续k我头 吃成大肥猪还不听我话你们干啥啊我操你妈呀。我的法克。气的我肚子疼。 https://t.co/fkf0DLIMOt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2050909930648113152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZLtzqaEAAKt2u.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050909930648113152"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050909939728785706",
+        "created_at": "2026-05-03T12:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050909939728785706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkf0DLIMOt",
+              "end": 67,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2050909939728785706/photo/1",
+              "media_key": "3_2050909930648113152",
+              "start": 44,
+              "url": "https://t.co/fkf0DLIMOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050909939728785706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "队友你们继续k我头 吃成大肥猪还不听我话你们干啥啊我操你妈呀。我的法克。气的我肚子疼。 https://t.co/fkf0DLIMOt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14299,
+          "following_count": 165,
+          "like_count": 7433,
+          "listed_count": 21,
+          "media_count": 831,
+          "tweet_count": 6492
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

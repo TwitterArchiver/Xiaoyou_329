@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2062224052182544861",
+    "created_at": "2026-06-03T18:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062236378881233379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725957234654392320",
+          "start": 0,
+          "username": "chinaopk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062236378881233379",
+    "in_reply_to_user_id": "1725957234654392320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062226241600581931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chinaopk 你打钱吧我跟你聊 青受音免费。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2062224052182544861",
+        "created_at": "2026-06-03T18:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062236378881233379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725957234654392320",
+              "start": 0,
+              "username": "chinaopk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062236378881233379",
+        "in_reply_to_user_id": "1725957234654392320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062226241600581931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chinaopk 你打钱吧我跟你聊 青受音免费。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725957234654392320",
+        "conversation_id": "2062224052182544861",
+        "created_at": "2026-06-03T17:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062226241600581931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062226241600581931",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062224052182544861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 能聊天吗🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15407,
+          "following_count": 176,
+          "like_count": 7586,
+          "listed_count": 20,
+          "media_count": 875,
+          "tweet_count": 6755
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T19:20:56.000Z",
+        "description": "焦虑患者",
+        "id": "1725957234654392320",
+        "name": "净",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062189604195758080/sjlmayce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 12,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 359
+        },
+        "username": "chinaopk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1963824273992343982",
+    "created_at": "2025-09-05T04:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T05:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963826939812045301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904949484783841280",
+          "start": 0,
+          "username": "fuzhuovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963826939812045301",
+    "in_reply_to_user_id": "1904949484783841280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963824273992343982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuzhuovo （奇袭）腐竹你就是肝火太旺了 要多喝点丝瓜汤知道吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1963824264009961473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Dnw2mbUAEql3W.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1963824273992343982",
+        "created_at": "2025-09-05T04:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T05:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963826939812045301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904949484783841280",
+              "start": 0,
+              "username": "fuzhuovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963826939812045301",
+        "in_reply_to_user_id": "1904949484783841280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963824273992343982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuzhuovo （奇袭）腐竹你就是肝火太旺了 要多喝点丝瓜汤知道吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963824264009961473"
+          ]
+        },
+        "author_id": "1904949484783841280",
+        "conversation_id": "1963824273992343982",
+        "created_at": "2025-09-05T04:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T05:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963824273992343982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VH0EN6ThuX",
+              "end": 23,
+              "expanded_url": "https://x.com/fuzhuovo/status/1963824273992343982/photo/1",
+              "media_key": "3_1963824264009961473",
+              "start": 0,
+              "url": "https://t.co/VH0EN6ThuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963824273992343982",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VH0EN6ThuX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜当朋友圈发｜感谢关注｜",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 99,
+          "like_count": 1009,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1239
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T17:32:15.000Z",
+        "description": "男同点赞评论转发关注我的一辈子开不了张！！！\n🤗请叫我腐竹，谢谢你们喜欢我，台本中的角色终究不是我🫶请对我祛魅😌。\n我是看黄男😼\n(po一下属性185/74.15/15.1，1iswitch＞4i）\n欢迎提问👉 https://t.co/WL2eFEN50Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/flowerz28684",
+                "end": 129,
+                "expanded_url": "http://ngl.link/flowerz28684",
+                "start": 106,
+                "url": "https://t.co/WL2eFEN50Z"
+              }
+            ]
+          }
+        },
+        "id": "1904949484783841280",
+        "name": "😼腐竹大王",
+        "pinned_tweet_id": "1963559729034043631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962567126755221504/UpYzGaKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 660,
+          "like_count": 12097,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2429
+        },
+        "username": "fuzhuovo",
+        "verified": false
+      }
+    ]
+  }
+}

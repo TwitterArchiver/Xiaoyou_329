@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2048272569539940625",
+    "created_at": "2026-04-26T08:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048323753340481739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1778607199784415233",
+          "start": 0,
+          "username": "QuirkM47675"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048323753340481739",
+    "in_reply_to_user_id": "1778607199784415233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048302379687416160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuirkM47675 好漂亮呀…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048302347508670464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0IIffaYAAT15i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2048272569539940625",
+        "created_at": "2026-04-26T08:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048323753340481739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1778607199784415233",
+              "start": 0,
+              "username": "QuirkM47675"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048323753340481739",
+        "in_reply_to_user_id": "1778607199784415233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048302379687416160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuirkM47675 好漂亮呀…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048302347508670464"
+          ]
+        },
+        "author_id": "1778607199784415233",
+        "conversation_id": "2048272569539940625",
+        "created_at": "2026-04-26T07:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048302379687416160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwEfv1nKSX",
+              "end": 62,
+              "expanded_url": "https://x.com/QuirkM47675/status/2048302379687416160/photo/1",
+              "media_key": "3_2048302347508670464",
+              "start": 39,
+              "url": "https://t.co/uwEfv1nKSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048302379687416160",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048272569539940625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我觉得住在海滨城市是非常好的选择，给你看看我拍的😈 https://t.co/uwEfv1nKSX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13728,
+          "following_count": 163,
+          "like_count": 7417,
+          "listed_count": 20,
+          "media_count": 817,
+          "tweet_count": 6428
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T02:13:16.000Z",
+        "description": "",
+        "id": "1778607199784415233",
+        "name": "哈基米曼波",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025169658475642880/tfBEX1gL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 39,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 443
+        },
+        "username": "QuirkM47675",
+        "verified": false
+      }
+    ]
+  }
+}

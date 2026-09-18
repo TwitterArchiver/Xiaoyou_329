@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2000225601421254671",
+    "created_at": "2025-12-14T15:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T16:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000225601421254671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1906360034725961728",
+          "start": 3,
+          "username": "Xiaoyou_329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000225601421254671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987013493166645660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaoyou_329: 我有感情洁癖 精神洁癖，完全不能接受我对象和我谈论他前任，完全不敢想在和我谈之前他就已经和别的人牵手拥抱甚至亲吻。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2000225601421254671",
+        "created_at": "2025-12-14T15:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T16:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000225601421254671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1906360034725961728",
+              "start": 3,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000225601421254671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987013493166645660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaoyou_329: 我有感情洁癖 精神洁癖，完全不能接受我对象和我谈论他前任，完全不敢想在和我谈之前他就已经和别的人牵手拥抱甚至亲吻。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1987013493166645660",
+        "created_at": "2025-11-08T04:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987013493166645660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987013493166645660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3693,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我有感情洁癖 精神洁癖，完全不能接受我对象和我谈论他前任，完全不敢想在和我谈之前他就已经和别的人牵手拥抱甚至亲吻。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998748681420591104/R9MKBFHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8114,
+          "following_count": 151,
+          "like_count": 5725,
+          "listed_count": 8,
+          "media_count": 547,
+          "tweet_count": 4566
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

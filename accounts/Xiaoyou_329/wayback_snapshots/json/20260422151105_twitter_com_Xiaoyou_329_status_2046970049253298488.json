@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2046952170772434969",
+    "created_at": "2026-04-22T15:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046970049253298488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1778607199784415233",
+          "start": 0,
+          "username": "QuirkM47675"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046970049253298488",
+    "in_reply_to_user_id": "1778607199784415233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046969402902380813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuirkM47675 其实不是…我们只是正常关系好一点的同学…她说没关系我还觉得很尴尬然后拒绝了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2046952170772434969",
+        "created_at": "2026-04-22T15:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046970049253298488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1778607199784415233",
+              "start": 0,
+              "username": "QuirkM47675"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046970049253298488",
+        "in_reply_to_user_id": "1778607199784415233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046969402902380813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuirkM47675 其实不是…我们只是正常关系好一点的同学…她说没关系我还觉得很尴尬然后拒绝了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778607199784415233",
+        "conversation_id": "2046952170772434969",
+        "created_at": "2026-04-22T15:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046969402902380813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046969402902380813",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046952170772434969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 那真是好朋友了，我感觉我和家长旅游的话带外人好别扭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13496,
+          "following_count": 164,
+          "like_count": 7431,
+          "listed_count": 20,
+          "media_count": 818,
+          "tweet_count": 6410
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T02:13:16.000Z",
+        "description": "",
+        "id": "1778607199784415233",
+        "name": "哈基米曼波",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025169658475642880/tfBEX1gL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 25,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "QuirkM47675",
+        "verified": false
+      }
+    ]
+  }
+}

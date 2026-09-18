@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056372885254733824"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056372904921895231",
+    "created_at": "2026-05-18T13:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056372904921895231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RQzu2IoZMI",
+          "end": 41,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2056372904921895231/photo/1",
+          "media_key": "3_2056372885254733824",
+          "start": 18,
+          "url": "https://t.co/RQzu2IoZMI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056372904921895231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢。所有人321夸我！（≧∇≦） https://t.co/RQzu2IoZMI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2056372885254733824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIm0PndagAANp2t.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056372885254733824"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056372904921895231",
+        "created_at": "2026-05-18T13:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056372904921895231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQzu2IoZMI",
+              "end": 41,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2056372904921895231/photo/1",
+              "media_key": "3_2056372885254733824",
+              "start": 18,
+              "url": "https://t.co/RQzu2IoZMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056372904921895231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢。所有人321夸我！（≧∇≦） https://t.co/RQzu2IoZMI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14946,
+          "following_count": 175,
+          "like_count": 7509,
+          "listed_count": 21,
+          "media_count": 845,
+          "tweet_count": 6593
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2073965813930070441",
+    "created_at": "2026-07-06T10:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074076100293206260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894780591532335104",
+          "start": 0,
+          "username": "xainevv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074076100293206260",
+    "in_reply_to_user_id": "1894780591532335104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074068548520136763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xainevv 这个是谁我不认识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2073965813930070441",
+        "created_at": "2026-07-06T10:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074076100293206260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894780591532335104",
+              "start": 0,
+              "username": "xainevv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074076100293206260",
+        "in_reply_to_user_id": "1894780591532335104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074068548520136763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xainevv 这个是谁我不认识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894780591532335104",
+        "conversation_id": "2073965813930070441",
+        "created_at": "2026-07-06T09:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074068548520136763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074068548520136763",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073965813930070441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 是不是那个退圈跑路的ovo我总感觉好像他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17000,
+          "following_count": 183,
+          "like_count": 7688,
+          "listed_count": 20,
+          "media_count": 916,
+          "tweet_count": 7198
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T16:04:52.000Z",
+        "description": "愿我爱的人一直幸福",
+        "id": "1894780591532335104",
+        "name": "到底要干嘛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922722117797187584/jfwgRSga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 46,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "xainevv",
+        "verified": false
+      }
+    ]
+  }
+}

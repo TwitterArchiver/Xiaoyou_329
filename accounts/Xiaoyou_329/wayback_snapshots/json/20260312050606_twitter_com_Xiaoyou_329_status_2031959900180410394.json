@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2031936330045731144",
+    "created_at": "2026-03-12T05:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T06:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031959900180410394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1530915223934496768",
+          "start": 0,
+          "username": "BillJim83995316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031959900180410394",
+    "in_reply_to_user_id": "1530915223934496768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031952893784596892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BillJim83995316 你是哪位！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2031936330045731144",
+        "created_at": "2026-03-12T05:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031959900180410394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1530915223934496768",
+              "start": 0,
+              "username": "BillJim83995316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031959900180410394",
+        "in_reply_to_user_id": "1530915223934496768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031952893784596892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BillJim83995316 你是哪位！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530915223934496768",
+        "conversation_id": "2031936330045731144",
+        "created_at": "2026-03-12T04:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031952893784596892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031952893784596892",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031936330045731144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我去我没变，我真比以前man了，你再这样说我我真的受不了嘞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13150,
+          "following_count": 162,
+          "like_count": 7024,
+          "listed_count": 19,
+          "media_count": 729,
+          "tweet_count": 5905
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-29T14:13:47.000Z",
+        "description": "4i恶臭男",
+        "id": "1530915223934496768",
+        "name": "歪比巴卜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752707800768409600/0898HkyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 39,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 410
+        },
+        "username": "BillJim83995316",
+        "verified": false
+      }
+    ]
+  }
+}

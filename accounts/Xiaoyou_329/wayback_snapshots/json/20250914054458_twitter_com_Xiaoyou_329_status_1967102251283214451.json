@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1967078306877931685",
+    "created_at": "2025-09-14T05:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T06:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967102251283214451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933553167087906820",
+          "start": 0,
+          "username": "zhngxnyu167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967102251283214451",
+    "in_reply_to_user_id": "1933553167087906820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967102070177362082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngxnyu167 🥺我都好喜欢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1967078306877931685",
+        "created_at": "2025-09-14T05:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967102251283214451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933553167087906820",
+              "start": 0,
+              "username": "zhngxnyu167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967102251283214451",
+        "in_reply_to_user_id": "1933553167087906820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967102070177362082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngxnyu167 🥺我都好喜欢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933553167087906820",
+        "conversation_id": "1967078306877931685",
+        "created_at": "2025-09-14T05:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967102070177362082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967102070177362082",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967078306877931685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我也没刷到过 但我更爱男妈妈🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 106,
+          "like_count": 1428,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 1761
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T15:53:11.000Z",
+        "description": "ISFJ｜女宝可以找我互关呀",
+        "id": "1933553167087906820",
+        "name": "我想吃蛋挞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944113657337544704/UYE-UFy7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 63,
+          "like_count": 1402,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 781
+        },
+        "username": "zhngxnyu167",
+        "verified": false
+      }
+    ]
+  }
+}

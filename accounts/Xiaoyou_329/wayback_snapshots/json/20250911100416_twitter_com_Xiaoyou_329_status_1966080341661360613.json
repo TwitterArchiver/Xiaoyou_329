@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1966077568152645932",
+    "created_at": "2025-09-11T10:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T11:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966080341661360613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1921920906869497856",
+          "start": 0,
+          "username": "Y_28_Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966080341661360613",
+    "in_reply_to_user_id": "1921920906869497856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966080193426259987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_28_Z 费列罗的产品都好美味啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1966077568152645932",
+        "created_at": "2025-09-11T10:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T11:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966080341661360613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1921920906869497856",
+              "start": 0,
+              "username": "Y_28_Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966080341661360613",
+        "in_reply_to_user_id": "1921920906869497856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966080193426259987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_28_Z 费列罗的产品都好美味啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921920906869497856",
+        "conversation_id": "1966077568152645932",
+        "created_at": "2025-09-11T10:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T11:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966080193426259987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966080193426259987",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966077568152645932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 费列罗那个饼干也好好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜168 128｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1962855708673605710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 100,
+          "like_count": 1301,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 1613
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T13:30:40.000Z",
+        "description": "我一直活在虚假中",
+        "id": "1921920906869497856",
+        "location": "距你3.7km",
+        "name": "零下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942560905998524420/PQX0937q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 64,
+          "like_count": 3437,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 218
+        },
+        "username": "Y_28_Z",
+        "verified": false
+      }
+    ]
+  }
+}

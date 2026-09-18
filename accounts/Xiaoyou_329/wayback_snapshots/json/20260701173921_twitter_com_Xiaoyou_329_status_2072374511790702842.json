@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072374502949019648"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2072374511790702842",
+    "created_at": "2026-07-01T17:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072374511790702842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IidriUsC6f",
+          "end": 61,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2072374511790702842/photo/1",
+          "media_key": "3_2072374502949019648",
+          "start": 38,
+          "url": "https://t.co/IidriUsC6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072374511790702842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可是呢…！万一有人喜欢我呢…那让我圈一点点买漂亮衣服的钱好不好呀 好不好嘛 https://t.co/IidriUsC6f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2072374502949019648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKNoWnaYAAHIgF.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072374502949019648"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2072374511790702842",
+        "created_at": "2026-07-01T17:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072374511790702842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IidriUsC6f",
+              "end": 61,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2072374511790702842/photo/1",
+              "media_key": "3_2072374502949019648",
+              "start": 38,
+              "url": "https://t.co/IidriUsC6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072374511790702842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是呢…！万一有人喜欢我呢…那让我圈一点点买漂亮衣服的钱好不好呀 好不好嘛 https://t.co/IidriUsC6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17013,
+          "following_count": 178,
+          "like_count": 7683,
+          "listed_count": 20,
+          "media_count": 887,
+          "tweet_count": 7107
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2066216103941190121",
+    "created_at": "2026-06-14T22:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066281521619898667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055740563304108032",
+          "start": 0,
+          "username": "Litsadovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066281521619898667",
+    "in_reply_to_user_id": "2055740563304108032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066245674757492935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Litsadovo 因为我很害怕而且不自信…我不知道他看见我以后会不会觉得我很丑。很复杂！即使只是朋友也会纠结这个问题。他也没有说因为颜值，因为我没有给他发照片。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2066216103941190121",
+        "created_at": "2026-06-14T22:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066281521619898667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055740563304108032",
+              "start": 0,
+              "username": "Litsadovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066281521619898667",
+        "in_reply_to_user_id": "2055740563304108032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066245674757492935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Litsadovo 因为我很害怕而且不自信…我不知道他看见我以后会不会觉得我很丑。很复杂！即使只是朋友也会纠结这个问题。他也没有说因为颜值，因为我没有给他发照片。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055740563304108032",
+        "conversation_id": "2066216103941190121",
+        "created_at": "2026-06-14T19:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066245674757492935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066245674757492935",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066216103941190121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 为什么要纠结漂不漂亮 如果他仅仅只是因为你的颜值才跟你在一起的话那这个人也根本不值得你喜欢他呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15513,
+          "following_count": 175,
+          "like_count": 7646,
+          "listed_count": 20,
+          "media_count": 814,
+          "tweet_count": 6771
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T20:07:29.000Z",
+        "description": "極度惡俗之人",
+        "id": "2055740563304108032",
+        "name": "人類",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055759418139295744/_auhzJwr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 6,
+          "like_count": 2466,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 61
+        },
+        "username": "Litsadovo",
+        "verified": false
+      }
+    ]
+  }
+}

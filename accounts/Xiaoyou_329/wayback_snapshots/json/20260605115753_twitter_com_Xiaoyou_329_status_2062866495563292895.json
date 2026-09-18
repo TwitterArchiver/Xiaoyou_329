@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062866481965318145"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2062866495563292895",
+    "created_at": "2026-06-05T11:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062866495563292895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zqTER7fQys",
+          "end": 86,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2062866495563292895/photo/1",
+          "media_key": "3_2062866481965318145",
+          "start": 63,
+          "url": "https://t.co/zqTER7fQys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062866495563292895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别认真的细化了眼睛。但是。小图➕微信给我细节全吃没了。我好生气。为啥我甚至觉得第一张没细化的更白一点。没有美商我好痛苦。 https://t.co/zqTER7fQys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_2062866481965318145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDGIsSaQAEIUEH.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062866481965318145"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2062866495563292895",
+        "created_at": "2026-06-05T11:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062866495563292895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqTER7fQys",
+              "end": 86,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2062866495563292895/photo/1",
+              "media_key": "3_2062866481965318145",
+              "start": 63,
+              "url": "https://t.co/zqTER7fQys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062866495563292895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别认真的细化了眼睛。但是。小图➕微信给我细节全吃没了。我好生气。为啥我甚至觉得第一张没细化的更白一点。没有美商我好痛苦。 https://t.co/zqTER7fQys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15455,
+          "following_count": 176,
+          "like_count": 7602,
+          "listed_count": 20,
+          "media_count": 878,
+          "tweet_count": 6786
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2022527447053537329",
+    "created_at": "2026-02-14T04:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T05:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022527447053537329"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022527447053537329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不习惯一个人。我讨厌冷清清的感觉。我讨厌我没办法粘着别人。我讨厌随时就走的关系。我讨厌这样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022527447053537329",
+        "created_at": "2026-02-14T04:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022527447053537329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022527447053537329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不习惯一个人。我讨厌冷清清的感觉。我讨厌我没办法粘着别人。我讨厌随时就走的关系。我讨厌这样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12105,
+          "following_count": 161,
+          "like_count": 6612,
+          "listed_count": 19,
+          "media_count": 655,
+          "tweet_count": 5417
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2090442560971969020",
+    "created_at": "2026-08-20T15:14:18.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090457402281799923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2081131232667279360",
+          "start": 0,
+          "username": "Yunyayaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090457402281799923",
+    "in_reply_to_user_id": "2081131232667279360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090443273412481421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunyayaovo 可是我做不到这些事情。我心太软。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2090442560971969020",
+        "created_at": "2026-08-20T15:14:18.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090457402281799923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2081131232667279360",
+              "start": 0,
+              "username": "Yunyayaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090457402281799923",
+        "in_reply_to_user_id": "2081131232667279360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090443273412481421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunyayaovo 可是我做不到这些事情。我心太软。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081131232667279360",
+        "conversation_id": "2090442560971969020",
+        "created_at": "2026-08-20T14:18:09.000Z",
+        "display_text_range": [
+          13,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090443273412481421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090443273412481421",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090442560971969020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 让自己难受就让他滚呗 没必要内耗 你给他骂一顿也行"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090457402281799923",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17383,
+          "following_count": 182,
+          "like_count": 7674,
+          "listed_count": 22,
+          "media_count": 1122,
+          "tweet_count": 7728
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T21:36:45.000Z",
+        "description": "希望有一天能不用在这发疯(｡í ˰ ì｡)",
+        "id": "2081131232667279360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090449239017230843",
+        "name": "恩恩",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089723721833746434/Ao6Rx2DY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 127,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "Yunyayaovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

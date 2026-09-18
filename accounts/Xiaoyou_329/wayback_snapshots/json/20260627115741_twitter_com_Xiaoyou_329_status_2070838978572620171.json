@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070806417121141033",
+    "created_at": "2026-06-27T11:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070838978572620171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1683879633673138176",
+          "start": 0,
+          "username": "Deno_xx135"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070838978572620171",
+    "in_reply_to_user_id": "1683879633673138176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070833315884740812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deno_xx135 其实她那边也一团糟了…我以后大概率不怎么会和她出去玩了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070806417121141033",
+        "created_at": "2026-06-27T11:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070838978572620171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1683879633673138176",
+              "start": 0,
+              "username": "Deno_xx135"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070838978572620171",
+        "in_reply_to_user_id": "1683879633673138176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070833315884740812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deno_xx135 其实她那边也一团糟了…我以后大概率不怎么会和她出去玩了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683879633673138176",
+        "conversation_id": "2070806417121141033",
+        "created_at": "2026-06-27T11:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070833315884740812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070833315884740812",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070806417121141033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 宝，你的朋友你需要问问她，真的在乎你为什么让你一个人来面对这些？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15838,
+          "following_count": 178,
+          "like_count": 7681,
+          "listed_count": 20,
+          "media_count": 866,
+          "tweet_count": 7001
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T16:39:31.000Z",
+        "description": "Your internet femboy neighbor. Ⅰ 晋升漫才新人的男娘~",
+        "id": "1683879633673138176",
+        "name": "Deno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858804497658892288/cwH05u9j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 203,
+          "like_count": 1007,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "Deno_xx135",
+        "verified": false
+      }
+    ]
+  }
+}

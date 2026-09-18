@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963228444096954368"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1963227829631672500",
+    "created_at": "2025-09-03T13:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T14:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963228452355514560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946927130501120000",
+          "start": 0,
+          "username": "Xiaowu__111"
+        },
+        {
+          "end": 22,
+          "id": "1635317165397278721",
+          "start": 13,
+          "username": "Awo_tuzi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eYppmCmHOe",
+          "end": 66,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1963228452355514560/photo/1",
+          "media_key": "3_1963228444096954368",
+          "start": 43,
+          "url": "https://t.co/eYppmCmHOe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963228452355514560",
+    "in_reply_to_user_id": "1946927130501120000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963227829631672500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaowu__111 @Awo_tuzi 我操 粗口 小五…我那个有点那个了…！ https://t.co/eYppmCmHOe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 673,
+        "media_key": "3_1963228444096954368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz7J3kdXgAAnq54.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 1012350,
+        "height": 1012,
+        "media_key": "13_1963227251430076416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963227251430076416/img/3SHU80AHNX7cL_Rw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963227251430076416/vid/avc1/320x448/bLCIOzqdxg7ZG1fw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963227251430076416/vid/avc1/480x674/QBEAfDoyRVUpBm-q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963227251430076416/vid/avc1/720x1012/LMq665pHTDb8mSrb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963227251430076416/pl/4KlaCyQ_yqUsXmaX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963228444096954368"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1963227829631672500",
+        "created_at": "2025-09-03T13:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T14:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963228452355514560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946927130501120000",
+              "start": 0,
+              "username": "Xiaowu__111"
+            },
+            {
+              "end": 22,
+              "id": "1635317165397278721",
+              "start": 13,
+              "username": "Awo_tuzi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eYppmCmHOe",
+              "end": 66,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1963228452355514560/photo/1",
+              "media_key": "3_1963228444096954368",
+              "start": 43,
+              "url": "https://t.co/eYppmCmHOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963228452355514560",
+        "in_reply_to_user_id": "1946927130501120000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963227829631672500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaowu__111 @Awo_tuzi 我操 粗口 小五…我那个有点那个了…！ https://t.co/eYppmCmHOe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963227251430076416"
+          ]
+        },
+        "author_id": "1946927130501120000",
+        "conversation_id": "1963227829631672500",
+        "created_at": "2025-09-03T13:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T14:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963227829631672500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 112,
+              "id": "1635317165397278721",
+              "start": 103,
+              "username": "Awo_tuzi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b8QxsYyebd",
+              "end": 136,
+              "expanded_url": "https://x.com/Xiaowu__111/status/1963227829631672500/video/1",
+              "media_key": "13_1963227251430076416",
+              "start": 113,
+              "url": "https://t.co/b8QxsYyebd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963227829631672500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《雨锈》\n\n“我替他履行丈夫的义务，他应该感谢我不是吗？”\n“你不会是想告诉我...一条偷腥的狗...会改过自新...重新做一个称职的妻子吧？”\n\nNTR/年下/反差/粗口/口交/吞精/后入\n感谢台本老师：@Awo_tuzi https://t.co/b8QxsYyebd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜ENFP｜当朋友圈发｜感谢关注｜梦想是去一次海边",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 99,
+          "like_count": 954,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T13:36:32.000Z",
+        "description": "选择性接陪🥣 （陪聊/哄睡 没有卡）我只是一个爱玩抽象的普通人 不要对我带滤镜   新人男喘 暂时无🚪   不加V",
+        "id": "1946927130501120000",
+        "name": "小五",
+        "pinned_tweet_id": "1958088303447843073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948800124420775936/KiLLLXii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4861,
+          "following_count": 39,
+          "like_count": 353,
+          "listed_count": 8,
+          "media_count": 54,
+          "tweet_count": 265
+        },
+        "username": "Xiaowu__111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T16:29:43.000Z",
+        "description": "哇哦大家好我是兔子｜陆续更新本本｜短打自取 录本私信 请询问要录哪本 发布时艾特我（短打也一样需要艾特）｜整理好的饭 @Tuzi_0323｜日常叨叨@Y_tuzi ｜匿名箱：https://t.co/oFAVWanaCF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "Tuzi_0323"
+              },
+              {
+                "end": 81,
+                "start": 74,
+                "username": "Y_tuzi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tuzi77628",
+                "end": 110,
+                "expanded_url": "https://ngl.link/tuzi77628",
+                "start": 87,
+                "url": "https://t.co/oFAVWanaCF"
+              }
+            ]
+          }
+        },
+        "id": "1635317165397278721",
+        "name": "不吃兔子了哼",
+        "pinned_tweet_id": "1957531627313328632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932371816242425856/Io8sCntv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13576,
+          "following_count": 29,
+          "like_count": 652,
+          "listed_count": 17,
+          "media_count": 144,
+          "tweet_count": 513
+        },
+        "username": "Awo_tuzi",
+        "verified": false
+      }
+    ]
+  }
+}

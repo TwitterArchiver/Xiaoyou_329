@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056733351026081792"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2056733433045610703",
+    "created_at": "2026-05-19T13:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056733433045610703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MOmiI1SWhe",
+          "end": 53,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2056733433045610703/video/1",
+          "media_key": "13_2056733351026081792",
+          "start": 30,
+          "url": "https://t.co/MOmiI1SWhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056733433045610703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是我还不够可爱吗TuT\n为什么我跟别人撒娇的下场是被放置… https://t.co/MOmiI1SWhe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17711,
+        "height": 700,
+        "media_key": "13_2056733351026081792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056733351026081792/img/cajqAT5zuB9sk-Vf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056733351026081792/vid/avc1/342x270/gzC3_kzMivEy5noZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056733351026081792/vid/avc1/456x360/8i8ZnCS_uN3mwMvY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056733351026081792/vid/avc1/888x700/-k0FDdu1Tl5BtjJP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056733351026081792/pl/JE-8dnubMuxXGFo9.m3u8"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056733351026081792"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2056733433045610703",
+        "created_at": "2026-05-19T13:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056733433045610703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOmiI1SWhe",
+              "end": 53,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2056733433045610703/video/1",
+              "media_key": "13_2056733351026081792",
+              "start": 30,
+              "url": "https://t.co/MOmiI1SWhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056733433045610703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是我还不够可爱吗TuT\n为什么我跟别人撒娇的下场是被放置… https://t.co/MOmiI1SWhe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14962,
+          "following_count": 174,
+          "like_count": 7510,
+          "listed_count": 21,
+          "media_count": 851,
+          "tweet_count": 6606
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

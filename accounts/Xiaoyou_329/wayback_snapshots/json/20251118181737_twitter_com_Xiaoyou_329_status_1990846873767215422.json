@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1990725859938885955",
+    "created_at": "2025-11-18T18:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T19:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990846873767215422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1700120153835687936",
+          "start": 0,
+          "username": "Aovoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990846873767215422",
+    "in_reply_to_user_id": "1700120153835687936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990809594231214261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aovoii 好的！谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1990725859938885955",
+        "created_at": "2025-11-18T18:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990846873767215422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1700120153835687936",
+              "start": 0,
+              "username": "Aovoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990846873767215422",
+        "in_reply_to_user_id": "1700120153835687936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990809594231214261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aovoii 好的！谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700120153835687936",
+        "conversation_id": "1990725859938885955",
+        "created_at": "2025-11-18T15:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990809594231214261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990809594231214261",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990725859938885955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 一直mac🌚omega鼻影生姜高光🌚侧影随便找的一块hhhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜家妻善妒@Yuevli ｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 45,
+                "username": "Yuevli"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6752,
+          "following_count": 153,
+          "like_count": 4645,
+          "listed_count": 5,
+          "media_count": 481,
+          "tweet_count": 3844
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T12:13:48.000Z",
+        "description": "nothing about me",
+        "id": "1700120153835687936",
+        "name": "Aovoii",
+        "pinned_tweet_id": "1900573272267530483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900569282007982080/JOYADn2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 56,
+          "like_count": 1912,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 124
+        },
+        "username": "Aovoii",
+        "verified": false
+      }
+    ]
+  }
+}

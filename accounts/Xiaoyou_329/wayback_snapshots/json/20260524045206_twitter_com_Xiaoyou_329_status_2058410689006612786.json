@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2058179584210952204",
+    "created_at": "2026-05-24T04:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058410689006612786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1986356855581667328",
+          "start": 0,
+          "username": "guai75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058410689006612786",
+    "in_reply_to_user_id": "1986356855581667328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058179584210952204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guai75 这段话看完我不活了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2058179584210952204",
+        "created_at": "2026-05-24T04:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058410689006612786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1986356855581667328",
+              "start": 0,
+              "username": "guai75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058410689006612786",
+        "in_reply_to_user_id": "1986356855581667328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058179584210952204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guai75 这段话看完我不活了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986356855581667328",
+        "conversation_id": "2058179584210952204",
+        "created_at": "2026-05-23T13:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058179584210952204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058179584210952204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15940,
+          "like_count": 303,
+          "quote_count": 2,
+          "reply_count": 56,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "不要为了和我睡一觉装出那么多爱的细节"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "未经允许不准搬运",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15106,
+          "following_count": 173,
+          "like_count": 7563,
+          "listed_count": 21,
+          "media_count": 850,
+          "tweet_count": 6631
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T08:56:04.000Z",
+        "description": "",
+        "id": "1986356855581667328",
+        "location": "🚪288 ",
+        "name": "小兔",
+        "pinned_tweet_id": "2031341770613903819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986807944068136960/pDtJFbQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15759,
+          "following_count": 9,
+          "like_count": 422,
+          "listed_count": 35,
+          "media_count": 137,
+          "tweet_count": 293
+        },
+        "username": "guai75",
+        "verified": false
+      }
+    ]
+  }
+}

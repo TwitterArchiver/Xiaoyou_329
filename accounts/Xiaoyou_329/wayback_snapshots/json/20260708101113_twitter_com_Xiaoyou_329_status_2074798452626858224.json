@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2074763535582953845",
+    "created_at": "2026-07-08T10:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074798452626858224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2035967650317344768",
+          "start": 0,
+          "username": "JiajunX75990"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074798452626858224",
+    "in_reply_to_user_id": "2035967650317344768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074790952007581905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiajunX75990 可是后天天气预报写天晴呀…晴两天又下雨…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2074763535582953845",
+        "created_at": "2026-07-08T10:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074798452626858224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2035967650317344768",
+              "start": 0,
+              "username": "JiajunX75990"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074798452626858224",
+        "in_reply_to_user_id": "2035967650317344768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074790952007581905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiajunX75990 可是后天天气预报写天晴呀…晴两天又下雨…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035967650317344768",
+        "conversation_id": "2074763535582953845",
+        "created_at": "2026-07-08T09:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074790952007581905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074790952007581905",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074763535582953845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 哥们后天台风啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17035,
+          "following_count": 185,
+          "like_count": 7697,
+          "listed_count": 20,
+          "media_count": 929,
+          "tweet_count": 7252
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T06:32:07.000Z",
+        "description": "shanghai",
+        "id": "2035967650317344768",
+        "name": "shsingler",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035967814742482944/gFlzvfWA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 24,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "JiajunX75990",
+        "verified": false
+      }
+    ]
+  }
+}

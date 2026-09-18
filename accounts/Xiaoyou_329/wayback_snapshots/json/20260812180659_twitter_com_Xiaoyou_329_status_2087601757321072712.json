@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2087571781544743314",
+    "created_at": "2026-08-12T18:06:59.000Z",
+    "display_text_range": [
+      9,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087601757321072712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1833144133709713408",
+          "start": 0,
+          "username": "xmlxiny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087601757321072712",
+    "in_reply_to_user_id": "1833144133709713408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087571781544743314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmlxiny 生日快乐小宝宝！祝你天天开心呀！(｡ •ω -)ε •｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2087571781544743314",
+        "created_at": "2026-08-12T18:06:59.000Z",
+        "display_text_range": [
+          9,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087601757321072712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1833144133709713408",
+              "start": 0,
+              "username": "xmlxiny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087601757321072712",
+        "in_reply_to_user_id": "1833144133709713408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087571781544743314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmlxiny 生日快乐小宝宝！祝你天天开心呀！(｡ •ω -)ε •｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833144133709713408",
+        "conversation_id": "2087571781544743314",
+        "created_at": "2026-08-12T16:07:52.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087571781544743314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087571781544743314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8240,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 191,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实今天是我的生日"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭\n没有你谁在乎明天@Ni72748",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "Ni72748"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087601757321072712",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074492654239526913/S9KqUJPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17521,
+          "following_count": 184,
+          "like_count": 7664,
+          "listed_count": 22,
+          "media_count": 1112,
+          "tweet_count": 7698
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-09T14:03:30.000Z",
+        "description": "",
+        "id": "1833144133709713408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087590722363109419",
+        "name": "我好想哭",
+        "pinned_tweet_id": "1954092877857927419",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1833144133709713408/1786116729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086082449516396544/AdAv49fv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 198,
+          "like_count": 5668,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2446
+        },
+        "url": "",
+        "username": "xmlxiny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

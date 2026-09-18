@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1979922860719104308",
+    "created_at": "2025-10-20T01:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T02:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980091549263479035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934321926069161984",
+          "start": 0,
+          "username": "SheeryukoL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980091549263479035",
+    "in_reply_to_user_id": "1934321926069161984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980065676938387828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SheeryukoL 😭。我不行了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1979922860719104308",
+        "created_at": "2025-10-20T01:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T02:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980091549263479035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934321926069161984",
+              "start": 0,
+              "username": "SheeryukoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980091549263479035",
+        "in_reply_to_user_id": "1934321926069161984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980065676938387828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SheeryukoL 😭。我不行了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934321926069161984",
+        "conversation_id": "1979922860719104308",
+        "created_at": "2025-10-20T00:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980065676938387828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980065676938387828",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979922860719104308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 黄毛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜关评推广自辨 被骗概不负责｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "关评推广自辨 被骗概不负责",
+        "name": "小由",
+        "pinned_tweet_id": "1979055873105306110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3113,
+          "following_count": 135,
+          "like_count": 3000,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 2994
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T18:47:53.000Z",
+        "description": "上网只为了看黄/没有义务和你睡觉/爱做饭的神奇厨子/",
+        "id": "1934321926069161984",
+        "name": "发牙的哄",
+        "pinned_tweet_id": "1971188076044304793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974809380169371648/r5kmfRst_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 71,
+          "like_count": 2695,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1516
+        },
+        "username": "SheeryukoL",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1957668976840093958",
+    "created_at": "2025-08-19T05:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T06:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957670193242808479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1387311832025616386",
+          "start": 0,
+          "username": "Jw2C5JFyphJSXgl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957670193242808479",
+    "in_reply_to_user_id": "1387311832025616386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957670088766816423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jw2C5JFyphJSXgl 你这是在逼我…我一直在哭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1957668976840093958",
+        "created_at": "2025-08-19T05:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957670193242808479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1387311832025616386",
+              "start": 0,
+              "username": "Jw2C5JFyphJSXgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957670193242808479",
+        "in_reply_to_user_id": "1387311832025616386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957670088766816423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jw2C5JFyphJSXgl 你这是在逼我…我一直在哭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387311832025616386",
+        "conversation_id": "1957668976840093958",
+        "created_at": "2025-08-19T05:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957670088766816423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957670088766816423",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957668976840093958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 手机自己刷到的 不接。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)当朋友圈发…不约炮…会回私信…骚扰就算了除非你身材我真的很喜欢 喜欢发一些身材照…我是双性恋",
+        "id": "1906360034725961728",
+        "name": "一只小由饼",
+        "pinned_tweet_id": "1956403019383463966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956591130432393216/ScHXYTMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 69,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 341
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T07:44:57.000Z",
+        "description": "",
+        "id": "1387311832025616386",
+        "name": "她想死也想去巴黎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957059040007331840/M1BGAZ0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 23,
+          "like_count": 2129,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 177
+        },
+        "username": "Jw2C5JFyphJSXgl",
+        "verified": false
+      }
+    ]
+  }
+}

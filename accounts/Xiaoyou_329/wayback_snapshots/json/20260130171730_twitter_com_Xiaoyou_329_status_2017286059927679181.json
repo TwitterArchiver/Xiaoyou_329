@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2017281853795787048",
+    "created_at": "2026-01-30T17:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T18:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017286059927679181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016851656244408320",
+          "start": 0,
+          "username": "alexalonso73724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017286059927679181",
+    "in_reply_to_user_id": "2016851656244408320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017283933101322652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexalonso73724 看得我好难受我不得劲。我真受不了了。我以后要喜欢一个同样那么喜欢我的人。明面上是。背地里也要是。我受不了了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2017281853795787048",
+        "created_at": "2026-01-30T17:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017286059927679181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016851656244408320",
+              "start": 0,
+              "username": "alexalonso73724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017286059927679181",
+        "in_reply_to_user_id": "2016851656244408320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017283933101322652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexalonso73724 看得我好难受我不得劲。我真受不了了。我以后要喜欢一个同样那么喜欢我的人。明面上是。背地里也要是。我受不了了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016851656244408320",
+        "conversation_id": "2017281853795787048",
+        "created_at": "2026-01-30T17:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017283933101322652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017283933101322652",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017281853795787048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 是对彼此重量不同的没能延续下去的一段经历"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11509,
+          "following_count": 155,
+          "like_count": 6299,
+          "listed_count": 16,
+          "media_count": 618,
+          "tweet_count": 5115
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T12:31:42.000Z",
+        "description": "",
+        "id": "2016851656244408320",
+        "name": "alex alonso",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016851750188437506/7wMelg18_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "alexalonso73724",
+        "verified": false
+      }
+    ]
+  }
+}

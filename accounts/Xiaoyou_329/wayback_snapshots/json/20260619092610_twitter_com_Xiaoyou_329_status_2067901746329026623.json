@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2067864132800680084",
+    "created_at": "2026-06-19T09:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067901746329026623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790953868547022848",
+          "start": 0,
+          "username": "zhenqianyaojin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067901746329026623",
+    "in_reply_to_user_id": "1790953868547022848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067893919984296367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhenqianyaojin 嗯呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2067864132800680084",
+        "created_at": "2026-06-19T09:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067901746329026623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790953868547022848",
+              "start": 0,
+              "username": "zhenqianyaojin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067901746329026623",
+        "in_reply_to_user_id": "1790953868547022848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067893919984296367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhenqianyaojin 嗯呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790953868547022848",
+        "conversation_id": "2067864132800680084",
+        "created_at": "2026-06-19T08:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067893919984296367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067893919984296367",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067864132800680084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 鹈鹕镇镇长来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "location": "属于我的小妹妹日记📓",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15503,
+          "following_count": 176,
+          "like_count": 7669,
+          "listed_count": 20,
+          "media_count": 838,
+          "tweet_count": 6832
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T03:54:29.000Z",
+        "description": "男的，别几把骚扰我了，我就纳闷了咋分不清男女呢。喜欢动漫和cosplay家人们。正在健身中喵，前拉丁舞选手。多才多艺，不会的会学。欢迎来找我聊天，态度友好不发牛图。喜欢小动物，我要看你们养的小动物！",
+        "id": "1790953868547022848",
+        "location": "鹈鹕镇",
+        "name": "挣钱要紧",
+        "pinned_tweet_id": "2039539997980987551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015266783784218624/rZBDWzZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 465,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 916
+        },
+        "url": "",
+        "username": "zhenqianyaojin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1969640165523259820",
+    "created_at": "2025-09-21T06:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T07:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969644721791173100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778896067171655680",
+          "start": 0,
+          "username": "Popo0vo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969644721791173100",
+    "in_reply_to_user_id": "1778896067171655680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969644434112544987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Popo0vo 黑手S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1969640165523259820",
+        "created_at": "2025-09-21T06:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969644721791173100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778896067171655680",
+              "start": 0,
+              "username": "Popo0vo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969644721791173100",
+        "in_reply_to_user_id": "1778896067171655680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969644434112544987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Popo0vo 黑手S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778896067171655680",
+        "conversation_id": "1969640165523259820",
+        "created_at": "2025-09-21T06:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969644434112544987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969644434112544987",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969640676141748320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我其实是个s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1965820788399026273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 119,
+          "like_count": 1710,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 2102
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T21:20:57.000Z",
+        "description": "直男｜不加联系｜盗图替我挡灾｜男同男娘能不能别关注我…｜不点关注不回私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popo0vo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popo0vo",
+                "start": 0,
+                "url": "https://t.co/vZofSblEcG"
+              }
+            ]
+          }
+        },
+        "id": "1778896067171655680",
+        "location": "0.1km",
+        "name": "贝贝",
+        "pinned_tweet_id": "1969007099637121032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968194726827528196/Bdfn9Opd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 154,
+          "like_count": 8206,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/vZofSblEcG",
+        "username": "Popo0vo",
+        "verified": false
+      }
+    ]
+  }
+}

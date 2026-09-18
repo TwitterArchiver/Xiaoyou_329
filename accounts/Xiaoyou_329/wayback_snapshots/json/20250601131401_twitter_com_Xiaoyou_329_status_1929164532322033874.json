@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1929090042716139652",
+    "created_at": "2025-06-01T13:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T14:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929164532322033874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1513454564418097156",
+          "start": 0,
+          "username": "nengyiqishuime1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929164532322033874",
+    "in_reply_to_user_id": "1513454564418097156",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929090042716139652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nengyiqishuime1 不宠^_^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1929090042716139652",
+        "created_at": "2025-06-01T13:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T14:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929164532322033874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1513454564418097156",
+              "start": 0,
+              "username": "nengyiqishuime1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929164532322033874",
+        "in_reply_to_user_id": "1513454564418097156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929090042716139652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nengyiqishuime1 不宠^_^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513454564418097156",
+        "conversation_id": "1929090042716139652",
+        "created_at": "2025-06-01T08:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T09:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929090042716139652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929090042716139652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12386,
+          "like_count": 105,
+          "quote_count": 1,
+          "reply_count": 82,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "📢通知 所有人不准发这个表情^_^\n这个表情^ ^更权威 以后发^ ^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 36,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 66
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:51:13.000Z",
+        "description": "很吵一个人 打扰到了请屏蔽 匿名信箱https://t.co/nxBFBJXWoC 没门槛不加好友私信看到都会回  瓦陪玩10/h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nengyiqishuime1",
+                "end": 41,
+                "expanded_url": "https://ngl.link/nengyiqishuime1",
+                "start": 18,
+                "url": "https://t.co/nxBFBJXWoC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nengyiqishuime.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://nengyiqishuime.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/WG38OYyDZt"
+              }
+            ]
+          }
+        },
+        "id": "1513454564418097156",
+        "name": "能一起睡么",
+        "pinned_tweet_id": "1928095724472041884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534074055909076992/h8TPNaZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80892,
+          "following_count": 535,
+          "like_count": 888,
+          "listed_count": 161,
+          "media_count": 48,
+          "tweet_count": 12672
+        },
+        "url": "https://t.co/WG38OYyDZt",
+        "username": "nengyiqishuime1",
+        "verified": true
+      }
+    ]
+  }
+}

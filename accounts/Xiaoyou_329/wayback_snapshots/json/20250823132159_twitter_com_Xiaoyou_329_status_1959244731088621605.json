@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1959243452261998611",
+    "created_at": "2025-08-23T13:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T14:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959244731088621605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956007257344499716",
+          "start": 0,
+          "username": "tuitui37782"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959244731088621605",
+    "in_reply_to_user_id": "1956007257344499716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959243452261998611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuitui37782 珀莱雅盾护！涂上像开磨皮了 这两天军训用好像也没有晒黑 缺点是要用卸妆油卸有点麻烦(｡･ω･｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1959243452261998611",
+        "created_at": "2025-08-23T13:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T14:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959244731088621605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956007257344499716",
+              "start": 0,
+              "username": "tuitui37782"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959244731088621605",
+        "in_reply_to_user_id": "1956007257344499716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959243452261998611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuitui37782 珀莱雅盾护！涂上像开磨皮了 这两天军训用好像也没有晒黑 缺点是要用卸妆油卸有点麻烦(｡･ω･｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956007257344499716",
+        "conversation_id": "1959243452261998611",
+        "created_at": "2025-08-23T13:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T14:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959243452261998611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959243452261998611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有推荐的防晒霜呀老婆们～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 72,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 548
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T14:57:33.000Z",
+        "description": "不在",
+        "id": "1956007257344499716",
+        "name": "Rian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959244012659040256/Lp86K6De_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "tuitui37782",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1997288811961909579",
+    "created_at": "2025-12-06T13:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T14:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997290241229746423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1973280566213853184",
+          "start": 0,
+          "username": "shenyi919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997290241229746423",
+    "in_reply_to_user_id": "1973280566213853184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997289918515786163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenyi919 讨厌这样！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1997288811961909579",
+        "created_at": "2025-12-06T13:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997290241229746423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1973280566213853184",
+              "start": 0,
+              "username": "shenyi919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997290241229746423",
+        "in_reply_to_user_id": "1973280566213853184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997289918515786163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenyi919 讨厌这样！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973280566213853184",
+        "conversation_id": "1997288811961909579",
+        "created_at": "2025-12-06T12:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997289918515786163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997289918515786163",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997288811961909579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 属于你声带的热胀冷缩来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜讨厌我就屏蔽我 喜欢我就投喂我｜无🚪｜感谢关注祝你 天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8082,
+          "following_count": 158,
+          "like_count": 5526,
+          "listed_count": 8,
+          "media_count": 538,
+          "tweet_count": 4435
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T06:57:31.000Z",
+        "description": "这里空空的，什么都没有～",
+        "id": "1973280566213853184",
+        "name": "顾亭谌一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973290379886862340/AgoVrkxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "username": "shenyi919",
+        "verified": false
+      }
+    ]
+  }
+}

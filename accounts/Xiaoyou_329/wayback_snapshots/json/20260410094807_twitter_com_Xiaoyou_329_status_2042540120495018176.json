@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042297199279947778"
+      ],
+      "media_source_tweet_id": [
+        "2042297366645260290"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2042540120495018176",
+    "created_at": "2026-04-10T09:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042540120495018176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G6o6cpMg02",
+          "end": 85,
+          "expanded_url": "https://x.com/xiaoyuannb88/status/2042297366645260290/video/1",
+          "media_key": "13_2042297199279947778",
+          "start": 62,
+          "url": "https://t.co/G6o6cpMg02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042540120495018176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雾草这期我真特么想到我之前卡泡了。和我卡泡的全是这种雷霆声音青受音我爱你们一辈子。然后真的就是卡一半问我要照片开始凶我。😭 https://t.co/G6o6cpMg02"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 103543,
+        "height": 1280,
+        "media_key": "13_2042297199279947778",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042297199279947778/img/XYht2eRDs-AGLLsd.jpg",
+        "public_metrics": {
+          "view_count": 108930
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042297199279947778/vid/avc1/320x568/eLNw_ERVVHycCDhW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042297199279947778/vid/avc1/480x852/BFN0B_cYkor8hI-I.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042297199279947778/vid/avc1/720x1280/f0d9yg5rCaRa7INr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042297199279947778/pl/1YkE4tV4tKjtyB5m.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042297199279947778"
+          ],
+          "media_source_tweet_id": [
+            "2042297366645260290"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2042540120495018176",
+        "created_at": "2026-04-10T09:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042540120495018176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6o6cpMg02",
+              "end": 85,
+              "expanded_url": "https://x.com/xiaoyuannb88/status/2042297366645260290/video/1",
+              "media_key": "13_2042297199279947778",
+              "start": 62,
+              "url": "https://t.co/G6o6cpMg02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042540120495018176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雾草这期我真特么想到我之前卡泡了。和我卡泡的全是这种雷霆声音青受音我爱你们一辈子。然后真的就是卡一半问我要照片开始凶我。😭 https://t.co/G6o6cpMg02"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13571,
+          "following_count": 160,
+          "like_count": 7450,
+          "listed_count": 19,
+          "media_count": 802,
+          "tweet_count": 6352
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

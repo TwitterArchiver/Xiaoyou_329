@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1994647756716015730",
+    "created_at": "2025-11-29T06:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T07:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994656909660438767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1983847426302865408",
+          "start": 0,
+          "username": "icesu9er"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994656909660438767",
+    "in_reply_to_user_id": "1983847426302865408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994655841568657872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icesu9er 赫赫。其实我就是这种人。经常被说烦。赫赫我一直在哭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1994647756716015730",
+        "created_at": "2025-11-29T06:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994656909660438767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1983847426302865408",
+              "start": 0,
+              "username": "icesu9er"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994656909660438767",
+        "in_reply_to_user_id": "1983847426302865408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994655841568657872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icesu9er 赫赫。其实我就是这种人。经常被说烦。赫赫我一直在哭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983847426302865408",
+        "conversation_id": "1994647756716015730",
+        "created_at": "2025-11-29T06:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994655841568657872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994655841568657872",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994647756716015730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 真谈上又得觉得他烦的不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7704,
+          "following_count": 156,
+          "like_count": 5174,
+          "listed_count": 7,
+          "media_count": 540,
+          "tweet_count": 4277
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T10:44:33.000Z",
+        "description": "",
+        "id": "1983847426302865408",
+        "name": "REDSUGER",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989696542706733058/WKO_0Uwh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 459,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 228
+        },
+        "username": "icesu9er",
+        "verified": false
+      }
+    ]
+  }
+}

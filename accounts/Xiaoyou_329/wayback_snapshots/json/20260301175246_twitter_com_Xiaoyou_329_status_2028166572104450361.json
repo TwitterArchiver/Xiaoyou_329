@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2028166572104450361",
+    "created_at": "2026-03-01T17:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T18:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028166572104450361"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyou_329/st…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/xiaoyou_329/status/2027106605435670901",
+          "start": 47,
+          "url": "https://t.co/8O0xSDYWk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028166572104450361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027106605435670901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠。我好想这个人。因为没有人陪我打点电话了。好烦呀。但是我今天已经倒贴了一次了好吧。嘿嘿。 https://t.co/8O0xSDYWk8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027106575500918784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCG6sLqXQAAx40t.jpg",
+        "width": 523
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2027106575643705345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCG6sMMaAAEl7DI.jpg",
+        "width": 502
+      },
+      {
+        "height": 1023,
+        "media_key": "3_2027106575534460928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCG6sLyXEAAg-XG.jpg",
+        "width": 518
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2027106575492530176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCG6sLoXQAAfOVx.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2028166572104450361",
+        "created_at": "2026-03-01T17:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T18:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028166572104450361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyou_329/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/xiaoyou_329/status/2027106605435670901",
+              "start": 47,
+              "url": "https://t.co/8O0xSDYWk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028166572104450361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027106605435670901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠。我好想这个人。因为没有人陪我打点电话了。好烦呀。但是我今天已经倒贴了一次了好吧。嘿嘿。 https://t.co/8O0xSDYWk8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027106575500918784",
+            "3_2027106575643705345",
+            "3_2027106575534460928",
+            "3_2027106575492530176"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2027106605435670901",
+        "created_at": "2026-02-26T19:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027106605435670901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMGV5BmsaY",
+              "end": 46,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2027106605435670901/photo/1",
+              "media_key": "3_2027106575500918784",
+              "start": 23,
+              "url": "https://t.co/oMGV5BmsaY"
+            },
+            {
+              "display_url": "pic.x.com/oMGV5BmsaY",
+              "end": 46,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2027106605435670901/photo/1",
+              "media_key": "3_2027106575643705345",
+              "start": 23,
+              "url": "https://t.co/oMGV5BmsaY"
+            },
+            {
+              "display_url": "pic.x.com/oMGV5BmsaY",
+              "end": 46,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2027106605435670901/photo/1",
+              "media_key": "3_2027106575534460928",
+              "start": 23,
+              "url": "https://t.co/oMGV5BmsaY"
+            },
+            {
+              "display_url": "pic.x.com/oMGV5BmsaY",
+              "end": 46,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2027106605435670901/photo/1",
+              "media_key": "3_2027106575492530176",
+              "start": 23,
+              "url": "https://t.co/oMGV5BmsaY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027106605435670901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 22088,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉。我好难过。我一直在想这个事情。我睡不着。 https://t.co/oMGV5BmsaY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12725,
+          "following_count": 164,
+          "like_count": 6791,
+          "listed_count": 19,
+          "media_count": 703,
+          "tweet_count": 5646
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

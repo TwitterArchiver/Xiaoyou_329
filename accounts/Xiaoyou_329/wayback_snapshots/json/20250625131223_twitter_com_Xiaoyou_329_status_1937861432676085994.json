@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1937505355665391848",
+    "created_at": "2025-06-25T13:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T14:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937861432676085994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1925181621919174657",
+          "start": 0,
+          "username": "nls15872888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937861432676085994",
+    "in_reply_to_user_id": "1925181621919174657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937505355665391848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nls15872888 我需要一千字手感解析🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3560,
+        "height": 1080,
+        "media_key": "13_1937505234492018688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937505234492018688/img/ao_QetJqYp7Yda8g.jpg",
+        "public_metrics": {
+          "view_count": 15553
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937505234492018688/vid/avc1/480x360/vPQC53ZZptNUkUiV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1937505234492018688/pl/zZITwseRSZX7-mg-.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937505234492018688/vid/avc1/360x270/5rzzIRu6PnMYxLV5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937505234492018688/vid/avc1/960x720/e1xF3GGu3rBC88xc.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937505234492018688/vid/avc1/1440x1080/MowSbYljILaS9om4.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1937505355665391848",
+        "created_at": "2025-06-25T13:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T14:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937861432676085994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1925181621919174657",
+              "start": 0,
+              "username": "nls15872888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937861432676085994",
+        "in_reply_to_user_id": "1925181621919174657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937505355665391848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nls15872888 我需要一千字手感解析🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937505234492018688"
+          ]
+        },
+        "author_id": "1925181621919174657",
+        "conversation_id": "1937505355665391848",
+        "created_at": "2025-06-24T13:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T14:29:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937503364226724144",
+          "1937505355665391848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/deuxhzKzD5",
+              "end": 31,
+              "expanded_url": "https://x.com/nls15872888/status/1937505355665391848/video/1",
+              "media_key": "13_1937505234492018688",
+              "start": 8,
+              "url": "https://t.co/deuxhzKzD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937505355665391848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 59467,
+          "like_count": 1671,
+          "quote_count": 5,
+          "reply_count": 135,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "帮大家捏了🤏🏻 https://t.co/deuxhzKzD5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906360206201606144/EQe-huqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 47,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 129
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T13:27:38.000Z",
+        "description": "我既不姓牛也不属牛。  匿名信发小号@chao15872888 只过眼熟互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "chao15872888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/satoru10611",
+                "end": 23,
+                "expanded_url": "https://ngl.link/satoru10611",
+                "start": 0,
+                "url": "https://t.co/azlIbvfAoO"
+              }
+            ]
+          }
+        },
+        "id": "1925181621919174657",
+        "location": "대한민국 부산광역시",
+        "name": "牛老师",
+        "pinned_tweet_id": "1936779823910920498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926241446295674880/Xu3KlTEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7816,
+          "following_count": 580,
+          "like_count": 15281,
+          "listed_count": 13,
+          "media_count": 27,
+          "tweet_count": 2526
+        },
+        "url": "https://t.co/azlIbvfAoO",
+        "username": "nls15872888",
+        "verified": true
+      }
+    ]
+  }
+}

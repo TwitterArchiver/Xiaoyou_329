@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1972453747914846359",
+    "created_at": "2025-09-29T04:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T05:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972522252790104435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1803674898314960896",
+          "start": 0,
+          "username": "ll132345796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972522252790104435",
+    "in_reply_to_user_id": "1803674898314960896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972453747914846359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ll132345796 这期好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1109,
+        "media_key": "3_1972453744790085632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-QOvoaIAAE5AL.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1972453747914846359",
+        "created_at": "2025-09-29T04:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T05:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972522252790104435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1803674898314960896",
+              "start": 0,
+              "username": "ll132345796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972522252790104435",
+        "in_reply_to_user_id": "1803674898314960896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972453747914846359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll132345796 这期好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972453744790085632"
+          ]
+        },
+        "author_id": "1803674898314960896",
+        "conversation_id": "1972453747914846359",
+        "created_at": "2025-09-29T00:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T01:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972453747914846359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUGkQxYxKi",
+              "end": 36,
+              "expanded_url": "https://x.com/ll132345796/status/1972453747914846359/photo/1",
+              "media_key": "3_1972453744790085632",
+              "start": 13,
+              "url": "https://t.co/TUGkQxYxKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972453747914846359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 613,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛙趣豆包我是这样的嘛？！ https://t.co/TUGkQxYxKi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜声控 颜控 手控 身材控｜请陪我玩吧！求求你啦～ngl⬇️｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%94%B1",
+                "start": 0,
+                "url": "https://t.co/gdVA5NSwOS"
+              }
+            ]
+          }
+        },
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1970786557025190332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 124,
+          "like_count": 2105,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 2442
+        },
+        "url": "https://t.co/gdVA5NSwOS",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T06:23:14.000Z",
+        "description": "只是一个普通男生的日常碎碎念💦 /欢迎礼貌私信哦🌸 /然后就是祝大家天天开心呀✨ /有时写小狗日记偶尔读文/04/180/ENFP/是异性恋/可以叫我凉凉/世界和平就可以了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xgll",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xgll",
+                "start": 0,
+                "url": "https://t.co/QqhxoIjXsG"
+              }
+            ]
+          }
+        },
+        "id": "1803674898314960896",
+        "name": "小狗凉凉（困困版）",
+        "pinned_tweet_id": "1947693170558661048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803678040616214530/IqZImltA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 509,
+          "like_count": 43966,
+          "listed_count": 3,
+          "media_count": 644,
+          "tweet_count": 5554
+        },
+        "url": "https://t.co/QqhxoIjXsG",
+        "username": "ll132345796",
+        "verified": false
+      }
+    ]
+  }
+}

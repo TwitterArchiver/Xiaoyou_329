@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968949865611743233"
+      ],
+      "media_source_tweet_id": [
+        "1968949869436944547"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1969237751523324350",
+    "created_at": "2025-09-20T03:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T04:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969237751523324350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1377329549961277441",
+          "start": 3,
+          "username": "tagurwho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lmtqOiFCHr",
+          "end": 37,
+          "expanded_url": "https://x.com/tagurwho/status/1968949869436944547/photo/1",
+          "media_key": "3_1968949865611743233",
+          "start": 14,
+          "url": "https://t.co/lmtqOiFCHr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969237751523324350",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 731
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968949869436944547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tagurwho: https://t.co/lmtqOiFCHr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_1968949865611743233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1MdeIhXUAEeOih.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968949865611743233"
+          ],
+          "media_source_tweet_id": [
+            "1968949869436944547"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1969237751523324350",
+        "created_at": "2025-09-20T03:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T04:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969237751523324350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1377329549961277441",
+              "start": 3,
+              "username": "tagurwho"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmtqOiFCHr",
+              "end": 37,
+              "expanded_url": "https://x.com/tagurwho/status/1968949869436944547/photo/1",
+              "media_key": "3_1968949865611743233",
+              "start": 14,
+              "url": "https://t.co/lmtqOiFCHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969237751523324350",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 731
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968949869436944547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tagurwho: https://t.co/lmtqOiFCHr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968949865611743233"
+          ]
+        },
+        "author_id": "1377329549961277441",
+        "conversation_id": "1968949869436944547",
+        "created_at": "2025-09-19T08:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T09:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968949869436944547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmtqOiFCHr",
+              "end": 23,
+              "expanded_url": "https://x.com/tagurwho/status/1968949869436944547/photo/1",
+              "media_key": "3_1968949865611743233",
+              "start": 0,
+              "url": "https://t.co/lmtqOiFCHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968949869436944547",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 742,
+          "impression_count": 110600,
+          "like_count": 5861,
+          "quote_count": 40,
+          "reply_count": 19,
+          "retweet_count": 731
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lmtqOiFCHr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1965820788399026273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 119,
+          "like_count": 1629,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 1988
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T18:39:03.000Z",
+        "description": "follow us for more daily and tag your who ꨄ",
+        "id": "1377329549961277441",
+        "location": "turn on notis.",
+        "name": "me and who",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966948167707967488/x35IUJ7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 0,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 20
+        },
+        "username": "tagurwho",
+        "verified": false
+      }
+    ]
+  }
+}

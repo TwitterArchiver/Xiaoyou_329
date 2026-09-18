@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2022364832666714261",
+    "created_at": "2026-02-13T19:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T20:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022388512142823568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1525788097694158848",
+          "start": 0,
+          "username": "xxxyuwanOvO"
+        },
+        {
+          "end": 29,
+          "id": "1832116163670847488",
+          "start": 13,
+          "username": "fk5524719774022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022388512142823568",
+    "in_reply_to_user_id": "1525788097694158848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022388277895139410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxyuwanOvO @fk5524719774022 但是你的声音我认可了^ω^很可爱 嗯对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2022364832666714261",
+        "created_at": "2026-02-13T19:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T20:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022388512142823568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1525788097694158848",
+              "start": 0,
+              "username": "xxxyuwanOvO"
+            },
+            {
+              "end": 29,
+              "id": "1832116163670847488",
+              "start": 13,
+              "username": "fk5524719774022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022388512142823568",
+        "in_reply_to_user_id": "1525788097694158848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022388277895139410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxyuwanOvO @fk5524719774022 但是你的声音我认可了^ω^很可爱 嗯对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525788097694158848",
+        "conversation_id": "2022364832666714261",
+        "created_at": "2026-02-13T19:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T20:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022388277895139410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            },
+            {
+              "end": 29,
+              "id": "1832116163670847488",
+              "start": 13,
+              "username": "fk5524719774022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022388277895139410",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022388126455562305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 @fk5524719774022 我没办法，这不怪我TvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2022212815369744581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12099,
+          "following_count": 161,
+          "like_count": 6603,
+          "listed_count": 19,
+          "media_count": 654,
+          "tweet_count": 5413
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T10:40:11.000Z",
+        "description": "超级温柔一个人。 06 男大",
+        "id": "1525788097694158848",
+        "name": "丸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016544058722983936/GAmnaXOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 185,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 38
+        },
+        "username": "xxxyuwanOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T17:58:37.000Z",
+        "description": "",
+        "id": "1832116163670847488",
+        "name": "fk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921271252431392768/QX1D4cNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "username": "fk5524719774022",
+        "verified": false
+      }
+    ]
+  }
+}

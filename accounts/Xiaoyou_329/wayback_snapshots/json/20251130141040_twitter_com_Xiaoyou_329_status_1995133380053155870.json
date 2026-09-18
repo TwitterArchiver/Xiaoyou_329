@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1995131707830436162",
+    "created_at": "2025-11-30T14:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T15:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995133380053155870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1849385218198691840",
+          "start": 0,
+          "username": "yvlinling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995133380053155870",
+    "in_reply_to_user_id": "1849385218198691840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 52,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995133111592718792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvlinling 这句话说出来自己笑了没。说刷抖音都比说看书的可信度高吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1995131707830436162",
+        "created_at": "2025-11-30T14:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995133380053155870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1849385218198691840",
+              "start": 0,
+              "username": "yvlinling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995133380053155870",
+        "in_reply_to_user_id": "1849385218198691840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995133111592718792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvlinling 这句话说出来自己笑了没。说刷抖音都比说看书的可信度高吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849385218198691840",
+        "conversation_id": "1995131707830436162",
+        "created_at": "2025-11-30T14:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995133111592718792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995133111592718792",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995132549169831964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 我将减少上推的频率好好看书"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜希望你像晴天一样明媚 偶尔是雨天也没关系 因为我会为你撑伞｜感谢关注 祝你天天开心o(^▽^)o",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7815,
+          "following_count": 157,
+          "like_count": 5226,
+          "listed_count": 7,
+          "media_count": 545,
+          "tweet_count": 4325
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T09:39:50.000Z",
+        "description": "byebye",
+        "id": "1849385218198691840",
+        "name": "雨霖铃",
+        "pinned_tweet_id": "1855167563585495050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991195201877233664/lVpcCs4R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 362,
+          "like_count": 33644,
+          "listed_count": 5,
+          "media_count": 232,
+          "tweet_count": 10811
+        },
+        "username": "yvlinling",
+        "verified": false
+      }
+    ]
+  }
+}

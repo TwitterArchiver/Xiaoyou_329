@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2071109941440749741",
+    "created_at": "2026-06-28T06:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071125668386210245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1883514838581710848",
+          "start": 0,
+          "username": "xiomyngyun57841"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071125668386210245",
+    "in_reply_to_user_id": "1883514838581710848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071122704980447359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiomyngyun57841 我ipad上星露谷基本上算毕业了。然后电脑上我加了mod寿命长多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2071109941440749741",
+        "created_at": "2026-06-28T06:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071125668386210245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1883514838581710848",
+              "start": 0,
+              "username": "xiomyngyun57841"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071125668386210245",
+        "in_reply_to_user_id": "1883514838581710848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071122704980447359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiomyngyun57841 我ipad上星露谷基本上算毕业了。然后电脑上我加了mod寿命长多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883514838581710848",
+        "conversation_id": "2071109941440749741",
+        "created_at": "2026-06-28T06:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071122704980447359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071122704980447359",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071109941440749741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 星露谷玩不腻吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16708,
+          "following_count": 177,
+          "like_count": 7681,
+          "listed_count": 20,
+          "media_count": 872,
+          "tweet_count": 7035
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T13:58:39.000Z",
+        "description": "本人有点癫",
+        "id": "1883514838581710848",
+        "name": "西片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990004218669735936/yxxaT-31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "xiomyngyun57841",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "1989716549247406163",
+    "created_at": "2025-11-15T15:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T16:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989717168775458990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1710273281235058688",
+          "start": 0,
+          "username": "xpyyxpyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989717168775458990",
+    "in_reply_to_user_id": "1710273281235058688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989717031512309790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xpyyxpyy 蒽对。我就这样吵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "1989716549247406163",
+        "created_at": "2025-11-15T15:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989717168775458990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1710273281235058688",
+              "start": 0,
+              "username": "xpyyxpyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989717168775458990",
+        "in_reply_to_user_id": "1710273281235058688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989717031512309790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xpyyxpyy 蒽对。我就这样吵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710273281235058688",
+        "conversation_id": "1989716549247406163",
+        "created_at": "2025-11-15T15:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989717031512309790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989717031512309790",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989716549247406163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 你好活跃啊哈哈哈哈自从关注了以后关注推荐列表基本都是你的帖子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜请不要打探我的隐私｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1972663572028170544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6430,
+          "following_count": 150,
+          "like_count": 4444,
+          "listed_count": 4,
+          "media_count": 465,
+          "tweet_count": 3729
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T12:38:34.000Z",
+        "description": "",
+        "id": "1710273281235058688",
+        "name": "k ska kk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858225894869098496/EX0CWID6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "xpyyxpyy",
+        "verified": false
+      }
+    ]
+  }
+}

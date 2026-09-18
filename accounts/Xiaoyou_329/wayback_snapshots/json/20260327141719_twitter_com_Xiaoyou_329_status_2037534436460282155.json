@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2037530772970869203",
+    "created_at": "2026-03-27T14:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037534436460282155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1564235266004422656",
+          "start": 0,
+          "username": "__yuqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037534436460282155",
+    "in_reply_to_user_id": "1564235266004422656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037530772970869203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__yuqing 就你了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 80800,
+        "height": 720,
+        "media_key": "13_2037529973335146496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037529973335146496/img/HfvaMv4ZogqG61vq.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037529973335146496/vid/avc1/360x270/QTR2pPfnaKOAl0Cc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037529973335146496/vid/avc1/480x360/vlesoswIp8egKt6t.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037529973335146496/vid/avc1/960x720/0VzbP6h59teABTIZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037529973335146496/pl/-2iKyfPKtlbOx2p6.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2037530772970869203",
+        "created_at": "2026-03-27T14:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037534436460282155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1564235266004422656",
+              "start": 0,
+              "username": "__yuqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037534436460282155",
+        "in_reply_to_user_id": "1564235266004422656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037530772970869203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__yuqing 就你了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037529973335146496"
+          ]
+        },
+        "author_id": "1564235266004422656",
+        "conversation_id": "2037530772970869203",
+        "created_at": "2026-03-27T14:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037530772970869203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男喘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "青年"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "女性向"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/akeBgw9bwh",
+              "end": 44,
+              "expanded_url": "https://x.com/__yuqing/status/2037530772970869203/video/1",
+              "media_key": "13_2037529973335146496",
+              "start": 21,
+              "url": "https://t.co/akeBgw9bwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037530772970869203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来一期温柔点的…#男喘 #青年 #女性向 https://t.co/akeBgw9bwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13349,
+          "following_count": 165,
+          "like_count": 7292,
+          "listed_count": 20,
+          "media_count": 775,
+          "tweet_count": 6218
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T12:55:41.000Z",
+        "description": "06年 179cm 62kg，私信都会回。\n喜欢白天睡觉，晚上喘，我是男的谢谢。\nkp 🥣请点单私，🚪28谢谢宝宝喜欢ovo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuqing35995",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuqing35995",
+                "start": 0,
+                "url": "https://t.co/51ySu876Fz"
+              }
+            ]
+          }
+        },
+        "id": "1564235266004422656",
+        "location": "沒有悲傷的明天",
+        "name": "淤青",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028185462217781248/rSTijl9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 71,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/51ySu876Fz",
+        "username": "__yuqing",
+        "verified": false
+      }
+    ]
+  }
+}

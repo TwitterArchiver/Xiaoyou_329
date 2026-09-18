@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962438662534098944"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1962422287053004902",
+    "created_at": "2025-09-01T08:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T09:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962438671937814581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1035766902650363904",
+          "start": 0,
+          "username": "BoBoring1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iHj3ztYUIb",
+          "end": 49,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1962438671937814581/photo/1",
+          "media_key": "3_1962438662534098944",
+          "start": 26,
+          "url": "https://t.co/iHj3ztYUIb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962438671937814581",
+    "in_reply_to_user_id": "1035766902650363904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962422287053004902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoBoring1 爹咪你肩膀好宽！！喜欢！！！ https://t.co/iHj3ztYUIb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_1962438662534098944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzv7kO3WcAAQUB8.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1919,
+        "media_key": "3_1962422277221588992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzvsqe0bIAA6A4P.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962438662534098944"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1962422287053004902",
+        "created_at": "2025-09-01T08:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T09:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962438671937814581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1035766902650363904",
+              "start": 0,
+              "username": "BoBoring1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iHj3ztYUIb",
+              "end": 49,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1962438671937814581/photo/1",
+              "media_key": "3_1962438662534098944",
+              "start": 26,
+              "url": "https://t.co/iHj3ztYUIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962438671937814581",
+        "in_reply_to_user_id": "1035766902650363904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962422287053004902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoBoring1 爹咪你肩膀好宽！！喜欢！！！ https://t.co/iHj3ztYUIb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962422277221588992"
+          ]
+        },
+        "author_id": "1035766902650363904",
+        "conversation_id": "1962422287053004902",
+        "created_at": "2025-09-01T07:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T08:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962422287053004902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/20meCd83Jg",
+              "end": 34,
+              "expanded_url": "https://x.com/BoBoring1/status/1962422287053004902/photo/1",
+              "media_key": "3_1962422277221588992",
+              "start": 11,
+              "url": "https://t.co/20meCd83Jg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962422287053004902",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1395,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👩‍🦯‍➡️🧎‍➡️ https://t.co/20meCd83Jg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)双性恋｜当朋友圈发｜感谢关注｜真的不卡泡请不要私信了…｜梦想是去一次海边",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "1957835877834440890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958104603720863744/osELWkGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 100,
+          "like_count": 889,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1005
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-01T05:50:47.000Z",
+        "description": "1、饭盒链接 🔗https://t.co/FxKmwNH4Sj 2、匿名问答🔗 https://t.co/lnnlnld0Vm 希望我爱的人健健康康，开开心心",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boboring1028.fanbox.cc",
+                "end": 31,
+                "expanded_url": "https://boboring1028.fanbox.cc/",
+                "start": 8,
+                "url": "https://t.co/FxKmwNH4Sj"
+              },
+              {
+                "display_url": "ngl.link/boboring1",
+                "end": 63,
+                "expanded_url": "https://ngl.link/boboring1",
+                "start": 40,
+                "url": "https://t.co/lnnlnld0Vm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=zEgxnHSF",
+                "start": 0,
+                "url": "https://t.co/mpoqhhgf80"
+              }
+            ]
+          }
+        },
+        "id": "1035766902650363904",
+        "location": "➕v99，过门槛接定制1min20元（带本），不带30元",
+        "name": "BoBoring",
+        "pinned_tweet_id": "1831310996545405229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937854986291159040/WN6xLZBB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16202,
+          "following_count": 1318,
+          "like_count": 22722,
+          "listed_count": 40,
+          "media_count": 428,
+          "tweet_count": 2962
+        },
+        "url": "https://t.co/mpoqhhgf80",
+        "username": "BoBoring1",
+        "verified": false
+      }
+    ]
+  }
+}

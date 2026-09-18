@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968238152901898240"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "1968236755062247724",
+    "created_at": "2025-09-17T08:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T09:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968238163421446441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894531140733878272",
+          "start": 0,
+          "username": "fanbufan00"
+        },
+        {
+          "end": 22,
+          "id": "1784887323211280384",
+          "start": 12,
+          "username": "ljng15760"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Atiq4g8P6",
+          "end": 102,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/1968238163421446441/photo/1",
+          "media_key": "3_1968238152901898240",
+          "start": 79,
+          "url": "https://t.co/0Atiq4g8P6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968238163421446441",
+    "in_reply_to_user_id": "1894531140733878272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968236755062247724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanbufan00 @ljng15760 刚回来就看见这个土豆更新我可以原谅全世界😋宝宝你萌死了…就这样萌…完全老公…大厨！我今晚要干什么你是知道的…！ https://t.co/0Atiq4g8P6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_1968238152901898240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CWLAEWsAATCaq.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 420700,
+        "height": 960,
+        "media_key": "13_1968236342376329217",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968236342376329217/img/51cP13uQvoS2eWnk.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968236342376329217/vid/avc1/320x426/e22AEBHnGQTGBdgI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968236342376329217/vid/avc1/480x640/d3Afssa_9JAdq9Zv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968236342376329217/vid/avc1/720x960/_kF_u9_kKn0LSIKr.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968236342376329217/pl/ht8zmpncL7v9uXAU.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 399337,
+        "height": 960,
+        "media_key": "13_1968236495636201472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968236495636201472/img/R5rb_ylKusXo9fEW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968236495636201472/vid/avc1/320x426/2vP5aJYkWU_Ye4Sh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968236495636201472/vid/avc1/480x640/hMOlr-w2CVbjUMco.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968236495636201472/vid/avc1/720x960/lRBsFBzSfDjBteiT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968236495636201472/pl/ecwrKf11SPRizvE4.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968238152901898240"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "1968236755062247724",
+        "created_at": "2025-09-17T08:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T09:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968238163421446441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894531140733878272",
+              "start": 0,
+              "username": "fanbufan00"
+            },
+            {
+              "end": 22,
+              "id": "1784887323211280384",
+              "start": 12,
+              "username": "ljng15760"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Atiq4g8P6",
+              "end": 102,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/1968238163421446441/photo/1",
+              "media_key": "3_1968238152901898240",
+              "start": 79,
+              "url": "https://t.co/0Atiq4g8P6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968238163421446441",
+        "in_reply_to_user_id": "1894531140733878272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968236755062247724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanbufan00 @ljng15760 刚回来就看见这个土豆更新我可以原谅全世界😋宝宝你萌死了…就这样萌…完全老公…大厨！我今晚要干什么你是知道的…！ https://t.co/0Atiq4g8P6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968236342376329217",
+            "13_1968236495636201472"
+          ]
+        },
+        "author_id": "1894531140733878272",
+        "conversation_id": "1968236755062247724",
+        "created_at": "2025-09-17T08:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T09:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968236755062247724"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "爱你小狗"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "男喘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1784887323211280384",
+              "start": 25,
+              "username": "ljng15760"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0rR5MN6zG",
+              "end": 112,
+              "expanded_url": "https://x.com/fanbufan00/status/1968236755062247724/video/1",
+              "media_key": "13_1968236342376329217",
+              "start": 89,
+              "url": "https://t.co/I0rR5MN6zG"
+            },
+            {
+              "display_url": "pic.x.com/I0rR5MN6zG",
+              "end": 112,
+              "expanded_url": "https://x.com/fanbufan00/status/1968236755062247724/video/1",
+              "media_key": "13_1968236495636201472",
+              "start": 89,
+              "url": "https://t.co/I0rR5MN6zG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968236755062247724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《小狗🐶变ren惩罚做网H的主人》\n\n台本老师： @ljng15760\n\n“绑着我的手脚龟～责我?那你最好祈祷以后不要变回去，否则我都会在你身上讨回来喔”\n\n＃爱你小狗 ＃男喘 https://t.co/I0rR5MN6zG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜双性恋｜声控 颜控 手控 身材控｜感谢关注 祝大家天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "location": "🚪68/88/108 纯绿可以聊天",
+        "name": "小由",
+        "pinned_tweet_id": "1967968461600199156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556444183580672/gJXigQtD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 117,
+          "like_count": 1571,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 1909
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T23:33:37.000Z",
+        "description": "匿名箱：https://t.co/Vy8ECE4AMX\n\n小号不定时掉落凡自认为的自拍涩图",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fanbufan00",
+                "end": 27,
+                "expanded_url": "https://ngl.link/fanbufan00",
+                "start": 4,
+                "url": "https://t.co/Vy8ECE4AMX"
+              }
+            ]
+          }
+        },
+        "id": "1894531140733878272",
+        "name": "凡躁",
+        "pinned_tweet_id": "1967820871504179215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967634822517641216/A8dYZNr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 190,
+          "like_count": 8816,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 554
+        },
+        "username": "fanbufan00",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "所有台本及短打都需要私信找我要授权，拿到授权再录/发布请圈@我一下 /自用🪜 https://t.co/5POqV5PI2E不接置顶～定制台本60千字、商用3倍、台本加急OR不公开千字多20⭐️（暂满 写完争取月底再开）/请勿搬运、抄袭、缝合",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.达蒙.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://a.xn--hv1a41u.com/#/register?code=l5JiAadv",
+                "start": 39,
+                "url": "https://t.co/5POqV5PI2E"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "月亮🌙上",
+        "name": "星星⭐️🫧",
+        "pinned_tweet_id": "1896054832747921456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966150524178489344/qAqU-cnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71531,
+          "following_count": 272,
+          "like_count": 10496,
+          "listed_count": 80,
+          "media_count": 640,
+          "tweet_count": 8437
+        },
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}
