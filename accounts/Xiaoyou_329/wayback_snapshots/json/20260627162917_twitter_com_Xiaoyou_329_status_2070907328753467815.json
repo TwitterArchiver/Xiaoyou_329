@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2070850051753361576",
+    "created_at": "2026-06-27T16:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070907328753467815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936481820608208897",
+          "start": 0,
+          "username": "tcxxstoutou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070907328753467815",
+    "in_reply_to_user_id": "1936481820608208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070869823563997291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcxxstoutou 宝宝我是方圆脸，看着鼻子挺是因为我化了妆，我的鼻子是蒜头鼻TuT…但不管怎么说谢谢你这样夸我！好开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2070850051753361576",
+        "created_at": "2026-06-27T16:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070907328753467815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936481820608208897",
+              "start": 0,
+              "username": "tcxxstoutou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070907328753467815",
+        "in_reply_to_user_id": "1936481820608208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070869823563997291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcxxstoutou 宝宝我是方圆脸，看着鼻子挺是因为我化了妆，我的鼻子是蒜头鼻TuT…但不管怎么说谢谢你这样夸我！好开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936481820608208897",
+        "conversation_id": "2070850051753361576",
+        "created_at": "2026-06-27T14:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070869823563997291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070869823563997291",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070850051753361576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 宝宝你一点都不丑 脸型流畅鼻子挺发型也好看 可以试试化日系妆！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059582291115200512/uhOfGNR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16206,
+          "following_count": 178,
+          "like_count": 7683,
+          "listed_count": 20,
+          "media_count": 870,
+          "tweet_count": 7026
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T17:50:26.000Z",
+        "description": "时间静止 我将再次起飞",
+        "id": "1936481820608208897",
+        "name": "头头",
+        "pinned_tweet_id": "2056348487974006790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052659973323431936/DDGgHy2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4636,
+          "following_count": 327,
+          "like_count": 15235,
+          "listed_count": 3,
+          "media_count": 378,
+          "tweet_count": 5412
+        },
+        "url": "",
+        "username": "tcxxstoutou",
+        "verified": false
+      }
+    ]
+  }
+}

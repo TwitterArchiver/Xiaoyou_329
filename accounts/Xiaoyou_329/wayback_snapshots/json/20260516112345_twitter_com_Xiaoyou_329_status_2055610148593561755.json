@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2055547280296743096",
+    "created_at": "2026-05-16T11:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055610148593561755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1989935347317575681",
+          "start": 0,
+          "username": "realhkprincess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055610148593561755",
+    "in_reply_to_user_id": "1989935347317575681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055547280296743096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realhkprincess 我也想问TuT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2055547280296743096",
+        "created_at": "2026-05-16T11:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055610148593561755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1989935347317575681",
+              "start": 0,
+              "username": "realhkprincess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055610148593561755",
+        "in_reply_to_user_id": "1989935347317575681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055547280296743096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realhkprincess 我也想问TuT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989935347317575681",
+        "conversation_id": "2055547280296743096",
+        "created_at": "2026-05-16T07:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055547280296743096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055547280296743096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2508,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪啊，镜子里看明明是有双c腰线的，手机拍出来就超级不明显，是我角度不对吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14871,
+          "following_count": 173,
+          "like_count": 7478,
+          "listed_count": 21,
+          "media_count": 849,
+          "tweet_count": 6596
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T05:55:48.000Z",
+        "description": "estp 双/每天能不能涨两个粉/是废话很多的一个女大/会发照片+吐槽+日常碎碎念+写文/文科在读/提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/realhkprincess",
+                "end": 23,
+                "expanded_url": "https://ngl.link/realhkprincess",
+                "start": 0,
+                "url": "https://t.co/7NCyR9hgzW"
+              }
+            ]
+          }
+        },
+        "id": "1989935347317575681",
+        "name": "kk小猫派",
+        "pinned_tweet_id": "2050615043067441412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989937055665983490/yOqLlTmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7795,
+          "following_count": 123,
+          "like_count": 5238,
+          "listed_count": 5,
+          "media_count": 135,
+          "tweet_count": 4235
+        },
+        "url": "https://t.co/7NCyR9hgzW",
+        "username": "realhkprincess",
+        "verified": false
+      }
+    ]
+  }
+}

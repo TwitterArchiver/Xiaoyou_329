@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2046945510125367575",
+    "created_at": "2026-04-22T15:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046977503441641584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1823577842783019010",
+          "start": 0,
+          "username": "iamsocute_right"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046977503441641584",
+    "in_reply_to_user_id": "1823577842783019010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046971008532533541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamsocute_right 宝宝你身材好好呀…！很健康的肤色呀…！qwq谢谢你！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046970996884946944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhNRr7awAAW-4s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2046945510125367575",
+        "created_at": "2026-04-22T15:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046977503441641584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1823577842783019010",
+              "start": 0,
+              "username": "iamsocute_right"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046977503441641584",
+        "in_reply_to_user_id": "1823577842783019010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046971008532533541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamsocute_right 宝宝你身材好好呀…！很健康的肤色呀…！qwq谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046970996884946944"
+          ]
+        },
+        "author_id": "1823577842783019010",
+        "conversation_id": "2046945510125367575",
+        "created_at": "2026-04-22T15:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046971008532533541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbtOpS80j9",
+              "end": 70,
+              "expanded_url": "https://x.com/iamsocute_right/status/2046971008532533541/photo/1",
+              "media_key": "3_2046970996884946944",
+              "start": 47,
+              "url": "https://t.co/kbtOpS80j9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046971008532533541",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046945510125367575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 买买买这套萌晕了要遮肉可以套一个微透呢罩衫也很好看可惜我皮肤太黑了 https://t.co/kbtOpS80j9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13506,
+          "following_count": 164,
+          "like_count": 7431,
+          "listed_count": 20,
+          "media_count": 818,
+          "tweet_count": 6413
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T04:30:21.000Z",
+        "description": "你为我写的第一首诗",
+        "id": "1823577842783019010",
+        "name": "小雨淅淅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885995699898114048/uu4OzByy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 12,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 206
+        },
+        "username": "iamsocute_right",
+        "verified": false
+      }
+    ]
+  }
+}

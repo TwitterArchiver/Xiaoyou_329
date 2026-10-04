@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102736167099936769"
+      ]
+    },
+    "author_id": "1906360034725961728",
+    "conversation_id": "2102736190676095464",
+    "created_at": "2026-09-23T12:25:49.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T13:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102736190676095464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g8b4fOKrL1",
+          "end": 111,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2102736190676095464/photo/1",
+          "media_key": "3_2102736167099936769",
+          "start": 88,
+          "url": "https://t.co/g8b4fOKrL1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102736190676095464",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102736167099936769"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对我妈妈好绝望我好想哭，我明明每次都和她说我喝牛奶会吐，心里会特别特别难受，甚至在她面前喝牛奶吐过，她还是在想尽办法让我去喝牛奶\n这是我妈妈第八百次问我这个问题了 我好想哭 https://t.co/g8b4fOKrL1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_2102736167099936769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5rZzhbsAEefrN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102736167099936769"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2102736190676095464",
+        "created_at": "2026-09-23T12:25:49.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T13:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102736190676095464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g8b4fOKrL1",
+              "end": 111,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2102736190676095464/photo/1",
+              "media_key": "3_2102736167099936769",
+              "start": 88,
+              "url": "https://t.co/g8b4fOKrL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102736190676095464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102736167099936769"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对我妈妈好绝望我好想哭，我明明每次都和她说我喝牛奶会吐，心里会特别特别难受，甚至在她面前喝牛奶吐过，她还是在想尽办法让我去喝牛奶\n这是我妈妈第八百次问我这个问题了 我好想哭 https://t.co/g8b4fOKrL1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102736190676095464",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906360034725961728/1757936963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097562944405966848/c2VkkXJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17307,
+          "following_count": 180,
+          "like_count": 7729,
+          "listed_count": 21,
+          "media_count": 1206,
+          "tweet_count": 7980
+        },
+        "url": "",
+        "username": "Xiaoyou_329",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

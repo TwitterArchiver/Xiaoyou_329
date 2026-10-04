@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1906360034725961728",
+    "conversation_id": "2016451550701408525",
+    "created_at": "2026-01-28T10:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T11:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016457812495258071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1710156777684377600",
+          "start": 0,
+          "username": "zhangdouba23353"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016457812495258071",
+    "in_reply_to_user_id": "1710156777684377600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016452843117682794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangdouba23353 好！谢谢你！o(^▽^)o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906360034725961728",
+        "conversation_id": "2016451550701408525",
+        "created_at": "2026-01-28T10:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016457812495258071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1710156777684377600",
+              "start": 0,
+              "username": "zhangdouba23353"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016457812495258071",
+        "in_reply_to_user_id": "1710156777684377600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016452843117682794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangdouba23353 好！谢谢你！o(^▽^)o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710156777684377600",
+        "conversation_id": "2016451550701408525",
+        "created_at": "2026-01-28T10:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016452843117682794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1906360034725961728",
+              "start": 0,
+              "username": "Xiaoyou_329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016452843117682794",
+        "in_reply_to_user_id": "1906360034725961728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016451550701408525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyou_329 褪黑素吃多了会产生依赖，可以尝试睡前一到两小时运动一下，然后拉伸洗澡会让身体放松"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "欢迎大家来找小由一起玩(￣∇￣)｜欢迎观看我的非清水版朋友圈｜无🚪｜有喜欢的人 不回复任何私信｜感谢关注 祝你天天开心(｡･ω･｡)",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2016200714800771422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953849108750336/7R7bSmfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10761,
+          "following_count": 156,
+          "like_count": 6293,
+          "listed_count": 15,
+          "media_count": 616,
+          "tweet_count": 5095
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T04:55:30.000Z",
+        "description": "随时闲聊",
+        "id": "1710156777684377600",
+        "name": "Zhangdoubaolong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010724436237045761/LX9BGNVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 25,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 151
+        },
+        "username": "zhangdouba23353",
+        "verified": false
+      }
+    ]
+  }
+}
